@@ -24,7 +24,7 @@ def fetch(entry):
     target = OUTPUT / relative
     target.parent.mkdir(parents=True, exist_ok=True)
     url = BASE + quote(relative, safe="/")
-    if relative in ("index.html", "legacy-export.html"):
+    if relative in ("index.html", "legacy-export.html") or (relative.startswith("notes/") and relative.endswith(".html")):
         payload = Path(relative).read_bytes()
         if sha256(payload).hexdigest() != digest:
             raise ValueError("Checked-in file differs from the manifest")

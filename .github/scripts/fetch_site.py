@@ -7,7 +7,7 @@ from urllib.parse import quote
 from urllib.request import Request, urlopen
 import time
 
-BASE = "https://kamu-diplomasisi-yumusak-guc.mtoman.chatgpt.site/"
+BASE = "https://kamu-diplomasisi-yumusak-guc.mtoman.chatgpt.site/course/"
 MANIFEST = Path("site-manifest.sha256")
 OUTPUT = Path("site")
 entries = []

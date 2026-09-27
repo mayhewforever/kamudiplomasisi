@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Eski öğrenci kayıtlarını aktar | Kamu Diplomasisi</title>
+  <style>
+    :root{font-family:system-ui,sans-serif;color:#261d1d;background:#faf7f1}body{margin:0}main{max-width:720px;margin:auto;padding:24px 18px 60px}h1{color:#790019;line-height:1.1}p{line-height:1.6}section{background:white;border:1px solid #dfd2bd;border-radius:14px;padding:20px;margin:22px 0}label{display:block;margin:15px 0;font-weight:600}input,select,button{font:inherit;box-sizing:border-box;max-width:100%}input,select{display:block;width:100%;margin-top:7px;padding:12px;border:1px solid #9f9184;border-radius:8px}button,.button{display:inline-block;border:0;border-radius:8px;background:#790019;color:white;padding:12px 16px;cursor:pointer;text-decoration:none;font-weight:650}button:disabled{opacity:.5}a{color:#790019}li{margin:10px 0}#status{min-height:1.5em}.fine{font-size:.92rem;color:#655752}
+  </style>
+</head>
+<body><main>
+  <p><a href="./">← Ders sitesine dön</a></p>
+  <h1>Eski tarayıcı kayıtlarını aktar</h1>
+  <p>GitHub Pages üzerindeki önceki öğrenci kayıtları yalnızca bu tarayıcıda saklanıyordu. Bu sayfayı <strong>eski hesabı kullandığınız aynı tarayıcıda</strong> açın. CSV dosyanızı ve ödev dosyalarınızı indirdikten sonra güvenli öğrenci alanına yükleyin.</p>
+  <section><h2>1. Eski hesabı doğrula</h2><form id="accountForm"><label>E-posta<select id="account" required></select></label><label>Eski hesabın şifresi<input id="password" type="password" autocomplete="current-password" required></label><button type="submit">Kayıtları göster</button></form><p id="status" role="status"></p></section>
+  <section id="exports" hidden><h2>2. Dosyaları indir</h2><p><button id="csv" type="button">14 haftalık ilerleme CSV dosyasını indir</button></p><div id="files"></div><p class="fine">Eski kayıtlar bu tarayıcıdan silinmez. Dosyalar bu sayfadan bir sunucuya gönderilmez.</p></section>
+  <section><h2>3. Yeni öğrenci alanına aktar</h2><p><a class="button" href="https://kamu-diplomasisi-yumusak-guc.mtoman.chatgpt.site/student">Güvenli öğrenci alanına git →</a></p><p>Orada aynı e-posta ve öğrenci numarasıyla profil oluşturun. “Eski kayıtlar” bölümünde CSV dosyasını seçin, ardından geçmiş ödev dosyalarını haftalarına ekleyin. Geçmiş süre ve teslim tarihleri doğrulanmamış kayıt olarak ayrı görünür.</p></section>
+</main>
+<script>
+(function(){
+  const KEY='hitit-pd-student-portal-v1';
+  const select=document.querySelector('#account'),status=document.querySelector('#status'),section=document.querySelector('#exports'),files=document.querySelector('#files');
+  let users=[],verified=null,urls=[];
+  try{users=JSON.parse(localStorage.getItem(KEY)||'{}').users||[];}catch(e){}
+  if(!users.length){status.textContent='Bu tarayıcıda eski öğrenci hesabı bulunamadı. Kaydın olduğu cihazdaki tarayıcıdan açın.';document.querySelector('#accountForm button').disabled=true;return;}
+  users.forEach((user,index)=>{const option=document.createElement('option');option.value=String(index);option.textContent=(user.fullName||'Öğrenci')+' · '+(user.email||'');select.append(option);});
+  const decode=text=>Uint8Array.from(atob(text),c=>c.charCodeAt(0));
+  async function verify(user,password){const auth=user.auth;if(!auth||auth.scheme!=='PBKDF2-SHA-256')return false;const key=await crypto.subtle.importKey('raw',new TextEncoder().encode(password),'PBKDF2',false,['deriveBits']);const result=new Uint8Array(await crypto.subtle.deriveBits({name:'PBKDF2',salt:decode(auth.salt),iterations:auth.iterations,hash:'SHA-256'},key,256));const expected=decode(auth.hash);return result.length===expected.length&&result.every((byte,i)=>byte===expected[i]);}
+  function download(blob,name){const url=URL.createObjectURL(blob),a=document.createElement('a');a.href=url;a.download=name;document.body.append(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(url),60000);}
+  function csvCell(value){return '"'+String(value??'').replace(/"/g,'""')+'"';}
+  function exportCsv(){const rows=[['Ad Soyad','Öğrenci Numarası','E-posta','Hafta','Etkin Saniye','Süre','Hedef Saniye','Puan','Tamamlandı','Ödev','Dosya','Teslim','Teslim Dakikası']];for(let week=1;week<=14;week++){const seconds=Math.max(0,Number(verified.progress?.[String(week)])||0);const assignment=verified.assignments?.[String(week)];rows.push([verified.fullName,verified.studentNumber,verified.email,week,Math.floor(seconds),'',7200,'','',assignment?'Yüklendi':'',assignment?.fileName||'',assignment?.submittedAt||'',assignment?.submittedSeconds?assignment.submittedSeconds/60:'']);}download(new Blob(['\uFEFF'+rows.map(row=>row.map(csvCell).join(',')).join('\r\n')],{type:'text/csv;charset=utf-8'}),'eski-ilerleme-'+verified.studentNumber+'.csv');}
+  async function listFiles(){files.replaceChildren();urls.forEach(URL.revokeObjectURL);urls=[];const title=document.createElement('h3');title.textContent='Eski ödev dosyaları';files.append(title);let db;try{db=await new Promise((resolve,reject)=>{const request=indexedDB.open('hitit-pd-student-files-v1',1);request.onsuccess=()=>resolve(request.result);request.onerror=()=>reject(request.error);request.onupgradeneeded=()=>request.transaction.abort();});}catch(e){files.append('Bu tarayıcıda ödev dosyası bulunamadı.');return;}
+    const list=document.createElement('ul');for(let week=1;week<=14;week++){let entry;try{entry=await new Promise((resolve,reject)=>{const request=db.transaction('assignments','readonly').objectStore('assignments').get(verified.id+'::'+week);request.onsuccess=()=>resolve(request.result);request.onerror=()=>reject(request.error);});}catch(e){}if(entry?.file instanceof Blob){const url=URL.createObjectURL(entry.file);urls.push(url);const li=document.createElement('li'),a=document.createElement('a');a.href=url;a.download=entry.fileName||'hafta-'+week+'.pdf';a.textContent='Hafta '+week+' · '+a.download;li.append(a);list.append(li);}}db.close();files.append(list.childElementCount?list:document.createTextNode('Bu tarayıcıda ödev dosyası bulunamadı.'));
+  }
+  document.querySelector('#accountForm').addEventListener('submit',async event=>{event.preventDefault();section.hidden=true;verified=null;status.textContent='Şifre doğrulanıyor…';try{const user=users[Number(select.value)];const okay=await verify(user,document.querySelector('#password').value);document.querySelector('#password').value='';if(!okay)throw Error('Şifre doğrulanamadı.');verified=user;status.textContent='Hesap doğrulandı. Kayıtları aşağıdan indirin.';section.hidden=false;await listFiles();}catch(error){status.textContent=error.message||'Kayıt açılamadı.';}});
+  document.querySelector('#csv').addEventListener('click',()=>{if(verified)exportCsv();});
+})();
+</script></body></html>

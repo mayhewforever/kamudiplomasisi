@@ -24,7 +24,7 @@ def fetch(entry):
     target = OUTPUT / relative
     target.parent.mkdir(parents=True, exist_ok=True)
     url = BASE + quote(relative, safe="/")
-    if relative == "index.html":
+    if relative in ("index.html", "legacy-export.html"):
         payload = Path("index.html").read_bytes()
         if sha256(payload).hexdigest() != digest:
             raise ValueError("Checked-in homepage differs from the manifest")

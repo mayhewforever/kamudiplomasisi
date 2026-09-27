@@ -347,6 +347,19 @@
   </dialog>
 
   <div class="toast" id="courseToast" role="status" aria-live="polite" hidden></div>
+  <script>
+    document.addEventListener('DOMContentLoaded', function () {
+      var portal = document.querySelector('#ogrenci-alani .sp-shell');
+      if (!portal) return;
+      var note = document.createElement('p');
+      note.className = 'sp-completion-rule';
+      var link = document.createElement('a');
+      link.href = 'legacy-export.html';
+      link.textContent = 'Eski tarayıcı kayıtlarını ve ödev dosyalarını indir →';
+      note.appendChild(link);
+      portal.appendChild(note);
+    });
+  </script>
   <noscript><p class="noscript">Haftalık kartları, testleri, oyunları ve video oynatıcıyı görmek için JavaScript’i etkinleştirin. Enable JavaScript to use the interactive study tools.</p></noscript>
 </body>
 </html>

@@ -19,6 +19,7 @@
   <script src="content_weeks_11_14.js" defer></script>
   <script src="video-scripts-en.js" defer></script>
   <script src="weekly-study-guide.js" defer></script>
+  <script src="seminar-frames.js" defer></script>
   <script src="app.js" defer></script>
   <script src="study-ui.js" defer></script>
   <script src="student-portal.js" defer></script>
@@ -85,7 +86,7 @@
           <strong id="progressPercent">0%</strong>
         </div>
         <h2 id="snapshotTitle" data-i18n="courseWorkspace">Ders çalışma alanı</h2>
-        <p data-i18n="snapshotText">Her hafta 120 etkin dakika çalışın; ders notunu, kartları, 10 soruluk mini testi, oyunu ve kısa ödevi aynı süre içinde tamamlayın.</p>
+        <p data-i18n="snapshotText">Her hafta ders notunu ve atanan özgün kuramsal metni veya tarihsel belgeyi inceleyin; portalda 120 etkin dakikalık hedef ve kısa kanıt ödevi bulunur. Video, podcast, kart ve oyunlar tekrar desteğidir.</p>
         <progress id="courseProgress" max="14" value="0" aria-label="Tamamlanan haftalar" data-i18n-aria-label="completedWeeks"></progress>
         <div class="snapshot-stats">
           <span><strong>14</strong><small data-i18n="weeksLabel">hafta</small></span>
@@ -116,7 +117,7 @@
         <div>
           <p class="eyebrow dark" data-i18n="courseFlow">Ders akışı</p>
           <h2 id="weeks-title" data-i18n="fourteenWeekProgramme">14 haftalık program</h2>
-          <p data-i18n="programmeDescription">Her hafta 30 sayfalık açıklamalı ders notu, 10 flashcard, mini test, oyun, YouTube videosu, podcast, kaynak okumaları ve kısa ödev içerir.</p>
+          <p data-i18n="programmeDescription">Her haftanın çekirdeği 30 sayfalık analitik ders notu ile özgün kuramsal metin veya tarihsel belge incelemesidir. Kanıt notu seminer tartışmasını hazırlar; video, podcast, kavram kartları, test ve oyun isteğe bağlı öz denetim araçlarıdır.</p>
         </div>
         <div class="week-tools" role="search">
           <label for="weekSearch" data-i18n="searchLabel">Ders içeriğinde ara</label>
@@ -135,7 +136,7 @@
 
       <p class="result-status" id="weekResultStatus" role="status" aria-live="polite"></p>
       <div class="search-results" id="searchResults" hidden aria-label="Arama sonuçları" data-i18n-aria-label="searchResults"></div>
-      <p class="teaching-note" data-i18n-html="studySuggestion"><strong>Çalışma önerisi:</strong> Birikimli 120 etkin dakikayı ders notu, kartlar, mini test, oyun, kaynak, video, podcast ve ödev arasında bölün. Ödevi süre 120:00’a ulaşmadan yükleyin. Görsel ve işitsel anlatım tek başına tarihsel veya nedensel kanıt sayılmaz.</p>
+      <p class="teaching-note" data-i18n-html="studySuggestion"><strong>Çalışma önerisi:</strong> Önce 30 sayfalık notu ve haftanın özgün kuramsal metnini veya tarihsel belgesini çözümleyin; ardından kanıt ödevini 120:00’a ulaşmadan yükleyin. Video, podcast, kart, test ve oyunları ihtiyaç duyduğunuz kavramlar için kullanın. Etkin süre hedefi lisansüstü araştırmanın tamamını ölçmez.</p>
       <div class="weeks-grid" id="weeksContainer"></div>
       <p class="empty-state" id="emptyState" hidden data-i18n="noResults">Aramanızla eşleşen içerik bulunamadı.</p>
     </section>
@@ -160,8 +161,8 @@
       <div class="section-heading compact">
         <div>
           <p class="eyebrow dark" data-i18n="syllabusEyebrow">Ders izlencesi</p>
-          <h2 id="syllabus-title" data-i18n="syllabusTitle">Basit, açık ve katılımcı</h2>
-          <p data-i18n="syllabusIntro">Dersin haftalık yükü 120 etkin dakika ile sınırlandırılmıştır; tartışma, kaynak çözümlemesi ve tek bir kısa kanıt ödevi bu süre içinde tamamlanır.</p>
+          <h2 id="syllabus-title" data-i18n="syllabusTitle">Kaynağa dayalı lisansüstü seminer</h2>
+          <p data-i18n="syllabusIntro">Her hafta kuramsal bir iddiayı tarihsel belgeyle sınayın; aktörün niyetini, yabancı alımlamayı, rakip açıklamayı ve kanıt sınırını ayırın. Portalın 120 dakikalık etkin süre hedefi seminer hazırlığının tamamını ölçmez.</p>
         </div>
       </div>
 
@@ -205,7 +206,7 @@
         <article class="panel portal-policy-panel">
           <span class="panel-number" aria-hidden="true">04</span>
           <h3 data-i18n="portalPolicyTitle">Haftalık portal çalışma politikası</h3>
-          <p data-i18n="portalPolicyIntro">Her hafta ders notu, flashcard, mini test, oyun, kaynak, video ve ödev çalışmaları tek bir birikimli etkin süre içinde izlenir.</p>
+          <p data-i18n="portalPolicyIntro">Ders notu ve özgün kuramsal metin veya tarihsel belge okuması çekirdektir; kart, test, oyun, video ve podcast tekrar araçlarıdır. Portalda yapılan etkin çalışma tek bir birikimli sürede izlenir.</p>
           <dl class="portal-policy-list">
             <div><dt data-i18n="portalPolicyTime">Süre hedefi</dt><dd data-i18n="portalPolicyTimeText">Her hafta, oturumlar arasında birikebilen 120 etkin dakika. Süre yalnız sayfa görünür ve pencere odaktayken işler; iki dakika etkileşim olmazsa duraklar. Görünür video oynarken kesintisiz sayılır.</dd></div>
             <div><dt data-i18n="portalPolicyScore">Zaman puanı</dt><dd data-i18n="portalPolicyScoreText">Her 12 etkin dakika 1 puandır; puan 10’da durur ve iki ondalık basamakla gösterilir. Formül: min(10, etkin saniye ÷ 7200 × 10). Örnek: 60 dakika 5,00; 90 dakika 7,50; 120 dakika 10,00.</dd></div>

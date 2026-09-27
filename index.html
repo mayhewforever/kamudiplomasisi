@@ -1,0 +1,351 @@
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Kamu Diplomasisi ve Yumuşak Güç | Dr Murat Toman</title>
+  <meta name="description" content="Dr Murat Toman'ın bağımsız Kamu Diplomasisi ve Yumuşak Güç ders sitesi: 14 haftalık Türkçe ve İngilizce notlar, okumalar, kartlar, testler, sunumlar ve videolar.">
+  <meta name="theme-color" content="#7F0018">
+  <meta property="og:title" content="Kamu Diplomasisi ve Yumuşak Güç | Public Diplomacy and Soft Power">
+  <meta property="og:description" content="Dr Murat Toman'ın bağımsız ve iki dilli Kamu Diplomasisi ve Yumuşak Güç ders sitesi.">
+  <meta property="og:type" content="website">
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='6' fill='%237F0018'/%3E%3Ctext x='32' y='43' text-anchor='middle' font-family='Arial,sans-serif' font-size='29' font-weight='700' fill='%23AC9058'%3EKD%3C/text%3E%3C/svg%3E">
+  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="student-portal.css">
+  <script src="i18n.js" defer></script>
+  <script src="course-overview-i18n.js" defer></script>
+  <script src="content_weeks_1_5.js" defer></script>
+  <script src="content_weeks_6_10.js" defer></script>
+  <script src="content_weeks_11_14.js" defer></script>
+  <script src="video-scripts-en.js" defer></script>
+  <script src="app.js" defer></script>
+  <script src="study-ui.js" defer></script>
+  <script src="student-portal.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#main" data-i18n="skipLink">İçeriğe geç</a>
+
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="brand" href="#top" data-home-link aria-label="Ders portalı ana sayfa">
+        <span class="brand-mark" aria-hidden="true">KD</span>
+        <span>
+          <small class="brand-university" data-i18n="university">Dr Murat Toman · Bağımsız ders sitesi</small>
+          <strong data-i18n="courseShort">Kamu Diplomasisi ve Yumuşak Güç</strong>
+        </span>
+      </a>
+
+      <button class="menu-toggle" id="menuToggle" type="button" aria-expanded="false" aria-controls="mainNav" data-i18n-aria-label="menuOpen">
+        <span aria-hidden="true"></span><span aria-hidden="true"></span><span aria-hidden="true"></span>
+      </button>
+
+      <nav class="main-nav" id="mainNav" aria-label="Ana menü" data-i18n-aria-label="mainNavigation">
+        <a href="#top" data-i18n="navOverview">Genel bakış</a>
+        <a href="#haftalar" data-i18n="navWeeks">Haftalar</a>
+        <a href="#izlence" data-i18n="navSyllabus">İzlence</a>
+        <a href="#kaynaklar" data-i18n="navResources">Kaynaklar</a>
+        <a href="#ai-videolar" id="aiVideoNav">Yapay zekâ videoları</a>
+        <a href="#materyaller" data-i18n="navDownloads">Materyaller</a>
+      </nav>
+
+      <div class="header-actions">
+        <div class="language-switcher" role="group" aria-label="Dil seçimi" data-i18n-aria-label="languageSelection">
+          <button type="button" data-language="tr" aria-pressed="true">TR</button>
+          <button type="button" data-language="en" aria-pressed="false">EN</button>
+        </div>
+        <button class="print-button" type="button" id="printSyllabus" data-i18n="printPdf">Yazdır / PDF</button>
+      </div>
+    </div>
+  </header>
+
+  <main id="main">
+    <section class="course-intro" id="top" aria-labelledby="course-title">
+      <div class="intro-copy">
+        <p class="eyebrow" data-i18n="courseEyebrow">Bağımsız lisansüstü ders sitesi</p>
+        <h1 id="course-title" data-i18n="courseTitle">Kamu Diplomasisi ve Yumuşak Güç</h1>
+        <p class="lead" data-i18n="courseLead">Güç kavramlarından Benjamin Franklin’e; kamu-özel ortaklıklarından savaş zamanı bilgi kurumlarına uzanan etkileşimli bir tarih ve analiz dersi.</p>
+
+        <div class="course-meta" aria-label="Dersin temel özellikleri" data-i18n-aria-label="courseFeatures">
+          <span data-i18n="metaWeeks">14 hafta</span>
+          <span data-i18n="metaBilingual">Türkçe + English</span>
+          <span data-i18n="metaInteractive">Etkileşimli çalışma</span>
+          <span data-i18n="metaLevel">Lisansüstü</span>
+        </div>
+
+        <div class="intro-actions">
+          <a class="button primary" href="#haftalar" data-i18n="startCourse">Derse başla</a>
+          <button class="button secondary continue-button" type="button" id="continueCourse" data-i18n="continueCourse">Kaldığın yerden devam et</button>
+        </div>
+      </div>
+
+      <aside class="course-snapshot" aria-labelledby="snapshotTitle">
+        <div class="snapshot-topline">
+          <span class="snapshot-label" data-i18n="yourProgress">Çalışma ilerlemeniz</span>
+          <strong id="progressPercent">0%</strong>
+        </div>
+        <h2 id="snapshotTitle" data-i18n="courseWorkspace">Ders çalışma alanı</h2>
+        <p data-i18n="snapshotText">Her hafta 120 etkin dakika çalışın; ders notunu, kartları, 10 soruluk mini testi, oyunu ve kısa ödevi aynı süre içinde tamamlayın.</p>
+        <progress id="courseProgress" max="14" value="0" aria-label="Tamamlanan haftalar" data-i18n-aria-label="completedWeeks"></progress>
+        <div class="snapshot-stats">
+          <span><strong>14</strong><small data-i18n="weeksLabel">hafta</small></span>
+          <span><strong>140</strong><small data-i18n="cardsLabel">kart / dil</small></span>
+          <span><strong>140</strong><small data-i18n="questionsLabel">soru / dil</small></span>
+          <span><strong>14</strong><small data-i18n="gamesLabel">oyun</small></span>
+        </div>
+        <button class="text-button" type="button" id="resetProgress" data-i18n="resetProgress">Çalışma araçlarını sıfırla</button>
+      </aside>
+    </section>
+
+    <section class="course-map-section" aria-labelledby="courseMapTitle">
+      <div class="course-map-copy">
+        <p class="kicker" data-i18n="courseMapKicker">Dönem haritası</p>
+        <h2 id="courseMapTitle" data-i18n="courseMapTitle">On dört haftayı tek bakışta görün</h2>
+        <p data-i18n="courseMapText">Bir hafta seçerek doğrudan çalışma alanına gidin. Tamamladığınız haftalar bu cihazda işaretlenir.</p>
+      </div>
+      <nav class="course-map" id="courseMap" aria-label="Haftalık ders haritası" data-i18n-aria-label="courseMapNavigation"></nav>
+    </section>
+
+    <section class="course-thesis" aria-label="Dersin ana sorusu" data-i18n-aria-label="centralQuestionLabel">
+      <p class="kicker" data-i18n="centralQuestion">Dersin ana sorusu</p>
+      <p data-i18n-html="centralQuestionText">Bir aktör yabancı bir kamuyla <strong>hangi kaynak</strong>, <strong>hangi araç</strong> ve <strong>hangi mekanizma</strong> üzerinden ilişki kurar; bu ilişkiyi bir politika sonucuyla bağlamak için <strong>hangi kanıt</strong> gerekir?</p>
+    </section>
+
+    <section class="section weekly-section" id="haftalar" aria-labelledby="weeks-title">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow dark" data-i18n="courseFlow">Ders akışı</p>
+          <h2 id="weeks-title" data-i18n="fourteenWeekProgramme">14 haftalık program</h2>
+          <p data-i18n="programmeDescription">Her hafta ayrıntılı ders anlatımı, temel çıkarımlar, tartışma soruları, 10 flashcard, açıklamalı 10 soruluk mini test, kavram oyunu, okuma, etkinlik, video ve kısa ödev içerir.</p>
+        </div>
+        <div class="week-tools" role="search">
+          <label for="weekSearch" data-i18n="searchLabel">Ders içeriğinde ara</label>
+          <input id="weekSearch" type="search" placeholder="Örn. Franklin, propaganda, OWI" data-i18n-placeholder="searchPlaceholder" autocomplete="off">
+          <label class="search-language-option"><input id="searchBothLanguages" type="checkbox"> <span data-i18n="searchBothLanguages">İki dilde ara</span></label>
+        </div>
+      </div>
+
+      <div class="filter-row" aria-label="Haftaları konuya göre filtrele" data-i18n-aria-label="filterWeeks">
+        <button class="filter active" type="button" data-filter="all" aria-pressed="true" data-i18n="filterAll">Tümü</button>
+        <button class="filter" type="button" data-filter="kavram" aria-pressed="false" data-i18n="filterConcept">Kavram</button>
+        <button class="filter" type="button" data-filter="tarih" aria-pressed="false" data-i18n="filterHistory">Tarih</button>
+        <button class="filter" type="button" data-filter="kurum" aria-pressed="false" data-i18n="filterInstitutions">Kurumlar</button>
+        <button class="filter" type="button" data-filter="karsilastirma" aria-pressed="false" data-i18n="filterComparison">Karşılaştırma</button>
+      </div>
+
+      <p class="result-status" id="weekResultStatus" role="status" aria-live="polite"></p>
+      <div class="search-results" id="searchResults" hidden aria-label="Arama sonuçları" data-i18n-aria-label="searchResults"></div>
+      <p class="teaching-note" data-i18n-html="studySuggestion"><strong>Çalışma önerisi:</strong> Birikimli 120 etkin dakikayı ders notu, kartlar, mini test, oyun, kaynak, video ve ödev arasında bölün. Ödevi süre 120:00’a ulaşmadan yükleyin. Videolar tartışma tetikleyicisidir; tek başına tarihsel veya nedensel kanıt sayılmaz.</p>
+      <div class="weeks-grid" id="weeksContainer"></div>
+      <p class="empty-state" id="emptyState" hidden data-i18n="noResults">Aramanızla eşleşen içerik bulunamadı.</p>
+    </section>
+
+    <section class="visual-break" aria-label="Tarihsel belge galerisi" data-i18n-aria-label="historicalGallery">
+      <figure>
+        <img src="assets/au-genie-de-franklin.jpg" loading="lazy" alt="Franklin'in bilimsel itibarı ile özgürlük fikrini ilişkilendiren 1778 tarihli alegorik baskı" data-i18n-alt="franklinPrintAlt">
+        <figcaption data-i18n="franklinPrintCaption">İtibar bir kaynaktır; etki ise ayrıca kanıtlanmalıdır.</figcaption>
+      </figure>
+      <div>
+        <p class="eyebrow" data-i18n="sourceLiteracy">Kaynak okuryazarlığı</p>
+        <h2 data-i18n="sourceLiteracyTitle">Görünürlük, alımlama ve sonuç aynı şey değildir.</h2>
+        <p data-i18n="sourceLiteracyText">Portre, gazete, mektup ve antlaşma farklı sorulara cevap verir. Ders boyunca kaynaklar niyet, faaliyet, yabancı alımlama, karar süreci ve gözlenebilir sonuç düzeylerinde ayrıştırılır.</p>
+      </div>
+      <figure>
+        <img src="assets/treaty-signing.jpg" loading="lazy" alt="1778 Fransa-Amerika antlaşmalarının imzalanmasını gösteren tarihî baskı" data-i18n-alt="treatyAlt">
+        <figcaption data-i18n="treatyCaption">Bir sonuç belgesi, sonucun tek nedenini göstermez.</figcaption>
+      </figure>
+    </section>
+
+    <section class="section syllabus-section" id="izlence" aria-labelledby="syllabus-title">
+      <div class="section-heading compact">
+        <div>
+          <p class="eyebrow dark" data-i18n="syllabusEyebrow">Ders izlencesi</p>
+          <h2 id="syllabus-title" data-i18n="syllabusTitle">Basit, açık ve katılımcı</h2>
+          <p data-i18n="syllabusIntro">Dersin haftalık yükü 120 etkin dakika ile sınırlandırılmıştır; tartışma, kaynak çözümlemesi ve tek bir kısa kanıt ödevi bu süre içinde tamamlanır.</p>
+        </div>
+      </div>
+
+      <div class="syllabus-grid">
+        <article class="panel outcomes-panel">
+          <span class="panel-number" aria-hidden="true">01</span>
+          <h3 data-i18n="learningOutcomes">Öğrenme çıktıları</h3>
+          <ul>
+            <li data-i18n="outcome1">Sert, yumuşak ve akıllı güç arasındaki farkı açıklamak.</li>
+            <li data-i18n="outcome2">Kamu diplomasisini propaganda, diplomasi ve halkla ilişkilerden ayırmak.</li>
+            <li data-i18n="outcome3">Tarihsel vakalarda hedef kitle, araç ve mekanizmayı belirlemek.</li>
+            <li data-i18n="outcome4">Faaliyet, alımlama ve politika sonucu arasındaki kanıt zincirini kurmak.</li>
+            <li data-i18n="outcome5">Devlet ve devlet dışı aktörlerin rollerini karşılaştırmak.</li>
+            <li data-i18n="outcome6">Bir kamu diplomasisi uygulamasını etik ve ölçüm açısından değerlendirmek.</li>
+          </ul>
+        </article>
+
+        <article class="panel method-panel">
+          <span class="panel-number" aria-hidden="true">02</span>
+          <h3 data-i18n="sessionRhythm">Her dersin ritmi</h3>
+          <ol class="session-flow">
+            <li><strong data-i18n="flowFrame">Çerçeve</strong><span data-i18n="flowFrameText">kısa kavramsal giriş</span></li>
+            <li><strong data-i18n="flowSourceLab">Kaynak laboratuvarı</strong><span data-i18n="flowSourceLabText">metin, görsel veya belge</span></li>
+            <li><strong data-i18n="flowVideo">Video ve tartışma</strong><span data-i18n="flowVideoText">iddia ve eksik kalan neden</span></li>
+            <li><strong data-i18n="flowWorkshop">Atölye</strong><span data-i18n="flowWorkshopText">harita, denetim veya mini vaka</span></li>
+            <li><strong data-i18n="flowExit">Çıkış bileti</strong><span data-i18n="flowExitText">tek cümlelik temkinli sonuç</span></li>
+            <li><strong data-i18n="flowAssignment">Haftalık ödev</strong><span data-i18n="flowAssignmentText">250–400 kelimelik kanıt notu; 120:00’dan önce yükleme</span></li>
+          </ol>
+        </article>
+
+        <article class="panel assessment-panel">
+          <span class="panel-number" aria-hidden="true">03</span>
+          <h3 data-i18n="assessment">Önerilen değerlendirme</h3>
+          <div class="assessment-row"><span data-i18n="assessmentWeekly">Haftalık portal çalışması ve zamanında ödevler · 14 × 10 puan</span><strong>30%</strong></div>
+          <div class="assessment-row"><span data-i18n="assessmentParticipation">Katılım ve sınıf atölyeleri</span><strong>20%</strong></div>
+          <div class="assessment-row"><span data-i18n="assessmentPresentation">Grup vaka sunumu · 10 dakika</span><strong>20%</strong></div>
+          <div class="assessment-row"><span data-i18n="assessmentFinal">Final vaka notu · 1.200–1.500 kelime</span><strong>30%</strong></div>
+          <p class="panel-note" data-i18n="preparationTarget">Her 12 etkin dakika 1 puandır; haftalık puanın geçerli olması için ödev birikimli süre 120:00’a ulaşmadan yüklenmelidir.</p>
+        </article>
+
+        <article class="panel portal-policy-panel">
+          <span class="panel-number" aria-hidden="true">04</span>
+          <h3 data-i18n="portalPolicyTitle">Haftalık portal çalışma politikası</h3>
+          <p data-i18n="portalPolicyIntro">Her hafta ders notu, flashcard, mini test, oyun, kaynak, video ve ödev çalışmaları tek bir birikimli etkin süre içinde izlenir.</p>
+          <dl class="portal-policy-list">
+            <div><dt data-i18n="portalPolicyTime">Süre hedefi</dt><dd data-i18n="portalPolicyTimeText">Her hafta, oturumlar arasında birikebilen 120 etkin dakika. Süre yalnız sayfa görünür ve pencere odaktayken işler; iki dakika etkileşim olmazsa duraklar. Görünür video oynarken kesintisiz sayılır.</dd></div>
+            <div><dt data-i18n="portalPolicyScore">Zaman puanı</dt><dd data-i18n="portalPolicyScoreText">Her 12 etkin dakika 1 puandır; puan 10’da durur ve iki ondalık basamakla gösterilir. Formül: min(10, etkin saniye ÷ 7200 × 10). Örnek: 60 dakika 5,00; 90 dakika 7,50; 120 dakika 10,00.</dd></div>
+            <div><dt data-i18n="portalPolicyAssignment">Haftalık ödev</dt><dd data-i18n="portalPolicyAssignmentText">En az bir haftalık kaynağa dayalı 250–400 kelimelik kanıt notu veya 1–2 slayt/tablo eşdeğeri, birikimli etkin süre 120:00’a ulaşmadan yüklenir. Ödev panelindeki etkin çalışma aynı süreye dâhildir.</dd></div>
+            <div><dt data-i18n="portalPolicyValidity">Puanın geçerliliği</dt><dd data-i18n="portalPolicyValidityText">Ekrandaki zaman puanı yalnız etkin süreye göre hesaplanır ve ödev yüklenene kadar geçicidir. Zamanında ödev yoksa haftanın dönemlik katkısı 0’dır.</dd></div>
+            <div><dt data-i18n="portalPolicyCompletion">Tamamlama ölçütü</dt><dd data-i18n="portalPolicyCompletionText">Bir hafta, yalnızca 120 etkin dakika tamamlandığında ve ödev zamanında yüklendiğinde “tamamlandı” sayılır. Zamanında ödev yükleyip 120 dakikadan az çalışan öğrenci oransal puanını alır; hafta henüz tamamlanmış görünmez.</dd></div>
+            <div><dt data-i18n="portalPolicyConversion">Dönem notuna dönüşüm</dt><dd data-i18n="portalPolicyConversionText">Portal katkısı = (14 geçerli haftalık puanın toplamı ÷ 140) × 30. Böylece bu bölüm dönem notunun en çok 30 puanını oluşturur.</dd></div>
+          </dl>
+          <p class="panel-note" data-i18n="portalPolicyStorage">Bu bağımsız HTML sürümü resmî teslim veya notlandırma sistemi değildir. Hesap, süre ve dosya yalnız bu tarayıcıda tutulur; cihazlar arasında eşitlenmez. Tarayıcı verileri silinirse kayıt kaybolabilir ve öğretim elemanı kayda uzaktan erişemez. Resmî kullanım için sunucu tabanlı kimlik doğrulama, veri tabanı ve LMS/SSO gerekir.</p>
+        </article>
+      </div>
+    </section>
+
+    <section class="section cases-section" id="dunya" aria-labelledby="cases-title">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow dark" data-i18n="comparativeWindow">Karşılaştırmalı pencere</p>
+          <h2 id="cases-title" data-i18n="worldCases">Dünyadan kısa vakalar</h2>
+          <p data-i18n="worldCasesText">Bu kartlar başarı hikâyesi değil; aktör, araç, hedef kitle ve kanıt sınırı tartışmalarıdır.</p>
+        </div>
+      </div>
+      <div class="case-grid" id="caseGrid"></div>
+    </section>
+
+    <section class="section resources-section" id="kaynaklar" aria-labelledby="resources-title">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow dark" data-i18n="resourceCentre">Kaynak merkezi</p>
+          <h2 id="resources-title" data-i18n="readingsTitle">Temel ve tamamlayıcı okumalar</h2>
+          <p data-i18n="readingsText">Her hafta ayrı okuma verilmiştir. Aşağıdaki liste dönem boyunca başvurulacak ortak kitaplığı gösterir.</p>
+        </div>
+      </div>
+
+      <div class="resource-columns">
+        <article class="featured-book">
+          <p class="book-label" data-i18n="mainBook">Ana eser</p>
+          <h3>Caitlin E. Schindler</h3>
+          <p class="book-title" lang="en">The Origins of Public Diplomacy in US Statecraft: Uncovering a Forgotten Tradition</p>
+          <p data-i18n="bookDescription">Amerikan yabancı kamuoyu etkileşimini 1776’dan 1948’e uzanan altı tarihsel vaka üzerinden inceler.</p>
+          <a href="https://doi.org/10.1007/978-3-319-57279-6" target="_blank" rel="noopener"><span data-i18n="bookLink">Kitap ve bölüm bilgileri</span> <span aria-hidden="true">↗</span></a>
+        </article>
+        <div class="resource-list" id="resourceList"></div>
+      </div>
+
+      <p class="access-note"><strong data-i18n="accessNoteLabel">Erişim notu:</strong> <span data-i18n="accessNote">Bazı kitap ve makaleler kurumsal abonelik gerektirebilir. Site yalnızca yasal yayıncı, DOI ve açık erişim bağlantılarını gösterir.</span></p>
+      <p class="access-note"><strong data-i18n="imageSourcesLabel">Görsel kaynakları:</strong> <span data-i18n="imageSourcesIntro">Franklin portresi</span>, <a href="https://www.metmuseum.org/art/collection/search/436236" target="_blank" rel="noopener">The Metropolitan Museum of Art</a>; <em>Au Génie de Franklin</em>, <a href="https://artmuseum.princeton.edu/art/collections/objects/14647" target="_blank" rel="noopener">Princeton University Art Museum</a>; <span data-i18n="treatyPrint">1778 antlaşma baskısı</span>, <a href="https://www.loc.gov/resource/det.4a27382/" target="_blank" rel="noopener">Library of Congress</a>. <span data-i18n="publicDomainImages">Kamu malı tarihî görsellerdir.</span></p>
+    </section>
+
+    <section class="section ai-lectures-section" id="ai-videolar" aria-labelledby="ai-lectures-title">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow dark" id="aiLecturesKicker">İngilizce video dersler</p>
+          <h2 id="ai-lectures-title">Yapay Zekâ Anlatımlı Ders Videoları</h2>
+          <p id="aiLecturesIntro">Her hafta için 30 slaytlık sunumla slayt slayt eşleştirilmiş, yaklaşık 20 dakikalık ve İngilizce altyazılı bir video ders izleyin.</p>
+        </div>
+      </div>
+
+      <aside class="ai-transparency-note" aria-labelledby="ai-transparency-title">
+        <span class="ai-note-icon" aria-hidden="true">AI</span>
+        <div>
+          <h3 id="ai-transparency-title">Şeffaflık notu</h3>
+          <p id="aiTransparencyText">Bu videolar yapay zekâ ile üretilmiş İngilizce erkek sesi kullanır. Herhangi bir gerçek kişinin sesi taklit edilmemiştir.</p>
+          <p class="ai-model-credit"><span id="aiModelCredit">Ses modeli:</span> <a href="https://huggingface.co/rhasspy/piper-voices/tree/main/en/en_US/ryan/medium" target="_blank" rel="noopener">Piper en_US-ryan-medium (MIT) <span aria-hidden="true">↗</span></a></p>
+        </div>
+      </aside>
+
+      <div class="ai-lecture-grid" id="aiLectureGrid" role="list" aria-label="On dört haftalık yapay zekâ anlatımlı ders videoları"></div>
+    </section>
+
+    <section class="section materials-section" id="materyaller" aria-labelledby="materials-title">
+      <div class="section-heading compact">
+        <div>
+          <p class="eyebrow dark" data-i18n="courseMaterials">Ders materyalleri</p>
+          <h2 id="materials-title" data-i18n="downloadsTitle">Sunumlar ve çalışma dosyaları</h2>
+          <p data-i18n="downloadsText">14 haftanın her biri için 30 slaytlık Türkçe ve İngilizce sunumları tek tek veya toplu olarak indirin.</p>
+        </div>
+      </div>
+
+      <div class="download-grid" id="downloadGrid" role="list"></div>
+      <div class="materials-actions">
+        <a class="download-card" id="downloadBundle" href="downloads/Public_Diplomacy_Presentations_TR_EN_28.zip" download="Public_Diplomacy_Presentations_TR_EN_28.zip" aria-label="Tüm Türkçe ve İngilizce sunumları ZIP dosyası olarak indir">
+          <span class="file-type">ZIP</span>
+          <span><strong id="downloadBundleTitle">Tüm sunumları indir</strong><small id="downloadBundleText">14 hafta · 28 PPTX · Türkçe + English</small></span>
+          <span class="download-icon" aria-hidden="true">↓</span>
+        </a>
+        <button class="download-card print-card" type="button" id="printSyllabusCard">
+          <span class="file-type">PDF</span>
+          <span><strong data-i18n="syllabusDownload">Ders izlencesi</strong><small data-i18n="syllabusDownloadText">Programı, değerlendirmeyi ve kaynakları yazdırın veya PDF olarak kaydedin.</small></span>
+          <span class="download-icon" aria-hidden="true">⎙</span>
+        </button>
+      </div>
+    </section>
+
+    <section class="integrity-note" aria-labelledby="integrity-title">
+      <h2 id="integrity-title" data-i18n="academicPrinciple">Akademik çalışma ilkesi</h2>
+      <p data-i18n="academicPrincipleText">Bir belgeyi gördüğümüz için etkisini varsaymayız. İddiaları kaynağın gerçekten gösterdiği düzeyle sınırlarız; niyet, faaliyet, alımlama, karar ve sonuç kanıtlarını birbirinden ayırırız.</p>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div>
+      <strong data-i18n="courseShort">Kamu Diplomasisi ve Yumuşak Güç</strong>
+      <span>Dr Murat Toman · Bağımsız eğitim sitesi</span>
+    </div>
+    <div class="footer-links">
+      <a href="#top" data-i18n="navOverview">Genel bakış</a>
+      <a href="#haftalar" data-i18n="navWeeks">Haftalar</a>
+      <a href="#izlence" data-i18n="navSyllabus">İzlence</a>
+      <a href="#kaynaklar" data-i18n="navResources">Kaynaklar</a>
+      <a href="#top"><span data-i18n="backToTop">Başa dön</span> ↑</a>
+    </div>
+  </footer>
+
+  <dialog class="video-dialog" id="videoDialog" aria-labelledby="videoTitle">
+    <button class="dialog-close" type="button" id="closeVideo" aria-label="Videoyu kapat" data-i18n-aria-label="closeVideo">×</button>
+    <p class="eyebrow dark" data-i18n="weeklyVideo">Haftanın videosu</p>
+    <h2 id="videoTitle"></h2>
+    <p id="videoMeta" class="video-meta"></p>
+    <div class="video-frame" id="videoFrame"></div>
+    <a class="youtube-link" id="youtubeLink" href="#" target="_blank" rel="noopener"><span data-i18n="openYouTube">YouTube’da aç</span> <span aria-hidden="true">↗</span></a>
+  </dialog>
+
+  <dialog class="video-dialog ai-video-dialog" id="aiVideoDialog" aria-labelledby="aiVideoTitle" aria-describedby="aiVideoDialogMeta aiVideoDisclosure">
+    <button class="dialog-close" type="button" id="closeAiVideo" aria-label="Yapay zekâ ders videosunu kapat">×</button>
+    <p class="eyebrow dark" id="aiVideoDialogKicker">İngilizce yapay zekâ ders videosu</p>
+    <h2 id="aiVideoTitle"></h2>
+    <p id="aiVideoDialogMeta" class="video-meta"></p>
+    <div class="ai-badge-row" id="aiVideoDialogBadges" aria-label="Video özellikleri"></div>
+    <video class="ai-video-player" id="aiVideoPlayer" controls preload="metadata" playsinline>
+      <source id="aiVideoSource" type="video/mp4">
+      <track id="aiVideoCaptions" kind="captions" srclang="en" label="English" default>
+      Your browser does not support HTML video.
+    </video>
+    <details class="ai-transcript-details ai-dialog-transcript">
+      <summary id="aiVideoTranscriptSummary">İngilizce ders metnini aç</summary>
+      <div class="ai-transcript-copy" id="aiVideoTranscript"></div>
+    </details>
+    <p class="ai-video-disclosure" id="aiVideoDisclosure">Yapay zekâ ile üretilmiş İngilizce erkek sesi kullanılmıştır; gerçek bir kişinin sesi taklit edilmemiştir.</p>
+  </dialog>
+
+  <div class="toast" id="courseToast" role="status" aria-live="polite" hidden></div>
+  <noscript><p class="noscript">Haftalık kartları, testleri, oyunları ve video oynatıcıyı görmek için JavaScript’i etkinleştirin. Enable JavaScript to use the interactive study tools.</p></noscript>
+</body>
+</html>

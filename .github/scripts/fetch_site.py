@@ -32,9 +32,11 @@ def fetch(entry):
             })
             with urlopen(request, timeout=120) as response:
                 payload = response.read()
+                final_url = response.url
+                content_type = response.headers.get("Content-Type")
             actual = sha256(payload).hexdigest()
             if actual != digest:
-                raise ValueError(f"Checksum mismatch: {relative}")
+                raise ValueError(f"Checksum mismatch: {relative}; expected={digest}; actual={actual}; url={final_url}; type={content_type}; size={len(payload)}; prefix={payload[:160]!r}")
             target.write_bytes(payload)
             return relative
         except Exception:

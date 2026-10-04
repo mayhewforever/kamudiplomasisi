@@ -29,7 +29,7 @@
 
   <header class="site-header">
     <div class="header-inner">
-      <a class="brand" href="#top" data-home-link aria-label="Ders portalı ana sayfa">
+      <a class="brand" href="#top" data-home-link data-i18n-aria-label="homeLabel" aria-label="Ders portalı ana sayfa">
         <span class="brand-mark" aria-hidden="true">HÜ</span>
         <span>
           <small class="brand-university" data-i18n="university">Hitit Üniversitesi</small>
@@ -348,19 +348,6 @@
   </dialog>
 
   <div class="toast" id="courseToast" role="status" aria-live="polite" hidden></div>
-  <script>
-    document.addEventListener('DOMContentLoaded', function () {
-      var portal = document.querySelector('#ogrenci-alani .sp-shell');
-      if (!portal) return;
-      var note = document.createElement('p');
-      note.className = 'sp-completion-rule';
-      var link = document.createElement('a');
-      link.href = 'legacy-export.html';
-      link.textContent = 'Eski tarayıcı kayıtlarını ve ödev dosyalarını indir →';
-      note.appendChild(link);
-      portal.appendChild(note);
-    });
-  </script>
   <noscript><p class="noscript">Haftalık kartları, testleri, oyunları ve video oynatıcıyı görmek için JavaScript’i etkinleştirin. Enable JavaScript to use the interactive study tools.</p></noscript>
 </body>
 </html>

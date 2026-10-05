@@ -5,7 +5,7 @@ const fs=require('node:fs');
 const path=require('node:path');
 const assert=require('node:assert/strict');
 const root=path.resolve(__dirname,'..');
-const scripts=['i18n.js','course-overview-i18n.js','content_weeks_1_5.js','content_weeks_6_10.js','content_weeks_11_14.js','video-scripts-en.js','weekly-study-guide.js','seminar-frames.js','app.js','study-ui.js','student-portal.js'];
+const scripts=['i18n.js','course-overview-i18n.js','content_weeks_1_5.js','content_weeks_6_10.js','content_weeks_11_14.js','video-scripts-en.js','weekly-study-guide.js','seminar-frames.js','learning-content.js','learning-guide.js','app.js','study-ui.js','student-portal.js'];
 const pause=()=>new Promise(resolve=>setTimeout(resolve,20));
 async function boot({denied=false,query='?lang=en&week=1&tab=lesson',origin='https://mayhewforever.github.io/kamudiplomasisi/'}={}) {
  const errors=[];const vc=new VirtualConsole();vc.on('jsdomError',e=>errors.push(e));

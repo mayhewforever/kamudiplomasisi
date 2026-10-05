@@ -87,7 +87,7 @@
       nav: "Yapay zekâ videoları",
       kicker: "İngilizce video dersler",
       title: "Yapay Zekâ Anlatımlı Ders Videoları",
-      intro: "Her hafta için 30 slaytlık sunumla eşleştirilmiş, yaklaşık 20 dakikalık ve İngilizce altyazılı bir video ders izleyin.",
+      intro: "Her hafta için 30 slaytlık sunumla eşleştirilmiş, yaklaşık 20 dakikalık İngilizce video dersi Türkçe altyazıyla izleyin.",
       gridLabel: "On dört haftalık yapay zekâ anlatımlı İngilizce ders videoları",
       transparencyTitle: "Şeffaflık notu",
       transparencyText: "Bu videolar yapay zekâ ile üretilmiş İngilizce erkek sesi kullanır. Herhangi bir gerçek kişinin sesi taklit edilmemiştir.",
@@ -96,13 +96,17 @@
       duration: "Süre",
       english: "İngilizce",
       maleVoice: "Sentetik erkek sesi",
-      captions: "İngilizce altyazı",
+      captions: "Türkçe altyazı",
       features: "Video özellikleri",
       watch: "Videoyu izle",
       watchLabel: "{week}. haftanın İngilizce yapay zekâ ders videosunu izle",
       transcript: "İngilizce ders metnini aç",
+      turkishTranscript: "Türkçe altyazı metnini oku",
+      captionLoading: "Türkçe metin yükleniyor…",
+      captionError: "Türkçe metin yüklenemedi. Videoyu kapatıp yeniden açın.",
+      shortCaptionNote: "Bu videonun 16:45–16:53 bölümünde altyazılar için çok kısa süre var. Bu bölümü aşağıdaki Türkçe metinden okuyabilirsiniz.",
       perWeekOverline: "Yapay zekâ ders anlatımı · İngilizce",
-      perWeekDescription: "Yaklaşık 20 dakikalık, 30 slaytla eşleşen anlatım; İngilizce altyazı ve tam ders metni.",
+      perWeekDescription: "Yaklaşık 20 dakikalık, 30 slaytla eşleşen İngilizce anlatım; Türkçe altyazı ve tam İngilizce ders metni.",
       dialogKicker: "İngilizce yapay zekâ ders videosu",
       close: "Yapay zekâ ders videosunu kapat",
       playerLabel: "{week}. hafta yapay zekâ ders videosu: {title}",
@@ -112,7 +116,7 @@
       nav: "AI lecture videos",
       kicker: "English video lectures",
       title: "AI-Narrated Lecture Videos",
-      intro: "Watch an approximately 20-minute English lecture for every week, synchronised with the 30-slide presentation and supplied with English captions.",
+      intro: "Watch an approximately 20-minute English lecture for every week, synchronised with the 30-slide presentation, with Turkish subtitles on by default.",
       gridLabel: "AI-narrated English lecture videos for all fourteen weeks",
       transparencyTitle: "Transparency note",
       transparencyText: "These videos use an AI-generated English male voice. They do not imitate the voice of any real person.",
@@ -121,13 +125,17 @@
       duration: "Duration",
       english: "English",
       maleVoice: "Synthetic male voice",
-      captions: "English captions",
+      captions: "Turkish subtitles",
       features: "Video features",
       watch: "Watch lecture",
       watchLabel: "Watch the English AI lecture video for week {week}",
       transcript: "Open the English transcript",
+      turkishTranscript: "Read the Turkish subtitle text",
+      captionLoading: "Loading the Turkish text…",
+      captionError: "The Turkish text could not load. Close and reopen the video to try again.",
+      shortCaptionNote: "The original video gives subtitles very little time at 16:45–16:53. You can read that passage in the Turkish text below.",
       perWeekOverline: "AI-narrated lecture · English",
-      perWeekDescription: "An approximately 20-minute narration synchronised with 30 slides, English captions and a full transcript.",
+      perWeekDescription: "An approximately 20-minute English narration synchronised with 30 slides, Turkish subtitles and a full English transcript.",
       dialogKicker: "English AI-narrated lecture",
       close: "Close the AI lecture video",
       playerLabel: "Week {week} AI lecture video: {title}",
@@ -164,7 +172,7 @@
     tr: {
       kicker: "HAFTALIK ÇALIŞMA ROTASI", title: "Oku · karşılaştır · izle · dinle",
       intro: "Ders notu ve birincil metinleri çekirdek okuma olarak ele alın. Video ve podcast kavramları pekiştirir; tarihsel iddiayı kaynaklarla sınayın.",
-      notes: "30 SAYFALIK DERS NOTU", notesTitle: "Haftanın analitik ders notu", notesDescription: "Tarihsel bağlamı, birincil kaynakları, karşıt açıklamaları ve kanıt sınırlarını 30 bölümde inceleyin.", notesRead: "Web'de oku", notesOpen: "PDF aç", notesDownload: "PDF indir",
+      notes: "ADIM ADIM DERS NOTU", notesTitle: "Sıfırdan öğren, örnekle pekiştir", notesDescription: "Sade açıklamalar, günlük örnekler, görsel şema ve Excel uygulamasıyla başlayın. Ayrıntılı akademik okuma ayrıca 30 bölüm halinde sunulur.", notesRead: "Web'de oku", notesOpen: "Ayrıntılı PDF", notesDownload: "Ayrıntılı PDF indir",
       youtube: "01 / YOUTUBE VİDEOSU", watch: "Videoyu aç", podcast: "02 / PODCAST",
       audioNote: "Bu İngilizce ses bölümü, haftanın yapay zekâ anlatımlı ders videosunun podcast sürümüdür. Gerçek bir kişinin sesi taklit edilmemiştir.",
       download: "Podcast'i indir", transcript: "Tam İngilizce metin video ders penceresinde bulunur.",
@@ -174,7 +182,7 @@
     en: {
       kicker: "WEEKLY STUDY ROUTE", title: "Read · compare · watch · listen",
       intro: "Treat the notes and primary texts as core reading. The video and podcast reinforce concepts; test historical claims against sources.",
-      notes: "30-PAGE LECTURE NOTES", notesTitle: "This week's analytical lecture notes", notesDescription: "Examine historical context, primary sources, rival explanations and evidentiary limits in 30 sections. Notes are in Turkish.", notesRead: "Read online", notesOpen: "Open PDF", notesDownload: "Download PDF",
+      notes: "STEP-BY-STEP LECTURE NOTES", notesTitle: "Start with the basics, learn through examples", notesDescription: "Begin with plain explanations, everyday examples, a visual diagram and an Excel exercise. The linked Turkish notes also include 30 sections of detailed academic reading.", notesRead: "Read online", notesOpen: "Academic PDF", notesDownload: "Download academic PDF",
       youtube: "01 / YOUTUBE VIDEO", watch: "Watch video", podcast: "02 / PODCAST",
       audioNote: "This English audio episode is the podcast edition of the week's AI-narrated lecture. It does not imitate a real person's voice.",
       download: "Download podcast", transcript: "The full English transcript is available in the lecture video window.",
@@ -320,7 +328,8 @@
       chapters: script.chapters || [],
       duration: Number(aiVideoDurations[week] || 0),
       video: "videos/" + stem + "_AI_Lecture_EN.mp4",
-      captions: "videos/" + stem + "_AI_Lecture_EN.vtt",
+      captions: "videos/" + stem + "_AI_Lecture_TR.vtt",
+      englishCaptions: "videos/" + stem + "_AI_Lecture_EN.vtt",
       poster: "videos/posters/week-" + padded + ".png"
     };
   }
@@ -455,7 +464,7 @@
       "<details class=\"week-card\" id=\"" + item.id + "\" data-week=\"" + item.week + "\" data-category=\"" + item.category + "\" data-search=\"" + escapeHtml(localeLower(searchText, app.state.language)) + "\"" + (isOpen ? " open" : "") + ">",
       "<summary>",
       "<span class=\"week-no\">" + padded + "</span>",
-      "<span class=\"week-title-block\"><span class=\"week-kicker\">" + escapeHtml(item.tag) + "</span><span class=\"week-title\">" + escapeHtml(item.title) + "</span><span class=\"week-summary\">" + escapeHtml(item.summary) + "</span><span class=\"week-note-badge\">" + escapeHtml(app.state.language === "en" ? "30-page lecture note · PDF" : "30 sayfalık ders notu · PDF") + "</span></span>",
+      "<span class=\"week-title-block\"><span class=\"week-kicker\">" + escapeHtml(item.tag) + "</span><span class=\"week-title\">" + escapeHtml(item.title) + "</span><span class=\"week-summary\">" + escapeHtml(item.summary) + "</span><span class=\"week-note-badge\">" + escapeHtml(app.state.language === "en" ? "Step-by-step guide · Diagram · Excel" : "Adım adım rehber · Şema · Excel") + "</span></span>",
       "<span class=\"week-summary-actions\"><span class=\"week-complete-indicator\"" + (completed ? "" : " hidden") + " aria-label=\"" + escapeHtml(app.t("markedComplete")) + "\">✓</span><span class=\"week-chevron\" aria-hidden=\"true\">+</span></span>",
       "</summary>",
       "<div class=\"week-body\">",
@@ -515,6 +524,8 @@
       var week = mergedWeek(base, language);
       var study = studyFor(base.week, language);
       records.push({ language: language, week: base.week, tab: "lesson", type: app.t("resultTypeWeek"), title: week.title, text: week.summary });
+      var beginner = ((window.COURSE_BEGINNER || {})[base.week] || {})[language];
+      if (beginner) records.push({ language: language, week: base.week, tab: "lesson", type: app.t("resultTypeLesson"), title: beginner.title, text: JSON.stringify(beginner) });
       (study.sections || []).forEach(function (section) {
         records.push({ language: language, week: base.week, tab: "lesson", type: app.t("resultTypeLesson"), title: section.heading, text: (section.paragraphs || []).join(" ") });
       });
@@ -790,7 +801,7 @@
     meta.textContent = button.dataset.videoMeta;
     meta.lang = "en";
     link.href = "https://www.youtube.com/watch?v=" + encodeURIComponent(id);
-    var parameters = ["rel=0", "enablejsapi=1"];
+    var parameters = ["rel=0", "enablejsapi=1", "cc_lang_pref=tr", "cc_load_policy=1", "hl=tr"];
     if (window.location.protocol === "http:" || window.location.protocol === "https:") {
       parameters.push("origin=" + encodeURIComponent(window.location.origin));
     }
@@ -815,6 +826,8 @@
     var meta = document.querySelector("#aiVideoDialogMeta");
     var badges = document.querySelector("#aiVideoDialogBadges");
     var summary = document.querySelector("#aiVideoTranscriptSummary");
+    var trSummary = document.querySelector("#aiVideoTranscriptTrSummary");
+    var timingNote = document.querySelector("#aiVideoTimingNote");
     var disclosure = document.querySelector("#aiVideoDisclosure");
     var closeButton = document.querySelector("#closeAiVideo");
     var player = document.querySelector("#aiVideoPlayer");
@@ -825,9 +838,36 @@
       badges.innerHTML = aiBadgesHtml(labels);
     }
     if (summary) summary.textContent = labels.transcript;
+    if (trSummary) trSummary.textContent = labels.turkishTranscript;
+    if (timingNote) { timingNote.hidden = currentAiVideoWeek !== 12; timingNote.textContent = labels.shortCaptionNote; }
     if (disclosure) disclosure.textContent = labels.disclosure;
     if (closeButton) closeButton.setAttribute("aria-label", labels.close);
     if (player && currentAiVideoWeek) player.setAttribute("aria-label", aiTemplateText(labels.playerLabel, item));
+  }
+
+  function showTurkishAiSubtitles() {
+    var player = document.querySelector("#aiVideoPlayer");
+    if (!player || !player.textTracks) return;
+    for (var i = 0; i < player.textTracks.length; i += 1) {
+      player.textTracks[i].mode = player.textTracks[i].language === "tr" ? "showing" : "disabled";
+    }
+  }
+
+  function loadTurkishCaptionText(item) {
+    var target = document.querySelector("#aiVideoTranscriptTr");
+    if (!target) return;
+    target.textContent = aiLabels().captionLoading;
+    fetch(item.captions).then(function (response) {
+      if (!response.ok) throw new Error("Subtitle text unavailable");
+      return response.text();
+    }).then(function (text) {
+      if (currentAiVideoWeek !== item.week) return;
+      var copy = text.trim().split(/\r?\n\s*\r?\n/).slice(1).map(function (block) { return block.split(/\r?\n/).slice(2).join(" "); }).join(" ");
+      var sentences = copy.replace(/([.!?])\s+/g, "$1\n").split("\n");
+      var paragraphs = [];
+      for (var i = 0; i < sentences.length; i += 4) paragraphs.push("<p>" + escapeHtml(sentences.slice(i, i + 4).join(" ")) + "</p>");
+      target.innerHTML = paragraphs.join("");
+    }).catch(function () { if (currentAiVideoWeek === item.week) target.textContent = aiLabels().captionError; });
   }
 
   function openLectureVideo(button) {
@@ -835,6 +875,7 @@
     var player = document.querySelector("#aiVideoPlayer");
     var source = document.querySelector("#aiVideoSource");
     var captions = document.querySelector("#aiVideoCaptions");
+    var englishCaptions = document.querySelector("#aiVideoCaptionsEn");
     var title = document.querySelector("#aiVideoTitle");
     var transcript = document.querySelector("#aiVideoTranscript");
     if (!dialog || !player || !source || !captions || !title || !transcript) return;
@@ -845,22 +886,27 @@
     title.textContent = item.title;
     source.src = item.video;
     captions.src = item.captions;
-    captions.label = "English";
+    captions.label = "Türkçe";
     captions.default = true;
+    if (englishCaptions) englishCaptions.src = item.englishCaptions;
     player.poster = item.poster;
     transcript.innerHTML = transcriptHtml(item.transcript);
     updateAiDialogLanguage();
     player.load();
+    showTurkishAiSubtitles();
     dialog.showModal();
+    loadTurkishCaptionText(item);
   }
 
   function resetAiVideoPlayer() {
     var player = document.querySelector("#aiVideoPlayer");
     var source = document.querySelector("#aiVideoSource");
     var captions = document.querySelector("#aiVideoCaptions");
+    var englishCaptions = document.querySelector("#aiVideoCaptionsEn");
     if (player) player.pause();
     if (source) source.removeAttribute("src");
     if (captions) captions.removeAttribute("src");
+    if (englishCaptions) englishCaptions.removeAttribute("src");
     if (player) {
       player.removeAttribute("poster");
       player.load();
@@ -878,7 +924,7 @@
   function expandForPrint(cards) {
     return cards.map(function (card) {
       var panels = Array.from(card.querySelectorAll(".study-panel"));
-      var sections = Array.from(card.querySelectorAll(".lesson-section"));
+      var sections = Array.from(card.querySelectorAll(".lesson-section, .lg-deep, .lg-answer"));
       var snapshot = { card: card, open: card.open, hidden: card.hidden, panels: panels.map(function (p) { return p.hidden; }), sections: sections.map(function (s) { return s.open; }) };
       card.open = true;
       card.hidden = false;
@@ -893,7 +939,7 @@
       snapshot.card.open = snapshot.open;
       snapshot.card.hidden = snapshot.hidden;
       snapshot.card.querySelectorAll(".study-panel").forEach(function (panel, index) { panel.hidden = snapshot.panels[index]; });
-      snapshot.card.querySelectorAll(".lesson-section").forEach(function (section, index) { section.open = snapshot.sections[index]; });
+      snapshot.card.querySelectorAll(".lesson-section, .lg-deep, .lg-answer").forEach(function (section, index) { section.open = snapshot.sections[index]; });
     });
     document.body.classList.remove("print-single-week");
     document.querySelectorAll(".week-card.print-excluded").forEach(function (card) { card.classList.remove("print-excluded"); });
@@ -966,9 +1012,7 @@
     }
     var aiPlayer = document.querySelector("#aiVideoPlayer");
     if (aiPlayer) {
-      aiPlayer.addEventListener("loadedmetadata", function () {
-        if (aiPlayer.textTracks && aiPlayer.textTracks[0]) aiPlayer.textTracks[0].mode = "showing";
-      });
+      aiPlayer.addEventListener("loadedmetadata", showTurkishAiSubtitles);
     }
   }
 

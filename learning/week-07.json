@@ -1,0 +1,193 @@
+{
+  "week": 7,
+  "tr": {
+    "title": "CPI: bir savaş mesajı okuyucuya nasıl ulaşır?",
+    "nutshell": "ABD, Birinci Dünya Savaşı’na girdiğinde savaş amaçlarını anlatmak ve destek toplamak istedi. Başkan Wilson, 13 Nisan 1917’de CPI’ı kurdu. Bu geçici komite, mevcut iletişim araçlarını birlikte kullandı. Çok mesaj üretmek önemliydi; fakat insanların bunları okuduğunu veya benimsediğini tek başına göstermiyordu.",
+    "analogy": "Varsayımsal gündelik benzetme: Okul yönetimi bir duyuruyu sınıf temsilcisine gönderiyor. Temsilci kısaltıp grupta paylaşıyor. Bir öğrenci okuyor, biri görmüyor, biri itiraz ediyor. “Duyuru gönderildi” cümlesi, bu farklı sonuçların hiçbirini tek başına anlatmaz.",
+    "objectives": [
+      "CPI’ın kuruluş amacını ve geçiciliğini açıklamak.",
+      "Gönderimle okuyucu tepkisini ayırmak.",
+      "Aracıların mesajı nasıl değiştirebildiğini görmek."
+    ],
+    "concepts": [
+      {
+        "term": "CPI",
+        "meaning": "Committee on Public Information; Türkçede Kamuoyu Bilgilendirme Komitesi olarak açıklanabilir.",
+        "example": "George Creel’in yönettiği bu yapı, savaş döneminde bilgi ve ikna çalışmalarını örgütledi."
+      },
+      {
+        "term": "Dağıtım",
+        "meaning": "Hazırlanan içeriğin başka kişi veya kurumlara gönderilmesidir.",
+        "example": "Bir bildirinin dış haber ajansına iletilmesi, okunduğunu göstermez."
+      },
+      {
+        "term": "Aracı",
+        "meaning": "Mesajı göndericiyle okuyucu arasında seçen, taşıyan veya değiştiren aktördür.",
+        "example": "Gazete editörü bir bildiriyi kısaltabilir ya da eleştirel başlık ekleyebilir."
+      },
+      {
+        "term": "Alımlama",
+        "meaning": "İnsanların karşılaştıkları içeriği nasıl anladığı ve yorumladığıdır.",
+        "example": "Bir okur bildiriyi güvenilir bulurken diğeri kuşkuyla karşılayabilir."
+      }
+    ],
+    "steps": [
+      {
+        "title": "Kurumu doğru yere koy",
+        "text": "CPI, kalıcı bir dışişleri bakanlığı değil, geçici savaş komitesiydi. İç kamuoyu ile yabancı kitlelere yönelik faaliyetler yürüttü. “İlk kamu diplomasisi ajansı” demeden önce ilk olmanın ölçütünü belirt: Yeni olan örgütlenme miydi, yoksa bütün dış iletişim mi?"
+      },
+      {
+        "title": "Mesajın her durağını izle",
+        "text": "Kurumun raporu üretim ve gönderimi anlatabilir. Yabancı gazetenin nüshası, metnin gerçekten yayımlandığını gösterir. İkisini karşılaştır: Başlık, çeviri veya kısaltma değişmiş mi? Aracı, yalnızca aynı sözü taşıyan bir boru değildir."
+      },
+      {
+        "title": "Okuyucunun tarafına geç",
+        "text": "Yayımlanan metin, bütün ülkenin görüşünü temsil etmez. Okur mektupları ve günlükler yorumlara dair ipucu verebilir; bunların da kapsamı sınırlıdır. Bir tutum değişikliği görürsen, aynı dönemdeki cephe haberlerinin veya başka siyasi gelişmelerin etkisini de araştır."
+      }
+    ],
+    "diagram": {
+      "title": "Bir bildirinin olası yolculuğu",
+      "nodes": [
+        {
+          "title": "Üretim",
+          "text": "CPI bir metin hazırlar; taslak bulunabilir."
+        },
+        {
+          "title": "Gönderim",
+          "text": "Metin ajansa iletilir; gönderi kaydı aranır."
+        },
+        {
+          "title": "Yayım",
+          "text": "Editör seçer veya değiştirir; gazete nüshası incelenir."
+        },
+        {
+          "title": "Yorum",
+          "text": "Okur kendi deneyimiyle değerlendirir; tepki kaynağı gerekir."
+        }
+      ],
+      "caption": "Bu olası bir rotadır. Metin herhangi bir durakta kalabilir; son kutuya ulaşması bile okuyucunun ikna edildiğini kanıtlamaz."
+    },
+    "workedExample": {
+      "title": "Aynı bildiri, farklı başlık",
+      "scenario": "Varsayımsal örnek: CPI benzeri bir kurum “Ortak amaçlarımız” başlıklı metin gönderiyor. Yabancı gazete bunu “Tartışmalı Amerikan iddiaları” başlığıyla yayımlıyor.",
+      "steps": [
+        "Gönderi kaydı, kurumun neyi ilettiğini gösterir; başarılı ikna sonucunu ekleme.",
+        "Gazete nüshası yayımı doğrular. Yeni başlık, editörün içeriği eleştirel sunduğunu gösterir.",
+        "Okuyucunun tepkisi henüz bilinmiyor. Editörün yorumunu bütün okuyucuların düşüncesi sayma; ek kaynak ara."
+      ],
+      "lesson": "Bir metnin yeniden basılması, o metnin onaylandığı anlamına gelmez."
+    },
+    "misconception": {
+      "claim": "“CPI kurulunca yabancı kamuoyuyla iletişim ilk kez başladı.”",
+      "correction": "Önceki haftalarda da diplomasi, basın ve özel ağlar vardı. CPI’ın yeniliği, savaş iletişiminin örgütlenme biçimiyle birlikte değerlendirilmelidir."
+    },
+    "quickCheck": {
+      "question": "Kurumun dağıtım raporu, yabancı okuyucuların ikna olduğunu kanıtlar mı?",
+      "answer": "Hayır. Gönderimi gösterebilir; okuyucunun ne düşündüğü için farklı kaynak gerekir."
+    },
+    "practice": {
+      "task": "Excel’deki öğrenci kanıt matrisine üç ayrı kaynak türü yaz: gönderi kaydı, gazete nüshası ve okur mektubu. Her birini üretim/dağıtım, yayım veya alımlama sorusuyla eşleştir.",
+      "hint": "Varsayımsal örnekteki başlık değişimini ekle. Tek okur mektubunun bütün okuyucuları temsil etmediğini sınır olarak yaz."
+    },
+    "takeaways": [
+      "Mesaj gönderildi diye okunmuş olmaz.",
+      "Aracılar mesajın anlamını değiştirebilir.",
+      "Kurumun faaliyet raporu, kitlenin düşüncesinin yerine geçmez."
+    ]
+  },
+  "en": {
+    "title": "The CPI: how does a wartime message reach a reader?",
+    "nutshell": "When the United States entered the First World War, it wanted to explain its aims and mobilise support. President Wilson established the CPI on 13 April 1917. This temporary committee combined existing communication tools. Producing many messages mattered, but did not prove people read or accepted them.",
+    "analogy": "Hypothetical everyday analogy: School management sends an announcement to a class representative, who shortens and shares it. One student reads it, another misses it, another objects. “The announcement was sent” does not establish any of these outcomes.",
+    "objectives": [
+      "Explain the CPI’s purpose and temporary status.",
+      "Separate dispatch from reader response.",
+      "Recognise how intermediaries can change messages."
+    ],
+    "concepts": [
+      {
+        "term": "CPI",
+        "meaning": "The Committee on Public Information.",
+        "example": "Led by George Creel, this organisation coordinated wartime information and persuasion work."
+      },
+      {
+        "term": "Distribution",
+        "meaning": "Sending prepared material to other people or organisations.",
+        "example": "Transmitting a statement to a foreign news agency does not prove it was read."
+      },
+      {
+        "term": "Intermediary",
+        "meaning": "An actor selecting, carrying or changing a message between sender and reader.",
+        "example": "An editor may shorten a statement or add a critical headline."
+      },
+      {
+        "term": "Reception",
+        "meaning": "How people understand and interpret material they encounter.",
+        "example": "One reader may trust a statement while another doubts it."
+      }
+    ],
+    "steps": [
+      {
+        "title": "Place the institution accurately",
+        "text": "The CPI was a temporary wartime committee, not a permanent foreign ministry. It addressed domestic and foreign audiences. Before calling it the “first public diplomacy agency”, define “first”: was the innovation its organisation, or all communication abroad?"
+      },
+      {
+        "title": "Trace every stage",
+        "text": "An institutional report can describe production and dispatch. A foreign newspaper copy shows actual publication. Compare them: did the headline, translation or length change? An intermediary is more than a pipe carrying identical words."
+      },
+      {
+        "title": "Move to the reader’s side",
+        "text": "A published text cannot represent an entire country’s opinions. Reader letters and diaries offer clues to interpretation, within their limited scope. If attitudes changed, also investigate contemporary battlefield news or other political developments."
+      }
+    ],
+    "diagram": {
+      "title": "A statement’s possible journey",
+      "nodes": [
+        {
+          "title": "Production",
+          "text": "The CPI prepares text; a draft may survive."
+        },
+        {
+          "title": "Dispatch",
+          "text": "The text goes to an agency; seek a dispatch record."
+        },
+        {
+          "title": "Publication",
+          "text": "An editor selects or changes it; examine the newspaper."
+        },
+        {
+          "title": "Interpretation",
+          "text": "Readers assess it through experience; response evidence is needed."
+        }
+      ],
+      "caption": "This is one possible route. A text can stop at any stage; reaching the last box still does not establish persuasion."
+    },
+    "workedExample": {
+      "title": "Same statement, different headline",
+      "scenario": "Hypothetical example: A CPI-like institution sends “Our Shared Aims”. A foreign newspaper publishes it under “Controversial American Claims”.",
+      "steps": [
+        "The dispatch record shows what the institution sent; do not add a successful-persuasion claim.",
+        "The newspaper confirms publication. The new headline demonstrates the editor’s critical presentation.",
+        "Reader response remains unknown. Do not treat the editor’s interpretation as every reader’s view; seek additional sources."
+      ],
+      "lesson": "Reprinting a text does not mean endorsing it."
+    },
+    "misconception": {
+      "claim": "“Communication with foreign publics began when the CPI was established.”",
+      "correction": "Earlier weeks already featured diplomacy, newspapers and private networks. Assess the CPI’s novelty through the organisation of wartime communication."
+    },
+    "quickCheck": {
+      "question": "Does an institutional distribution report prove foreign readers were persuaded?",
+      "answer": "No. It may establish dispatch; readers’ thinking requires different sources."
+    },
+    "practice": {
+      "task": "Enter three source types in the workbook’s student evidence matrix: a dispatch record, a newspaper copy and a reader letter. Match each to a production/distribution, publication or reception question.",
+      "hint": "Add the hypothetical headline change. Record that one reader letter cannot represent all readers."
+    },
+    "takeaways": [
+      "Sending does not establish reading.",
+      "Intermediaries can change a message’s meaning.",
+      "Institutional activity reports cannot substitute for audience views."
+    ]
+  }
+}

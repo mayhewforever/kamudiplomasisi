@@ -1,0 +1,193 @@
+{
+  "week": 12,
+  "tr": {
+    "title": "Hafta 12: Bir program nasıl kalıcı kuruma dönüşür?",
+    "nutshell": "Kamu diplomasisi, başka ülkelerdeki insanlarla bilgi ve ilişki yoluyla temas kurar. Bu hafta sorumuz, böyle bir işin savaş bittikten sonra nasıl sürdürüleceği. 1948 Smith–Mundt Yasası, ABD’nin bilgi ve eğitim-kültür değişimi faaliyetlerine barış zamanı için hukuki dayanak sağladı. Ancak izin vermek, bütçe ayırmak, program yapmak ve etki yaratmak ayrı işlerdir.",
+    "analogy": "Varsayımsal bir mahalle kitap kulübünü düşünün. Acil bir ihtiyaçla başlayan gönüllü toplantıları kalıcı hâle getirmek için mekân, bütçe, görev dağılımı ve denetim gerekir. Kulübün tüzüğünü yazmak toplantıların yapıldığını kanıtlamaz; toplantı yapmak da herkesin okuma alışkanlığı kazandığını göstermez.",
+    "objectives": [
+      "Yetki, kaynak ve uygulama arasındaki farkı açıklamak.",
+      "1945–1953 geçişini tek bir kuruluş tarihine indirgememek.",
+      "Bir belgenin hangi iddiayı destekleyebildiğini seçmek."
+    ],
+    "concepts": [
+      {
+        "term": "Hukuki yetki",
+        "meaning": "Bir kurumun belirli işi yapmasına izin veren düzenleme.",
+        "example": "1948 yasası, dış bilgilendirme ve değişim faaliyetleri için yetki çerçevesi sağladı."
+      },
+      {
+        "term": "Kurumsallaşma",
+        "meaning": "Bir işin düzenli personel, kaynak ve kurallarla sürdürülebilir hâle gelmesi.",
+        "example": "Geçici görevin düzenli görev tanımına dönüşmesi bu sürecin bir parçası olabilir."
+      },
+      {
+        "term": "Denetim",
+        "meaning": "Kararların ve harcamaların kim tarafından, nasıl kontrol edildiği.",
+        "example": "Bir bütçe belgesi, ayrılan kaynağı incelemeye yardım eder; dinleyicinin tepkisini göstermez."
+      },
+      {
+        "term": "İşlev sürekliliği",
+        "meaning": "Kurumun adı veya yapısı değişse de yaptığı işin bir bölümünün sürmesi.",
+        "example": "Savaş Enformasyon Ofisinin (OWI) 1945’te kapanması, bütün dış yayın işlevlerinin sona ermesi anlamına gelmedi."
+      }
+    ],
+    "steps": [
+      {
+        "title": "Önce hangi sorunu çözdüğünü bul",
+        "text": "Savaş sonrası mesele yalnız mesaj üretmek değildi. Faaliyetin barış döneminde hangi yetki, bütçe ve sorumlulukla sürdürüleceği de belirlenmeliydi. Bir metni okurken önce “hangi ihtiyaç için?” sorusunu sorun."
+      },
+      {
+        "title": "Belgenin söylediğiyle yetin",
+        "text": "Yasada “yapabilir” ifadesini gördüğünüzde bunu “yaptı” diye okumayın. Uygulama için program kaydı, kaynak kullanımı için bütçe belgesi, alıcı deneyimi için görüşme veya mektup gibi ayrı kanıtlar arayın."
+      },
+      {
+        "title": "Tarihleri ve sürümleri ayır",
+        "text": "1948’deki özgün yasa ile sonraki değişiklikler aynı belge değildir. Notunuza belgenin tarihini yazın. Sonradan kurulan bir teşkilatı da önceki yasayla aynı anda doğmuş saymayın."
+      }
+    ],
+    "diagram": {
+      "title": "Dört tarih, farklı gelişmeler",
+      "nodes": [
+        {
+          "title": "1945",
+          "text": "OWI kapandı; bazı dış bilgilendirme işlevleri sürdü."
+        },
+        {
+          "title": "1946",
+          "text": "Fulbright düzenlemesi eğitim değişimi için ayrı bir hukuki hat açtı."
+        },
+        {
+          "title": "1948",
+          "text": "Smith–Mundt, bilgi ve değişim faaliyetlerine barış dönemi çerçevesi sağladı."
+        },
+        {
+          "title": "1953",
+          "text": "ABD Enformasyon Ajansının (USIA) kurulması ayrı bir yeniden örgütlenme aşaması oldu."
+        }
+      ],
+      "caption": "Bu sıra bir zaman çizelgesidir. Her adımın sonrakine tek başına neden olduğunu veya başarıyı garanti ettiğini söylemez."
+    },
+    "workedExample": {
+      "title": "Belge dosyasından ölçülü sonuç çıkarma",
+      "scenario": "Varsayımsal alıştırma: Bir öğrenci, eğitim değişimine izin veren hüküm, ayrılmış bütçe ve gerçekleşen bir seminere ait liste buluyor.",
+      "steps": [
+        "Hükmü “yetki”, bütçeyi “kaynak”, seminer kaydını “uygulama” olarak ayır.",
+        "“Katılanlar ülkeye daha çok güvendi” iddiası için dosyada kanıt olmadığını belirt.",
+        "Katılımcı görüşleri ve sonraki temas kayıtlarını eksik kanıt olarak yaz."
+      ],
+      "lesson": "Dosya programın yapılabildiğini ve yapıldığını destekler; güven değişimini henüz göstermez."
+    },
+    "misconception": {
+      "claim": "“Kamu diplomasisi 1948’de sıfırdan başladı.”",
+      "correction": "Önceki yayın, kültür ve değişim uygulamaları vardı. Buradaki yenilik, bu çalışmaların bir bölümünün barış zamanı hukuki çerçevesiydi."
+    },
+    "quickCheck": {
+      "question": "Bir programın yasayla yetkilendirilmesi, o yıl uygulandığını kanıtlar mı?",
+      "answer": "Hayır. Gerçek uygulamayı gösterecek tarihli program veya faaliyet kayıtları gerekir."
+    },
+    "practice": {
+      "task": "Ortak Excel dosyasındaki öğrenci kanıt matrisine üç satır ekleyin: yetki, kaynak ve uygulama. Her satıra uygun belge türünü ve belgenin gösteremeyeceği bir şeyi yazın.",
+      "hint": "14 haftalık rehberde 12. haftayı bulun. Gerçek belge yoksa örneğinizi “varsayımsal” diye işaretleyin; kanıt varmış gibi yazmayın."
+    },
+    "takeaways": [
+      "Bir kurumun kapanması her işlevinin bitmesi değildir.",
+      "Yetki, bütçe ve uygulama ayrı kanıt ister.",
+      "Yasal düzenleme, hedef kitlenin güvenini tek başına göstermez."
+    ]
+  },
+  "en": {
+    "title": "Week 12: How does a programme become a lasting institution?",
+    "nutshell": "Public diplomacy connects with people abroad through information and relationships. This week asks how that work continues after war. The 1948 Smith–Mundt Act provided a peacetime legal basis for US information and educational-cultural exchanges. Permission, funding, delivery and influence are separate matters.",
+    "analogy": "Imagine a hypothetical neighbourhood book club. Volunteer meetings started for an urgent need. Becoming permanent requires space, money, responsibilities and oversight. Writing its rules does not prove meetings happened; holding meetings does not establish that everyone developed a reading habit.",
+    "objectives": [
+      "Explain the difference between authority, resources and delivery.",
+      "Avoid reducing the 1945–1953 transition to one founding date.",
+      "Choose which claim a document can support."
+    ],
+    "concepts": [
+      {
+        "term": "Legal authority",
+        "meaning": "A rule allowing an institution to perform specified work.",
+        "example": "The 1948 act provided an authority framework for overseas information and exchanges."
+      },
+      {
+        "term": "Institutionalisation",
+        "meaning": "Making work sustainable through regular staff, resources and rules.",
+        "example": "Turning a temporary task into a regular job description can be one part."
+      },
+      {
+        "term": "Oversight",
+        "meaning": "Who checks decisions and spending, and how.",
+        "example": "A budget document helps examine allocated resources; it does not reveal listener reactions."
+      },
+      {
+        "term": "Continuity of function",
+        "meaning": "Some work continues despite changes in an institution’s name or structure.",
+        "example": "Closing the Office of War Information (OWI) in 1945 did not end every overseas broadcasting function."
+      }
+    ],
+    "steps": [
+      {
+        "title": "Identify the problem first",
+        "text": "After war, producing messages was only part of the problem. Peacetime authority, budgets and responsibility also needed definition. When reading a document, ask which need it addressed."
+      },
+      {
+        "title": "Respect the document’s limits",
+        "text": "Do not turn “may do” in a law into “did.” Seek programme records for delivery, budget documents for resources, and interviews or letters for recipient experience."
+      },
+      {
+        "title": "Separate dates and versions",
+        "text": "The original 1948 law and later amendments are different documents. Record the date. Do not assume an organisation established later appeared at the same time as the earlier law."
+      }
+    ],
+    "diagram": {
+      "title": "Four dates, different developments",
+      "nodes": [
+        {
+          "title": "1945",
+          "text": "OWI closed; some overseas information functions continued."
+        },
+        {
+          "title": "1946",
+          "text": "The Fulbright legislation opened a separate legal path for educational exchange."
+        },
+        {
+          "title": "1948",
+          "text": "Smith–Mundt provided a peacetime framework for information and exchanges."
+        },
+        {
+          "title": "1953",
+          "text": "Establishing the United States Information Agency (USIA) was a separate reorganisation."
+        }
+      ],
+      "caption": "This is a timeline. It does not mean each step independently caused the next or guaranteed success."
+    },
+    "workedExample": {
+      "title": "Draw a measured conclusion from a document file",
+      "scenario": "Hypothetical exercise: a student finds an exchange authorisation, an allocated budget and a record of a completed seminar.",
+      "steps": [
+        "Label these “authority,” “resources” and “delivery.”",
+        "Note that the file lacks evidence for “participants trusted the country more.”",
+        "List participant accounts and later contact records as missing evidence."
+      ],
+      "lesson": "The file supports permission and delivery; it does not yet show a change in trust."
+    },
+    "misconception": {
+      "claim": "“Public diplomacy began from nothing in 1948.”",
+      "correction": "Earlier broadcasting, cultural work and exchanges existed. The innovation here was a peacetime legal framework for some of that work."
+    },
+    "quickCheck": {
+      "question": "Does legal authorisation prove a programme operated that year?",
+      "answer": "No. Dated programme or activity records are needed to establish delivery."
+    },
+    "practice": {
+      "task": "Add three rows to the shared Excel workbook’s student evidence matrix: authority, resources and delivery. Give each a suitable document type and one thing that document cannot show.",
+      "hint": "Find week 12 in the 14-week guide. Without a real document, label your example “hypothetical”; do not imply evidence exists."
+    },
+    "takeaways": [
+      "Closing an institution does not end every function.",
+      "Authority, funding and delivery require separate evidence.",
+      "Legislation alone does not establish audience trust."
+    ]
+  }
+}

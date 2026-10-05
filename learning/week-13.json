@@ -1,0 +1,193 @@
+{
+  "week": 13,
+  "tr": {
+    "title": "Hafta 13: Farklı modelleri adilce karşılaştırmak",
+    "nutshell": "Bir ülkenin haber yayını, dil kursu ve öğrenci değişimi aynı işi yapmaz. Yayın geniş bir kitleye bilgi sunabilir; kurs tekrarlanan yerel temas yaratabilir; değişim insanları ortak bir deneyimde buluşturabilir. Bu hafta “en iyi ülke hangisi?” yerine “hangi düzenleme, kimler için, hangi koşullarda işe yarayabilir?” diye soracağız.",
+    "analogy": "Varsayımsal olarak üç öğrenme yolunu karşılaştırın: yemek videosu izlemek, haftalık kursa gitmek ve bir aşçının yanında çalışmak. İzlenme sayısıyla kurs arkadaşlığını aynı cetvelle ölçemezsiniz. Karşılaştırmadan önce ne öğrenmek istediğinizi ve ne kadar zamanınız olduğunu belirlemelisiniz.",
+    "objectives": [
+      "Araç ile çalışma modelini ayırmak.",
+      "Farklı kurumlara aynı açık soruları sormak.",
+      "Kültürel beğeni ile siyasi destek arasındaki farkı korumak."
+    ],
+    "concepts": [
+      {
+        "term": "Araç",
+        "meaning": "Temas için kullanılan somut kanal veya faaliyet.",
+        "example": "Bir sosyal medya hesabı, duyuru da yayımlayabilir, tartışmaya da alan açabilir."
+      },
+      {
+        "term": "Model",
+        "meaning": "İşi kimin yönettiği, ortakların nasıl katıldığı ve temasın nasıl sürdüğü düzen.",
+        "example": "Aynı dil kursu, yerel öğretmenlere karar hakkı veren veya yalnız merkezden içerik alan bir modelle yürütülebilir."
+      },
+      {
+        "term": "Özerklik",
+        "meaning": "Bir kurumun veya ortağın kendi kararını verebilme alanı.",
+        "example": "Bir yayıncının destekçisini eleştirebilen haberler hazırlayabilmesi incelenebilir."
+      },
+      {
+        "term": "Karşılıklılık",
+        "meaning": "Tarafların yalnız dinlemesi değil, gündemi ve uygulamayı etkileyebilmesi.",
+        "example": "Yerel katılımcıların önerisiyle kurs içeriğinin değişmesi buna işaret edebilir."
+      }
+    ],
+    "steps": [
+      {
+        "title": "Karşılaştırılabilir bir soru seç",
+        "text": "“Hangisi daha büyük?” yerine “hangisi düzenli mesleki temas kuruyor?” deyin. Ardından iki kurumda da aynı döneme ve benzer katılımcı gruplarına bakın. Bütçelere farklı işler dahil edilmişse toplamları doğrudan yarıştırmayın."
+      },
+      {
+        "title": "Çalışma düzenini incele",
+        "text": "BBC World Service gibi yayıncılarla British Council gibi eğitim ve kültür kurumları farklı temas biçimleri sunar. İsim veya ülke etiketi yeterli değildir: bütçeyi kim verir, içeriği kim seçer, yerel ortak neyi değiştirebilir?"
+      },
+      {
+        "title": "Sonucu kurumdan ayrı dinle",
+        "text": "Kurum raporuna ek olarak katılımcıların deneyimini araştırın. Bir dil kursunu sevmek, destekçi devletin politikasını onaylamak değildir. Daha bilgili bir katılımcı daha ayrıntılı eleştiri de geliştirebilir; eleştiri tek başına başarısızlık sayılmaz."
+      }
+    ],
+    "diagram": {
+      "title": "Aynı sorularla karşılaştırma yolu",
+      "nodes": [
+        {
+          "title": "Amacı seç",
+          "text": "Örneğin düzenli mesleki temas: tam olarak ne aranıyor?"
+        },
+        {
+          "title": "Düzeni incele",
+          "text": "Karar hakkı, kaynak ve yerel ortakların rolü nasıl?"
+        },
+        {
+          "title": "Deneyimi araştır",
+          "text": "Kim katıldı, kim dışarıda kaldı, temas nasıl yorumlandı?"
+        },
+        {
+          "title": "Koşullu sonuç yaz",
+          "text": "Hangi bulgu var; hangi soruya henüz yanıt yok?"
+        }
+      ],
+      "caption": "Oklar araştırma sırasını gösterir. Temasın güvene veya siyasi desteğe kendiliğinden dönüştüğünü iddia etmez."
+    },
+    "workedExample": {
+      "title": "İzleyici sayısı mı, ilişkinin sürmesi mi?",
+      "scenario": "Varsayımsal alıştırma: A kurumu bir çevrim içi konuşma yayımlıyor. B kurumu küçük bir ortak atölye yürütüyor. Amacınız sonraki mesleki iş birliğini incelemek.",
+      "steps": [
+        "İzlenme sayısı ile atölye katılımını ayrı faaliyet kayıtları olarak not et.",
+        "İki grupta da üç ay sonra ortak proje veya devam eden temas olup olmadığını sor.",
+        "Başlangıçtaki ilişkileri ve kimlerin yanıt vermediğini kaydet; farkı hemen kurum modeline bağlama."
+      ],
+      "lesson": "Uygun ölçüt, kurumun en büyük görünen sayısı değil, seçtiğiniz soruya yanıt veren kanıttır."
+    },
+    "misconception": {
+      "claim": "“Başarılı bir ülkenin kurumunu kopyalarsak aynı sonucu alırız.”",
+      "correction": "Dil, güvenlik, yerel ortaklar ve karar özgürlüğü değişebilir. Bir düzenin başka yerde işlemesi için gereken koşulları ayrıca inceleyin."
+    },
+    "quickCheck": {
+      "question": "Aynı ülkeden iki kurum neden tek bir ses gibi değerlendirilmemeli?",
+      "answer": "Amaçları, karar düzenleri, temas biçimleri ve katılımcıları farklı olabilir."
+    },
+    "practice": {
+      "task": "Ortak Excel dosyasının öğrenci kanıt matrisinde iki varsayımsal kurum için amaç, temas biçimi ve eksik kanıt satırları açın. İkisine de aynı soruyu yazın.",
+      "hint": "14 haftalık rehberin 13. hafta bölümüne karşılaştırma sorunuzu ekleyin. Toplam bütçe yerine önce hangi işlerin karşılaştırıldığını açıklayın."
+    },
+    "takeaways": [
+      "Aynı araç farklı modeller içinde çalışabilir.",
+      "Adil karşılaştırma aynı sorular ve açık koşullar gerektirir.",
+      "Kültürel ilgi, otomatik siyasi destek değildir."
+    ]
+  },
+  "en": {
+    "title": "Week 13: Compare different models fairly",
+    "nutshell": "A country’s news service, language course and student exchange do different things. Broadcasting may inform a large audience; a course may create repeated local contact; an exchange brings people into a shared experience. Ask “which arrangement might work, for whom and under what conditions?” rather than “which country is best?”",
+    "analogy": "Hypothetically, compare watching cooking videos, attending weekly classes and working alongside a cook. View counts and classroom friendships need different measures. First decide what you want to learn and how much time you have.",
+    "objectives": [
+      "Distinguish a tool from an operating model.",
+      "Ask different institutions the same clear questions.",
+      "Separate cultural appreciation from political support."
+    ],
+    "concepts": [
+      {
+        "term": "Tool",
+        "meaning": "A specific channel or activity used for contact.",
+        "example": "A social media account can publish announcements or make room for discussion."
+      },
+      {
+        "term": "Model",
+        "meaning": "The arrangement governing leadership, partner involvement and continued contact.",
+        "example": "The same language course can give local teachers decision rights or receive content only from headquarters."
+      },
+      {
+        "term": "Autonomy",
+        "meaning": "The space an institution or partner has to make its own decisions.",
+        "example": "Investigate whether a broadcaster can produce reports critical of its sponsor."
+      },
+      {
+        "term": "Reciprocity",
+        "meaning": "Both sides can influence the agenda and delivery, rather than simply listen.",
+        "example": "Course changes responding to local participants’ suggestions may indicate this."
+      }
+    ],
+    "steps": [
+      {
+        "title": "Choose a comparable question",
+        "text": "Replace “which is bigger?” with “which builds regular professional contact?” Examine the same period and similar participant groups. Do not directly rank budgets covering different activities."
+      },
+      {
+        "title": "Examine the arrangement",
+        "text": "Broadcasters such as BBC World Service and education-cultural bodies such as the British Council offer different contact. A name or national label is insufficient: who funds it, selects content and allows local partners to change it?"
+      },
+      {
+        "title": "Listen beyond the institution",
+        "text": "Investigate participant experience alongside institutional reports. Enjoying a language course does not mean endorsing the sponsoring state’s policy. Better-informed participants may develop more detailed criticism; criticism alone is not failure."
+      }
+    ],
+    "diagram": {
+      "title": "A comparison using the same questions",
+      "nodes": [
+        {
+          "title": "Choose a purpose",
+          "text": "For example, regular professional contact: what exactly are you seeking?"
+        },
+        {
+          "title": "Examine the arrangement",
+          "text": "How do decision rights, resources and local partners work?"
+        },
+        {
+          "title": "Investigate experience",
+          "text": "Who participated, who was excluded, and how was contact interpreted?"
+        },
+        {
+          "title": "Conclude conditionally",
+          "text": "What evidence exists, and which questions remain unanswered?"
+        }
+      ],
+      "caption": "Arrows show a research sequence. They do not claim contact automatically becomes trust or political support."
+    },
+    "workedExample": {
+      "title": "Audience size or a continuing relationship?",
+      "scenario": "Hypothetical exercise: institution A publishes an online talk; B runs a small joint workshop. You want to investigate later professional cooperation.",
+      "steps": [
+        "Record views and workshop attendance as separate activity records.",
+        "Ask both groups about joint projects or continuing contact three months later.",
+        "Record prior relationships and nonresponses; do not immediately attribute differences to the institutional model."
+      ],
+      "lesson": "The appropriate measure answers your question; it is not simply the institution’s largest-looking number."
+    },
+    "misconception": {
+      "claim": "“Copying a successful country’s institution will produce the same result.”",
+      "correction": "Language, safety, local partners and decision freedom may differ. Investigate the conditions needed for an arrangement to work elsewhere."
+    },
+    "quickCheck": {
+      "question": "Why should two institutions from one country not be treated as one voice?",
+      "answer": "Their purposes, decision arrangements, forms of contact and participants may differ."
+    },
+    "practice": {
+      "task": "In the shared Excel workbook’s student evidence matrix, add purpose, contact type and missing-evidence entries for two hypothetical institutions. Give both the same question.",
+      "hint": "Add your comparison question to week 13 in the 14-week guide. Explain which activities are comparable before comparing total budgets."
+    },
+    "takeaways": [
+      "One tool can operate within different models.",
+      "Fair comparison needs common questions and explicit conditions.",
+      "Cultural interest is not automatic political support."
+    ]
+  }
+}

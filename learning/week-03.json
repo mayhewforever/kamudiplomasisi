@@ -1,0 +1,193 @@
+{
+  "week": 3,
+  "tr": {
+    "title": "Birlik: Sempati ile devlet kararını ayırın",
+    "nutshell": "Amerikan İç Savaşı'nda Birlik, ABD'nin bütünlüğünü korumaya çalışan taraf; Konfederasyon ise ayrılan eyaletlerin kurduğu yapıydı. Birliğin Avrupa'daki temel amacı, Britanya ve Fransa'nın Konfederasyonu bağımsız bir devlet olarak tanımasını önlemekti. Bunun için halkın görüşleri önemliydi; ancak resmî kararı hükümetler veriyordu.",
+    "analogy": "Varsayımsal bir apartman toplantısı düşünün. Bir komşunun önerisini beğenebilirsiniz, fakat oy kullanırken masrafını da düşünürsünüz. Öneriyi öven bir kişinin sözü, bütün apartmanın kararı değildir. Benzer şekilde bir gazetenin Birliği desteklemesi, Britanya hükümetinin kararını tek başına göstermez. Duygu, gerekçe ve yetkiyi ayrı izlemek gerekir.",
+    "objectives": [
+      "Tarafsızlık, savaşan taraf statüsü ve devlet olarak tanınmanın farkını açıklamak.",
+      "Birliğin savaş gerekçesindeki değişimi doğru zaman sırasına yerleştirmek.",
+      "Resmî mesajı, bir diplomatın gözlemini ve hükümet kararını farklı kanıtlar olarak okumak."
+    ],
+    "concepts": [
+      {
+        "term": "Tarafsızlık",
+        "meaning": "Bir devletin çatışmaya resmen katılmadığını bildiren tutumdur. Bütün tarafları eşit derecede sevdiği anlamına gelmez.",
+        "example": "Avrupa devletlerinin tarafsızlık ilanlarını kamuoyunun sempatisiyle aynı şey saymayın."
+      },
+      {
+        "term": "Savaşan taraf statüsü",
+        "meaning": "Çatışmanın ve savaş hukuku çerçevesindeki belirli hakların kabul edilmesidir.",
+        "example": "Britanya ve Fransa 1861'de Konfederasyona bu statüyü tanıdı; bu, devletliğini tanımaları değildi."
+      },
+      {
+        "term": "Diplomatik tanınma",
+        "meaning": "Bir yapının bağımsız devlet olarak kabul edilmesiyle ilgili resmî adımdır. Savaşan taraf statüsünden daha ileri gider.",
+        "example": "Birliğin önlemek istediği temel adım, Konfederasyonun devlet olarak tanınmasıydı."
+      },
+      {
+        "term": "Güvenilirlik",
+        "meaning": "Bir anlatıcının söylediklerine inanılabilmesidir. Sözüyle yaptığı arasındaki ilişki önemlidir.",
+        "example": "Özgürleşme politikası, Birliğin davasını köleliğe karşı mücadeleyle daha inandırıcı biçimde ilişkilendirebildi."
+      }
+    ],
+    "steps": [
+      {
+        "title": "1. Başlangıçtaki mesajı anlayın",
+        "text": "1861'de Birlik ağırlıkla anayasal düzeni ve ülke bütünlüğünü savunuyordu. Avrupa'daki kölelik karşıtı çevreler, ülkeyi bir arada tutmakla köleliği bitirmeyi aynı amaç saymıyordu."
+      },
+      {
+        "title": "2. Politika değişimini tarihlendirin",
+        "text": "Eylül 1862'de ön özgürleşme bildirisi açıklandı. 1 Ocak 1863'te yürürlüğe giren düzenleme, isyan hâlindeki bölgelerde köleleştirilmiş kişilere yönelikti. Köleliği bir hamlede her yerde kaldırmadı."
+      },
+      {
+        "title": "3. Karara giden yolu arayın",
+        "text": "Bir mesajın yayımlanması, insanların onu nasıl karşıladığını göstermez. Olumlu tepki de hükümet kararını kanıtlamaz. Tepkinin karar vericilere nasıl ulaştığını araştırın; savaş riski ve askerî gelişmeler gibi başka nedenleri ekleyin."
+      }
+    ],
+    "diagram": {
+      "title": "Mesajdan karara: Dört ayrı soru",
+      "nodes": [
+        {
+          "title": "Politika ve açıklama",
+          "text": "Birlik neyi ilan etti?"
+        },
+        {
+          "title": "Yerel yorum",
+          "text": "Hangi Britanyalı çevre nasıl karşılık verdi?"
+        },
+        {
+          "title": "Karara iletim",
+          "text": "Bu görüş hükümete ulaştı mı?"
+        },
+        {
+          "title": "Hükümet tercihi",
+          "text": "Kararda hangi gerekçeler kullanıldı?"
+        }
+      ],
+      "caption": "Bu yol olası bir açıklamadır; tamamlanmış bir etki zinciri sayılmaz. Her ok ayrı belge gerektirir. Ekonomi ve savaş riski de son kararı etkileyebilir."
+    },
+    "workedExample": {
+      "title": "Örnek çözüm: Aynı olay, iki farklı belge",
+      "scenario": "Tarihsel örnek: Seward’ın 22 Eylül 1862 genelgesini, yani temsilcilere gönderilen resmî yazısını, Adams’ın 10 Ekim yanıtıyla karşılaştırın. Genelge resmî çerçeveyi iletir; yanıt Londra’daki elçinin gözlemini aktarır.",
+      "steps": [
+        "Genelgeyi 'ne anlatılmak istendi?' sorusuna yerleştirin. Göndericinin amacı, dinleyicinin ikna olduğunun kanıtı değildir.",
+        "Adams'ın yanıtını 'hangi tepkiler gözlendi?' sorusuna yerleştirin. Bu rapor bütün Britanya halkını temsil eden bir anket değildir.",
+        "Hükümet kararını açıklamak istiyorsanız karar kayıtlarını da arayın. İki metin arasındaki uyumu, eksik karar kanıtının yerine koymayın."
+      ],
+      "lesson": "Belgeleri saymak yerine her belgenin hangi soruyu cevaplayabildiğini belirleyin."
+    },
+    "misconception": {
+      "claim": "Özgürleştirme Bildirgesi tek başına Konfederasyonun tanınmasını önledi.",
+      "correction": "Politika ahlaki ve siyasi maliyeti değiştirmiş olabilir; askerî dayanıklılık, ticaret ve savaş riski de aynı karar ortamındaydı."
+    },
+    "quickCheck": {
+      "question": "Bir gazete yazısı Birliği övüyorsa, hükümetin de aynı gerekçeyle karar verdiğini söyleyebilir miyiz?",
+      "answer": "Hayır. Yazı bir yayımlanmış görüşü gösterir. Hükümetin değerlendirmesine bağlayan ek kanıt gerekir."
+    },
+    "practice": {
+      "task": "Excel öğrenci kanıt matrisine genelge ve elçi yanıtı için iki ayrı satır girin. Birine 'resmî amaç', diğerine 'sınırlı gözlem' yazın; her satırda gösterilemeyen sonucu belirtin.",
+      "hint": "14 haftalık rehberde üçüncü hafta için 'halkın tepkisi' ve 'hükümet kararı' ayrımını tamamlayın. Belgede olmayan görüşleri uydurmayın."
+    },
+    "takeaways": [
+      "Savaşan taraf statüsü, devlet olarak tanınmak değildir.",
+      "İnandırıcı iletişim, politikanın içeriğine ve kapsamına bağlıdır.",
+      "Bir çevrenin desteği, bütün toplumun veya hükümetin kararı yerine geçmez."
+    ]
+  },
+  "en": {
+    "title": "The Union: Sympathy and state decisions",
+    "nutshell": "In the American Civil War, the Union sought to preserve the United States; the Confederacy comprised seceding states. The Union wanted to prevent British and French recognition of Confederate independence. Public views mattered, but governments made official decisions.",
+    "analogy": "Imagine a hypothetical residents’ meeting. You may like a neighbour’s proposal but consider its cost when voting. One person’s praise is not everyone’s decision. Similarly, newspaper support for the Union cannot alone reveal Britain’s government decision. Follow feelings, reasons and authority separately.",
+    "objectives": [
+      "Explain differences between neutrality, belligerent status and state recognition.",
+      "Place changes in the Union's war justification in chronological order.",
+      "Read an official message, a diplomat's observation and a government decision as different evidence."
+    ],
+    "concepts": [
+      {
+        "term": "Neutrality",
+        "meaning": "A state's declared non-participation in a conflict. It does not mean equal affection for every side.",
+        "example": "Do not equate European neutrality declarations with public sympathy."
+      },
+      {
+        "term": "Belligerent status",
+        "meaning": "Acknowledging a conflict and certain rights under the laws of war.",
+        "example": "Britain and France granted the Confederacy this status in 1861; they did not recognise its statehood."
+      },
+      {
+        "term": "Diplomatic recognition",
+        "meaning": "Official acceptance as an independent state, going beyond belligerent status.",
+        "example": "Confederate state recognition was the principal step the Union wanted to prevent."
+      },
+      {
+        "term": "Credibility",
+        "meaning": "Being believable. The relationship between words and actions matters.",
+        "example": "Emancipation policy could connect the Union's cause more credibly to fighting slavery."
+      }
+    ],
+    "steps": [
+      {
+        "title": "1. Understand the initial message",
+        "text": "In 1861, the Union chiefly defended constitutional order and national unity. European antislavery circles did not consider preserving the country and ending slavery identical objectives."
+      },
+      {
+        "title": "2. Date the policy change",
+        "text": "A preliminary emancipation proclamation appeared in September 1862. The measure effective on 1 January 1863 applied to enslaved people in rebellious areas. It did not abolish slavery everywhere at once."
+      },
+      {
+        "title": "3. Find the decision pathway",
+        "text": "Publishing a message does not reveal its reception. Favourable responses do not prove government decisions. Investigate how responses reached decision-makers; include other causes such as war risks and military developments."
+      }
+    ],
+    "diagram": {
+      "title": "From message to decision: Four separate questions",
+      "nodes": [
+        {
+          "title": "Policy and announcement",
+          "text": "What did the Union declare?"
+        },
+        {
+          "title": "Local interpretation",
+          "text": "Which British circles responded, and how?"
+        },
+        {
+          "title": "Transmission to government",
+          "text": "Did those views reach officials?"
+        },
+        {
+          "title": "Government choice",
+          "text": "Which reasons informed the decision?"
+        }
+      ],
+      "caption": "This is a possible explanation, not an established influence chain. Each arrow needs evidence. Economics and war risks could also affect the final decision."
+    },
+    "workedExample": {
+      "title": "Worked example: One event, two documents",
+      "scenario": "Historical example: Compare Seward’s circular, an official message to representatives dated 22 September 1862, with Adams’s reply of 10 October. It communicates official framing; the reply reports the envoy’s London observations.",
+      "steps": [
+        "Use the circular to ask 'what was intended?' The sender's purpose does not prove audience persuasion.",
+        "Use Adams's reply to ask 'which responses were observed?' It is not a representative survey of Britain.",
+        "For government decisions, seek decision records. Agreement between these texts cannot replace missing decision evidence."
+      ],
+      "lesson": "Instead of counting documents, identify which question each can answer."
+    },
+    "misconception": {
+      "claim": "The Emancipation Proclamation alone prevented Confederate recognition.",
+      "correction": "Policy may have changed moral and political costs; military endurance, trade and war risks also shaped the decision environment."
+    },
+    "quickCheck": {
+      "question": "If a newspaper praises the Union, can we say the government decided for the same reason?",
+      "answer": "No. It shows a published view; additional evidence must connect it to government deliberation."
+    },
+    "practice": {
+      "task": "Enter separate rows for the circular and envoy’s reply in the Excel student evidence matrix. Label them “official purpose” and “limited observation”; note what each cannot establish.",
+      "hint": "In the 14-week guide, complete week three’s “public response/government decision” distinction. Never invent undocumented opinions."
+    },
+    "takeaways": [
+      "Belligerent status is not state recognition.",
+      "Credible communication depends on policy content and scope.",
+      "One circle's support cannot substitute for society's views or government decisions."
+    ]
+  }
+}

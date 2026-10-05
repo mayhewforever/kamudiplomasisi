@@ -1,0 +1,193 @@
+{
+  "week": 14,
+  "tr": {
+    "title": "Hafta 14: İşe yaradı mı, bunu nasıl anlarız?",
+    "nutshell": "Bir etkinliğin yapılması ile insanların bilgisinin, güveninin veya davranışının değişmesi ayrı şeylerdir. Son hafta, başarı iddiasını küçük ve cevaplanabilir sorulara böleceğiz. Sonra her soru için uygun kanıt arayacağız. Değerlendirme, yalnız sayı toplamak değildir; eksikleri dürüstçe söylemek ve insanların zarar görmesini önlemek de işin parçasıdır.",
+    "analogy": "Varsayımsal olarak saksınıza yeni bir gübre verdiğinizi düşünün. Bitki büyüdüyse bunun nedeni gübre olabilir; fakat daha çok güneş veya düzenli sulama da etkili olmuş olabilir. “Sonra büyüdü” demek ilk gözlemdir. “Bu yüzden büyüdü” demek için daha dikkatli karşılaştırma gerekir.",
+    "objectives": [
+      "Yapılan iş ile oluşan değişimi ayırmak.",
+      "Bir oranın hangi toplam gruba göre hesaplandığını ve eksik yanıtları kontrol etmek.",
+      "Kanıta uygun ve katılımcıları koruyan bir öneri yazmak."
+    ],
+    "concepts": [
+      {
+        "term": "Çıktı",
+        "meaning": "Faaliyetin doğrudan ortaya koyduğu ürün veya tamamlanan iş.",
+        "example": "Yayımlanan bir video çıktıdır; izleyicinin fikrinin değiştiğini göstermez."
+      },
+      {
+        "term": "Sonuç",
+        "meaning": "İncelediğimiz bilgi, ilişki veya davranış değişimi.",
+        "example": "Bir atölyeden sonra öğrenilen bilginin üç ay sonra da hatırlanması incelenebilir."
+      },
+      {
+        "term": "Başlangıç ölçümü",
+        "meaning": "Programdan önce aynı konudaki durumu kaydetmek.",
+        "example": "Bilgi artışını araştırıyorsanız, önce katılımcıların zaten ne bildiğini sorun."
+      },
+      {
+        "term": "Rakip açıklama",
+        "meaning": "Gözlenen değişimi açıklayabilecek başka bir neden.",
+        "example": "Katılımcılar zaten konuya ilgiliyse olumlu görüşlerinin tamamı programdan kaynaklanmayabilir."
+      }
+    ],
+    "steps": [
+      {
+        "title": "Dar bir soru kur",
+        "text": "“Ülkenin imajı iyileşti mi?” çok geniştir. Varsayımsal bir atölyede “Katılımcılar üç ay sonra öğrendikleri yöntemi kullanıyor mu?” diye sorabilirsiniz. Kimleri, hangi değişimi ve hangi süreyi incelediğinizi baştan yazın."
+      },
+      {
+        "title": "Uygun kanıtları birleştir",
+        "text": "Katılım listesi gelindiğini, bilgi sorusu hatırlamayı, görüşme deneyimin nasıl yorumlandığını gösterebilir. Aynı şeyi ölçmezler. Önceki durumu ve makul bir karşılaştırma grubunu araştırın; grupların başlangıçta farklı olabileceğini unutmayın."
+      },
+      {
+        "title": "Sınırlılığı karara dönüştür",
+        "text": "Veri zayıfsa kesin başarı ilan etmek yerine yeni bilgi toplamayı önerin. Kimlerin yanıt vermediğini ve olası zararları yazın. İnsanlar araştırmanın amacını anlamalı, gereksiz kişisel veriler toplanmamalı ve eleştiri söyleyebilmelidir."
+      }
+    ],
+    "diagram": {
+      "title": "Ölçümden karara dört adım",
+      "nodes": [
+        {
+          "title": "Soruyu sınırla",
+          "text": "Kimde, neyin, ne zaman değişmesi bekleniyor?"
+        },
+        {
+          "title": "Kanıt topla",
+          "text": "Başlangıç, sonraki ölçüm ve katılımcı deneyimini eşleştir."
+        },
+        {
+          "title": "Alternatifleri sınamayı dene",
+          "text": "Başka olaylar, katılımcıların önceki özellikleri veya eksik yanıtlar sonucu açıklayabilir mi?"
+        },
+        {
+          "title": "Ölçülü öneri ver",
+          "text": "Sürdür, değiştir veya daha fazla bilgi bekle; gerekçeni yaz."
+        }
+      ],
+      "caption": "Bu yol değerlendirme sürecini gösterir; bir programın etki üreteceğini garanti etmez. Her aşamada eksik kanıt veya etik sorun nedeniyle tasarım değişebilir."
+    },
+    "workedExample": {
+      "title": "Yüzdeyi doğru okumak",
+      "scenario": "Tamamen varsayımsal alıştırma: Bir atölyeye 40 kişi katılıyor. Sonraki ankete 20 kişi yanıt veriyor; bunların 12’si yeni yöntemi kullandığını söylüyor.",
+      "steps": [
+        "Yanıt verenler içinde oranı hesapla: 12 ÷ 20 = %60.",
+        "Bütün katılımcılar için %60 deme; 20 kişinin kullanımı bilinmiyor.",
+        "Başlangıç kullanımını ve diğer eğitimleri araştır. Beyanı, mümkünse kişisel veri toplamayan uygulama kanıtlarıyla karşılaştır."
+      ],
+      "lesson": "Bu sayı, yanıtlayanların bildirdiği kullanımı gösterir. Programın tek başına değişime neden olduğunu kanıtlamaz."
+    },
+    "misconception": {
+      "claim": "“Bilgi doğruysa kampanya mutlaka etiktir.”",
+      "correction": "Doğru bilgi de baskı altında sunulabilir veya gereksiz kişisel veri toplayabilir. Kaynak, amaç, reddetme hakkı ve zarar riski ayrıca incelenmelidir."
+    },
+    "quickCheck": {
+      "question": "Olumlu anket yanıtları tek başına neden sonuç ilişkisini kanıtlar mı?",
+      "answer": "Hayır. Önceki tutumlar, başka olaylar ve yanıt vermeyenlerin deneyimi açıklamayı değiştirebilir."
+    },
+    "practice": {
+      "task": "Ortak Excel dosyasındaki varsayımsal ölçüm laboratuvarına 40 katılımcı, 20 yanıt ve 12 kullanım beyanı girin. Yanıtlayanlar içindeki oranı hesaplayın; öğrenci kanıt matrisine bir sınırlılık yazın.",
+      "hint": "Gerçek öğrenci verisi kullanmayın. 14 haftalık rehberin son bölümüne bir cümlelik öneri ekleyin: hangi ek kanıt kararınızı değiştirirdi?"
+    },
+    "takeaways": [
+      "Faaliyet ve değişim aynı şey değildir.",
+      "Her yüzde için kimin sayıldığını sorun.",
+      "İyi değerlendirme belirsizliği ve etik sınırları görünür kılar."
+    ]
+  },
+  "en": {
+    "title": "Week 14: Did it work, and how can we tell?",
+    "nutshell": "Holding an event and changing knowledge, trust or behaviour are different things. This week breaks success claims into small, answerable questions and matches each with evidence. Evaluation also requires honesty about gaps and protection from harm.",
+    "analogy": "Imagine hypothetically adding new fertiliser to a plant. Growth might reflect fertiliser, extra sunlight or regular watering. “It grew afterwards” is an observation. “It grew because of this” requires a careful comparison.",
+    "objectives": [
+      "Separate completed work from change.",
+      "Check which total each proportion uses and which responses are missing.",
+      "Write an evidence-based recommendation that protects participants."
+    ],
+    "concepts": [
+      {
+        "term": "Output",
+        "meaning": "The direct product or completed work of an activity.",
+        "example": "A published video is an output; it does not establish changed opinions."
+      },
+      {
+        "term": "Outcome",
+        "meaning": "The change in knowledge, relationships or behaviour being investigated.",
+        "example": "Investigate whether workshop knowledge is remembered three months later."
+      },
+      {
+        "term": "Baseline",
+        "meaning": "A record of the relevant situation before a programme.",
+        "example": "To investigate learning, first ask what participants already know."
+      },
+      {
+        "term": "Rival explanation",
+        "meaning": "Another possible reason for the observed change.",
+        "example": "Existing interest may explain favourable opinions, rather than the programme alone."
+      }
+    ],
+    "steps": [
+      {
+        "title": "Narrow the question",
+        "text": "“Did the country’s image improve?” is broad. A hypothetical workshop question could be “Are participants using the method three months later?” Define the people, change and period first."
+      },
+      {
+        "title": "Combine suitable evidence",
+        "text": "Attendance lists show arrival, knowledge questions test recall, and interviews explore interpretation. They measure different things. Investigate the baseline and a reasonable comparison group; remember that groups may differ initially."
+      },
+      {
+        "title": "Turn limitations into decisions",
+        "text": "Weak evidence may justify collecting information instead of declaring success. Report nonresponses and possible harms. People should understand the research purpose and be able to criticise; avoid collecting unnecessary personal data."
+      }
+    ],
+    "diagram": {
+      "title": "Four steps from measurement to decision",
+      "nodes": [
+        {
+          "title": "Bound the question",
+          "text": "What should change, for whom and when?"
+        },
+        {
+          "title": "Gather evidence",
+          "text": "Connect the baseline, follow-up and participant experience."
+        },
+        {
+          "title": "Try testing alternatives",
+          "text": "Could other events, participants’ prior characteristics or missing responses explain the result?"
+        },
+        {
+          "title": "Recommend cautiously",
+          "text": "Continue, change or await information; explain why."
+        }
+      ],
+      "caption": "This is an evaluation process, not a guarantee of impact. Missing evidence or ethical concerns may require redesign at any stage."
+    },
+    "workedExample": {
+      "title": "Read a percentage correctly",
+      "scenario": "Entirely hypothetical exercise: 40 people attend a workshop; 20 answer a follow-up survey; 12 respondents say they use the new method.",
+      "steps": [
+        "Calculate the proportion among respondents: 12 ÷ 20 = 60%.",
+        "Do not claim 60% of all participants use it; usage among 20 people is unknown.",
+        "Investigate previous usage and other training. Where possible, compare reports with practical evidence requiring no personal data."
+      ],
+      "lesson": "The number shows reported usage among respondents. It does not prove the programme alone caused change."
+    },
+    "misconception": {
+      "claim": "“Accurate information makes a campaign ethical.”",
+      "correction": "Accurate information can still accompany pressure or unnecessary data collection. Examine source, purpose, refusal rights and harm separately."
+    },
+    "quickCheck": {
+      "question": "Do positive survey responses alone establish cause and effect?",
+      "answer": "No. Prior attitudes, other events and nonrespondents’ experiences may change the explanation."
+    },
+    "practice": {
+      "task": "Enter 40 participants, 20 responses and 12 usage reports in the shared Excel workbook’s hypothetical measurement lab. Calculate the proportion among respondents; add a limitation to the student evidence matrix.",
+      "hint": "Use no real student data. Add a one-sentence recommendation to the final section of the 14-week guide: what extra evidence would change your decision?"
+    },
+    "takeaways": [
+      "Activity and change are different.",
+      "Ask who is counted in every percentage.",
+      "Good evaluation makes uncertainty and ethical limits visible."
+    ]
+  }
+}

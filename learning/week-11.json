@@ -1,0 +1,193 @@
+{
+  "week": 11,
+  "tr": {
+    "title": "Film gösterildi: Peki insanlar ne düşündü?",
+    "nutshell": "Bir mesajı üretmek, insanlara ulaştırmak ve onların fikrini değiştirmek üç ayrı şeydir. Bu hafta radyo, film ve basının yolculuğunu izliyoruz. İyi Komşuluk Politikası döneminde ABD, Latin Amerika'da dostluk ve müdahale etmeme söylemini yaydı. Fakat geçmiş müdahalelerin yarattığı kuşku, yalnız yeni bir mesajla kendiliğinden silinmedi.",
+    "analogy": "Varsayımsal bir sınıf etkinliği düşünün. Davetiyeyi yazmak, gruba göndermek, arkadaşların okuması ve etkinliğe gelmesi farklı aşamalardır. Mesajın gönderilmiş görünmesi, herkesin okuduğunu bile göstermez. Kamu diplomasisinde de 'yayımlandı' sözcüğünden doğrudan 'ikna etti' sonucuna atlamayız.",
+    "objectives": [
+      "Radyo, film ve basının farklı erişim yollarını açıklamak.",
+      "Üretim, maruz kalma ve alımlama için ayrı kanıt seçmek.",
+      "Bir medya kampanyasının etkisine alternatif açıklama önermek."
+    ],
+    "concepts": [
+      {
+        "term": "Potansiyel erişim",
+        "meaning": "İçeriğin birine ulaşabilecek durumda olmasıdır; gerçekten görülmesi veya duyulması değildir.",
+        "example": "Varsayımsal: Bir radyo sinyali kente ulaşır, ancak herkesin alıcısı yoktur."
+      },
+      {
+        "term": "Maruz kalma",
+        "meaning": "Bir kişinin içerikle gerçekten karşılaşmasıdır. Dikkatle izlediğini veya inandığını ayrıca araştırırız.",
+        "example": "Varsayımsal: Salon kaydı, belirli gösterimde seyirci bulunduğunu gösterir."
+      },
+      {
+        "term": "Alımlama",
+        "meaning": "İnsanların mesajı nasıl yorumladığı, beğendiği, eleştirdiği veya reddettiğidir.",
+        "example": "Varsayımsal: Bir seyirci mektubu filmi beğenir ama siyasi sonucuna katılmaz."
+      },
+      {
+        "term": "Yerel aracı",
+        "meaning": "İçeriğin seçimini, dilini veya dolaşımını etkileyen editör, çevirmen ya da dağıtıcıdır.",
+        "example": "Varsayımsal: Gazete editörü gönderilen haberin başlığını değiştirir."
+      }
+    ],
+    "steps": [
+      {
+        "title": "1. Araçla imkânı eşleştirin",
+        "text": "Radyo hızlı ve tekrarlanan yayın sağlayabilir; film görüntüyle anlatı kurar; basın ayrıntılı metne yer verebilir. Bunlar teknik imkânlardır. Radyoda dil ve alıcı, filmde salon, basında editör kararı gibi somut geçişleri kontrol edin."
+      },
+      {
+        "title": "2. Yerel yorumu bulun",
+        "text": "Yalnız gönderen kurumun başarı raporunu okumayın. Yerel gazete, seyirci mektubu veya dinleyici kaydı arayın. Bir mektup bir kişinin tepkisini gösterir; bütün ülkenin görüşünü göstermez. Aynı ajans haberini kopyalayan üç gazete de üç bağımsız gözlem değildir."
+      },
+      {
+        "title": "3. Sonucu başka nedenlerle karşılaştırın",
+        "text": "Bir hükümetin işbirliği kararı filmin ardından gelebilir; fakat ticaret, güvenlik veya iç siyaset de etkili olabilir. Karar gerekçelerini ve zaman sırasını inceleyin. Filmi sevmek, kaynağa inanmak ve politikayı desteklemek için ayrı bulgu isteyin."
+      }
+    ],
+    "diagram": {
+      "title": "Mesajın yolculuğunda dört kontrol",
+      "nodes": [
+        {
+          "title": "Üretildi",
+          "text": "Film kopyası veya yayın metni var mı?"
+        },
+        {
+          "title": "Dağıtıldı",
+          "text": "Hangi salon, istasyon veya gazeteye ulaştı?"
+        },
+        {
+          "title": "Karşılaşıldı",
+          "text": "Kim izledi, dinledi veya okudu?"
+        },
+        {
+          "title": "Yorumlandı",
+          "text": "Hangi tepki, hangi kaynakta görüldü?"
+        }
+      ],
+      "caption": "Her geçiş kopabilir. Olumlu yorum bile davranış veya politika değişikliğini kanıtlamaz; o sonuç için ek kanıt gerekir."
+    },
+    "workedExample": {
+      "title": "Çözümlü alıştırma: On gösterim neyi gösterir?",
+      "scenario": "Tamamen varsayımsal bir çalışma dosyasında on film gösterimi, toplam 200 katılım kaydı ve beş olumlu seyirci mektubu var. Mektup yazarlarının nasıl seçildiği bilinmiyor.",
+      "steps": [
+        "On gösterimi faaliyet olarak kaydedin. 200 katılımı otomatik olarak 200 farklı insan saymayın; tekrar katılım olabilir.",
+        "Beş mektubu beş olumlu tepki olarak yazın. Gönüllü yazanların bütün seyircileri temsil ettiğini varsaymayın.",
+        "Politika desteği hakkında bilgi bulunmadığını belirtin. Beş mektubu 200'e bölüp kamuoyu desteği oranı ilan etmeyin."
+      ],
+      "lesson": "Dosya gösterimleri ve bazı olumlu yorumları belgeleyebilir. Ne bütün seyircilerin ikna olduğunu ne de siyasi kararın değiştiğini gösterir."
+    },
+    "misconception": {
+      "claim": "İzleyici sayısı büyüdükçe diplomatik etki de aynı oranda artar.",
+      "correction": "Daha çok temas fırsatı, daha çok güven demek değildir. Yorumlar farklılaşabilir; olumsuz tepki de oluşabilir."
+    },
+    "quickCheck": {
+      "question": "Bir filmin arşiv kataloğunda bulunması, yabancı seyircilerce izlendiğini gösterir mi?",
+      "answer": "Hayır. Katalog üretime veya korunmaya işaret edebilir; belirli yerdeki gösterim ve izlenme ayrıca belgelenmelidir."
+    },
+    "practice": {
+      "task": "Ortak Excel kitabındaki varsayımsal ölçüm laboratuvarında gösterim, katılım ve tepkiyi ayrı göstergeler olarak inceleyin. Kanıt matrisine 'bu sayı neyi kanıtlamaz?' notu ekleyin.",
+      "hint": "Eksik tepki verisini sıfır etki saymayın. Bilinmiyor ile sıfır aynı değildir."
+    },
+    "takeaways": [
+      "Dağıtım, izlenme ve ikna farklı aşamalardır.",
+      "Yerel aracılar mesajın anlamını değiştirebilir.",
+      "En güçlü sonuç, eldeki kanıtın sınırını açıkça söyler."
+    ]
+  },
+  "en": {
+    "title": "The film was screened: What did people think?",
+    "nutshell": "Producing a message, delivering it and changing minds are different things. This week follows radio, film and press. Under the Good Neighbor Policy, the United States promoted friendship and non-intervention in Latin America. Yet distrust arising from earlier interventions did not automatically disappear with a new message.",
+    "analogy": "Imagine a hypothetical class event. Writing an invitation, sending it, friends reading it and their attendance are separate stages. A 'sent' notification does not even prove everyone read the message. In public diplomacy, we likewise avoid jumping from 'published' to 'persuaded'.",
+    "objectives": [
+      "Explain the different access routes for radio, film and press.",
+      "Choose separate evidence for production, exposure and reception.",
+      "Propose another explanation for a campaign's apparent effect."
+    ],
+    "concepts": [
+      {
+        "term": "Potential reach",
+        "meaning": "Content is available to someone; this does not establish actual viewing or listening.",
+        "example": "Hypothetical: A radio signal reaches a city, but not everyone owns a receiver."
+      },
+      {
+        "term": "Exposure",
+        "meaning": "Someone actually encounters content. Attention and belief require further investigation.",
+        "example": "Hypothetical: Cinema records show attendance at a particular screening."
+      },
+      {
+        "term": "Reception",
+        "meaning": "How people interpret, enjoy, criticise or reject a message.",
+        "example": "Hypothetical: A viewer's letter praises a film but rejects its political conclusion."
+      },
+      {
+        "term": "Local intermediary",
+        "meaning": "An editor, translator or distributor who shapes selection, language or circulation.",
+        "example": "Hypothetical: A newspaper editor changes the supplied headline."
+      }
+    ],
+    "steps": [
+      {
+        "title": "1. Match medium to possibility",
+        "text": "Radio can provide rapid, repeated broadcasts; film combines images and narrative; press offers detailed text. These are technical possibilities. Check practical steps: language and receivers for radio, cinemas for film, editorial decisions for press."
+      },
+      {
+        "title": "2. Find local interpretation",
+        "text": "Read beyond the producer's success report. Seek local newspapers, viewers' letters or listening records. One letter shows one person's response, not a country's opinion. Three newspapers copying one agency story are not three independent observations."
+      },
+      {
+        "title": "3. Compare other explanations",
+        "text": "Government cooperation may follow a film, but trade, security or domestic politics could also matter. Examine decision-makers' reasons and timing. Require separate findings for enjoying the film, trusting its source and supporting its policy."
+      }
+    ],
+    "diagram": {
+      "title": "Four checks on a message's journey",
+      "nodes": [
+        {
+          "title": "Produced",
+          "text": "Is there a film copy or broadcast script?"
+        },
+        {
+          "title": "Distributed",
+          "text": "Which cinema, station or newspaper received it?"
+        },
+        {
+          "title": "Encountered",
+          "text": "Who watched, listened or read?"
+        },
+        {
+          "title": "Interpreted",
+          "text": "Which response appears in which source?"
+        }
+      ],
+      "caption": "Any transition may fail. Even favourable interpretation does not prove behavioural or policy change; that needs further evidence."
+    },
+    "workedExample": {
+      "title": "Worked exercise: What do ten screenings show?",
+      "scenario": "An entirely hypothetical file contains ten screenings, 200 recorded attendances and five favourable viewers' letters. How the letter writers were selected is unknown.",
+      "steps": [
+        "Record ten screenings as activity. Do not automatically count 200 attendances as 200 different people; repeat visits are possible.",
+        "Record five letters as five favourable responses. Do not assume volunteer writers represent all viewers.",
+        "State that policy support is unknown. Do not divide five letters by 200 and declare a public-support rate."
+      ],
+      "lesson": "The file can document screenings and some favourable interpretations. It establishes neither universal persuasion nor a changed political decision."
+    },
+    "misconception": {
+      "claim": "Diplomatic influence increases in direct proportion to audience size.",
+      "correction": "More opportunities for contact do not mean greater trust. Interpretations differ, and negative reactions are possible."
+    },
+    "quickCheck": {
+      "question": "Does an archive catalogue listing prove foreign audiences watched a film?",
+      "answer": "No. A listing may indicate production or preservation; screenings and viewing in a particular place need separate documentation."
+    },
+    "practice": {
+      "task": "In the shared Excel workbook's hypothetical measurement lab, examine screenings, attendance and responses as separate indicators. Add a 'what does this number not prove?' note to the evidence matrix.",
+      "hint": "Missing responses do not mean zero effect. Unknown and zero differ."
+    },
+    "takeaways": [
+      "Distribution, exposure and persuasion are separate stages.",
+      "Local intermediaries can change a message's meaning.",
+      "The strongest conclusion clearly states its evidence limits."
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "week": 1,
+  "tr": {
+    "title": "Güç: Elinizde olanla değiştirdiğiniz şeyi ayırın",
+    "nutshell": "Bir ülkenin parası, ordusu veya sevilen filmleri olabilir. Bunlar kaynaklardır. Gücü anlamak için bir adım daha gerekir: Bu kaynaklar başka birinin düşüncesini veya davranışını nasıl değiştirdi? Bu hafta, 'çok şeyi var' ile 'bir sonuç elde etti' arasındaki yolu inceleyeceğiz.",
+    "analogy": "Varsayımsal bir okul kulübü düşünün. İyi bir salonunuz olması kaynak, film gecesi düzenlemek faaliyet, insanların gelmesi katılımdır. Gelenlerin kulübe güvenmesi ve daha sonra üye olması farklı sonuçlardır. Kalabalık bir salon, herkesin fikrinin değiştiğini göstermez. Aynı ayrım ülkelerin iletişiminde de işe yarar.",
+    "objectives": [
+      "Kaynağı, yapılan faaliyeti ve elde edilen sonucu ayrı cümlelerle anlatmak.",
+      "Bir kişinin ödül, baskı veya çekicilik nedeniyle mi karşılık verdiğini sorgulamak.",
+      "Bir başarı iddiasında eksik olan kanıtı bulmak ve daha ölçülü bir sonuç yazmak."
+    ],
+    "concepts": [
+      {
+        "term": "Kaynak",
+        "meaning": "Bir aktörün kullanabileceği imkândır. Aktör, burada bir kişi, kurum veya devlet demektir.",
+        "example": "Bütçe ve saygın bir üniversite kaynak olabilir; bunlara sahip olmak tek başına etki kanıtı değildir."
+      },
+      {
+        "term": "Sert güç",
+        "meaning": "Karşı tarafın beklediği maddi kazancı veya kaybı değiştirerek davranışını etkilemektir.",
+        "example": "Varsayımsal olarak, belirli bir karara bağlanan ödeme maddi teşviktir; dostça görünmesi onu kendiliğinden yumuşak güç yapmaz."
+      },
+      {
+        "term": "Yumuşak güç",
+        "meaning": "Çekicilik ve davranışlarının haklı, kabul edilebilir bulunması yoluyla tercihleri şekillendirme kapasitesidir.",
+        "example": "Bir üniversiteye duyulan hayranlık olası bir kaynak olabilir; ülkenin bütün politikalarının desteklendiğini göstermez."
+      },
+      {
+        "term": "Kamu diplomasisi",
+        "meaning": "Dış amaçlarla bağlantılı olarak başka ülkelerdeki insanlarla örgütlü etkileşim kurmaktır. Devlet dışındaki ortaklar da katılabilir.",
+        "example": "Bir eğitim değişimi bilgi ve ilişki sağlayabilir; katılanların olumlu düşünmesini veya aynı politikayı desteklemesini garanti etmez."
+      }
+    ],
+    "steps": [
+      {
+        "title": "1. İstenen değişimi söyleyin",
+        "text": "Kim, kimin, hangi konuda değişmesini istiyor? 'Ülke daha sevilsin' yerine belirli bir hedef seçin. Bilgi artışı mı, güven mi, bir karar mı arandığını açıklayın."
+      },
+      {
+        "title": "2. Aradaki yolu bulun",
+        "text": "Ne yapıldı ve insanlar bunu nasıl yorumladı? Bu yorumlama aşamasına alımlama denir. Katılım sayısı ile katılımcının ne anladığını ayrı kaydedin; dinleyiciler aynı mesajı farklı okuyabilir."
+      },
+      {
+        "title": "3. Başka nedenleri düşünün",
+        "text": "Gözlenen değişim program olmadan da yaşanabilir miydi? Önceden var olan ilgi veya ortak çıkar da etkili olabilir. Yalnızca iki olayın art arda gelmesi, ilkinin ikincisine neden olduğunu kanıtlamaz."
+      }
+    ],
+    "diagram": {
+      "title": "İddianın dört kontrol noktası",
+      "nodes": [
+        {
+          "title": "Kaynak",
+          "text": "Hangi imkân kullanıldı?"
+        },
+        {
+          "title": "Faaliyet",
+          "text": "Bu imkânla ne yapıldı?"
+        },
+        {
+          "title": "Alımlama",
+          "text": "İnsanlar ne anladı veya hissetti?"
+        },
+        {
+          "title": "Sonuç",
+          "text": "Hangi tercih ya da davranış değişti?"
+        }
+      ],
+      "caption": "Oklar başarı garantisi değildir. Her geçiş ayrı kanıt ister; süreç herhangi bir noktada durabilir veya beklenmeyen tepki doğurabilir."
+    },
+    "workedExample": {
+      "title": "Örnek çözüm: Bir bursun etkisi",
+      "scenario": "Varsayımsal örnek: Bir ülke on öğrenciye burs verir. Program sonunda sekiz öğrenci üniversiteyi beğendiğini söyler. Yönetici, bunun ülkenin dış politikasına destek yarattığını ileri sürer.",
+      "steps": [
+        "Bursları faaliyet, sekiz olumlu yanıtı üniversiteye ilişkin değerlendirme olarak ayırın. Bunlar aynı ölçüm değildir.",
+        "Öğrencilerin başlangıçtaki görüşlerini ve dış politika hakkındaki ayrı yanıtlarını arayın. Üniversiteyi beğenmek o politikayı onaylamak demek değildir.",
+        "Sonucu daraltın: Bu yanıtlar üniversiteye yönelik olumlu değerlendirmeyi gösterir; dış politika desteğindeki değişimi henüz göstermez."
+      ],
+      "lesson": "İyi analiz, verinin anlattığından daha büyük bir başarı öyküsü kurmaz."
+    },
+    "misconception": {
+      "claim": "Çok görüntülenme, çok yumuşak güç demektir.",
+      "correction": "Görüntülenme olası erişimi gösterir. İzleyicinin yorumu, güveni ve tercihi için başka kanıt gerekir."
+    },
+    "quickCheck": {
+      "question": "Bir toplantıya yüz kişinin gelmesi, yüz kişinin ikna olduğunu gösterir mi?",
+      "answer": "Hayır. Katılımı gösterir; ikna için görüşlerin değiştiğini gösteren kanıt aranmalıdır."
+    },
+    "practice": {
+      "task": "Excel dosyasındaki varsayımsal ölçüm laboratuvarında verilen ölçümlerin neyi gösterdiğini inceleyin. Burs örneği için öğrenci kanıt matrisine bir iddia, eldeki kanıt ve henüz bilmediğiniz bir şeyi yazın.",
+      "hint": "Görüntülenme, beğeni ve politika desteğini aynı ölçü saymayın. Eksik bilgiye sıfır vermek yerine 'bilinmiyor' yazın."
+    },
+    "takeaways": [
+      "Kaynak, kullanılabilecek imkândır; sonuç ayrıca gösterilir.",
+      "Aynı araç farklı insanlarda farklı tepkiler doğurabilir.",
+      "Bir sonuç iddiası, onu destekleyen kanıttan daha geniş olmamalıdır."
+    ]
+  },
+  "en": {
+    "title": "Power: Separate what you have from what you change",
+    "nutshell": "Countries may have money, armies or popular films: resources. Understanding power requires another question: How did these resources change someone else’s thinking or behaviour? This week follows the path from possessing resources to achieving results.",
+    "analogy": "Imagine a hypothetical school club. A good hall is a resource; organising a film night is an activity; people showing up is attendance. Trusting the club and later joining are different results. A crowded hall does not prove changed minds. This distinction also helps explain countries’ communication.",
+    "objectives": [
+      "Describe the resource, activity and result in separate sentences.",
+      "Ask whether someone responded because of a reward, pressure or attraction.",
+      "Find missing evidence in a success claim and write a careful conclusion."
+    ],
+    "concepts": [
+      {
+        "term": "Resource",
+        "meaning": "Something an actor—a person, organisation or state—can use.",
+        "example": "A budget or respected university can be a resource; possessing it alone does not prove influence."
+      },
+      {
+        "term": "Hard power",
+        "meaning": "Influencing behaviour by changing another party's expected material gain or loss.",
+        "example": "Hypothetically, payment conditional on a decision is a material incentive; friendliness does not automatically make it soft power."
+      },
+      {
+        "term": "Soft power",
+        "meaning": "The capacity to shape preferences through attraction and being seen as justified and acceptable.",
+        "example": "Admiration for a university may be a resource; it does not show support for all its country's policies."
+      },
+      {
+        "term": "Public diplomacy",
+        "meaning": "Organised engagement with people in other countries, connected to external purposes. Partners outside government can participate.",
+        "example": "Educational exchanges may provide knowledge and relationships, without guaranteeing favourable opinions or shared policy support."
+      }
+    ],
+    "steps": [
+      {
+        "title": "1. Name the intended change",
+        "text": "Who wants whom to change, on which issue? Choose a specific target instead of “make the country more popular”. Is the aim greater knowledge, trust or a decision?"
+      },
+      {
+        "title": "2. Follow the path between them",
+        "text": "What happened, and how did people interpret it? This interpretation is called reception. Record attendance separately from what participants understood; audiences can interpret the same message differently."
+      },
+      {
+        "title": "3. Consider other causes",
+        "text": "Could the observed change have happened without the programme? Previous interest or shared interests might also matter. Two events happening in sequence does not prove the first caused the second."
+      }
+    ],
+    "diagram": {
+      "title": "Four checkpoints for a claim",
+      "nodes": [
+        {
+          "title": "Resource",
+          "text": "What capacity was available?"
+        },
+        {
+          "title": "Activity",
+          "text": "What was done with it?"
+        },
+        {
+          "title": "Reception",
+          "text": "What did people understand or feel?"
+        },
+        {
+          "title": "Result",
+          "text": "Which preference or behaviour changed?"
+        }
+      ],
+      "caption": "Arrows do not guarantee success. Each transition needs evidence; the process may stop anywhere or produce an unexpected response."
+    },
+    "workedExample": {
+      "title": "Worked example: A scholarship's effect",
+      "scenario": "Hypothetical example: A country funds ten scholarships. Afterwards, eight students say they like the university. An administrator claims this created support for the country's foreign policy.",
+      "steps": [
+        "Separate scholarships, an activity, from eight favourable university assessments. These measure different things.",
+        "Look for students' initial views and separate answers about foreign policy. Liking a university does not mean approving that policy.",
+        "Narrow the conclusion: These answers show a favourable assessment of the university; they do not yet show changed foreign-policy support."
+      ],
+      "lesson": "Good analysis builds no success story bigger than its evidence."
+    },
+    "misconception": {
+      "claim": "More views mean more soft power.",
+      "correction": "Views indicate potential reach. Audience interpretation, trust and preferences need other evidence."
+    },
+    "quickCheck": {
+      "question": "Does a hundred people attending a meeting mean a hundred were persuaded?",
+      "answer": "No. It shows attendance; persuasion requires evidence that views changed."
+    },
+    "practice": {
+      "task": "Examine what the Excel workbook’s hypothetical lab measures. For the scholarship example, add a claim, available evidence and one unknown to the student evidence matrix.",
+      "hint": "Do not treat views, liking and policy support as one measure. Write 'unknown' for missing information, rather than zero."
+    },
+    "takeaways": [
+      "Resources are available capacity; results need evidence.",
+      "The same instrument can produce different responses in different people.",
+      "A claim about results should not exceed its supporting evidence."
+    ]
+  }
+}

@@ -1,0 +1,503 @@
+{
+  "week": 8,
+  "tr": {
+    "orientation": "Bu haftanın sorusu yalnızca propaganda kötü müdür değildir. Daha verimli soru, belirli bir iletişim uygulamasının hangi koşullarda doğru, savunulabilir ve hesap verebilir olduğudur. Birinci Dünya Savaşı sırasında Kamuoyu Bilgilendirme Komitesi (CPI), savaş hedeflerini açıklayan ve seferberliği destekleyen iletişim yürüttü. Bu bölüm, içeriğin doğruluğunu, iletim yöntemini, hedef kitlenin seçeneklerini ve kurumsal mirası birbirinden ayırarak gerekçeli değerlendirme yapmayı öğretir.",
+    "sections": [
+      {
+        "id": "definitions",
+        "title": "1. Kavramlar hüküm değil, inceleme araçlarıdır",
+        "why": "Bir etiketi açıklama yerine kullanmak, neyin gerçekten sorunlu olduğunu görünmez kılar.",
+        "paragraphs": [
+          "Bilgilendirme, savunuculuk ve propaganda arasında bütün araştırmacıların kabul ettiği tek sınır bulunmaz. Bilgilendirme de hangi olgunun seçileceğini gerektirir. Savunuculuk, belirli bir görüşün açıkça desteklenmesidir. Propaganda burada siyasi düşünceyi yönlendirmeyi amaçlayan sistemli iletişim olarak ele alınabilir; bu çalışma tanımı, faaliyetin her cümlesinin yanlış olduğunu söylemez. Tanımı açıklamak, incelemenin başlangıcıdır; etik kararın kendisi değildir.",
+          "Üç soruyu ayrı sorun: Aktör neyi amaçlıyor, metin ne söylüyor, uygulama nasıl işliyor? Bir kurum kamu güvenliğini amaçladığını belirtebilir; fakat bu amaç, kullandığı kanıtı doğrulamaz. Tersine, doğru bir bilgi sunması da yöntemin baskısız olduğunu göstermez. Amaç beyanını, yayımlanmış içeriği ve uygulama kaydını aynı belgeyle kanıtlamaya çalışmak, birbirinden farklı iddiaları tekleştirir.",
+          "İki yorum arasında verimli bir gerilim vardır. Bir yorum, savaş iletişimini gerekli kamusal açıklama olarak görür; diğeri, kaynak eşitsizliğinin eleştiriyi bastırma gücüne dikkat çeker. Bunlardan birini baştan seçmek yerine, aynı ölçütleri bütün taraflara uygulayın. İncelemenin sonunda bir uygulamanın belirli boyutlarını savunup başka boyutlarını eleştirebilirsiniz. Böyle bir sonuç, belirsizlik değil ayrıntılı muhakeme göstergesidir."
+        ],
+        "example": {
+          "title": "Varsayımsal benzetme: Okul seçimi",
+          "text": "Bir okul yönetimi kendi programını savunabilir. Ancak başka okulların sonuçlarını gizlemesiyle açık karşılaştırma sunması aynı iletişim yöntemi değildir. Benzetme seçim koşullarını görünür kılar; savaşın güvenlik baskısını bütünüyle temsil etmez."
+        },
+        "checkpoint": {
+          "question": "Propaganda etiketi tek başına neyi kanıtlamaz?",
+          "answer": "Yalanı, baskıyı veya fiili etkiyi kanıtlamaz; her biri için ayrı ölçüt ve kanıt gerekir."
+        }
+      },
+      {
+        "id": "truth-context",
+        "title": "2. Doğruluk ile yeterli bağlamı ayırın",
+        "why": "Tek tek doğru cümleler, okuyucunun ulaştığı genel sonucu yine de çarpıtabilir.",
+        "paragraphs": [
+          "Bir olgusal iddia, kayıtlarla sınanabilecek bir önermedir; değer yargısı ise neyin iyi, haklı veya önemli olduğuna ilişkin değerlendirmedir. Önce bu ikisini ayırın. Ardından doğru görünen cümlenin hangi dönem, karşılaştırma grubu ve kapsam için geçerli olduğunu sorun. Bir başarının varlığı, bütün uygulamanın başarılı olduğu sonucunu taşımaz. Kapsamın sessizce büyütülmesi yaygın bir çıkarım hatasıdır.",
+          "Eksiltme her zaman aldatma değildir: Hiçbir kısa metin bütün bilgileri taşıyamaz. Kritik soru, dışarıda bırakılan bilginin makul bir okuyucunun kararını değiştirip değiştirmeyeceğidir. Ayrıca bilginin yayın tarihinde bilindiğini araştırın. Sonradan öğrenilmiş bir sonucu eski metinde bulamamak, kasıtlı gizlemeyi göstermez. İç taslaklar, düzeltmeler ve yazışmalar, seçim sürecini görünür kıldığında daha güçlü bir değerlendirme mümkün olur.",
+          "İçeriğin yanıltıcı olma ihtimali ile insanların gerçekten yanıltılması farklı iddialardır. İlkini metin ve bağlam karşılaştırması destekleyebilir. İkincisi için okuyucunun yorumu hakkında bulgu gerekir. Aynı metni eleştirel okuyan bir kişi, eksikliği fark edebilir. Bu nedenle analizinizde metnin özelliğini, yazarın olası niyetini ve gözlenmiş alımlamayı ayrı cümlelere yerleştirin; aralarındaki boşluğu varsayımla doldurmayın."
+        ],
+        "example": {
+          "title": "Varsayımsal örnek: Eksik payda",
+          "text": "Bir bülten üç başarılı sevkiyatı sayar, toplam sevkiyat sayısını vermez. Başarılar gerçek olabilir. Genel başarı oranı için toplamın ve başarısızlıkların bilinmesi gerekir; sayıdaki eksiklik tek başına niyetin kanıtı değildir."
+        },
+        "checkpoint": {
+          "question": "Eksik bilgi bulmak, kasıtlı aldatmayı gösterir mi?",
+          "answer": "Hayır. Bilginin o sırada bilindiği, seçimin nasıl yapıldığı ve niyet iddiasının dayanağı ayrıca araştırılır."
+        }
+      },
+      {
+        "id": "autonomy",
+        "title": "3. Özerklik, okuyucunun gerçek seçenekleridir",
+        "why": "Kâğıt üzerinde cevap hakkı, pratikte güvenli ve erişilebilir bir itiraz yolu olmayabilir.",
+        "paragraphs": [
+          "Hedef kitlenin özerkliği, insanların farklı iddiaları karşılaştırabilmesi, kararını erteleyebilmesi ve katılmadığını ifade edebilmesidir. Bu, hiç etkilenmemek anlamına gelmez. Öğrenme ve ikna insan ilişkilerinin parçasıdır. Sorun, karşılaştırma imkânlarının gizlice daraltılması veya reddin cezalandırılmasıdır. Özerkliği ölçerken yalnız metnin tonuna değil, mesajın çevresindeki güç ilişkilerine ve olası yaptırımlara da bakmak gerekir.",
+          "Kaynak açıklığı bu seçenekleri destekler. İnsanlar bir hükümet açıklamasını, bağımsız görünen başyazıyı ve ücretli duyuruyu aynı biçimde değerlendirmeyebilir. Finansmanın gizlenmesi, kaynağın çıkarını hesaba katma fırsatını azaltır. Bununla birlikte sponsorun görünür olması bütün etik sorunları çözmez: Açık kaynaklı metin de çarpıtabilir, korkutabilir veya eleştiriyi dışlayabilir. Şeffaflık önemli bir koşuldur; tek başına yeterli koşul değildir.",
+          "Aynı mesajın farklı gruplarda farklı baskı yaratabileceğini düşünün. Güvenceli bir kişi vatansever çağrıyı öneri gibi duyarken, zaten kuşku altında bulunan biri bunu sadakat sınavı sayabilir. Bu farkı okuyucunun zayıflığı diye açıklamayın. Hukuki durum, iş ilişkisi, dil ve medyaya erişim değerlendirmeye girer. Kamuoyu sessizliği de otomatik rıza değildir; sessizliğin güven, ilgisizlik veya korkudan kaynaklanması mümkündür."
+        ],
+        "example": {
+          "title": "Varsayımsal örnek: Açık sponsor, kapalı tartışma",
+          "text": "Kaynağı belirtilmiş bir işyeri duyurusu çalışanları siyasi toplantıya çağırıyor; katılmayanların listeleneceği söyleniyor. Sponsor açık olsa da olası yaptırım, gönüllü tercih değerlendirmesini değiştirir."
+        },
+        "checkpoint": {
+          "question": "Herkesin mesajı duyması özerkliği kanıtlar mı?",
+          "answer": "Hayır. Alternatif bilgiye erişim ve baskı görmeden reddedebilme ayrıca incelenmelidir."
+        }
+      },
+      {
+        "id": "responsibility",
+        "title": "4. Sorumluluk zincirini belgelerle kurun",
+        "why": "Aynı dönemde çalışan bütün kurumları tek fail saymak, gerçek karar yollarını örter.",
+        "paragraphs": [
+          "CPI, daha geniş bir savaş ve baskı ortamında faaliyet gösterdi. Espionage Act ve Sedition Act, iletişim komitesinden ayrı hukuki düzenlemelerdi. Yasama, yargı ve uygulayıcı makamların görevleriyle CPI iletişimini ayırmak gerekir. Bu ayrım komiteyi ahlaki incelemeden muaf tutmaz; yalnız hangi zararın hangi yetki, karar ve uygulama üzerinden doğduğunu doğru sormayı sağlar.",
+          "Üç sorumluluk düzeyi kurabilirsiniz: Doğrudan talimat, öngörülebilir katkı ve zarar öğrenildikten sonraki tepki. Merkezin emri, ilk düzeyi destekler. Teşvikler ve tekrar eden şikâyetler, ikinci düzeyi tartışmaya açabilir. Düzeltme veya denetim kayıtları, üçüncü düzeyi aydınlatır. Bir düzeye ait belgeyi diğerinin kesin kanıtı saymayın; hukuki sorumlulukla tarihsel veya etik katkı değerlendirmesi de aynı soru değildir.",
+          "Yerel konuşmacılar, editörler ve gönüllüler merkezden gelen mesajı değiştirebilir. Bu durum, merkezin ya her şeyden sorumlu ya da tamamen sorumsuz olduğunu göstermez. Denetim kapasitesi, verilen rehberlik ve müdahale imkânı araştırılır. Elde doğrudan emir bulunmadığında katkı ihtimali incelenebilir; ancak ihtimal kesinlik gibi sunulmaz. Karşı kanıt, örneğin zarar verici dili yasaklayan talimat, değerlendirmeye mutlaka katılmalıdır."
+        ],
+        "example": {
+          "title": "Varsayımsal örnek: Sertleşen konuşma",
+          "text": "Bir gönüllü, genel katılım çağrısını yerel muhalifleri hedef gösteren konuşmaya dönüştürüyor. İnceleme, merkez metniyle konuşmayı karşılaştırır; merkezin olayı öğrenip öğrenmediğini ve nasıl yanıt verdiğini araştırır."
+        },
+        "checkpoint": {
+          "question": "Merkez emri bulunamaması neyi gösterir?",
+          "answer": "Doğrudan emir iddiasının kanıtlanmadığını; bütün katkı veya denetim sorumluluğunun yokluğunu değil."
+        }
+      },
+      {
+        "id": "legacy",
+        "title": "5. Kurumun kapanması, her şeyin bitmesi değildir",
+        "why": "Devamlılığı göstermek için benzerlikten daha fazlasına ihtiyaç vardır.",
+        "paragraphs": [
+          "CPI savaş sonrasında kalıcı bir bilgi bakanlığına dönüşmedi. Fakat bir kurumun hukuki varlığı ile insanların taşıdığı deneyim aynı düzey değildir. Gazeteciler, sanatçılar ve organizatörler başka yapılarda çalışabilir; dağıtım yöntemleri yeniden kullanılabilir. Kurumsal süreksizlikle mesleki devamlılığı birlikte düşünmek, kapanış tarihini bütün ilişkilerin sonu gibi okumayı önler. Her devamlılık türü ayrı kanıt gerektirir.",
+          "Bir miras iddiasında taşıyıcıyı, zamanı ve aktarım yolunu belirtin. Personel kaydı bir kişinin geçişini; yazışma belirli bir yöntemin bilinçli aktarımını; usul belgesi çalışma pratiğinin değişmesini gösterebilir. Benzer afişler tek başına doğrudan soy bağı kurmaz. Benzer sorunlarla karşılaşan kuruluşlar benzer çözümler de üretebilir. Tarihsel benzerlik bir araştırma sorusudur, tamamlanmış nedensellik kanıtı değildir.",
+          "Miras yalnız beceri değildir; propaganda şüphesi de sonraki örgütlenmeleri etkileyen siyasi hafızanın parçasıdır. Kültürel ilişki veya eğitim adını seçmek, önceki deneyimden uzaklaşma isteği gösterebilir. Fakat yeni adın yeni uygulamayla eşleştiği ayrıca sınanır. Bütçe, denetim, açıklık ve hedef kitleye yanıt imkânını karşılaştırın. Böylece geçmiş, kaçınılmaz ilerleme çizgisi yerine kapasite, eleştiri ve yeniden tasarımın birleşimi olarak anlaşılır."
+        ],
+        "example": {
+          "title": "Varsayımsal benzetme: Dağılan kulüp",
+          "text": "Bir kulüp kapanır; eski üyeler farklı bir dernekte aynı toplantı yöntemini kullanır. İnsan ve yöntem devamlılığı bulunabilir, fakat eski kulübün hukuken sürdüğü söylenemez. Devlet kurumları için kanıt yükü daha ayrıntılıdır."
+        },
+        "checkpoint": {
+          "question": "Sonraki kurumda benzer bir yöntem bulmak yeterli mi?",
+          "answer": "Hayır. Aktarımın taşıyıcısı ve yolu gösterilmeli; bağımsız geliştirme olasılığı da düşünülmelidir."
+        }
+      },
+      {
+        "id": "judgement",
+        "title": "6. Etik değerlendirmeyi gerekçeli karara dönüştürün",
+        "why": "İyi niyet, başarı ve etik uygunluk aynı sütuna yazılamaz.",
+        "paragraphs": [
+          "Önce dar bir eylem belirleyin: Sponsorun gizlenmesi, başarısızlığın çıkarılması veya eleştirinin caydırılması gibi. Sonra doğruluk, kaynak açıklığı, itiraz imkânı, beklenebilir zarar ve düzeltilebilirlik için ayrı bulgu yazın. Tek bir toplam puan, ciddi bir ihlali küçük olumlu özelliklerle görünmez kılabilir. Gerekçeli değerlendirme, hangi ilkenin hangi bulguyla ilgili olduğunu okuyucuya açıkça göstermelidir.",
+          "Orantılılık, amaçla kullanılan yöntemin ağırlığını karşılaştırır. Aciliyet kısa açıklamayı gerektirebilir; bundan sınırsız gizleme yetkisi çıkmaz. Aynı amaca daha az zarar veren gerçekçi bir seçenek bulunup bulunmadığını sorun. Öneriniz dönemin imkânlarıyla uygulanabilir olmalıdır. Bugünkü bütün bilgi ve araçları tarihsel aktöre yüklemek de, dönemde yaygın uygulamayı otomatik mazeret saymak da değerlendirmeyi zayıflatır.",
+          "Son kararı sürdür, değiştir veya durdur biçiminde formüle edebilir; ardından en güçlü karşı itirazı yazabilirsiniz. Kararın hangi yeni bilgiyle değişeceğini belirtin. Bu, kararsızlık değil hesap verebilir muhakemedir. Etkililik ayrı sütunda kalmalıdır: Bir yöntem işe yarayıp etik bakımdan sorunlu olabilir; etik kurallara uygun yöntem de beklenen iknayı yaratmayabilir. Her iki hüküm için farklı kanıt soruları sorulur."
+        ],
+        "example": {
+          "title": "Varsayımsal örnek: Geciken düzeltme",
+          "text": "Bir kurum yanlış haberi fark edip yalnız küçük bir duyuruyla düzeltiyor. Düzeltme yapılması olumlu bir bulgudur; ilk habere maruz kalanların düzeltmeyi görebilmesi ve gecikmenin zararı ayrıca değerlendirilir."
+        },
+        "checkpoint": {
+          "question": "Etik bir uygulama mutlaka etkili midir?",
+          "answer": "Hayır. Yöntemin savunulabilirliği ile gözlenen sonuç ayrı değerlendirmelerdir."
+        }
+      }
+    ],
+    "visuals": [
+      {
+        "kind": "flow",
+        "title": "Etik değerlendirme yolu",
+        "caption": "Oklar inceleme sırasını gösterir; doğru sonuca veya etik uygunluğa otomatik geçiş göstermez.",
+        "nodes": [
+          {
+            "title": "Eylemi sınırla",
+            "text": "Hangi metin, tarih ve uygulama?"
+          },
+          {
+            "title": "Kanıtı ayır",
+            "text": "İçerik, yöntem ve alımlama için ayrı kayıt."
+          },
+          {
+            "title": "Alternatifi karşılaştır",
+            "text": "Daha az zarar veren uygulanabilir seçenek var mı?"
+          },
+          {
+            "title": "Kararı gerekçelendir",
+            "text": "Hüküm, belirsizlik ve düzeltme koşulu birlikte yazılır."
+          }
+        ]
+      },
+      {
+        "kind": "comparison",
+        "title": "Birbirine karıştırılmaması gereken yargılar",
+        "caption": "Her satır farklı bir araştırma sorusudur; biri diğerinin yerine geçmez.",
+        "columns": [
+          "Boyut",
+          "Temel soru",
+          "Tek başına yetersiz gösterge"
+        ],
+        "rows": [
+          [
+            "Doğruluk",
+            "İddia olgusal olarak destekleniyor mu?",
+            "Kurumun kendini güvenilir tanıtması"
+          ],
+          [
+            "Şeffaflık",
+            "Üretici ve finansör anlaşılabiliyor mu?",
+            "Yalnız yayıncının logosu"
+          ],
+          [
+            "Özerklik",
+            "Okur itiraz edebilir mi?",
+            "Mesajın geniş dolaşımı"
+          ],
+          [
+            "Etkililik",
+            "Belirli bir değişim gözlendi mi?",
+            "Olumlu amaç beyanı"
+          ]
+        ]
+      },
+      {
+        "kind": "matrix",
+        "title": "Kaynak neyi gösterir?",
+        "caption": "Belgenin değeri, cevaplayabildiği soruyla sınırlıdır.",
+        "columns": [
+          "Kaynak",
+          "Destekleyebileceği bulgu",
+          "Sınır"
+        ],
+        "rows": [
+          [
+            "İç talimat",
+            "Yöneticinin istediği uygulama",
+            "Yerelde aynı şekilde uygulandığını göstermez"
+          ],
+          [
+            "Yayımlanan bülten",
+            "Okura sunulan içerik",
+            "Okurun ne anladığını göstermez"
+          ],
+          [
+            "Okur mektubu",
+            "Belirli kişinin yorumu",
+            "Bütün kamuoyunu temsil etmez"
+          ],
+          [
+            "Düzeltme kaydı",
+            "Kurumsal yanıtın zamanı",
+            "Zararın giderildiğini garanti etmez"
+          ]
+        ]
+      }
+    ],
+    "cases": [
+      {
+        "title": "Vaka 1: Gizli finansman",
+        "scenario": "Varsayımsal bir yerel gazete, doğru savaş haberlerini dışarıdan maddi destek alarak yayımlıyor; destekçiyi açıklamıyor.",
+        "steps": [
+          "Önce doğrulukla finansmanı ayrı doğrulayın. Haberlerin doğru olması, okurun kaynak bilgisinin yeterli olduğunu göstermez.",
+          "Destekçinin içerik seçimine müdahale edip etmediğini araştırın. Finansman, bütün cümlelerin emredildiğini otomatik kanıtlamaz.",
+          "Açıklama ekleme seçeneğini değerlendirin. Okurun kaynağı bilmesinin hangi kararını etkileyebileceğini belirtin; tepkiyi varsaymayın."
+        ],
+        "conclusion": "Sınırlı sonuç, gizli destek nedeniyle şeffaflık sorunu bulunduğudur. Yalan, tam denetim ve kitlesel ikna iddiaları mevcut senaryodan çıkmaz."
+      },
+      {
+        "title": "Vaka 2: Kapanan kurum, süren yöntem",
+        "scenario": "Varsayımsal bir araştırmacı, kapanmış kurumun eski çalışanını sonraki bir yayın biriminde buluyor; iki kurum benzer afişler kullanıyor.",
+        "steps": [
+          "Personel devamlılığını kayıtla sabitleyin; tek kişinin taşınması bütün yapının devam ettiğini göstermez.",
+          "Yöntem aktarımı için eğitim notu, yazışma veya açık atıf arayın. Görsel benzerliğin bağımsız açıklaması olabilir.",
+          "Yeni birimin amaç, yetki ve denetimini karşılaştırın. Aynı teknik farklı kurallar altında başka bir ilişki kurabilir."
+        ],
+        "conclusion": "Personel devamlılığı gösterilmiş olabilir; kurumsal veya amaçsal devamlılık ayrı araştırılmalıdır. Aktarımın kapsamını dar tutmak daha güçlü bir tarihsel açıklama üretir."
+      }
+    ],
+    "practice": {
+      "title": "Excel ile gerekçeli etik dosyası",
+      "task": "Ortak çalışma kitabının öğrenci kanıt matrisinde bir varsayımsal mesajı inceleyin; puan toplamaktan önce yargılarınızı ayırın.",
+      "steps": [
+        "Mesajın tarihi, kaynağı ve tam iddiası için bir satır oluşturun; varsayımsal olduğunu belirtin.",
+        "Doğruluk, açıklık ve itiraz imkânına ilişkin mevcut ve eksik kanıtı not edin.",
+        "En güçlü karşı görüşü ve daha az zarar verecek bir uygulama seçeneğini yazın.",
+        "Geçici hükmü, hükmün değişme koşulunu ve etkililik hakkında neyin bilinmediğini ayrı cümlelerle kaydedin."
+      ],
+      "modelAnswer": "Metin doğrulanabilir olgular içeriyor; finansör bilinmediği için kaynak değerlendirmesi eksik. Sponsor açıklanmalı ve düzeltme yolu görünür olmalı. Okurların ikna olduğuna ilişkin veri bulunmadığından etki hakkında sonuç kurulamıyor."
+    },
+    "faqs": [
+      {
+        "question": "Etik değerlendirme yalnız kişisel görüş müdür?",
+        "answer": "Değer tercihleri bulunur; ancak hangi ilkenin kullanıldığı, hangi olayın doğrulandığı ve karşı seçeneğin neden reddedildiği açıklandığında değerlendirme tartışılabilir ve denetlenebilir hâle gelir."
+      },
+      {
+        "question": "Kanıt yoksa kurum suçsuz mu sayılır?",
+        "answer": "Tarihsel incelemede kanıt yokluğu, iddianın gösterilemediği anlamına gelir. Yokluğun nedenini araştırmadan ne kesin suç ne kesin katkısızlık sonucu çıkarılmalıdır."
+      },
+      {
+        "question": "Savaş koşulları her gizliliği haklı kılar mı?",
+        "answer": "Hayır. Belirli güvenlik gerekçesi, süre, kapsam ve daha az kısıtlayıcı seçenek sorgulanır. Operasyonel ayrıntıyı açıklamamak ile bilerek yanlış bilgi vermek farklı uygulamalardır."
+      }
+    ],
+    "sourceNote": "Bu açıklamalar mevcut 8. hafta ders içeriğindeki CPI tartışması, Caitlin E. Schindler’in tarihsel yaklaşımı ve Nicholas J. Cull’un araç ayrımlarından hareketle hazırlanmıştır. Varsayımsal vakalar tarihsel olay veya arşiv bulgusu değildir."
+  },
+  "en": {
+    "orientation": "The useful question this week is not simply whether propaganda is bad. It is when a particular communication practice is accurate, defensible and accountable. During the First World War, the Committee on Public Information (CPI) explained war aims and supported mobilisation. This supplement separates content, delivery methods, audience choices and institutional inheritance so that evaluation becomes a reasoned argument.",
+    "sections": [
+      {
+        "id": "definitions",
+        "title": "1. Concepts are tools, not verdicts",
+        "why": "Using a label instead of an explanation hides the specific problem.",
+        "paragraphs": [
+          "No single boundary between information, advocacy and propaganda commands universal agreement. Information also involves selecting facts. Advocacy openly supports a position. Propaganda can be defined here as systematic communication intended to direct political thinking; this working definition does not declare every statement false. Defining the term begins an inquiry rather than completing an ethical judgement.",
+          "Separate three questions: What does the actor intend, what does the text say, and how does the practice operate? Claiming a public-safety purpose does not verify evidence. Providing accurate information does not establish an absence of pressure. Intention, published content and implementation require different records; using one document for all three collapses distinct claims.",
+          "Competing interpretations create a productive tension. One understands wartime communication as necessary public explanation; another emphasises unequal resources and the power to discourage criticism. Apply common criteria instead of choosing a side beforehand. Your conclusion may defend some features and criticise others. Such differentiation represents detailed reasoning, rather than an inability to decide."
+        ],
+        "example": {
+          "title": "Hypothetical analogy: Choosing a school",
+          "text": "A school may advocate its programme. Concealing competitors’ results differs from supplying an open comparison. The analogy clarifies conditions of choice, but does not reproduce wartime security pressures."
+        },
+        "checkpoint": {
+          "question": "What does the propaganda label fail to establish?",
+          "answer": "It establishes neither falsehood, coercion nor actual effects. Each needs separate criteria and evidence."
+        }
+      },
+      {
+        "id": "truth-context",
+        "title": "2. Separate accuracy from adequate context",
+        "why": "Individually true statements can still distort a reader’s overall conclusion.",
+        "paragraphs": [
+          "A factual claim is a proposition that records can test; a value judgement assesses what is good, justified or important. Distinguish them first. Then identify the claim’s period, comparison group and scope. Showing one success does not establish overall success. Quietly expanding a claim beyond its original scope is a common inferential error.",
+          "Omission is not invariably deception: no short text includes everything. Ask whether missing information could materially change a reasonable reader’s decision. Establish whether it was known at publication. A later discovery cannot by itself demonstrate deliberate concealment in an earlier text. Drafts, revisions and correspondence can reveal the selection process and support stronger conclusions.",
+          "A text’s potential to mislead differs from actual deception of readers. Comparison with relevant context may establish the former. The latter requires audience evidence. A critical reader might notice the omission. Present textual features, possible authorial intentions and observed interpretations separately, rather than assuming that one necessarily produced the others."
+        ],
+        "example": {
+          "title": "Hypothetical example: A missing denominator",
+          "text": "A bulletin lists three successful deliveries without reporting total deliveries. Those successes may be real. An overall success rate requires totals and failures; the missing number alone does not establish intention."
+        },
+        "checkpoint": {
+          "question": "Does missing information prove intentional deception?",
+          "answer": "No. Investigate contemporary knowledge, selection decisions and the evidence supporting an intention claim."
+        }
+      },
+      {
+        "id": "autonomy",
+        "title": "3. Autonomy means practical audience choices",
+        "why": "A formal right to reply may not provide an accessible, safe route for objection.",
+        "paragraphs": [
+          "Audience autonomy means being able to compare claims, postpone judgement and disagree. It does not mean remaining uninfluenced: learning and persuasion are ordinary relationships. Problems arise when comparison is secretly restricted or refusal is penalised. Examine surrounding power and possible sanctions, rather than assessing autonomy solely through the tone of the message.",
+          "Source disclosure supports these choices. People may assess a government statement, apparently independent editorial and paid announcement differently. Concealed funding reduces their opportunity to consider the source’s interests. Disclosure nevertheless does not solve every ethical issue: an identified source can distort, intimidate or exclude criticism. Transparency matters without being sufficient by itself.",
+          "One message may exert different pressures on different groups. A secure citizen may hear patriotic encouragement, while someone already under suspicion experiences a loyalty test. Consider legal position, employment, language and media access rather than blaming audience weakness. Public silence does not automatically indicate consent; confidence, indifference or fear could each explain it."
+        ],
+        "example": {
+          "title": "Hypothetical example: Open sponsor, closed discussion",
+          "text": "An identified workplace announcement invites political participation while promising to list absentees. Sponsor disclosure does not remove the possible employment pressure affecting whether participation is voluntary."
+        },
+        "checkpoint": {
+          "question": "Does everyone hearing a message establish autonomy?",
+          "answer": "No. Access to alternatives and the ability to refuse without pressure require separate examination."
+        }
+      },
+      {
+        "id": "responsibility",
+        "title": "4. Reconstruct responsibility through records",
+        "why": "Treating every contemporary institution as one actor conceals actual decision pathways.",
+        "paragraphs": [
+          "The CPI operated within a wider wartime environment of coercion. The Espionage Act and Sedition Act were legal measures distinct from the communication committee. Separate legislative, judicial and enforcement responsibilities from CPI communication. This distinction does not exempt the committee from ethical examination; it identifies the powers, decisions and practices through which particular harm arose.",
+          "Distinguish direct instruction, foreseeable contribution and response after harm became known. Central orders can support the first; incentives and repeated complaints may illuminate the second; corrections and oversight records inform the third. A document supporting one level does not conclusively establish another. Legal liability and historical or ethical contribution are also different questions.",
+          "Local speakers, editors and volunteers could transform central messages. This makes the centre neither automatically responsible for everything nor entirely exempt. Investigate guidance, oversight and opportunities to intervene. Without a direct order, contribution remains investigable but must not become certainty by assumption. Include counter-evidence, such as instructions prohibiting harmful language, in the assessment."
+        ],
+        "example": {
+          "title": "Hypothetical example: A harsher speech",
+          "text": "A volunteer turns a general participation appeal into a speech targeting local opponents. Compare the central text with the speech, then investigate whether the centre learned of the incident and responded."
+        },
+        "checkpoint": {
+          "question": "What does failure to find a central order show?",
+          "answer": "That direct instruction remains unproven, not that every possible contribution or oversight responsibility disappears."
+        }
+      },
+      {
+        "id": "legacy",
+        "title": "5. Institutional closure does not end every relationship",
+        "why": "Demonstrating continuity requires more than resemblance.",
+        "paragraphs": [
+          "The CPI did not become a permanent information ministry after the war. Legal existence, however, differs from experience carried by people. Journalists, artists and organisers may work elsewhere; distribution methods may be reused. Considering organisational discontinuity alongside professional continuity avoids treating a closure date as the end of every relationship. Each continuity claim needs evidence.",
+          "Identify the carrier, date and pathway of inheritance. Personnel records may demonstrate a person’s move; correspondence may show deliberate transfer of a method; procedural documents may reveal changed practice. Similar posters alone do not establish descent. Organisations facing similar problems may independently develop similar solutions. Resemblance generates a historical question rather than answering it.",
+          "Inheritance includes criticism as well as skills. Suspicion of propaganda formed part of the political memory affecting subsequent arrangements. Choosing the language of education or cultural relations may signal distance from earlier experience, but new conduct needs verification. Compare funding, oversight, disclosure and opportunities for response. History then becomes contingent redesign rather than inevitable professional progress."
+        ],
+        "example": {
+          "title": "Hypothetical analogy: A dissolved club",
+          "text": "A club closes and former members use its meeting method in another association. People and methods may continue without the original club surviving legally. State institutions require more detailed evidence of transfer."
+        },
+        "checkpoint": {
+          "question": "Is finding a similar later method sufficient?",
+          "answer": "No. Identify its carrier and transfer route while considering independent development."
+        }
+      },
+      {
+        "id": "judgement",
+        "title": "6. Turn ethical assessment into a reasoned decision",
+        "why": "Good intentions, success and ethical acceptability belong in different columns.",
+        "paragraphs": [
+          "Define a narrow act: concealed sponsorship, omission of a setback or discouragement of criticism. Record findings separately for accuracy, disclosure, audience choice, foreseeable harm and correction. A total score may hide a serious violation behind minor benefits. Explain which principle concerns which established feature, so readers can assess the argument rather than merely its conclusion.",
+          "Proportionality compares an objective with the burden imposed by its methods. Urgency may warrant brevity, not unlimited concealment. Ask whether a feasible, less harmful alternative could achieve the purpose. Judge feasibility within contemporary conditions. Neither giving historical actors all present knowledge nor treating common historical practice as an automatic excuse produces adequate assessment.",
+          "You may recommend continuation, revision or termination, then state the strongest objection and the evidence that could change your decision. This is accountable reasoning rather than indecision. Keep effectiveness separate: a method can work while remaining ethically problematic, or meet ethical requirements without producing persuasion. These judgements call for different questions and different evidence."
+        ],
+        "example": {
+          "title": "Hypothetical example: A delayed correction",
+          "text": "An institution corrects an error through a small notice. Correction is a positive finding, but assess whether original recipients could encounter it and whether delay caused further harm."
+        },
+        "checkpoint": {
+          "question": "Must an ethical practice be effective?",
+          "answer": "No. Defensibility of the method and observed outcomes are separate assessments."
+        }
+      }
+    ],
+    "visuals": [
+      {
+        "kind": "flow",
+        "title": "A route through ethical assessment",
+        "caption": "Arrows represent investigation order, not automatic correctness or ethical acceptability.",
+        "nodes": [
+          {
+            "title": "Bound the act",
+            "text": "Which text, date and practice?"
+          },
+          {
+            "title": "Separate evidence",
+            "text": "Different records for content, method and reception."
+          },
+          {
+            "title": "Compare alternatives",
+            "text": "Was a feasible, less harmful option available?"
+          },
+          {
+            "title": "Justify the decision",
+            "text": "State judgement, uncertainty and revision conditions."
+          }
+        ]
+      },
+      {
+        "kind": "comparison",
+        "title": "Judgements that should remain distinct",
+        "caption": "Each row asks a different research question; one cannot substitute for another.",
+        "columns": [
+          "Dimension",
+          "Core question",
+          "Insufficient indicator"
+        ],
+        "rows": [
+          [
+            "Accuracy",
+            "Is the factual claim supported?",
+            "The institution’s claim to credibility"
+          ],
+          [
+            "Transparency",
+            "Can producer and funder be identified?",
+            "The publisher’s logo alone"
+          ],
+          [
+            "Autonomy",
+            "Can readers challenge the message?",
+            "Extensive circulation"
+          ],
+          [
+            "Effectiveness",
+            "Was a particular change observed?",
+            "A beneficial declared purpose"
+          ]
+        ]
+      },
+      {
+        "kind": "matrix",
+        "title": "What can each source establish?",
+        "caption": "A document’s value depends on the question it can answer.",
+        "columns": [
+          "Source",
+          "Possible support",
+          "Limit"
+        ],
+        "rows": [
+          [
+            "Internal instruction",
+            "Intended implementation",
+            "Does not establish local compliance"
+          ],
+          [
+            "Published bulletin",
+            "Content offered to readers",
+            "Does not establish interpretation"
+          ],
+          [
+            "Reader letter",
+            "A particular person’s response",
+            "Does not represent the whole public"
+          ],
+          [
+            "Correction record",
+            "Timing of institutional response",
+            "Does not guarantee repaired harm"
+          ]
+        ]
+      }
+    ],
+    "cases": [
+      {
+        "title": "Case 1: Undisclosed funding",
+        "scenario": "In this hypothetical case, a local newspaper publishes accurate war news with outside financial support, without disclosing the supporter.",
+        "steps": [
+          "Verify factual content and funding separately. Accurate reporting does not establish adequate audience knowledge of the source.",
+          "Investigate whether the funder intervened in selection. Financial support does not automatically mean every sentence was directed.",
+          "Consider disclosure as an alternative. Explain which audience judgement sponsorship might affect without assuming the actual reaction."
+        ],
+        "conclusion": "A limited conclusion identifies a transparency problem. Falsehood, complete control and mass persuasion do not follow from the scenario."
+      },
+      {
+        "title": "Case 2: Closed institution, surviving method",
+        "scenario": "A hypothetical researcher finds a former employee in a later information office. The two institutions used similar posters.",
+        "steps": [
+          "Establish the personnel link through records. One person’s move does not demonstrate survival of the whole structure.",
+          "Seek training notes, correspondence or explicit references showing methodological transfer. Visual resemblance admits independent explanations.",
+          "Compare the later office’s purposes, authority and oversight. The same technique can operate differently under different rules."
+        ],
+        "conclusion": "Personnel continuity may be demonstrated while organisational and purposive continuity remain unresolved. Defining the transfer narrowly strengthens the historical explanation."
+      }
+    ],
+    "practice": {
+      "title": "Build a reasoned ethical dossier in Excel",
+      "task": "Use the shared workbook’s student evidence matrix to assess a hypothetical message. Separate judgements before considering scores.",
+      "steps": [
+        "Enter the message’s date, source and precise claim; identify the scenario as hypothetical.",
+        "Record available and missing evidence concerning accuracy, disclosure and opportunities for objection.",
+        "Write the strongest counterargument and a feasible alternative causing less harm.",
+        "Record a provisional judgement, its revision conditions and what remains unknown about effectiveness."
+      ],
+      "modelAnswer": "The message contains verifiable facts, but undisclosed funding prevents adequate source assessment. Sponsorship should be disclosed and correction procedures made visible. No evidence establishes persuasion, so an effects claim is unwarranted."
+    },
+    "faqs": [
+      {
+        "question": "Is ethical evaluation just personal opinion?",
+        "answer": "Values enter judgement. Stating the principle, verified facts and reasons for rejecting an alternative makes the evaluation contestable and accountable rather than merely personal."
+      },
+      {
+        "question": "Does missing evidence establish innocence?",
+        "answer": "Historical inquiry can conclude that a claim has not been demonstrated. Without investigating why records are absent, neither definite guilt nor complete absence of contribution follows."
+      },
+      {
+        "question": "Does war justify all secrecy?",
+        "answer": "No. Investigate a specific security reason, duration, scope and less restrictive options. Withholding an operational detail differs from knowingly providing a false account."
+      }
+    ],
+    "sourceNote": "This supplement develops the existing Week 8 discussion of the CPI, Caitlin E. Schindler’s historical approach and Nicholas J. Cull’s distinctions among instruments. Hypothetical cases are teaching exercises, not historical events or archival findings."
+  }
+}

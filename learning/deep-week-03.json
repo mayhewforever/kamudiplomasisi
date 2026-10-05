@@ -1,0 +1,503 @@
+{
+  "week": 3,
+  "tr": {
+    "orientation": "Amerikan İç Savaşı sırasında Birlik, ülkenin bütünlüğünü korumaya; ayrılan eyaletlerin kurduğu Konfederasyon ise bağımsızlığını kabul ettirmeye çalışıyordu. Bu hafta Birliğin Avrupa'daki kamu faaliyetlerini, Britanya ve Fransa'nın Konfederasyonu devlet olarak tanımasını önleme amacı üzerinden inceleyeceğiz. Halkın sempatisi, hukuki statü ve hükümet kararı farklı düzeylerdir. Açıklamamız yalnız mesajlara değil, özgürleşme politikasına, yerel ortakların bağımsızlığına ve karar vericilerin savaş riski hesabına da bakacak.",
+    "sections": [
+      {
+        "id": "status-and-recognition",
+        "title": "1. Tarafsızlık, savaşan taraf statüsü ve tanınma",
+        "why": "Aynı tanıma sözcüğü farklı hukuki işlemler için kullanıldığında, Birliğin neyi önlemeye çalıştığı yanlış anlaşılabilir.",
+        "paragraphs": [
+          "Tarafsızlık, bir devletin çatışmaya resmen katılmadığını bildirmesidir. Savaşan taraf statüsü ise çatışmanın varlığını ve savaş hukuku kapsamındaki bazı hakları kabul eder. Diplomatik tanınma, Konfederasyonu egemen devlet olarak kabul etme yolunda daha ileri bir adımdır. Bu kategoriler aynı siyasi sempatiyi veya aynı yükümlülükleri ifade etmez. Her belge için neyin, kim tarafından ve hangi sonuçla tanındığını belirtmek gerekir.",
+          "Britanya ve Fransa 1861'de Konfederasyonun savaşan taraf statüsünü kabul etti, fakat devletliğini tanımadı. Birliğin temel Avrupa hedefi ikinci eşiğin aşılmasını önlemekti. Bu nedenle başarı sorusu yalnız yabancı halkların Birliği sevip sevmediği değildir. Hangi faaliyet, tanınma seçeneğinin siyasi maliyetini veya kabul edilebilirliğini etkiledi? Bu daha dar soru, kamu faaliyeti ile hükümet tercihinin bağlantısını araştırmaya açar.",
+          "Varsayımsal bir apartman toplantısında anlaşmazlığı kayda geçirmek, bir tarafın bütün taleplerini kabul etmek değildir. Bu benzetme, muhatap almakla onaylamayı ayırır; uluslararası hukukun yerine geçmez. Devletlerin savaş ve liman ilişkilerini düzenlemesi kendine özgü hukuki sonuçlar taşır. Dolayısıyla benzetmeden tarihsel hüküm çıkarmak yerine, ilgili statüyü belgenin kendi dili ve kurumsal bağlamıyla incelemek gerekir."
+        ],
+        "example": {
+          "title": "Varsayımsal belge okuma hatası",
+          "text": "Bir öğrenci savaşan taraf haklarının kabulünü görüp Konfederasyonun bağımsız devlet olarak tanındığını yazıyor. Hata, tanınan şeyi belirtmemektir. Önce hukuki kategoriyi düzeltin, sonra bunun Washington'da nasıl algılandığını ayrı inceleyin."
+        },
+        "checkpoint": {
+          "question": "Tarafsızlık, iki tarafı eşit ölçüde desteklemek midir?",
+          "answer": "Hayır. Resmî katılmama tutumu ile toplumsal sempati farklıdır; devletin belirli konulardaki kararları ayrıca araştırılır."
+        }
+      },
+      {
+        "id": "policy-and-credibility",
+        "title": "2. Söylem neden politikanın içeriğinden ayrı düşünülemez?",
+        "why": "Mesajın inandırıcılığı yalnız kelimelere değil, hedef kitlenin gözlediği davranışa ve politikanın kapsamına bağlıdır.",
+        "paragraphs": [
+          "Birlik başlangıçta savaşı anayasal düzenin ve ulusal bütünlüğün korunmasıyla gerekçelendiriyordu. Avrupa'daki kölelik karşıtı çevreler, ülkeyi bir arada tutmayı köleliği bitirmekle aynı amaç saymıyordu. Böylece göndericinin düzen vurgusu, muhatapta temel ahlaki sorudan kaçınıldığı izlenimi yaratabiliyordu. Schindler'in çerçevesinde bu yalnız kötü kelime seçimi değildi; sınır eyaletlerine ilişkin kaygılar ve iç siyasi koalisyon, söylenebilecekleri sınırlıyordu.",
+          "Lincoln'ün Eylül 1862'deki ön bildirisi ve 1 Ocak 1863'te yürürlüğe giren Özgürleştirme Bildirgesi savaşın uluslararası çerçevesini değiştirdi. Nihai düzenleme isyan hâlindeki bölgelerde köleleştirilmiş kişilere yönelikti; köleliği her yerde bir anda kaldırmadı. Bu sınır, özgürleşmenin önemini inkâr etmek değildir. Hukuki kapsam ile dış kamuların politikayı yorumlayışı ayrı fakat bağlantılı sorulardır; her ikisi doğru anlatılmalıdır.",
+          "Olası mekanizma, köleliği sürdüren Konfederasyona açık desteğin ahlaki ve siyasi maliyetinin yükselmesidir. Bunu ileri sürmek, Bildirge'nin tanınmamayı tek başına yarattığını söylemekten daha dardır. Araştırma, hangi çevrenin hangi gerekçeyle tepkisini değiştirdiğini ve bu tepkinin karara nasıl taşındığını arar. Askerî beklentiler veya savaş riskinden kaçınma aynı yönde çalışabilir; onların bulunması iletişimin katkısını otomatik ortadan kaldırmaz."
+        ],
+        "example": {
+          "title": "Varsayımsal yorum karşılaştırması",
+          "text": "Bir okur Bildirge'yi savaş amacındaki dönüşüm, başka bir okur sınırlı kapsamlı bir düzenleme olarak değerlendirebilir. İki yorum birlikte var olabilir. Hangi yorumun hangi çevrede görüldüğünü belge olmadan varsaymayın."
+        },
+        "checkpoint": {
+          "question": "Bildirge'nin sınırını belirtmek neden gereklidir?",
+          "answer": "Politikayı tarihsel kapsamından geniş göstermemek için. Aynı zamanda sınırlı bir düzenlemenin neden önemli siyasi yorumlar doğurabildiğini açıklamaya yardım eder."
+        }
+      },
+      {
+        "id": "actors-and-authority",
+        "title": "3. Birliği desteklemek, Washington'dan emir almak değildir",
+        "why": "Faaliyetler benzer yönde ilerlese bile yetki, finansman ve yerel amaçlar farklı olabilir. Bu fark güvenilirliği ve sonuçları etkiler.",
+        "paragraphs": [
+          "Charles Francis Adams ve konsoloslar resmî görev ve raporlama ilişkileri içinde çalışıyordu. Gazeteciler, din adamları, kölelik karşıtı dernekler ve ticaret çevreleri ise kendi bağlantılarını kullanabiliyordu. Yarı resmî girişimler, kamu görevlileriyle özel aktörlerin kaynak veya erişim paylaşmasını içerebilirdi. Bu kategoriler tek bir merkezden yönetilen kampanyayı varsaymamamızı sağlar. Her aktörün ne yapmaya yetkili olduğu ayrı gösterilmelidir.",
+          "Yerel ortakların etkisi kısmen bağımsızlıklarından doğabilir. Bir Britanyalı dernek kendi üyelerine tanıdık değerlerle seslenebilir; fakat Amerikan yönetiminin mesajını aynen benimsemek zorunda değildir. Birliği desteklerken onun politikasını yetersiz de bulabilir. Bu özerklik, kendi amaçlarıyla hareket edebilme kapasitesidir. Araştırmacı bunu iletişimde istenmeyen gürültü saymak yerine, mesajın yerelde nasıl anlam kazandığının bir parçası olarak incelemelidir.",
+          "Eşgüdüm iddiası için benzer sözler yeterli değildir. Yazılı talimat, finansman, düzenli bilgi alışverişi ve görev paylaşımı gibi izler aranır. Bir kamu görevlisinin toplantıya katılması bütün toplantıyı resmîleştirmez; destek alınması da bütün içeriğin doğrudan yönetildiğini göstermez. Ağ haritasında bağlantıları adlandırın: para aktarımı, bilgi paylaşımı, yetkilendirme veya yalnız görüş benzerliği aynı çizgiyle gösterilmemelidir."
+        ],
+        "example": {
+          "title": "Varsayımsal örnek: Bağımsız dernek bildirisi",
+          "text": "Bir dernek Birliğin lehine açıklama yayımlıyor, fakat finansman veya talimat kaydı yok. Açıklamanın yönü gösterilebilir; Washington'ın denetimi henüz gösterilemez. Derneğin kendi geçmişi ve amaçları alternatif açıklama sağlar."
+        },
+        "checkpoint": {
+          "question": "Devlet dışı olmak mutlaka bağımsız olmak mıdır?",
+          "answer": "Hayır. Bağımsızlık bir etiketle değil, yetki, finansman ve içerik üzerindeki takdir alanıyla değerlendirilmelidir."
+        }
+      },
+      {
+        "id": "communication-and-feedback",
+        "title": "4. Mesajın yayılması ile dinlemenin kullanılması farklıdır",
+        "why": "İletişim iki yönlü görünebilir; yine de sahadan gelen bilginin kararı etkileyip etkilemediği ayrıca kanıtlanmalıdır.",
+        "paragraphs": [
+          "Birlik taraftarları basın, broşür, toplantı ve vaazlar aracılığıyla farklı çevrelere ulaşabiliyordu. Bu araçlar aynı kitleyi veya aynı zaman ufkunu paylaşmaz. Bir yayın yanlış iddiayı düzeltmeyi, bir toplantı dayanışmayı, bir temas karar vericiye erişimi amaçlayabilir. Her araç için beklenen ara değişimi yazmak, hepsini belirsiz bir propaganda başarısı başlığı altında toplama hatasını azaltır.",
+          "Adams'ın ve konsolosların raporları belirli çevrelerin kaygılarını Washington'a taşıdı. Bu, bilgi toplandığını gösterebilir. Kurumsal öğrenme diyebilmek için raporun sonraki talimat, mesaj veya politika tercihinde izini aramak gerekir. Schindler'in vurguladığı sorun, toplumsal bilginin stratejik tercihlere her zaman bağlanmamasıdır. Raporun merkeze ulaşması, merkez tarafından benimsendiğini kanıtlamaz; sessizlik de tek başına reddedildiğini göstermez.",
+          "Devlet davranışı da dışarıya mesaj verir. Trent krizi, deniz eylemlerinin ve hukuk tartışmasının kamu savunuculuğunu nasıl zorlayabildiğini gösterir. Birlik hakkındaki genel sempati savaş riskini ortadan kaldırmadı. Aynı yabancı kişi özgürleşmeyi destekleyip başka bir Amerikan eylemini eleştirebilirdi. Bu yüzden tutumu tek olumlu veya olumsuz puana indirmek, farklı konulara verilen farklı tepkileri gizleyebilir."
+        ],
+        "example": {
+          "title": "Varsayımsal örnek: Rapor var, değişiklik belirsiz",
+          "text": "Bir elçi raporu yerel kaygıyı kaydediyor; sonraki talimatlarda o kaygının etkisi görülmüyor. Güvenli sonuç, raporlamanın gerçekleştiğidir. Öğrenmenin olup olmadığını belirlemek için daha fazla karar ve yazışma kaydı gerekir."
+        },
+        "checkpoint": {
+          "question": "Dinleme raporu neden tek başına öğrenme kanıtı değildir?",
+          "answer": "Çünkü öğrenme, bilginin yorum veya uygulamayı değiştirmesini gerektirir. Toplama ve kullanma ayrı aşamalardır."
+        }
+      },
+      {
+        "id": "reception-and-competing-causes",
+        "title": "5. Kamu tepkisinden hükümet kararına geçişi sınayın",
+        "why": "Konfederasyonun tanınmaması gerçekleşmiş bir sonuçtur; bu sonuç bütün Birlik faaliyetlerinin etkili olduğunu geriye dönük olarak kanıtlamaz.",
+        "paragraphs": [
+          "Britanya kamuoyu tek bir aktör değildi. Bakanlar savaş ve güvenliği, tüccarlar ticareti, pamuk işçileri geçimi, kölelik karşıtları ahlaki tutarlılığı farklı ağırlıklarla değerlendiriyordu. Ekonomik sıkıntı otomatik Konfederasyon desteği üretmedi; yerel örgütlenme, yardım ve değerler maddi çıkarın yorumunu etkileyebiliyordu. Bir başyazı bütün okurların, bir toplantı kararı bütün işçilerin görüşü sayılamaz. Tepkinin kapsamını açıkça tanımlayın.",
+          "Bir yerel tepkinin hükümet kararına etkisi için arada bir iletim yolu bulunmalıdır. Dilekçe, temsilci teması veya kabine tartışması olası kanallardır; belirli vakada hangisinin işlediği belgelenmelidir. Talebin bir makama ulaşması bile onun belirleyici olduğunu göstermez. Karar vericilerin kaydedilmiş gerekçeleri ile kamusal talepleri karşılaştırın. Gündeme girme, tartışılma ve tercih değiştirme birbirinden farklı katkı düzeyleridir.",
+          "Askerî dayanıklılık, deniz ticareti, Birlikle savaş riski ve Avrupa devletlerinin kendi koşulları rakip veya tamamlayıcı açıklamalardır. Bunları yalnız listelemek yerine, hangi gözlemi nasıl açıkladıklarını yazın. Birlik kamu faaliyeti olmasaydı da hükümet savaş riskinden kaçınabilir miydi? Kesin karşı olgusal cevap bulunmayabilir. Yine de bu soru, kamu diplomasisinin katkısını tek neden veya hiç etki yok ikiliğine sıkıştırmayı önler."
+        ],
+        "example": {
+          "title": "Varsayımsal örnek: Önceden verilmiş karar eğilimi",
+          "text": "Bir hükümetin yeni mesajdan önce tanınmaya karşı olduğu gösterilirse, sonraki tanınmama bütünüyle mesaja bağlanamaz. Mesaj mevcut eğilimi pekiştirmiş olabilir; bunun için de ilgili gerekçe ve zamanlama aranmalıdır."
+        },
+        "checkpoint": {
+          "question": "Aynı sonuca katkı veren birkaç neden bulunabilir mi?",
+          "answer": "Evet. Ama her birinin katkısı farklı kanıtla sınanmalı; birlikte bulunmaları eşit ağırlıkta veya vazgeçilmez olduklarını düşündürmemelidir."
+        }
+      },
+      {
+        "id": "documents-and-research-design",
+        "title": "6. Kaynakları karşılaştırarak ölçülü açıklama yazın",
+        "why": "Niyet, gözlem ve karar belgelerini yan yana koymak, her kaynağa aynı işi yaptırmadan daha sağlam bir açıklama kurar.",
+        "paragraphs": [
+          "Seward'ın 22 Eylül 1862 genelgesi, temsilcilere iletilen resmî çerçeveyi; Adams'ın 10 Ekim yanıtı ise Londra'daki elçinin algıladığı tepkileri incelemek için kullanılabilir. İlki göndericinin amacı, ikincisi sınırlı bir gözlem hakkında bilgi verir. Bunlar aynı toplumun iki eşit anketi değildir. Kimin konuştuğunu, hangi çevreye eriştiğini ve kime rapor verdiğini belirlemek, kaynakların kapsamını görünür kılar.",
+          "Bir Britanya kaynağı eklemek karşılaştırmayı genişletebilir; ancak bir milletvekilinin konuşmasını kabine kararı saymamak gerekir. Resmî arşiv diplomatların yazılı faaliyetlerini daha iyi koruyabilir, örgütsüz kamuların tepkileri ise daha az görünür kalabilir. Bu kayıt yanlılığı, çok belge bulunan aktörün daha etkili olduğu anlamına gelmez. Kaynak bağımsızlığını da kontrol edin: Bir gazetenin elçi yorumunu tekrarlaması yeni bir bağımsız gözlem olmayabilir.",
+          "Sonuç paragrafını aşamalarla kurun: Politika iletildi mi, belirli bir çevrede nasıl karşılandı, karar kanalına ulaştı mı, tercih üzerinde ne değişti? Her aşamanın kanıtını ve eksik kısmını belirtin. Belgelerin sustuğu yerde kesin başarı veya başarısızlık ilan etmeyin. Aktarılabilir ders, yalnız daha çok yayın üretmek değil, yerel ortakların güvenilirliğini korumak ve dinlenen bilgiyi politika değerlendirmesine bağlayabilmektir."
+        ],
+        "example": {
+          "title": "Varsayımsal araştırma tasarımı",
+          "text": "Bir öğrenci genelge, elçi raporu ve yerel toplantı kaydını birlikte kullanıyor. Bu seçim farklı aşamaları gösterebilir; hükümet tercihi için hâlâ karar kaydı eksik olabilir. Üç kaynak bulunması, zincirin tamamlandığını garanti etmez."
+        },
+        "checkpoint": {
+          "question": "Belge yokluğu ne zaman dikkatle yorumlanmalıdır?",
+          "answer": "Arşivin kapsamı bilinmediğinde. Bir sürecin kaydedilmemesi, gerçekleşmemesinden veya kayıtların eksik olmasından kaynaklanabilir."
+        }
+      }
+    ],
+    "visuals": [
+      {
+        "kind": "flow",
+        "title": "Resmî açıklamadan karar etkisine",
+        "caption": "Her ok ayrı araştırma sorusudur. Süreç durabilir, ters tepki doğurabilir veya diğer nedenlerle birleşebilir.",
+        "nodes": [
+          {
+            "title": "Politika ve mesaj",
+            "text": "Gönderici amacını ve uygulamasını açıklar."
+          },
+          {
+            "title": "Yerel alımlama",
+            "text": "Belirli çevreler mesajı yorumlar."
+          },
+          {
+            "title": "Karar kanalına iletim",
+            "text": "Görüşün yetkili makama ulaştığı araştırılır."
+          },
+          {
+            "title": "Tercih ve gerekçe",
+            "text": "Karardaki katkı başka nedenlerle karşılaştırılır."
+          }
+        ]
+      },
+      {
+        "kind": "comparison",
+        "title": "Hukuki durum ile toplumsal tutum",
+        "caption": "Aynı kelimeyle anlatılsalar da bu düzeylerin göstergeleri farklıdır.",
+        "columns": [
+          "Kavram",
+          "Anlamı",
+          "Karıştırılmaması gereken"
+        ],
+        "rows": [
+          [
+            "Tarafsızlık",
+            "Çatışmaya resmen katılmama",
+            "Herkese eşit sempati"
+          ],
+          [
+            "Savaşan taraf statüsü",
+            "Belirli savaş haklarını kabul",
+            "Devlet olarak tanınma"
+          ],
+          [
+            "Diplomatik tanınma",
+            "Egemen devlet kabulü",
+            "Bir gazetenin desteği"
+          ],
+          [
+            "Kamusal sempati",
+            "Belirli çevrenin olumlu tutumu",
+            "Hükümetin kesin kararı"
+          ]
+        ]
+      },
+      {
+        "kind": "matrix",
+        "title": "Üç aşama ve karar sınaması",
+        "caption": "Birincil kaynak olmak tarafsızlık veya geniş temsil gücü anlamına gelmez.",
+        "columns": [
+          "Kaynak",
+          "Destekleyebileceği iddia",
+          "Sınır"
+        ],
+        "rows": [
+          [
+            "Seward genelgesi",
+            "Resmî amaç ve iletim",
+            "İkna olduğunu göstermez."
+          ],
+          [
+            "Adams yanıtı",
+            "Elçinin gözlediği tepkiler",
+            "Bütün Britanya değildir."
+          ],
+          [
+            "Yerel toplantı kaydı",
+            "Katılan çevrenin tutumu",
+            "Bütün toplum değildir."
+          ],
+          [
+            "Kabine tutanağı",
+            "Kaydedilen karar gerekçesi",
+            "Her özel güdüyü içermez."
+          ]
+        ]
+      }
+    ],
+    "cases": [
+      {
+        "title": "Tarihsel kaynak çalışması: Genelge ve yanıt",
+        "scenario": "Seward'ın Eylül 1862 genelgesini Adams'ın Ekim yanıtıyla karşılaştırın. Dersin verdiği bu iki belgeyi, gönderme ve gözlem aşamalarının farklı izleri olarak okuyun.",
+        "steps": [
+          "Genelgede yazar, muhatap ve amaç alanlarını belirleyin. Bir politikanın duyurulmasını, hedef kamunun bu politikayı kabul etmesiyle karıştırmayın.",
+          "Yanıtta kimin tepkisinin aktarıldığını sorun. Elçinin erişebildiği çevreler ve gözlemin nasıl edinildiği, genellemenin sınırını belirler.",
+          "İki belge arasındaki ilişkiyi değerlendirin. Yerel tepkinin Washington'ın sonraki tercihini değiştirdiğini iddia etmek için sonraki talimat veya karar kaydı arayın."
+        ],
+        "conclusion": "Belgeler iletimi ve sınırlı gözlemi destekleyebilir. Toplum çapında ikna veya hükümet tercihi için tek başına yeterli değildir."
+      },
+      {
+        "title": "Varsayımsal vaka: Aynı kişi, farklı konularda farklı tutum",
+        "scenario": "Varsayımsal bir Britanyalı okur köleliğin kaldırılmasını destekliyor, fakat Birliğin bir deniz eylemini eleştiriyor. Bu kişi tarihsel bir kayıttan alınmamıştır; sınıflandırma alıştırmasıdır.",
+        "steps": [
+          "İki tutumun konularını ayırın: Özgürleşmenin değerlendirilmesi ile deniz eyleminin hukuki değerlendirilmesi aynı değildir.",
+          "Kişiyi tek bir Birlik yanlısı veya karşıtı etiketine yerleştirmenin hangi bilgiyi kaybettirdiğini yazın.",
+          "Hükümet kararına etki soruluyorsa, kişinin görüşünün hangi kurumsal kanala ulaşabildiğini araştırın. Görüş sahibi olmak ile karar gücü farklıdır."
+        ],
+        "conclusion": "Kamu analizi, farklı meselelerdeki gerekçeleri ve karar bağlantılarını koruduğunda daha açıklayıcı olur."
+      }
+    ],
+    "practice": {
+      "title": "Excel'de niyet, gözlem ve karar tablosu",
+      "task": "Öğrenci kanıt matrisinde genelge, elçi yanıtı ve bir Britanya kaynağı için ayrı satırlar oluşturun. Henüz okumadığınız kaynakları bulgu gibi kodlamayın.",
+      "steps": [
+        "Kaynak türü, tarih, yazar ve muhatap alanlarını doldurun. Belgenin hangi çevreyi gözleyebildiğini kısa bir notla belirtin.",
+        "Her satıra yalnız desteklediği iddiayı yazın: resmî amaç, belirli tepki veya kaydedilmiş karar gerekçesi.",
+        "Tanınmama sonucuna geçişte eksik kalan bağlantıyı ve bir alternatif açıklamayı ekleyin. Savaş riski hangi bulguyu başka türlü yorumlatabilir?",
+        "14 haftalık rehberde üçüncü haftanın sonuç paragrafını tamamlayın. Kanıt, çıkarım ve bilinmeyenleri ayrı cümlelerle ifade edin."
+      ],
+      "modelAnswer": "Örnek sonuç: Genelge resmî iletimi, elçi yanıtı erişilen çevrelerdeki tepkilerin yorumunu gösterir. Bunlar hükümetin bütün gerekçelerini açıklamaz. Kamu tepkisinin tanınma hesabını değiştirdiği iddiası için karar kanalı ve kabine kayıtları gerekir; savaş riskinden kaçınma da karşılaştırılmalıdır."
+    },
+    "faqs": [
+      {
+        "question": "Özgürleşme yalnız bir iletişim taktiği miydi?",
+        "answer": "Bu şekilde indirgenmemelidir. Hukuki ve siyasi kapsamı olan bir politika değişimiydi; dışarıdaki yorumlar da bu içeriğe dayanıyordu. Politikanın tarihsel sınırlarını ve iletişim etkisini ayrı ama ilişkili inceleyin."
+      },
+      {
+        "question": "Konfederasyon tanınmadığına göre bütün Birlik mesajları başarılı mıydı?",
+        "answer": "Hayır. Nihai sonuç farklı nedenlerin birleşiminden doğabilir. Bazı girişimler etkisiz kalmış veya ters tepmiş olabilir. Her faaliyetin katkısı kendi süreç kanıtıyla değerlendirilmelidir."
+      },
+      {
+        "question": "Yerel bir ortak resmî çizgiyi eleştirirse kamu diplomasisi sona erer mi?",
+        "answer": "Hayır. Eleştiri bağımsızlık ve karşılıklı etkileşim göstergesi olabilir. Önemli olan ilişkinin amaçlarını, yetki sınırlarını ve geri bildirimin kullanılıp kullanılmadığını açıklamaktır; otomatik başarı veya başarısızlık etiketi değildir."
+      }
+    ],
+    "sourceNote": "Bu bölüm mevcut üçüncü hafta içeriğinin hukuki ayrımlarını, Schindler'in çok aktörlü yaklaşımını ve dersin Seward–Adams belge karşılaştırmasını açar. Yeni tarihsel bulgu veya doğrudan alıntı eklenmemiştir. Varsayımsal örnekler gerçek bireylerin görüşlerini temsil etmez. Akademik kullanımda ayrıntılı notlardaki belge künyelerini, konuşmacı konumunu ve kaynağın temsil sınırını koruyun."
+  },
+  "en": {
+    "orientation": "The Union sought to preserve the United States; seceding states formed the Confederacy and sought recognised independence. We examine Union engagement to prevent British and French recognition. Public sympathy, legal status and decisions differ. Emancipation policy, independent partners and war-risk calculations matter alongside messages.",
+    "sections": [
+      {
+        "id": "status-and-recognition",
+        "title": "1. Neutrality, belligerent status and recognition",
+        "why": "Different legal meanings of recognition can obscure Union objectives.",
+        "paragraphs": [
+          "Neutrality declares a state's formal non-participation in a conflict. Belligerent status acknowledges the conflict and certain rights under the laws of war. Diplomatic recognition would be a further step towards accepting the Confederacy as sovereign. These categories imply neither identical sympathy nor identical obligations. For every document, specify what was recognised, by whom and with which consequences.",
+          "Britain and France acknowledged Confederate belligerency in 1861 without recognising statehood. Preventing that latter threshold was the Union's central European objective. Success therefore concerns more than whether foreign populations liked the Union. Which activity affected recognition's political cost or acceptability? This narrower question opens the connection between public engagement and government choices to investigation rather than assuming those levels move together.",
+          "At a hypothetical residents' meeting, acknowledging a dispute does not accept every demand of either party. The analogy distinguishes engagement from approval; it does not replace international law. Regulating states' wartime and port relationships carries specific legal consequences. Use the document's language and institutional context to interpret status, rather than deriving historical conclusions directly from the everyday analogy."
+        ],
+        "example": {
+          "title": "Hypothetical document-reading error",
+          "text": "A student reads acknowledgement of belligerent rights as recognition of Confederate independence. The error leaves the object of recognition unspecified. Correct the legal category first, then investigate Washington's perception separately."
+        },
+        "checkpoint": {
+          "question": "Does neutrality mean equal support for both sides?",
+          "answer": "No. Formal non-participation differs from social sympathy; particular government decisions need separate examination."
+        }
+      },
+      {
+        "id": "policy-and-credibility",
+        "title": "2. Why communication cannot be separated from policy content",
+        "why": "Credibility depends on conduct and policy scope, not words alone.",
+        "paragraphs": [
+          "Initially, the Union justified war through constitutional order and national unity. European antislavery circles did not equate preserving the country with ending slavery. The sender's emphasis on order could consequently appear evasive about the central moral issue. In Schindler's framework, this was more than poor wording: concerns about border states and the domestic coalition constrained what the administration could credibly say.",
+          "Lincoln's preliminary announcement in September 1862 and the Emancipation Proclamation effective on 1 January 1863 changed the international framing. The final measure applied to enslaved people in rebellious areas; it did not abolish slavery everywhere immediately. Stating this limit does not deny emancipation's significance. Legal scope and foreign audiences' interpretations are distinct but connected questions, both requiring accurate treatment.",
+          "A possible mechanism was raising the moral and political cost of openly supporting a slaveholding Confederacy. This is narrower than claiming the Proclamation alone caused non-recognition. Investigate which circles changed their responses, for which reasons, and how those responses reached decisions. Military expectations or avoidance of war risks could operate in the same direction; their presence does not automatically eliminate communication's contribution."
+        ],
+        "example": {
+          "title": "Hypothetical comparison of interpretations",
+          "text": "One reader might see transformed war aims, another a limited measure. Both interpretations could coexist. Establish which occurred in which circle rather than assuming their distribution without documents."
+        },
+        "checkpoint": {
+          "question": "Why state the Proclamation's limits?",
+          "answer": "To avoid expanding policy beyond its historical scope, while explaining why a limited measure could still generate significant political interpretations."
+        }
+      },
+      {
+        "id": "actors-and-authority",
+        "title": "3. Supporting the Union does not mean taking Washington's orders",
+        "why": "Aligned activities may differ in authority, funding and purposes, affecting credibility.",
+        "paragraphs": [
+          "Charles Francis Adams and consuls operated within official responsibilities and reporting relationships. Journalists, clergy, antislavery associations and commercial circles could use their own connections. Semi-official initiatives might share resources or access between officials and private actors. These categories discourage assuming a single centrally directed campaign. Establish separately what each actor was authorised to do, rather than inferring authority from the direction of their message.",
+          "Local partners' influence may partly derive from independence. A British association can address members through familiar values without adopting the American administration's entire position. It may support the Union while finding its policy insufficient. This autonomy means capacity to pursue its own purposes. Treat it as part of how messages acquire local meaning, rather than simply unwanted interference in communication.",
+          "Similar language is insufficient evidence of coordination. Seek written instructions, funding, regular information exchange and divided responsibilities. An official attending a meeting does not make the whole event official; receiving support does not establish direct control of all content. Label network connections precisely: transfers of money, information sharing, authorisation and merely similar opinions should not be represented as equivalent links."
+        ],
+        "example": {
+          "title": "Hypothetical example: An independent association's statement",
+          "text": "An association publishes a pro-Union statement without documented funding or instructions. Its position can be established, Washington's control cannot yet. The association's own history and objectives provide alternative explanations."
+        },
+        "checkpoint": {
+          "question": "Does non-governmental automatically mean independent?",
+          "answer": "No. Assess independence through authority, funding and discretion over content, not a label alone."
+        }
+      },
+      {
+        "id": "communication-and-feedback",
+        "title": "4. Disseminating messages differs from using feedback",
+        "why": "Two-way communication does not establish feedback’s effect on decisions.",
+        "paragraphs": [
+          "Union supporters could reach different circles through newspapers, pamphlets, meetings and sermons. These instruments differed in audiences and time horizons. Publications might correct claims, meetings build solidarity, and personal contacts provide access to decision-makers. Specify each instrument's intended intermediate change. This prevents grouping diverse activities under an undefined heading of propaganda success and encourages choosing evidence appropriate to each purpose.",
+          "Reports from Adams and consuls carried particular circles' concerns to Washington. This can establish information collection. Organisational learning requires tracing information into later instructions, messages or policy choices. Schindler highlights that social information did not always enter strategic decisions. A report reaching headquarters does not prove adoption, while silence alone does not prove rejection. Investigate the subsequent process rather than assuming either conclusion.",
+          "State conduct also communicates abroad. The Trent crisis illustrates how naval actions and legal disputes could complicate public advocacy. General sympathy for the Union did not eliminate war risks. One foreign observer could support emancipation while criticising another American action. Reducing attitude to a single positive or negative score may therefore conceal different responses to different issues."
+        ],
+        "example": {
+          "title": "Hypothetical example: A report without established change",
+          "text": "An envoy records a local concern, but its influence is not visible in later instructions. Reporting is established. Further decision and correspondence records are needed to assess whether learning occurred."
+        },
+        "checkpoint": {
+          "question": "Why is a listening report not sufficient evidence of learning?",
+          "answer": "Learning requires information changing interpretation or practice. Collection and use are separate stages."
+        }
+      },
+      {
+        "id": "reception-and-competing-causes",
+        "title": "5. Test the transition from public response to government decision",
+        "why": "Non-recognition cannot retrospectively prove every Union activity worked.",
+        "paragraphs": [
+          "British opinion was not one actor. Ministers considered war and security, merchants trade, cotton workers livelihoods, and antislavery groups moral consistency with different weights. Economic hardship did not automatically produce Confederate support: organisation, relief and values shaped interpretations of material interests. An editorial cannot represent every reader, nor a meeting resolution every worker. Define the response's scope explicitly.",
+          "For local responses to affect government choices, some transmission pathway must exist. Petitions, representative contacts and cabinet discussions are possible channels; establish which operated in the particular case. A request reaching an office does not itself make it decisive. Compare recorded government reasons with public demands. Entering an agenda, being discussed and changing a preference are different levels of contribution.",
+          "Military endurance, maritime trade, war with the Union and European states' circumstances provide competing or complementary explanations. Rather than merely listing them, explain which observation each accounts for and how. Might a government have avoided war without Union public engagement? A certain counterfactual answer may be unavailable. The question nevertheless avoids reducing public diplomacy to either the sole cause or no influence at all."
+        ],
+        "example": {
+          "title": "Hypothetical example: A pre-existing decision preference",
+          "text": "If a government opposed recognition before receiving a new message, later non-recognition cannot be entirely attributed to it. The message may have reinforced that position, but relevant reasoning and chronology must establish this."
+        },
+        "checkpoint": {
+          "question": "Can several causes contribute to one outcome?",
+          "answer": "Yes. Test each through appropriate evidence. Their coexistence establishes neither equal weight nor indispensability."
+        }
+      },
+      {
+        "id": "documents-and-research-design",
+        "title": "6. Compare sources to write a proportionate explanation",
+        "why": "Compare intention, observation and decision without treating their sources interchangeably.",
+        "paragraphs": [
+          "Seward's circular of 22 September 1862 can illuminate the official framing sent to representatives; Adams's reply of 10 October can illuminate the London envoy's perceived responses. One concerns sender purpose, the other limited observation. They are not equivalent surveys of the same society. Identify who spoke, which circles they could reach and to whom they reported to establish source coverage.",
+          "Adding a British source can widen comparison, but a parliamentarian's speech is not a cabinet decision. Official archives may preserve diplomats' written activities better than unorganised publics' responses. This recording bias does not mean better-documented actors were more influential. Check source independence too: a newspaper repeating an envoy's interpretation may not provide a new independent observation. Different formats can still share the same informational origin.",
+          "Organise the conclusion by stages: was policy communicated, how did a particular circle respond, did the response reach a decision channel, and what changed? State evidence and gaps at each stage. Archival silence does not justify automatic success or failure. Transferable lessons concern protecting local partners' credibility and connecting listening to policy assessment, rather than simply producing more publications."
+        ],
+        "example": {
+          "title": "Hypothetical research design",
+          "text": "A student combines a circular, envoy's report and local meeting record. They may illuminate different stages while leaving government-choice evidence missing. Three sources do not guarantee a completed causal chain."
+        },
+        "checkpoint": {
+          "question": "When must missing documents be interpreted carefully?",
+          "answer": "When archival coverage is uncertain. Non-recording may reflect either a missing process or incomplete records."
+        }
+      }
+    ],
+    "visuals": [
+      {
+        "kind": "flow",
+        "title": "From official announcement to decision influence",
+        "caption": "Each arrow is a research question. Processes may stop, backfire or combine with other causes.",
+        "nodes": [
+          {
+            "title": "Policy and message",
+            "text": "The sender explains purposes and actions."
+          },
+          {
+            "title": "Local reception",
+            "text": "Particular circles interpret the message."
+          },
+          {
+            "title": "Transmission to authority",
+            "text": "Investigate whether views reached officials."
+          },
+          {
+            "title": "Preference and reasoning",
+            "text": "Compare the contribution with other causes."
+          }
+        ]
+      },
+      {
+        "kind": "comparison",
+        "title": "Legal position and public attitudes",
+        "caption": "These levels require different indicators even when everyday language blurs them.",
+        "columns": [
+          "Concept",
+          "Meaning",
+          "Do not confuse with"
+        ],
+        "rows": [
+          [
+            "Neutrality",
+            "Formal non-participation",
+            "Equal sympathy for everyone"
+          ],
+          [
+            "Belligerent status",
+            "Acknowledging specific wartime rights",
+            "State recognition"
+          ],
+          [
+            "Diplomatic recognition",
+            "Accepting sovereign statehood",
+            "A newspaper's support"
+          ],
+          [
+            "Public sympathy",
+            "A circle's favourable attitude",
+            "A definitive government decision"
+          ]
+        ]
+      },
+      {
+        "kind": "matrix",
+        "title": "Three stages and a decision test",
+        "caption": "A primary source is not automatically neutral or broadly representative.",
+        "columns": [
+          "Source",
+          "Supported claim",
+          "Limit"
+        ],
+        "rows": [
+          [
+            "Seward's circular",
+            "Official purpose and transmission",
+            "Does not show persuasion."
+          ],
+          [
+            "Adams's reply",
+            "Responses perceived by the envoy",
+            "Not all Britain."
+          ],
+          [
+            "Local meeting record",
+            "Attitude among participants",
+            "Not the whole society."
+          ],
+          [
+            "Cabinet minutes",
+            "Recorded decision reasoning",
+            "Not every private motive."
+          ]
+        ]
+      }
+    ],
+    "cases": [
+      {
+        "title": "Historical source exercise: Circular and reply",
+        "scenario": "Compare Seward's September 1862 circular with Adams's October reply. Read these course documents as different traces of sending and observation.",
+        "steps": [
+          "Identify the circular's writer, recipient and purpose. Announcing policy does not establish audience acceptance.",
+          "Ask whose responses the reply reports. The envoy's accessible circles and means of observation limit generalisation.",
+          "Assess the relationship between documents. To claim local responses changed Washington's later choices, seek subsequent instructions or decision records."
+        ],
+        "conclusion": "These documents can establish transmission and limited observation, not alone society-wide persuasion or government preferences."
+      },
+      {
+        "title": "Hypothetical case: One person, different issue positions",
+        "scenario": "A hypothetical British reader supports abolition but criticises a Union naval action. This is a classification exercise, not a person taken from historical records.",
+        "steps": [
+          "Separate the objects assessed: emancipation and the legality of naval conduct are different issues.",
+          "Explain what information disappears when the person receives one pro-Union or anti-Union label.",
+          "If investigating government influence, ask which institutional channel could carry this person's views. Holding an opinion differs from having decision power."
+        ],
+        "conclusion": "Public analysis explains more when it preserves issue-specific reasons and connections to decisions."
+      }
+    ],
+    "practice": {
+      "title": "An Excel table of intention, observation and decision",
+      "task": "Create separate evidence-matrix rows for the circular, envoy's reply and a British source. Do not code sources you have not read as findings.",
+      "steps": [
+        "Enter source type, date, author and recipient. Briefly describe the circle the source could observe.",
+        "Record only its supported claim: official purpose, a specific response or recorded decision reasoning.",
+        "Add the missing connection to non-recognition and an alternative explanation. Which finding might fear of war explain differently?",
+        "Complete week three's conclusion in the 14-week guide. Express evidence, inference and unknowns in separate sentences."
+      ],
+      "modelAnswer": "Example: The circular documents official transmission; the envoy's reply interprets responses in accessible circles. Neither explains all government reasoning. A claim that public responses changed recognition calculations requires evidence of a decision channel and cabinet deliberations; war avoidance must also be considered."
+    },
+    "faqs": [
+      {
+        "question": "Was emancipation merely a communication tactic?",
+        "answer": "It should not be reduced to one. This policy change had legal and political scope; foreign interpretations also responded to that content. Examine historical limits and communication effects separately but in relation."
+      },
+      {
+        "question": "Does non-recognition mean all Union messages succeeded?",
+        "answer": "No. Multiple causes can produce outcomes; initiatives may fail or backfire. Evaluate each contribution through its own process evidence."
+      },
+      {
+        "question": "Does criticism by a local partner end public diplomacy?",
+        "answer": "No. Criticism can reflect independence and reciprocal engagement. Explain the relationship's purposes, authority limits and use of feedback instead of attaching automatic success or failure labels."
+      }
+    ],
+    "sourceNote": "Based on week-three legal distinctions, Schindler and the Seward–Adams comparison. No new findings or quotations. Hypothetical views represent no real individuals. Preserve detailed references, speakers’ positions and representation limits in academic use."
+  }
+}

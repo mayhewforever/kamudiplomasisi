@@ -4,7 +4,7 @@ The public course is deployed to GitHub Pages from `main`. Student accounts, stu
 
 ## Publishing
 
-`site-manifest.sha256` is the authoritative list of the 165 published assets. The publisher uses checked-in files when present and downloads the remaining large media/download assets from the existing course service. Every file must match its SHA-256 digest before deployment. After editing an asset, update its manifest digest. Never publish student records, credentials or assignment files in this repository.
+`site-manifest.sha256` is the authoritative list of the published assets. The publisher uses checked-in files when present and downloads the remaining large media/download assets from the existing course service. Every file must match its SHA-256 digest before deployment. After editing an asset, update its manifest digest. Never publish student records, credentials or assignment files in this repository.
 
 The interactive JavaScript and styles are checked in so that changes can be reviewed and deployed without first modifying the separate service. The same frontend fixes are maintained in that service's `public/course/` directory.
 
@@ -37,10 +37,22 @@ All fourteen English AI lecture videos have complete Turkish WebVTT subtitle tra
 
 YouTube embeds request Turkish captions with `cc_lang_pref=tr` and `cc_load_policy=1`. External video owners and YouTube determine which caption and automatic translation options are available; the player provides guidance when Turkish does not appear.
 
-## Beginner learning guides, 5 October 2026
+## Detailed bilingual learning materials, 5 October 2026
 
-All fourteen weeks start with a plain-language Turkish/English learning guide: an everyday analogy, defined terms, three explanatory steps, a four-node visual diagram, a worked example, an explained self-check and a specific Excel exercise. The detailed academic material remains in an expandable section. The fourteen standalone Turkish reading pages use the same beginner guides. Existing PDF files are clearly labeled as detailed academic notes.
+Each of the fourteen weeks has separate English and Turkish reading pages and naturally paginated PDFs. The learning path connects an accessible introduction to six substantial explanatory sections, three visual syntheses, two worked cases, an explained research exercise, methodological questions, and the existing academic argument and source guide. Turkish pages retain the earlier thirty-part text as an optional extended appendix. Original publication titles are retained in the bibliography.
 
-`learning/week-XX.json` is the editable source. Run `node scripts/build-beginner-notes.cjs` after editing it. `learning-content.js` supplies the in-page guides; `learning-guide.js` and `learning-guide.css` provide the shared accessible layout. The spreadsheet is `workbooks/Kamu_Diplomasisi_Ogrenme_Atolyesi_TR.xlsx`. Its four sheets provide weekly tasks, worked evidence examples, a hypothetical measurement experiment and a concept reference. The workbook builder uses the Codex primary runtime's artifact tool.
+Notes, PDFs, Excel workbooks, presentation downloads, lecture headings and readable video transcripts follow the interface language. English videos continue to use Turkish subtitles by default, as requested. Presentation ZIP files contain only the selected language.
 
-Known source-media limitation: week 12's original slide 26 (16:45–16:53) contains only about seven seconds for a much longer source-caption passage. Turkish captions retain the original timeline; the video dialog identifies the short interval and provides the complete readable Turkish caption text. The source audio has not been regenerated.
+Editable sources:
+
+- `learning/week-XX.json`: introductory explanations and exercises.
+- `learning/deep-week-XX.json`: corresponding detailed academic supplements in both languages.
+- `content_weeks_*.js`, `weekly-study-guide.js`, `seminar-frames.js`: academic arguments and source assignments.
+
+Build notes with `node scripts/build-course-notes.cjs`. This also exports `learning/academic-readings.json` for the PDF builder and derives Turkish transcripts from the caption tracks. Then run `python scripts/build-course-pdfs.py` to regenerate all twenty-eight PDFs. Their length follows the content; there is no fixed page limit. The original `build-beginner-notes.cjs` command delegates to the complete generator.
+
+`depth-guide.js` and `depth-guide.css` render the expanded material in the course and standalone reading pages. `notes-layout.css` provides the reading layout. The workbook builder `scripts/build-learning-workbook.mjs` creates separate English and Turkish versions, with five equivalent sheets: weekly tasks, evidence practice, a hypothetical measurement experiment, concepts, and research design. Sample numbers are explicitly hypothetical; they are not student data.
+
+`tests/language-notes.cjs` checks all language-specific reading links, PDFs, anchors, complete material, presentation selection and readable transcripts; the course regression also checks the fourteen weeks and five interactive tabs. Run these with `NODE_PATH` pointing to `jsdom`. PDF generation verifies all explanatory and academic paragraphs survive export; workbook validation covers formulas, missing/zero/inconsistent inputs, and rendered sheets.
+
+Source-media notes: the week-seven narration says 14 April for the establishment of the Committee on Public Information; the notes give the verified 13 April 1917 date. A localized correction links to Executive Order 2594 beside the video and transcript. The original recording and its faithful subtitles are preserved. Week twelve's slide26 (16:45–16:53) remains short for its source-caption passage; the video dialog provides a readable transcript in the selected language. Source audio has not been regenerated.

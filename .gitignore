@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+# Generated PDFs are committed to the native site source and checksum-mirrored by Pages.
+notes/*.pdf

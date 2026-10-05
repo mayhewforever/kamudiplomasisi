@@ -1,5 +1,5 @@
 /**
- * Rebuild the Turkish beginner workbook with @oai/artifact-tool.
+ * Rebuild matching Turkish and English learning workbooks with @oai/artifact-tool.
  * Copy this one file to a writable temporary directory and symlink node_modules
  * there to $CODEX_PRIMARY_RUNTIME_NODE_MODULES. Run with
  * $CODEX_PRIMARY_RUNTIME_NODE build-learning-workbook.mjs /path/to/kamudiplomasisi
@@ -12,18 +12,158 @@ import { execFileSync } from 'node:child_process';
 import { SpreadsheetFile, Workbook } from '@oai/artifact-tool';
 
 const repo = path.resolve(process.argv[2] || process.cwd());
-const out = path.join(repo, 'workbooks/Kamu_Diplomasisi_Ogrenme_Atolyesi_TR.xlsx');
-const qa = path.join(process.cwd(), 'qa-workbook');
+const EN = {
+ '1 Başla ve Haftalar':'1 Start and Weekly Guide',
+ '2 Kanıt Çalışması':'2 Evidence Practice',
+ '3 Ölçüm Deneyi':'3 Measurement Lab',
+ '4 Kavram Rehberi':'4 Concept Guide',
+ '5 Araştırma Tasarımı':'5 Research Design',
+ 'Ders notunu aç':'Open lecture notes',
+ 'Kamu diplomasisi: ilk adımlar':'Public diplomacy: first steps',
+ '1. Bu hafta hangi konuyu işliyorsanız o satırı bulun. “Ders notunu aç” bağlantısına tıklayın.':'1. Find the row for your current week. Click “Open lecture notes”.',
+ '2. “Küçük görev” sütununu uygulayın. “Yazacağınız sonuç” kadar kısa bir cevap hazırlayın.':'2. Complete the small task. Prepare a short answer using the “Your output” column.',
+ '3. Sarı durum hücresinden seçin. Sonra 2. sayfadaki örneği okuyup kendi kanıt satırınızı doldurun.':'3. Select your status in the yellow cell. Then read the example on sheet 2 and complete your own evidence row.',
+ 'Gündelik benzetme: Bir afişi görmek, afişte önerilen ürünü beğenmek veya satın almakla aynı şey değildir.':'Everyday analogy: Seeing a poster does not mean liking or buying the product it promotes.',
+ 'Excel ipucu: Sarı hücreye tıklayın, yazın ve Enter’a basın. Diğer sayfalara alttaki sekmelerden geçin.':'Excel tip: Click a yellow cell, type and press Enter. Use the tabs below to move between sheets.',
+ 'Hafta':'Week','Konu':'Topic','Küçük görev':'Small task','Yazacağınız sonuç':'Your output','Ders notu':'Lecture notes','Durum (siz seçin)':'Status (you select)',
+ 'Güç türlerini ayırmak':'Distinguishing types of power',
+ 'Bir burs örneği seçin. Para, çekicilik ve beklenen sonucu ayrı yazın.':'Choose a scholarship example. Separate funding, attraction and the expected outcome.',
+ 'Üç cümle: kaynak ne, araç ne, sonuç için hangi kanıt eksik?':'Three sentences: What is the resource, what is the instrument, and what evidence of an outcome is missing?',
+ 'Franklin ve Fransa':'Franklin and France',
+ 'Franklin’in bir bilim veya toplum ağı temasını seçin. Teması, ittifak kararından ayırın.':'Choose one of Franklin’s contacts in a scientific or social network. Separate the contact from the alliance decision.',
+ 'İki neden: temasın katkısı ne olabilir, kararın başka nedeni ne olabilir?':'Two explanations: How might the contact contribute, and what else might explain the decision?',
+ 'Birlik ve Avrupa':'The Union and Europe',
+ 'Birlik yönetiminin bir anlatısını bulun. Avrupa’daki hangi kitleye seslendiğini yazın.':'Find a narrative used by the Union government. Identify the European audience it addressed.',
+ 'Bir mesaj, bir kitle, mesajın nasıl karşılandığını gösterecek bir belge türü.':'One message, one audience and one type of document that could reveal reception.',
+ 'Konfederasyon ve pamuk':'The Confederacy and cotton',
+ 'Pamuk kaynağının neden otomatik siyasi destek üretmediğini açıklayın.':'Explain why cotton as a resource did not automatically produce political support.',
+ 'Bir kaynak, bir beklenen sonuç, zinciri bozabilecek iki koşul.':'One resource, one expected outcome and two conditions that might interrupt the chain.',
+ 'Küba ve insani yardım':'Cuba and humanitarian aid',
+ 'Yardım faaliyeti ile yardımın medyada anlatılmasını ayrı düşünün.':'Separate the delivery of aid from media accounts of that aid.',
+ 'Faaliyet için bir kanıt, habercilik için bir kanıt, etki için bir eksik kanıt.':'One piece of activity evidence, one piece of reporting evidence and one missing piece of influence evidence.',
+ 'Eğitim değişimleri':'Educational exchanges',
+ 'Bir öğrenci değişim programında ev sahibi ile katılımcının ne öğrendiğini yazın.':'In a student exchange, identify what the host and the participant each learn.',
+ 'Katılım sayısının yanında izleyeceğiniz bir ilişki göstergesi.':'One indicator of relationships to track alongside participation numbers.',
+ 'CPI ve iletişim ağı':'The CPI and communication networks',
+ 'Kamuoyu Bilgilendirme Komitesini (CPI) merkez, aracı ve kitle olarak üç kutuya ayırın.':'Map the Committee on Public Information (CPI) into three boxes: centre, intermediary and audience.',
+ 'Bir afişin üretilmesi ile bir kişinin ikna olması arasındaki eksik adım.':'One missing step between producing a poster and persuading a person.',
+ 'Propaganda ve etik':'Propaganda and ethics',
+ 'Doğru bilgiler içeren ama kaynağı gizli bir mesajı değerlendirin.':'Assess a message containing accurate information but concealing its source.',
+ 'Kaynak, eksik bağlam ve düzeltme yolu hakkında üç soru.':'Three questions about the source, missing context and a route for correction.',
+ 'Vakıflar ve özel ağlar':'Foundations and private networks',
+ 'Bir vakıf veya üniversite örneği seçin. Kimin finansman verdiğini ve kararı kimin aldığını ayırın.':'Choose a foundation or university example. Separate who provides funding from who makes decisions.',
+ 'İki aktör ve birbirlerinden bağımsız olabilecekleri bir nokta.':'Two actors and one area in which they may act independently.',
+ 'Savaş dönemi kurumları':'Wartime institutions',
+ 'Notta tanıtılan üç kurumu amaç, hedef insanlar ve kullanılan araç başlıklarında karşılaştırın.':'Compare the three institutions in the notes by purpose, intended audience and instruments.',
+ 'Üç kısa satır. Aynı aracı kullanmanın neden aynı görev olmadığını ekleyin.':'Three short rows. Explain why using the same instrument does not imply the same mandate.',
+ 'Radyo, sinema ve basın':'Radio, film and the press',
+ 'Aynı mesajın radyo, film ve gazetede nasıl farklı karşılanabileceğini düşünün.':'Consider how audiences might interpret the same message differently on radio, film and in newspapers.',
+ 'Üç mecra için birer avantaj ve birer sınır.':'One advantage and one limitation for each of the three media.',
+ 'Smith–Mundt ve kurumlar':'Smith–Mundt and institutions',
+ 'Yasal yetki, uygulama kapasitesi ve sonuç için ayrı kanıtlar belirleyin.':'Identify separate evidence for legal authority, implementation capacity and outcomes.',
+ 'Bir yasanın neyi mümkün kıldığı ve neyi tek başına kanıtlamadığı.':'What a law makes possible and what it does not establish by itself.',
+ 'Ülkeler arası karşılaştırma':'Cross-country comparison',
+ 'İki kültür kurumu veya yayıncıyı aynı üç soruyla karşılaştırın: kim yönetir, kime ulaşır, nasıl geri bildirim alır?':'Compare two cultural institutions or broadcasters: Who governs them, whom do they reach, and how do they receive feedback?',
+ 'İki satırlık karşılaştırma ve sonucu etkileyebilecek bir bağlam farkı.':'A two-row comparison and one contextual difference that might affect the outcome.',
+ 'Etkiyi değerlendirmek':'Evaluating influence',
+ '3. sayfadaki sarı sayılardan birini değiştirin. Erişim ve destek değişimini ayrı okuyun.':'Change one yellow input on sheet 3. Read reach and the change in support separately.',
+ 'Dört cümle: amaç, gözlem, başka açıklama ve ek kanıt ihtiyacı.':'Four sentences: purpose, observation, a rival explanation and further evidence needed.',
+ 'Başlamadım':'Not started','Üzerinde çalışıyorum':'In progress','Tamamladım':'Completed',
+ 'Kendi cümleniz için şablon: “Bu kaynak … gösteriyor. … sonucuna ulaşmak için ayrıca … gerekir.”':'Sentence template: “This source shows … . To conclude … , I also need … .”',
+ 'Örnek: “Afiş, mesajın üretildiğini gösteriyor. İkna sonucuna ulaşmak için kitlenin tepkisini de bilmem gerekir.”':'Example: “The poster shows that the message was produced. To establish persuasion, I also need audience responses.”',
+ 'Kaynak: Bu sitedeki 14 haftalık Türkçe ders notu. Bağlantılar yukarıdaki ilgili hafta satırındadır.':'Source: The 14 weeks of English lecture notes on this site. Each weekly row links to the corresponding notes.',
+ 'Bir iddiayı kanıtla nasıl sınarım?':'How do I test a claim against evidence?',
+ '1. “Ne söylüyorum?” sorusuna tek cümle yazın. 2. Elinizdeki belgeyi belirtin. 3. Belgenin sınırını yazın.':'1. State your claim in one sentence. 2. Identify your document. 3. State what the document cannot establish.',
+ 'Kanıt = iddiayı destekleyen iz. “Kanıt matrisi”, bu izleri aynı sorularla karşılaştırdığınız aşağıdaki tablodur.':'Evidence is a trace supporting a claim. An evidence matrix compares such traces using the same questions.',
+ 'Gündelik örnek: Kafenin ilanını görmek, oradan kahve satın aldığınızı kanıtlamaz. Aradaki adımı ayrı gösterin.':'Everyday example: Seeing a café advert does not prove that you bought coffee there. Identify the missing step.',
+ 'Çözülmüş örnekler: Aşağıdaki belge türleri öğretim içindir. Bunlar bulunmuş gerçek arşiv belgeleri değildir.':'Worked examples: These document types illustrate reasoning. They are not actual archival discoveries.',
+ 'Örnek':'Example','Ne söylüyorum? (iddia)':'What do I claim?','Neye bakıyorum? (belge türü)':'What do I examine? (document type)',
+ 'Belge neyi gösterebilir?':'What can it establish?','Tek başına neyi göstermez?':'What cannot it establish alone?','Başka ne açıklayabilir?':'What else might explain it?','Ders bağlantısı':'Lecture link',
+ '1. Üniversite değişimi':'1. University exchange','“Programa katılım oldu.”':'“Participation occurred.”','Varsayılan katılım listesi.':'An illustrative participation list.',
+ 'Listelenen kişilerin programa katılımını.':'Participation by the listed people.','Katılımcıların ülkeye güveninin arttığını.':'Increased trust in the country.',
+ 'Başvuranlar ülkeye zaten ilgi duyuyor olabilir.':'Applicants may already have been interested in the country.',
+ '2. CPI afişi':'2. CPI poster','“Komite bu mesajı üretti.”':'“The committee produced this message.”','Varsayılan CPI afişi ve üretim kaydı.':'An illustrative CPI poster and production record.',
+ 'Mesajın içeriğini ve üretimini.':'The content and production of the message.','Kaç kişinin gördüğünü veya ikna olduğunu.':'How many people saw it or were persuaded.',
+ 'Destek, mesajdan önce var olmuş olabilir.':'Support may have existed before the message.',
+ '3. Sinema gösterimi':'3. Film screening','“Film gösterime sunuldu.”':'“The film was offered for screening.”','Varsayılan sinema programı.':'An illustrative cinema programme.',
+ 'Belirli yerde gösterim planlandığını.':'That a screening was scheduled at a particular venue.','Her izleyicinin aynı anlamı çıkardığını.':'That every viewer interpreted it in the same way.',
+ 'Yerel yorumlar ve mevcut görüşler farklı olabilir.':'Local interpretations and existing opinions may differ.',
+ 'Şimdi siz: Bir ders notundan olay seçin. Sarı satırı doldurun. Belgeyi görmediyseniz “aranacak belge” yazın.':'Your turn: Choose a case from the notes. Complete a yellow row. If you have not seen the document, write “document to locate”.',
+ 'Vakam / haftam':'My case / week','Ne söylüyorum?':'What do I claim?','Belgem / arayacağım belge':'My document / document to locate',
+ 'Bundan ne öğrenirim?':'What can I learn?','Neyi hâlâ bilmiyorum?':'What remains unknown?','Başka açıklama':'Rival explanation','Kaynak veya sayfa':'Source or page',
+ 'Kendinizi kontrol edin: “Belge var” mı dedim, “etki var” mı dedim? İkincisini yazdıysam aradaki yolu gösterebildim mi?':'Check yourself: Did I establish a document or an effect? If I claimed an effect, did I show the steps connecting them?',
+ 'Örneklere temel: 6. hafta eğitim değişimi, 7. hafta CPI, 11. hafta medya. İlgili ders notları örnek satırlarında bağlıdır.':'Basis: Week 6 on exchanges, week 7 on the CPI and week 11 on media. The example rows link to the relevant notes.',
+ 'Erişim ile destek değişimini ayırın':'Separate reach from changes in support',
+ 'Tamamen varsayımsal veri: A ve B hayalî kampanyalardır. Sayılar gerçek kişi, öğrenci veya tarihsel olay verisi değildir.':'Entirely hypothetical data: A and B are fictional campaigns. These are not records of real people, students or historical events.',
+ '1. Sarı hücrelere bakın. 2. Önce aşağıdaki çözülmüş örneği okuyun. 3. D10’u 600 yapıp sonuçları izleyin.':'1. Look at the yellow inputs. 2. Read the worked example below. 3. Set D10 to 600 and watch the results.',
+ 'Başlangıç örneğinde, her kampanyada ulaşılanlardan seçilmiş aynı 100 kişiye önce ve sonra aynı destek sorusu soruldu.':'In each initial example, the same 100 people selected from those reached answered the same support question before and after.',
+ '“Destek” = soruya olumlu yanıt. İkna için daha güçlü kanıt gerekir. Kontrol grubu olmayan bu gözlem neden-sonuç kanıtlamaz.':'“Support” means a positive answer. Persuasion needs stronger evidence. This observation without a control group does not establish causation.',
+ 'Kontrol grubu = kampanyayı almayan, karşılaştırma için izlenen benzer kişiler. Bu örnekte böyle bir grup yok.':'A control group consists of similar people not receiving the campaign, observed for comparison. This example has no such group.',
+ 'Kampanya':'Campaign','Hedef kitle (kişi)':'Target audience (people)','Ulaşılan (kişi)':'Reached (people)','İki ankette aynı grup (kişi)':'Same panel in both surveys (people)',
+ 'Önce destekleyen (kişi)':'Support before (people)','Sonra destekleyen (kişi)':'Support after (people)','Girdi durumu':'Input status',
+ 'A kampanyası':'Campaign A','B kampanyası':'Campaign B','Sayı eksik':'Missing number','Sayıları kontrol et':'Check the numbers','Hazır':'Ready','Sayı':'number',
+ 'Sarı olmayan sonuç hücreleri otomatik hesaplanır. Hedef, anket grubu ve destek sayıları tutarlı olmalıdır.':'Results outside the yellow cells calculate automatically. Audience, panel and support counts must be consistent.',
+ 'Erişim oranı':'Reach rate','Önce destek oranı':'Support before','Sonra destek oranı':'Support after','Değişim (yüzde puan)':'Change (percentage points)',
+ 'Hesap nasıl yapılır?':'How is it calculated?','Sonucu nasıl okurum?':'How do I read it?',
+ 'Destek değişimi: ':'Change in support: ',' yüzde puan. Nedeni henüz bilinmiyor.':' percentage points. The cause is still unknown.',
+ 'Erişim = ulaşan ÷ hedef.':'Reach = reached ÷ target.','Değişim = sonra % − önce %.':'Change = after % − before %.',
+ 'Çözülmüş başlangıç örneği: A’da 800 ÷ 1.000 = %80 erişim. Destek %40’tan %44’e çıkar: 4 yüzde puan.':'Initial worked example: In A, 800 ÷ 1,000 = 80% reach. Support rises from 40% to 44%: 4 percentage points.',
+ 'B’de başlangıç erişimi daha düşüktür (%40). Destek artışı daha büyüktür (15 yüzde puan). Görülmek ile ikna ayrı sorulardır.':'B starts with lower reach (40%) and a larger support increase (15 percentage points). Exposure and persuasion are separate questions.',
+ 'Varsayımsal kampanyalarda erişim ve destek (%)':'Reach and support in hypothetical campaigns (%)',
+ 'Alıştırma 1: D10’u 800’den 600’e değiştirin. Erişim %60 olur. Destek değişimi neden aynı kalır?':'Exercise 1: Change D10 from 800 to 600. Reach becomes 60%. Why does the change in support stay the same?',
+ 'Alıştırma 2: G10’u 44’ten 60’a değiştirin. Destek %60 olur ve artış 20 yüzde puana çıkar. Hangi veri değişti?':'Exercise 2: Change G10 from 44 to 60. Support becomes 60%, an increase of 20 percentage points. Which input changed?',
+ 'Alıştırma 3: E10’u boş bırakın. Sonucun kaybolması neden %0 görünmesinden daha dürüsttür? Sonra 100 yazın.':'Exercise 3: Clear E10. Why is a blank result more honest than displaying 0%? Then enter 100 again.',
+ 'Alıştırma 4: “B daha çok ikna etti” demeden önce ne öğrenmelisiniz? Başlangıç farkları ve başka olayları düşünün.':'Exercise 4: What must you learn before saying “B persuaded more people”? Consider initial differences and other events.',
+ 'Cevabınız':'Your answer','Erişim neyi ölçer?':'What does reach measure?','Destek neyi ölçer?':'What does support measure?',
+ 'Başka olası neden':'Another possible cause','Hangi ek veri gerekir?':'What further data are needed?','Kararımın sınırı':'Limit to my conclusion','Bir cümlelik sonuç':'One-sentence conclusion','Benim açıklamam':'My explanation',
+ 'Formülü görmek için C16’ya tıklayın. Üstteki formül çubuğunda D10/C10, yani “ulaşan kişi / hedef kişi” görünür.':'Click C16 to inspect its formula. D10/C10 in the formula bar means “people reached / people targeted”.',
+ 'Yüzde puan: %40 ile %44 arasındaki fark 4 puandır. Göreli yüzde artışı ise %10’dur. Bunlar farklı ölçülerdir.':'Percentage points: The difference between 40% and 44% is 4 points. The relative increase is 10%. These are different measures.',
+ 'Kaynak: Bu sayfadaki sayılar öğretim amacıyla kuruldu. Kavramlar dersin 1. ve 14. hafta notlarına dayanır.':'Source: The numbers were constructed for teaching. Concepts draw on the course notes for weeks 1 and 14.',
+ '1. hafta notu':'Week 1 notes','14. hafta notu':'Week 14 notes',
+ 'Kavramları günlük dille okuyun':'Read the concepts in everyday language',
+ '1. Bilmediğiniz sözcüğü bulun. 2. Günlük örneği okuyun. 3. Son sütundaki soruyu seçtiğiniz ders vakasına uygulayın.':'1. Find an unfamiliar term. 2. Read its everyday example. 3. Apply the final question to your course case.',
+ 'Kavram':'Concept','Kısaca anlamı':'Plain meaning','Günlük benzetme':'Everyday analogy','Kendinize sorun':'Ask yourself',
+ 'Aktör':'Actor','Bir şey yapmaya çalışan kişi veya kuruluş.':'A person or organisation trying to do something.','Kafe sahibi bir ilan hazırlatıyor.':'A café owner commissions an advert.','Kim, neyi değiştirmeye çalışıyor?':'Who is trying to change what?',
+ 'Hedef kamu':'Target public','Mesajla veya programla ilişki kurulan insan topluluğu.':'The people engaged through a message or programme.','Kafenin çevresindeki öğrenciler.':'Students living near the café.','Hangi insanlar? Hepsini aynı mı sayıyorum?':'Which people? Am I treating them all as identical?',
+ 'Kaynak':'Resource','Kullanılabilecek para, bilgi, ilişki veya itibar.':'Available money, knowledge, relationships or reputation.','Kafenin bütçesi ve iyi adı.':'The café’s budget and good reputation.','Sahip olunan imkân mı, gözlenmiş sonuç mu?':'An available resource or an observed result?',
+ 'Araç':'Instrument','Kaynağın insanlarla temas etme biçimi.':'How a resource is used to engage people.','İlan, tanıtım etkinliği veya davet.':'An advert, promotional event or invitation.','Temas nasıl kuruluyor?':'How does contact occur?',
+ 'Mekanizma':'Mechanism','Bir şeyin başka bir şeyi nasıl değiştirebileceğini anlatan yol.':'The process through which one thing may change another.','Güvenilir bir tavsiye, deneme isteği doğuruyor.':'A trusted recommendation encourages a trial.','Aradaki adım ne? Bu adımı gözleyebilir miyim?':'What is the intermediate step? Can I observe it?',
+ 'Erişim':'Reach','İnsanların içerikle karşılaşması. Tanımını ve sayım yöntemini belirtin.':'People encountering content. Specify the definition and counting method.','Kaç kişi ilanı gerçekten gördü?':'How many people actually saw the advert?','Görüntülenme mi, tekil kişi mi, olası erişim mi?':'Views, unique people or potential reach?',
+ 'Alımlama':'Reception','İnsanların mesajı nasıl anladığı ve değerlendirdiği.':'How people understand and assess a message.','Aynı ilanı biri faydalı, biri itici bulur.':'One person finds the advert useful, another off-putting.','Kitle ne anlam çıkardı? Kendi sesini duyuyor muyum?':'What meaning did the audience make? Can I hear its own voice?',
+ 'Tutum ve davranış':'Attitude and behaviour','Tutum düşünce/değerlendirme, davranış gözlenebilir eylemdir.':'Attitude is an evaluation; behaviour is an observable action.','Kafeyi sevmek tutum, alışveriş yapmak davranıştır.':'Liking the café is an attitude; buying is behaviour.','Düşünce mi, eylem mi ölçüyorum?':'Am I measuring a view or an action?',
+ 'Sert güç':'Hard power','Maliyet veya maddi kazancı değiştirerek davranışı etkileme.':'Influencing behaviour by changing costs or material benefits.','Koşullu ödül veya yaptırım günlük benzetme olabilir.':'A conditional reward or penalty offers an everyday analogy.','Değişim maddi hesaptan mı kaynaklanıyor?':'Does the change reflect a material calculation?',
+ 'Yumuşak güç':'Soft power','Çekicilik ve meşru bulma yoluyla tercihleri şekillendirme kapasitesi.':'The capacity to shape preferences through attraction and perceived legitimacy.','Birini, iyi örnek olduğu için izlemek.':'Following someone because they set an appealing example.','Hayranlığı politika desteğiyle karıştırıyor muyum?':'Am I confusing admiration with policy support?',
+ 'Kamu diplomasisi':'Public diplomacy','Dış amaçlarla bağlantılı olarak yabancı kamularla örgütlü etkileşim.':'Organised engagement with foreign publics connected to external objectives.','Dinleme ve ortak çalışma, tek yönlü duyurudan farklı işler.':'Listening and joint work operate differently from a one-way announcement.','Hangi dış amaç, hangi kamu, hangi geri bildirim?':'Which external purpose, public and feedback?',
+ 'Propaganda':'Propaganda','Siyasal amaçla algı ve davranışı sistemli yönlendiren iletişim.':'Communication systematically directing perceptions and behaviour towards political ends.','Doğru bir parçayı seçip geri kalanını saklamak mümkün.':'A true fragment can be selected while the rest is concealed.','Kaynak, eksik bağlam ve seçme özgürlüğü açık mı?':'Are the source, omitted context and freedom to choose clear?',
+ 'Güvenilirlik':'Credibility','Bir kaynağın inanılır ve güvenilmeye değer bulunması.':'A source being considered believable and trustworthy.','Yanlışını açıkça düzelten bir konuşmacı.':'A speaker who openly corrects an error.','İnanma nedenini nasıl biliyorum?':'How do I know why people believe the source?',
+ 'Karşılıklılık':'Reciprocity','Tarafların birbirini dinleyip sürece katkı sunabilmesi.':'Parties being able to listen and contribute to the process.','Birlikte karar vermek, yalnız emir almak değildir.':'Joint decision-making differs from simply receiving orders.','Diğer taraf programı değiştirebiliyor mu?':'Can the other party change the programme?',
+ 'Rakip açıklama':'Rival explanation','Gözlenen sonucu açıklayabilecek başka bir neden.':'Another cause that could explain the observed result.','Yeni müşteri ilan yerine yakın arkadaşının önerisiyle gelmiş olabilir.':'A new customer may have followed a friend’s advice rather than the advert.','Sonuç zaten oluşacak mıydı? Başka ne değişti?':'Would the result have occurred anyway? What else changed?',
+ 'Karşı olgu':'Counterfactual','Bu faaliyet yapılmasaydı ne olacağını soran karşılaştırma.':'A comparison asking what would have happened without the activity.','İlan verilmeseydi satışlar nasıl giderdi?':'What would sales have been without the advert?','Uygun karşılaştırma veya önceki eğilim var mı?':'Is there a suitable comparison or prior trend?',
+ 'Pay ve payda':'Numerator and denominator','Oranda pay sayılan miktar, payda ilgili toplamdır.':'The numerator is the counted amount; the denominator is the relevant total.','800 ulaşan / 1.000 hedef = %80.':'800 reached / 1,000 targeted = 80%.','Aynı kitle ve dönemden sayıları mı bölüyorum?':'Do both counts refer to the same population and period?',
+ 'Yüzde puan':'Percentage points','İki yüzde arasındaki aritmetik fark.':'The arithmetic difference between two percentages.','%40’tan %44’e geçiş 4 yüzde puandır.':'A move from 40% to 44% is 4 percentage points.','Yüzde artışıyla karıştırıyor muyum?':'Am I confusing this with a relative percentage increase?',
+ 'Kaynak: Dersin Türkçe notlarındaki kavramsal açıklamalar. Günlük benzetmeler yalnızca öğrenmeyi kolaylaştıran örneklerdir.':'Source: Conceptual explanations in the English course notes. Everyday analogies serve only to support learning.',
+ '1. hafta: kavramlar':'Week 1: concepts','14. hafta: ölçüm':'Week 14: measurement',
+};
+
+for (const locale of ['tr','en']) {
+const T = value => {
+ if (typeof value !== 'string' || locale === 'tr') return value;
+ if (Object.hasOwn(EN,value)) return EN[value];
+ if (/^Uygulama \d+$/.test(value)) return value.replace('Uygulama','Practice');
+ throw new Error(`Missing English translation: ${value}`);
+};
+const out = path.join(repo, 'workbooks',locale==='tr'?'Kamu_Diplomasisi_Ogrenme_Atolyesi_TR.xlsx':'Public_Diplomacy_Learning_Workshop_EN.xlsx');
+const qa = path.join(process.cwd(), `qa-workbook-${locale}`);
 await fs.mkdir(path.dirname(out), { recursive: true });
 await fs.mkdir(qa, { recursive: true });
 const wb = Workbook.create();
 const P = { burgundy: '#801c35', navy: '#182b3a', gold: '#d9b864', cream: '#fcfaf6', input: '#fff1c9', light: '#eee8e2', muted: '#53616c', white: '#ffffff' };
 const font = 'Arial';
-const names = ['1 Başla ve Haftalar', '2 Kanıt Çalışması', '3 Ölçüm Deneyi', '4 Kavram Rehberi'];
+const names = ['1 Başla ve Haftalar', '2 Kanıt Çalışması', '3 Ölçüm Deneyi', '4 Kavram Rehberi','5 Araştırma Tasarımı'].map(T);
 const sheets = names.map(n => wb.worksheets.add(n));
 const links = [];
-const noteURL = week => `https://mayhewforever.github.io/kamudiplomasisi/notes/Hafta_${String(week).padStart(2, '0')}_Ders_Notu_TR.html`;
-const set = (s, a, values) => { s.getRange(a).values = values; };
+const noteURL = week => `https://mayhewforever.github.io/kamudiplomasisi/notes/${locale==='tr'?`Hafta_${String(week).padStart(2, '0')}_Ders_Notu_TR.html`:`Week_${String(week).padStart(2, '0')}_Lecture_Notes_EN.html`}`;
+const set = (s, a, values) => { s.getRange(a).values = values.map(row=>row.map(T)); };
 function base(s, last, widths) {
   s.showGridLines = false;
   s.tabColor = P.burgundy;
@@ -47,7 +187,7 @@ function prose(s, row, text, end='G', height=26) {
   // Ordinary unmerged prose can flow into the intentionally empty cells.
 }
 function head(s, range, labels) {
-  const r = s.getRange(range); r.values = [labels];
+  const r = s.getRange(range); r.values = [labels.map(T)];
   r.format = { fill: P.navy, font: { name: font, size: 11, bold: true, color: P.white }, wrapText: true, verticalAlignment: 'center', horizontalAlignment: 'center', rowHeight: 42 };
 }
 function tableBody(s, range) {
@@ -58,6 +198,7 @@ function input(s, range) { s.getRange(range).format.fill=P.input; }
 function link(s, cell, week, label='Ders notunu aç') {
   // Native hyperlink formulas are inserted after layout rendering. The artifact
   // renderer does not evaluate HYPERLINK; the native recalculation below does.
+  label=T(label);
   links.push({s,cell,week,label});
   s.getRange(cell).values=[[label]];
   s.getRange(cell).format.font={name:font,size:11,color:P.burgundy,underline:'single'};
@@ -93,7 +234,7 @@ set(guide,'B12:G25',weekly.map((x,i)=>[i+1,...x,null,'Başlamadım']));
 tableBody(guide,'B12:G25'); guide.getRange('B12:G25').format.rowHeight=60;
 guide.getRange('B12:B25').format.horizontalAlignment='center';
 input(guide,'G12:G25');
-guide.getRange('G12:G25').dataValidation={rule:{type:'list',values:['Başlamadım','Üzerinde çalışıyorum','Tamamladım']}};
+guide.getRange('G12:G25').dataValidation={rule:{type:'list',values:['Başlamadım','Üzerinde çalışıyorum','Tamamladım'].map(T)}};
 for(let i=0;i<14;i++)link(guide,`F${12+i}`,i+1);
 guide.freezePanes.freezeRows(11);
 prose(guide,28,'Kendi cümleniz için şablon: “Bu kaynak … gösteriyor. … sonucuna ulaşmak için ayrıca … gerekir.”');
@@ -138,15 +279,15 @@ set(lab,'B10:G11',[['A kampanyası',1000,800,100,40,44],['B kampanyası',1000,40
 input(lab,'C10:G11');tableBody(lab,'B10:H11');lab.getRange('B10:H11').format.rowHeight=29;
 lab.getRange('C10:G11').setNumberFormat('#,##0');
 lab.getRange('C10:G11').dataValidation={rule:{type:'whole',operator:'between',formula1:0,formula2:1000000}};
-lab.getRange('H10').formulas=[['=IF(COUNT(C10:G10)<5,"Sayı eksik",IF(OR(C10<=0,D10<0,D10>C10,E10<=0,E10>D10,F10<0,F10>E10,G10<0,G10>E10),"Sayıları kontrol et","Hazır"))']];
+lab.getRange('H10').formulas=[[`=IF(COUNT(C10:G10)<5,"${T('Sayı eksik')}",IF(OR(C10<=0,D10<0,D10>C10,E10<=0,E10>D10,F10<0,F10>E10,G10<0,G10>E10),"${T('Sayıları kontrol et')}","${T('Hazır')}"))`]];
 lab.getRange('H10:H11').fillDown();
-lab.getRange('H10:H11').conditionalFormats.add('containsText',{text:'Sayı',format:{fill:'#fce1dd',font:{color:'#9c2635',bold:true}}});
+lab.getRange('H10:H11').conditionalFormats.add('containsText',{text:T('Sayı'),format:{fill:'#fce1dd',font:{color:'#9c2635',bold:true}}});
 prose(lab,13,'Sarı olmayan sonuç hücreleri otomatik hesaplanır. Hedef, anket grubu ve destek sayıları tutarlı olmalıdır.','H');
 head(lab,'B15:H15',['Kampanya','Erişim oranı','Önce destek oranı','Sonra destek oranı','Değişim (yüzde puan)','Hesap nasıl yapılır?','Sonucu nasıl okurum?']);
 for(let i=0;i<2;i++){
  const r=16+i, src=10+i;
- lab.getRange(`B${r}:F${r}`).formulas=[[`=B${src}`,`=IF(H${src}="Hazır",D${src}/C${src},"")`,`=IF(H${src}="Hazır",F${src}/E${src},"")`,`=IF(H${src}="Hazır",G${src}/E${src},"")`,`=IF(H${src}="Hazır",(E${r}-D${r})*100,"")`]];
- lab.getRange(`H${r}`).formulas=[[`=IF(H${src}<>"Hazır",H${src},"Destek değişimi: "&TEXT(F${r},"0.0")&" yüzde puan. Nedeni henüz bilinmiyor.")`]];
+ lab.getRange(`B${r}:F${r}`).formulas=[[`=B${src}`,`=IF(H${src}="${T('Hazır')}",D${src}/C${src},"")`,`=IF(H${src}="${T('Hazır')}",F${src}/E${src},"")`,`=IF(H${src}="${T('Hazır')}",G${src}/E${src},"")`,`=IF(H${src}="${T('Hazır')}",(E${r}-D${r})*100,"")`]];
+ lab.getRange(`H${r}`).formulas=[[`=IF(H${src}<>"${T('Hazır')}",H${src},"${T('Destek değişimi: ')}"&TEXT(F${r},"0.0")&"${T(' yüzde puan. Nedeni henüz bilinmiyor.')}")`]];
 }
 set(lab,'G16:G17',[['Erişim = ulaşan ÷ hedef.'],['Değişim = sonra % − önce %.']]);
 tableBody(lab,'B16:H17');lab.getRange('B16:H17').format.rowHeight=52;
@@ -154,7 +295,7 @@ lab.getRange('C16:E17').setNumberFormat('0.0%');lab.getRange('F16:F17').setNumbe
 prose(lab,19,'Çözülmüş başlangıç örneği: A’da 800 ÷ 1.000 = %80 erişim. Destek %40’tan %44’e çıkar: 4 yüzde puan.','H');
 prose(lab,20,'B’de başlangıç erişimi daha düşüktür (%40). Destek artışı daha büyüktür (15 yüzde puan). Görülmek ile ikna ayrı sorulardır.','H');
 const chart=lab.charts.add('bar',lab.getRange('B15:E17'));
-chart.title='Varsayımsal kampanyalarda erişim ve destek (%)';
+chart.title=T('Varsayımsal kampanyalarda erişim ve destek (%)');
 chart.titleTextStyle.typeface=font;chart.titleTextStyle.fontSize=14;
 chart.legend={position:'top',textStyle:{typeface:font,fontSize:12}};
 chart.xAxis={axisType:'textAxis',textStyle:{typeface:font,fontSize:12}};
@@ -202,6 +343,74 @@ set(ref,'B7:E24',concepts);tableBody(ref,'B7:E24');ref.getRange('B7:E24').format
 prose(ref,27,'Kaynak: Dersin Türkçe notlarındaki kavramsal açıklamalar. Günlük benzetmeler yalnızca öğrenmeyi kolaylaştıran örneklerdir.','E');
 link(ref,'B29',1,'1. hafta: kavramlar');link(ref,'D29',14,'14. hafta: ölçüm');ref.freezePanes.freezeRows(6);
 
+// 5. A research design form: provenance and observation are distinct from inference.
+const R=(tr,en)=>{EN[tr]=en;return tr;};
+const research=sheets[4];
+base(research,'E36',[270,535,535,24]);
+title(research,R('Araştırma tasarımınızı adım adım kurun','Build your research design step by step'),'D');
+prose(research,4,R('1. Çözülmüş kurmaca örneği okuyun. 2. Sarı sütuna kendi vakanızı yazın. 3. İddianızı desteklemeyen kanıtı da arayın.',
+ '1. Read the fictional worked example. 2. Write your own case in the yellow column. 3. Also seek evidence against your claim.'),'D');
+prose(research,5,R('Kaynak kökeni, belgenin kim tarafından, ne zaman ve hangi amaçla üretildiğini ve size nasıl ulaştığını belirtir.',
+ 'Source provenance identifies who created a document, when, for what purpose, and how it reached you.'),'D');
+prose(research,6,R('Gözlem belgede bulunan şeydir. Yorum, bundan çıkardığınız anlamdır. İkisini ayrı yazmak çıkarımınızı denetlenebilir kılar.',
+ 'An observation is what appears in the record. An interpretation is what you infer. Keeping them separate makes your reasoning auditable.'),'D');
+prose(research,7,R('Örnek tamamen kurmacadır. ÖRNEK-1 gerçek bir belge kodu değildir. Sarı alanlara öğrenci adı veya kişisel veri yazmayın.',
+ 'The example is entirely fictional. EXAMPLE-1 is not a real record identifier. Do not enter student names or personal data in the yellow cells.'),'D');
+head(research,'B9:D9',[
+ R('Kanıtı sorgulama alanı','Evidence question'),
+ R('Çözülmüş kurmaca örnek','Fictional worked example'),
+ R('Sizin çalışmanız (doldurun)','Your study (complete this)')
+]);
+const evidenceDesign=[
+ [R('İddia: Sınadığım cümle','Claim: the statement I test'),R('Değişim atölyesi, iki öğretmenin ilk ortak ders planını hazırlamasına katkıda bulundu. Bu, sınanacak iddiadır; henüz sonuç değildir.',
+ 'The exchange workshop contributed to two teachers preparing their first joint lesson plan. This is the claim to test, not an established result.')],
+ [R('Kaynak kökeni: Belgeyi kim üretti?','Provenance: who produced the source?'),R('ÖRNEK-1: Katılımcı A’nın katılımcı B’ye atölye sonrasında yazdığı varsayılan özel mektup. Üretici, alıcı, tarih, amaç ve saklandığı yer gerçek araştırmada ayrıca doğrulanır.',
+ 'EXAMPLE-1: An imagined private letter from participant A to participant B after the workshop. A real study must verify creator, recipient, date, purpose and repository.')],
+ [R('Gözlem: Belgede tam olarak ne var?','Observation: what exactly is in the record?'),R('Varsayılan mektup, ortak bir ders taslağından söz eder. Bu gözlem, mektubun içeriğine ilişkindir; taslağın uygulandığını göstermez.',
+ 'The imagined letter mentions a joint lesson draft. This observation concerns the letter’s content; it does not show that the draft was implemented.')],
+ [R('Yorum: Bu gözlemden ne çıkarıyorum?','Interpretation: what do I infer?'),R('Atölye sonrasında iletişimin sürmüş olmasıyla uyumludur. Atölyenin tek neden olduğu veya ilişkinin kalıcı olduğu sonucuna yetmez.',
+ 'It is consistent with continued contact after the workshop. It does not establish that the workshop was the sole cause or that the relationship endured.')],
+ [R('Rakip açıklama: Başka neden olabilir mi?','Rival explanation: could another cause explain it?'),R('Öğretmenler önceden tanışıyor veya başka bir proje için zaten işbirliği planlıyor olabilir. Atölye öncesi yazışmalar bu açıklamayı sınayabilir.',
+ 'The teachers may have known each other or already planned another joint project. Pre-workshop correspondence could test this explanation.')],
+ [R('Sınırlılık: Kanıtımın sınırı nedir?','Limitation: what are the limits of my evidence?'),R('Tek bir öz bildirime dayanır. Yazışmanın seçilerek korunması, olumlu anlatım ve karşı tarafın sessizliği sonucu çarpıtabilir. İletişim, politika değişikliği anlamına gelmez.',
+ 'It relies on one self-report. Selective survival, positive self-presentation and the other party’s silence may distort the account. Contact is not a policy change.')],
+ [R('Sonraki kanıt: Neyi kontrol edeceğim?','Next evidence: what will I check?'),R('Atölye öncesi kayıtları, ikinci katılımcının anlatısını ve tarihli ortak taslağı karşılaştırırım. Çelişki bulursam iddiayı daraltırım; aynı kaynağın tekrarını bağımsız doğrulama saymam.',
+ 'Compare earlier records, the second participant’s account and the dated joint draft. Narrow the claim if they conflict; repeated use of one source is not independent corroboration.')],
+];
+set(research,'B10:D16',evidenceDesign.map(row=>[...row,null]));
+tableBody(research,'B10:D16');research.getRange('B10:D16').format.rowHeight=84;input(research,'D10:D16');
+prose(research,18,R('Şimdi tasarım kararları: Her satır bir araştırma tercihini açık eder. Veri yoksa sonuç uydurmak yerine hangi veriyi arayacağınızı yazın.',
+ 'Now specify the design: Each row makes a research choice explicit. If data are absent, state what to seek rather than invent a result.'),'D');
+head(research,'B20:D20',[R('Tasarım kararı','Design decision'),R('Örnekte nasıl uygulanır?','How the example applies it'),R('Benim araştırma planım','My research plan')]);
+const design=[
+ [R('Araştırma sorusu','Research question'),R('Atölye, belirli iki öğretmenin ilk ortak ders taslağını hazırlamasına hangi süreçle katkıda bulundu?',
+ 'Through what process did the workshop contribute to this pair of teachers preparing their first joint lesson draft?')],
+ [R('İnceleme birimi','Unit of analysis'),R('Bir öğretmen çifti ve onun ortak çalışma süreci. Kişi, etkinlik ve ülke düzeyindeki iddiaları birbirine karıştırmam.',
+ 'One pair of teachers and its collaborative process. Do not mix claims about individuals, events and countries.')],
+ [R('Zaman ve kapsam','Time and scope'),R('Varsayımsal plan: atölyeden önceki ve sonraki üç ay. Bu sınırın dışındaki olayları ancak gerekçesini belirterek eklerim.',
+ 'Hypothetical plan: the three months before and after the workshop. Extend the scope only with an explicit reason.')],
+ [R('Beklenen mekanizma','Proposed mechanism'),R('Atölyede temas kurulması, ortak bir konu seçilmesi ve birlikte taslak hazırlanması. Her adım için ayrı bir iz ararım.',
+ 'Contact at the workshop, agreement on a topic, then joint drafting. Seek a distinct observable trace for each step.')],
+ [R('Gösterge ve tanımı','Indicator and definition'),R('Tarih ve ortak katkı izi bulunan ders taslağı. Katılım listesi yalnız katılımı gösterir; ortak üretimin yerine geçmez.',
+ 'A dated lesson draft with traces of contributions by both teachers. Attendance shows participation, not joint production.')],
+ [R('Vaka seçimi','Case selection'),R('Yalnız başarı anlatılarını seçmem. Devam etmeyen temasları da arar, hangi kişilerin veya belgelerin neden dışarıda kaldığını kaydederim.',
+ 'Do not select only success stories. Seek contacts that did not continue and record why people or documents were excluded.')],
+ [R('Karşılaştırma ve karşı olgu','Comparison and counterfactual'),R('Atölye öncesindeki işbirliğini ve uygun benzer katılmayan kişileri araştırırım. Grupların başlangıçta farklı olabileceğini açıklarım; benzerliği otomatik varsaymam.',
+ 'Investigate earlier collaboration and suitable similar non-participants. Explain possible initial differences rather than assuming comparability.')],
+ [R('Etik ve veri yönetimi','Ethics and data management'),R('Gönüllü katılım, uygun izin, kişisel bilgilerin azaltılması ve güvenli saklama planı kurarım. Öğrenci verilerini bu çalışma kitabına kopyalamam.',
+ 'Plan voluntary participation, appropriate permission, minimal personal data and secure storage. Do not copy student records into this workbook.')],
+ [R('Kaynak gösterme ve denetim izi','Citation and audit trail'),R('Yazar, tarih, başlık, koleksiyon veya yayın, kayıt/sayfa ve erişim bilgisini kaydederim. Çeviri, eksik belge ve değişen yorum için kısa bir işlem günlüğü tutarım.',
+ 'Record author, date, title, collection or publication, record/page and access details. Keep a short log of translations, missing records and revised interpretations.')],
+];
+set(research,'B21:D29',design.map(row=>[...row,null]));
+tableBody(research,'B21:D29');research.getRange('B21:D29').format.rowHeight=76;input(research,'D21:D29');
+prose(research,31,R('Teslim öncesi: İddia, gözlem, yorum ve sınır ayrı mı? En güçlü rakip açıklamayı sınamak için hangi kanıt gerekiyor?',
+ 'Before submission: Are claim, observation, interpretation and limitation separate? What evidence would test the strongest rival explanation?'),'D');
+prose(research,32,R('Ders dayanağı: 6. hafta değişimler, 14. hafta kanıt ve değerlendirme. Kurmaca örnek herhangi bir tarihsel sonuca kanıt oluşturmaz.',
+ 'Course basis: Week 6 on exchanges and week 14 on evidence and evaluation. This fictional example establishes no historical finding.'),'D');
+link(research,'B34',6,R('6. hafta: değişimler','Week 6: exchanges'));
+link(research,'C34',14,'14. hafta: ölçüm');research.freezePanes.freezeRows(9);
+
 // Verification: input changes update the same formulas. Restore all teaching defaults.
 wb.recalculate();
 const value=(cell)=>lab.getRange(cell).values[0][0];
@@ -209,9 +418,9 @@ const near=(actual,expected)=>assert.ok(Math.abs(actual-expected)<1e-9,`${actual
 near(value('C16'),.8);near(value('C17'),.4);near(value('F16'),4);near(value('F17'),15);
 set(lab,'D10',[[600]]);wb.recalculate();near(value('C16'),.6);near(value('F16'),4);
 set(lab,'G10',[[60]]);wb.recalculate();near(value('E16'),.6);near(value('F16'),20);
-set(lab,'E10',[[null]]);wb.recalculate();assert.equal(value('H10'),'Sayı eksik');assert.equal(value('C16'),'');
-set(lab,'E10',[[0]]);wb.recalculate();assert.equal(value('H10'),'Sayıları kontrol et');assert.equal(value('F16'),'');
-set(lab,'C10:G10',[[1000,800,100,40,44]]);set(lab,'D10',[[1001]]);wb.recalculate();assert.equal(value('H10'),'Sayıları kontrol et');
+set(lab,'E10',[[null]]);wb.recalculate();assert.equal(value('H10'),T('Sayı eksik'));assert.equal(value('C16'),'');
+set(lab,'E10',[[0]]);wb.recalculate();assert.equal(value('H10'),T('Sayıları kontrol et'));assert.equal(value('F16'),'');
+set(lab,'C10:G10',[[1000,800,100,40,44]]);set(lab,'D10',[[1001]]);wb.recalculate();assert.equal(value('H10'),T('Sayıları kontrol et'));
 set(lab,'C10:G10',[[1000,800,100,40,44]]);set(lab,'F10:G10',[[0,0]]);wb.recalculate();near(value('D16'),0);near(value('F16'),0);
 set(lab,'C10:G10',[[1000,800,100,40,44]]);
 wb.recalculate();
@@ -224,6 +433,7 @@ const previews=[
  [evidence,'B1:H14','evidence-1'],[evidence,'B15:H26','evidence-2'],
  [lab,'B1:H20','measurement-1'],[lab,'B22:H39','measurement-2'],[lab,'B41:H51','measurement-3'],
  [ref,'B1:E15','concepts-1'],[ref,'B16:E30','concepts-2'],
+ [research,'B1:D17','research-1'],[research,'B18:D35','research-2'],
 ];
 for(const [sheet,range,name]of previews){
  const blob=await wb.render({sheetName:sheet.name,range,scale:1.3,format:'png'});
@@ -240,3 +450,4 @@ await fs.mkdir(nativeDir,{recursive:true});
 execFileSync('soffice',['--headless','--convert-to','xlsx','--outdir',nativeDir,out],{stdio:'pipe',timeout:120000});
 await fs.copyFile(path.join(nativeDir,path.basename(out)),out);
 console.log(JSON.stringify({output:out,sheets:names,changeInputChecks:'passed',errorScan:errors.ndjson,chartSeries:chart.series.items.map(s=>({formula:s.formula,categoryFormula:s.categoryFormula})),qa},null,2));
+}

@@ -1,0 +1,503 @@
+{
+  "week": 7,
+  "tr": {
+    "orientation": "CPI vakasını iki ayrı soruyla inceleyeceğiz: Savaş iletişimi nasıl örgütlendi ve bu örgütlenmenin etkisi nasıl bilinebilir? Bir kurumun geniş dağıtım ağına sahip olması, bütün yabancı kitleleri ikna ettiğini göstermez. Kurumsal yenilik, mesajın yolculuğu, okuyucunun yorumu ve demokratik hesap verebilirlik birlikte ele alınacak; tarihsel sınıflandırma ile başarı değerlendirmesi birbirine karıştırılmayacaktır.",
+    "sections": [
+      {
+        "id": "institution",
+        "title": "1. Savaş ortamı ve geçici kurumun amacı",
+        "why": "Kurumun yapısını içinde doğduğu sorunla ilişkilendiriyoruz.",
+        "paragraphs": [
+          "ABD’nin Birinci Dünya Savaşı’na girişi, yönetimin hem iç destek toplama hem dışarıya savaş amaçlarını anlatma ihtiyacını artırdı. Başkan Wilson’ın kurduğu ve George Creel’in yönettiği Kamuoyu Bilgilendirme Komitesi, yani CPI, bilgi verme, ikna ve seferberlik işlevlerini bir araya getirdi. Bu hedefler birbirine yakın olabilir; fakat aynı faaliyet ve başarı ölçüsü değildir.",
+          "Bilgi verme, bir durum hakkında içerik sunmaktır; ikna, bir değerlendirmeyi veya tercihi değiştirmeyi amaçlar; seferberlik ise insanları belirli eylemlere yöneltir. Aynı konuşma üçünü de içerebilir. Araştırmacı önce kurumun hangi tepkiyi istediğini belirlemelidir. Gerçekleşen eylemi yalnız ilan edilen amaçtan çıkarmak, tasarımla uygulamayı ve sonuçla niyeti birbirine karıştırır.",
+          "CPI, kalıcı bir dışişleri bakanlığı değil, savaş koşullarında çalışan geçici federal komiteydi. Bu yapı farklı kaynakları hızla bir araya getirebilir; fakat süreklilik, gözetim ve sorumluluk sorularını da doğurur. Kurumsal kapasite, çok iş yapabilme imkânıdır; kurumsallaşma ise yetki, kaynak ve uygulamaların zaman içinde yerleşmesidir. Geniş üretim ilkini gösterebilir, ikincisini tek başına göstermez."
+        ],
+        "example": {
+          "title": "Acil koordinasyon benzetmesi",
+          "text": "Varsayımsal bir okul, kriz sırasında geçici iletişim ekibi kuruyor. Ekip kısa sürede çok duyuru yayımlayabilir; bu, kalıcı ve bağımsız bir kurum olduğu anlamına gelmez. Benzetme örgütlenmeyi açıklar; devletin savaş yetkileri ve kamusal denetim sorunlarını bütünüyle kapsamaz."
+        },
+        "checkpoint": {
+          "question": "Çok içerik üretmek, kalıcı ajans olmayı kanıtlar mı?",
+          "answer": "Hayır. Üretim kapasitesi ile hukuki süreklilik, bütçe düzeni ve hesap verme yapısı farklı kurumsal özelliklerdir."
+        }
+      },
+      {
+        "id": "network",
+        "title": "2. Mesajın yolculuğu ve aracıların seçimi",
+        "why": "Tek merkezden çıkan içeriğin neden tek anlam üretmediğini açıklıyoruz.",
+        "paragraphs": [
+          "CPI basın bülteni, broşür, afiş, film ve konuşma gibi farklı araçları kullandı. Araç, mesajın taşındığı biçimdir; mekanizma ise bu biçimin nasıl dikkat, anlama veya değerlendirme değişikliği yaratabileceğine ilişkin açıklamadır. Bir afiş görüntüyle dikkat çekebilir, bir konuşmacı yerel vurgu ekleyebilir. Araçların sayılması, bunların nasıl etki ettiğini açıklamanın yerine geçmez.",
+          "Bir metin merkezden ajansa, diplomatik temsilciliğe, gazeteye ve okuyucuya farklı yollardan ulaşabilir. Her durakta seçim, çeviri, kısaltma veya ret olasılığı vardır. Editör yer darlığı nedeniyle metni değiştirebilir; siyasi çizgisi nedeniyle farklı başlık kullanabilir. Bu nedenle merkezdeki metin ile yerel yayımlanan nüsha karşılaştırılmadan, hedefin hangi içerikle karşılaştığı kesinleştirilemez.",
+          "Merkezî koordinasyon, yerel uygulamanın tamamen aynı olduğu anlamına gelmez. Ortak tema, farklı bağlamlarda farklı yorumlarla karşılaşabilir; yerel aracının özerkliği bazen erişimi artırıp bazen mesaj tutarlılığını azaltabilir. Bu ikilemi çözmek için yalnız merkez talimatı değil, sahadan gelen cevap, değişiklik ve geri bildirim de izlenmelidir. Ağın varlığı, merkezî kontrolün derecesini tek başına ölçmez."
+        ],
+        "example": {
+          "title": "Aynı metin, yeni başlık",
+          "text": "Varsayımsal bir dış gazete, gönderilen açıklamayı eleştirel başlıkla basıyor. Dağıtım ve yayım gerçekleşmiştir; fakat göndericinin istediği anlam değişmiş olabilir. Bu durumda başlık ve çevresindeki yorum, metnin kendisi kadar önemli alımlama bağlamı oluşturur."
+        },
+        "checkpoint": {
+          "question": "Gazetenin metni basmaması, mutlaka siyasi ret midir?",
+          "answer": "Hayır. Teknik kesinti, yer darlığı, haber önceliği veya sansür de mümkün açıklamalardır. Belirli neden, uygun kayıtla araştırılmalıdır."
+        }
+      },
+      {
+        "id": "classification",
+        "title": "3. “İlk kamu diplomasisi ajansı” iddiasını sınamak",
+        "why": "Bir kuruma verilen unvanı ölçütleri açık bir karşılaştırmaya dönüştürüyoruz.",
+        "paragraphs": [
+          "“İlk” sözcüğü ancak hangi sınıfın ilk örneğinin kastedildiği belirtilirse araştırılabilir. İlk dış kamu etkileşimi, ilk merkezî koordinasyon, ilk uzmanlaşmış yapı ve ilk kalıcı ajans farklı iddialardır. Önceki haftalardaki diplomasi, basın, yardım ve eğitim ağları, yabancı kamularla ilişkinin CPI’dan önce bulunduğunu gösterir. Dolayısıyla iletişimin ilk kez icat edildiği savı savunulamaz.",
+          "CPI’ın ayırt edici yönü, birçok aracı ve iletişim biçimini federal düzeyde geniş bir savaş amacı etrafında örgütlemesiydi. Bunun tarihsel önemini kabul etmek, her “ilk” iddiasını onaylamayı gerektirmez. Görev, uzman personel, koordinasyon, coğrafi kapsam, süreklilik ve hukuki statü ayrı ölçütler olarak karşılaştırılmalıdır. Bir ölçütte yenilik, bütün ölçütlerde aynı üstünlüğü sağlamaz.",
+          "Bugünün kamu diplomasisi kavramını geçmişe uygulamak, açıklayıcı bir karşılaştırma olabilir; dönemin aktörlerinin aynı kurumsal anlayışa sahip olduğunu varsaymak ise anakronizm, yani geçmişi sonraki kavramlarla yanlış özdeşleştirme riskidir. Önce kurumun kendi dönemindeki amaç ve dili incelenir; sonra sonraki kavramın hangi benzerliği açıkladığı belirtilir. Kavram, araştırma sorusunu açmalı; tarihsel farkı kapatmamalıdır."
+        ],
+        "example": {
+          "title": "İki farklı “ilk”",
+          "text": "Varsayımsal iki öğrenci aynı kurumu değerlendiriyor. Biri iletişimin ilk kez merkezileşmesini, diğeri kalıcı yasal kurum oluşmasını ölçüyor. Farklı sonuçları zorunlu olarak çelişmez; önce kullandıkları sınıf ve karşılaştırma ölçütü açıklanmalıdır."
+        },
+        "checkpoint": {
+          "question": "Kurumsal yenilik, kanıtlanmış iknayla aynı şey midir?",
+          "answer": "Hayır. Bir kurum örgütlenme açısından yeni olabilir; hedef kitlenin düşüncesi üzerindeki etkisi yine ayrı kanıt gerektirir."
+        }
+      },
+      {
+        "id": "records",
+        "title": "4. Faaliyet raporunu kaynak eleştirisiyle okumak",
+        "why": "Kurumun kendisini anlatmasını bağımsız başarı ölçümü saymıyoruz.",
+        "paragraphs": [
+          "Faaliyet raporu, kurumun ne yaptığını ve bunu nasıl sunmak istediğini birlikte gösterir. Gönderilen bülten, kullanılan kanal veya kurulan bağlantı bilgisi değerlidir. Ancak rapor bütçeyi, personeli veya görevin sürmesini savunmak için belirli çıktıları öne çıkarabilir. Bu olasılık raporu bütünüyle geçersiz kılmaz; iddiaların hangi düzeyde kullanılacağını belirlemeyi gerektirir.",
+          "Sayıların birimini kontrol etmek temel kaynak eleştirisidir. Basılan nüsha, gönderilen nüsha, farklı yayın ve toplam yeniden basım aynı ölçü değildir. Tek metnin farklı kanallara gönderilmesi, ayrı okuyuculara ulaştığını garanti etmez. Raporun dönemi, coğrafi kapsamı, tekrarlı sayımları ve planlanan ile tamamlanan işleri ayırıp ayırmadığı anlaşılmadan rakamlar toplanmamalıdır.",
+          "Bağımsız doğrulama, kurum raporunu başka bir raporda tekrar bulmaktan fazlasıdır. Yerel gazete nüshası yayımı, ajans kaydı alımı, okuyucu mektubu belirli tepkiyi gösterebilir. Hepsi farklı aşamaları sınar. Bir kaynağın başka kaynaktan kopyalanmış olması, doğrulama gücünü sınırlar. Arşivde olmayan kayıt da olayın hiç gerçekleşmediğinin otomatik kanıtı değildir; korunma koşulları araştırılmalıdır."
+        ],
+        "example": {
+          "title": "İki kez sayılan erişim",
+          "text": "Varsayımsal raporda aynı bülten hem diplomatik hem ajans kanalından gönderiliyor. İki gönderi vardır; iki farklı okuyucu kitlesi olduğu bilinmiyor. Dağıtım toplamını benzersiz erişim diye adlandırmak, verinin ölçtüğü birimi değiştirmiş olur."
+        },
+        "checkpoint": {
+          "question": "Bir kurum raporu hangi konuda özellikle yararlı olabilir?",
+          "answer": "Kurumun görev anlayışı, kullandığı araçlar ve kaydettiği işlemler hakkında. Bağımsız okuyucu kabulü ve siyasi etki için başka kaynaklar gerekir."
+        }
+      },
+      {
+        "id": "reception",
+        "title": "5. Okunma, yorum ve savaş ortamında rıza",
+        "why": "Görünür onaydan serbest tercih veya nedensel etki çıkarmıyoruz.",
+        "paragraphs": [
+          "Alımlama, insanların içeriği kendi bilgi, değer ve deneyimleriyle yorumlamasıdır. Bir metni görmek, anlamak, güvenilir bulmak ve ona göre davranmak ayrı aşamalardır. Yabancı kitleler de tek bir bütün değildir: Dil, siyasi çizgi, savaş deneyimi ve yerel çatışmalar aynı mesajın anlamını değiştirebilir. Bir gazetede yayın, bütün ülkenin mesaja ulaştığını veya onu benimsediğini göstermez.",
+          "Savaş koşulları değerlendirmeyi zorlaştırır. Sansür, toplumsal baskı, milliyetçilik, cephe gelişmeleri ve ekonomik koşullar iletişimle aynı zamanda etkili olabilir. Açık onay samimi kanaati yansıtabileceği gibi korku veya uyum beklentisiyle de ilişkili olabilir. Bu geniş ortamı CPI’ın tek başına yürüttüğü faaliyetmiş gibi sunmadan, mesajın nasıl karşılandığını etkileyen bağlam olarak incelemek gerekir.",
+          "Nedensel etki iddiası, değişimin mesaj nedeniyle gerçekleştiğini savunur. Bunun için zaman sırası, içeriğe maruz kalma ve diğer açıklamaların değerlendirilmesi önemlidir. Farklı kaynakların aynı yoruma yaklaşması güveni artırabilir; yine de tek neden sonucu zorunlu değildir. Bazen en güçlü hüküm, kurumun belirli bir savı görünür kıldığı veya tartışma çerçevesine katkı sunduğudur."
+        ],
+        "example": {
+          "title": "Sessiz salonun belirsizliği",
+          "text": "Varsayımsal bir konuşmada dinleyiciler itiraz etmiyor. Bu, gözlenen davranıştır. İkna, ilgisizlik, çekinme veya törenin kuralları aynı sessizliği üretebilir. Özel günlük, sonradan yazılmış mektup veya başka davranış izleri olmadan tek yoruma kesinlik vermemeliyiz."
+        },
+        "checkpoint": {
+          "question": "Sessizlik, neden onayla eşitlenemez?",
+          "answer": "Aynı görünür davranış farklı güdülerden doğabilir. Rıza ve yorum için davranışın bağlamını ve bağımsız ifade kaynaklarını incelemek gerekir."
+        }
+      },
+      {
+        "id": "governance",
+        "title": "6. Öğrenme, düzeltme ve geçici gücün sınırı",
+        "why": "Başarı değerlendirmesine kurumun hata karşısındaki davranışını da katıyoruz.",
+        "paragraphs": [
+          "Geri bildirim, yalnız dışarıdan bilgi gelmesi değildir; kurumun bu bilgiyle ne yaptığı da önemlidir. Yerel bir eleştiri merkeze ulaşır, incelenir ve sonraki metni değiştirirse öğrenmeye ilişkin bağlantı izlenebilir. Yalnız olumlu raporları toplayan bir ağ, geniş olsa bile merkezin kendi beklentilerini tekrar edebilir. Eleştiriyi güvenle iletme imkânı bilgi kalitesini etkiler.",
+          "Düzeltme mekanizması, yanlış bilginin nasıl kayda geçirileceğini, kimin karar vereceğini ve düzeltmenin ilk mesajın kitlesine nasıl ulaşacağını tanımlar. Hız, doğruluk ve yerel uyarlama arasında gerilim bulunabilir; bunlar tek sloganla çözülemez. Kaynak açıklığı, yetki sınırı, bağımsız inceleme ve itiraz alanı ayrı ölçütlerdir. Kurumun amacı haklı görülse bile her yöntemi otomatik olarak haklılaşmaz.",
+          "Geçici savaş kurumunun değerlendirilmesi, acil yetkinin ne zaman ve nasıl sona ereceğini de sorar. Yüksek üretim kapasitesi, kalıcı yetki için yeterli gerekçe değildir. Tarihsel sonuca varırken örgütsel yeniliği, kanıtlanan faaliyet düzeyini ve alımlamanın belirsizliğini birlikte belirtin. Böylece ne bütün etki iddiaları peşinen kabul edilir ne de kaynak sınırı gerekçesiyle kurumun gerçek kapasitesi yok sayılır."
+        ],
+        "example": {
+          "title": "Yanıtlanan mı, yalnız kaydedilen mi?",
+          "text": "Varsayımsal bir dış temsilci hatalı çeviri bildiriyor. Dosyada rapor olması ile sonraki yayında düzeltme yapılması farklı bulgulardır. Düzeltme yapılmışsa aynı okuyuculara ulaşıp ulaşmadığı da ayrıca sorulmalıdır; yalnız merkezdeki dosyanın düzelmesi yeterli değildir."
+        },
+        "checkpoint": {
+          "question": "Eleştiri toplamak, dinlemenin tamamlandığını gösterir mi?",
+          "answer": "Hayır. Değerlendirme, karar, yanıt ve uygulama izleri gerekir. Geri bildirim sayısı bu bağlantıların yerine geçmez."
+        }
+      }
+    ],
+    "visuals": [
+      {
+        "kind": "flow",
+        "title": "Metinden yoruma dört kanıt eşiği",
+        "caption": "Olası yolculuk çizilmiştir; aşamalar otomatik değildir. Yayım, okunma ve kabul için farklı kanıt gerekir.",
+        "nodes": [
+          {
+            "title": "Üretim",
+            "text": "Taslak, kurumun hazırladığı içeriği gösterir."
+          },
+          {
+            "title": "İletim",
+            "text": "Gönderi veya ajans kaydı hareketi gösterir."
+          },
+          {
+            "title": "Yerel yayım",
+            "text": "Gazete nüshası sunulan biçimi gösterir."
+          },
+          {
+            "title": "Yorum",
+            "text": "Okuyucu kaynağı belirli bir tepkiyi gösterir."
+          }
+        ]
+      },
+      {
+        "kind": "comparison",
+        "title": "“İlk” iddiasının farklı ölçütleri",
+        "caption": "Kurumsal sınıflandırma, etkiyi ölçmekten ayrı bir işlemdir.",
+        "columns": [
+          "Ölçüt",
+          "Sorulacak soru",
+          "Kaçınılacak çıkarım"
+        ],
+        "rows": [
+          [
+            "İlk faaliyet",
+            "Daha önce dış etkileşim var mı?",
+            "Bütün tarihi 1917’de başlatmak"
+          ],
+          [
+            "Merkezî koordinasyon",
+            "Araçlar ortak görevle bağlandı mı?",
+            "Her yerel yorumu merkez yönetiyor sanmak"
+          ],
+          [
+            "Uzmanlaşmış yapı",
+            "Görev ve personel ayrıldı mı?",
+            "Uzmanlaşmayı ikna kanıtı saymak"
+          ],
+          [
+            "Kalıcı ajans",
+            "Yetki ve kaynaklar sürekli mi?",
+            "Geçici kapasiteyi kalıcılıkla eşitlemek"
+          ]
+        ]
+      },
+      {
+        "kind": "matrix",
+        "title": "Kaynakların farklı gösterdiği aşamalar",
+        "caption": "Belgelerin birbirini tamamlaması, hepsinin aynı sonucu ölçtüğü anlamına gelmez.",
+        "columns": [
+          "Kaynak",
+          "Destekleyebildiği bulgu",
+          "Başlıca sınır"
+        ],
+        "rows": [
+          [
+            "Kurum raporu",
+            "Kaydedilen işlem ve öz değerlendirme",
+            "Bağımsız başarı ölçümü değildir"
+          ],
+          [
+            "Ajans kaydı",
+            "İçeriğin bir aracıya ulaşması",
+            "Okuyucuya erişimi göstermez"
+          ],
+          [
+            "Gazete nüshası",
+            "Yayın biçimi ve editoryal bağlam",
+            "Okuyucu kabulünü göstermez"
+          ],
+          [
+            "Okur mektubu",
+            "Belirli kişinin yorumu",
+            "Bütün kitleyi temsil etmez"
+          ]
+        ]
+      }
+    ],
+    "cases": [
+      {
+        "title": "Vaka çözümü: yeniden basımı ikna saymak",
+        "scenario": "Varsayımsal dosyada bir bildirinin gönderi kaydı ve yabancı gazetede eleştirel başlıkla basılmış nüshası var. Kurumun raporu bunu dış destek başarısı olarak sınıflandırıyor.",
+        "steps": [
+          "Üretim, iletim ve yayımı ayrı doğrula. Her belge zincirin başka aşamasına ilişkin bilgi sağlar.",
+          "Başlıkla metnin çevresindeki yorumu incele. Editörün eleştirisi, yayımın otomatik destek anlamına gelmediğini gösterir.",
+          "Okuyucu tepkisi ve siyasi tercih hakkında hangi kaynakların bulunmadığını belirt. Kurumun başarı etiketi bu boşluğu doldurmaz."
+        ],
+        "conclusion": "Dolaşım ve eleştirel sunum gösterilebilir. Okurların ikna edildiği veya dış politikanın değiştiği sonucuna dosya tek başına izin vermez."
+      },
+      {
+        "title": "Vaka çözümü: etkili ağ, zayıf öğrenme",
+        "scenario": "Varsayımsal iletişim ağında yerel temsilciler yanlış çeviriyi bildiriyor; merkez aynı metni tekrar gönderiyor. Sonraki rapor yalnız toplam gönderi artışını övüyor.",
+        "steps": [
+          "Gönderi sayısıyla geri bildirimin işlenmesini ayrı ölç. Artan faaliyet, kurumun öğrenme kapasitesinin arttığını göstermez.",
+          "Uyarının kime ulaştığını ve yanıt yetkisinin kimde olduğunu araştır. Sorun bilginin gelmemesi değil, karar zincirinin çalışmaması olabilir.",
+          "Düzeltme için gerekli sorumluyu ve izlenecek kaydı belirle. Sonraki yerel nüsha, fiilî değişikliği merkezî niyetten daha iyi gösterebilir."
+        ],
+        "conclusion": "Dağıtım kapasitesi ile dinleme kapasitesi birlikte değerlendirilmelidir. Birindeki başarı, diğerindeki eksikliği otomatik olarak gidermez."
+      }
+    ],
+    "practice": {
+      "title": "Excel ile kurum iddiasını denetle",
+      "task": "Öğrenci kanıt matrisinde CPI benzeri varsayımsal bir kurumun “yabancı kitleleri ikna ettik” iddiasını parçala. Gerçek belge kullanırsan kaynağını belirt; örnek dosyayı tarihsel bulgu gibi sunma.",
+      "steps": [
+        "İddianın gerektirdiği aşamaları yaz: üretim, iletim, yayım, yorum ve olası davranış değişikliği.",
+        "Her aşamaya bir uygun kaynak türü ata; henüz bulunmayan kanıtı açıkça işaretle.",
+        "Bir rakip açıklama ekle: cephe haberi, yerel siyasi tercih veya toplumsal baskı gibi bağlamsal bir etken olabilir.",
+        "Son cümleyi eldeki kanıta göre daralt; hangi yeni bulgunun hükmünü güçlendireceğini veya değiştireceğini belirt."
+      ],
+      "modelAnswer": "Örnek sonuç: Kurumun metni hazırladığı ve belirli gazetede yayımlandığı belgelenmiştir. Yerel başlık eleştirel olduğu için yayımı onay sayamayız. Okuyucu yorumları ve davranış değişikliği hakkında yeterli kaynak yoktur. Bu nedenle iletişim kapasitesi ve dolaşım hakkında hüküm kurulabilir; genel ikna veya belirleyici siyasi etki iddiası açık kalır."
+    },
+    "faqs": [
+      {
+        "question": "Bir propaganda kurumunun raporu kullanılabilir mi?",
+        "answer": "Evet. Üretim, görev anlayışı ve kurumun kendini sunuşu için değerlidir. Kaynağın amacı belirtilmeli; okuyucu tepkisi için başka kanıt aranmalıdır."
+      },
+      {
+        "question": "Kaynak sınırı varsa kurum etkisiz mi sayılır?",
+        "answer": "Hayır. Kanıtlanmayan etki ile etkisizlik farklıdır. Hüküm, belgelenen aşamayla sınırlanır ve açık kalan bağlantılar gösterilir."
+      },
+      {
+        "question": "Modern kamu diplomasisi kavramını hiç kullanmamalı mıyız?",
+        "answer": "Kullanabiliriz; fakat karşılaştırmanın ölçütünü açıklamalı, dönemin dili ve kurum yapısıyla sonraki kavram arasındaki farkları korumalıyız."
+      }
+    ],
+    "sourceNote": "Bu bölüm, dersin yedinci hafta içerikleri ve başlangıç notlarındaki CPI kuruluşu, ağ yapısı, geçicilik ve etki ölçümü çerçevesini geliştirir. Kurum raporu, ajans kaydı ve okuyucu kaynağı farklı kanıt türleri olarak ele alınmıştır. Varsayımsal vakalar belge keşfi, istatistik veya doğrudan tarihsel alıntı iddiası içermez."
+  },
+  "en": {
+    "orientation": "Examine the CPI through two questions: how was wartime communication organised, and how can its effects be established? An extensive distribution network does not demonstrate that every foreign audience was persuaded. Institutional innovation, message circulation, reader interpretation and democratic accountability belong in the same analysis, while classification must remain separate from success evaluation.",
+    "sections": [
+      {
+        "id": "institution",
+        "title": "1. Wartime context and a temporary institution’s purpose",
+        "why": "Connect institutional design with the problem it addressed.",
+        "paragraphs": [
+          "American entry into the First World War increased the administration’s need to mobilise domestic support and explain war aims abroad. Established by President Wilson and led by George Creel, the Committee on Public Information, or CPI, combined information, persuasion and mobilisation. These related functions did not involve identical activities or success measures.",
+          "Providing information supplies content about a situation; persuasion seeks to change judgments or preferences; mobilisation encourages particular actions. One speech can contain all three. First identify the response the institution sought. Inferring actual behaviour from declared objectives confuses design with implementation and intention with outcome, concealing the question that evaluation should investigate.",
+          "The CPI was a temporary federal wartime committee, not a permanent foreign ministry. Such a structure could combine resources rapidly while raising questions about continuity, oversight and responsibility. Institutional capacity means being able to accomplish substantial work; institutionalisation concerns authority, resources and practices becoming established over time. Extensive production may demonstrate the former without proving the latter."
+        ],
+        "example": {
+          "title": "An emergency-coordination analogy",
+          "text": "A hypothetical school creates a temporary crisis communication team. It publishes many announcements quickly, but is not therefore a permanent independent institution. The analogy explains organisation while leaving the much broader questions of state wartime powers and public oversight outside its scope."
+        },
+        "checkpoint": {
+          "question": "Does extensive production prove permanent agency status?",
+          "answer": "No. Production capacity differs from legal continuity, budget arrangements and accountability structures."
+        }
+      },
+      {
+        "id": "network",
+        "title": "2. Message journeys and intermediary choices",
+        "why": "Explain why a central message does not generate one uniform meaning.",
+        "paragraphs": [
+          "The CPI used bulletins, pamphlets, posters, films and speeches. An instrument is the form carrying a message; a mechanism explains how that form might change attention, understanding or judgment. Posters can attract attention visually, while speakers add local emphasis. Listing instruments does not substitute for explaining how they might exert influence.",
+          "A text might travel through agencies, diplomatic missions and newspapers to readers along different routes. Selection, translation, shortening and refusal are possible at each stage. An editor may change text for space or give it a politically distinctive headline. Compare the original with local publication before establishing which content an audience actually encountered.",
+          "Central coordination does not make local implementation identical. Common themes may acquire different interpretations; intermediary autonomy can improve access while reducing message consistency. Investigate field responses, alterations and feedback alongside central instructions. A network’s existence alone does not measure how closely its centre controlled implementation or the meanings produced at its edges."
+        ],
+        "example": {
+          "title": "Same text, new headline",
+          "text": "A hypothetical foreign newspaper prints a statement beneath a critical headline. Distribution and publication occurred, but the intended meaning may have changed. The headline and surrounding commentary provide reception context as important as the statement itself."
+        },
+        "checkpoint": {
+          "question": "Must non-publication indicate political rejection?",
+          "answer": "No. Technical interruption, limited space, news priorities or censorship may explain it. Investigate the particular cause through suitable records."
+        }
+      },
+      {
+        "id": "classification",
+        "title": "3. Testing the “first public diplomacy agency” claim",
+        "why": "Turn an institutional title into a comparison with explicit criteria.",
+        "paragraphs": [
+          "“First” becomes researchable only after defining the category. First foreign-public interaction, first central coordination, first specialised organisation and first permanent agency are different claims. Earlier weeks’ diplomacy, press, relief and educational networks demonstrate interaction before the CPI. A claim that communication with foreign publics was invented in 1917 therefore cannot stand.",
+          "The CPI’s distinctive feature was organising many intermediaries and communication forms at federal level around a broad wartime purpose. Recognising its historical significance does not require endorsing every “first” claim. Compare mission, specialist personnel, coordination, geographical scope, continuity and legal status separately. Innovation on one criterion does not automatically confer the same distinction on all others.",
+          "Applying today’s public diplomacy concept historically can support useful comparison. Assuming contemporary actors shared the later institutional understanding risks anachronism: falsely identifying the past with subsequent concepts. Examine the institution’s own purposes and language first, then explain which similarity the later term illuminates. The concept should open investigation rather than erase historical differences."
+        ],
+        "example": {
+          "title": "Two different meanings of “first”",
+          "text": "Two hypothetical students evaluate the same institution. One measures initial centralisation of communication; the other measures permanent legal organisation. Different conclusions need not contradict each other. Explain their categories and comparative criteria before deciding whether they disagree."
+        },
+        "checkpoint": {
+          "question": "Is institutional novelty equivalent to demonstrated persuasion?",
+          "answer": "No. An organisation can be innovative while its effects on audience thinking remain a separate evidential question."
+        }
+      },
+      {
+        "id": "records",
+        "title": "4. Reading activity reports critically",
+        "why": "Institutional self-description is not an independent measure of success.",
+        "paragraphs": [
+          "An activity report reveals both operations and how an institution wishes to present them. Information about bulletins, channels and connections is valuable. The report may nevertheless highlight outputs to justify budgets, personnel or continued authority. This possibility does not invalidate it wholesale; it requires deciding at which evidential level particular claims can be used.",
+          "Checking units is basic source criticism. Copies printed, copies dispatched, distinct publications and total reprints measure different things. Sending one text through several channels does not establish unique readers. Do not combine numbers without understanding the reporting period, geographical coverage, repeated counts and whether planned activities are separated from completed operations.",
+          "Independent verification means more than finding an institutional report repeated elsewhere. A local newspaper demonstrates publication, an agency log receipt, and a reader letter one response. Each tests a different stage. Copied information limits independence. Missing archival records are not automatic proof of non-occurrence either; investigate preservation conditions and the surviving collection’s coverage."
+        ],
+        "example": {
+          "title": "Counting reach twice",
+          "text": "In a hypothetical report, one bulletin travels through both diplomatic and agency channels. Two dispatches occurred; two distinct readerships are not established. Calling the dispatch total unique reach changes the unit actually measured by the evidence."
+        },
+        "checkpoint": {
+          "question": "For what questions is an institutional report especially useful?",
+          "answer": "Its mission understanding, instruments and recorded operations. Independent audience acceptance and political influence require additional sources."
+        }
+      },
+      {
+        "id": "reception",
+        "title": "5. Reading, interpretation and wartime consent",
+        "why": "Visible approval does not automatically establish free choice or causal effect.",
+        "paragraphs": [
+          "Reception means interpreting content through existing knowledge, values and experience. Seeing a text, understanding it, trusting it and acting on it are separate stages. Foreign audiences are diverse: language, political position, war experience and local conflict can alter meaning. Publication in one newspaper establishes neither nationwide exposure nor nationwide acceptance.",
+          "Wartime conditions complicate evaluation. Censorship, social pressure, nationalism, battlefield developments and economic circumstances can operate alongside communication. Public approval may express sincere conviction, fear or expected conformity. Examine this broader setting as a condition of reception without describing every wartime pressure as an operation conducted by the CPI itself.",
+          "A causal-effect claim attributes change to the message. Timing, exposure and competing explanations therefore matter. Convergence among different sources can strengthen confidence without proving a sole cause. Sometimes the strongest conclusion is that the institution made an argument visible or contributed to a frame of debate, rather than determining the audience’s final behaviour."
+        ],
+        "example": {
+          "title": "The ambiguous silent audience",
+          "text": "During a hypothetical speech, listeners do not object. That is the observed behaviour. Persuasion, indifference, apprehension or ceremonial rules could produce the same silence. Without private diaries, later letters or other behavioural traces, no single interpretation deserves automatic certainty."
+        },
+        "checkpoint": {
+          "question": "Why is silence not equivalent to consent?",
+          "answer": "The same visible behaviour can arise from different motivations. Investigate context and independent expression to assess interpretation or consent."
+        }
+      },
+      {
+        "id": "governance",
+        "title": "6. Learning, correction and limits on temporary power",
+        "why": "Include institutional responses to error in the evaluation of success.",
+        "paragraphs": [
+          "Feedback involves more than incoming information; what an organisation does with it matters. If local criticism reaches the centre, receives evaluation and changes later text, a learning connection becomes traceable. Even an extensive network can repeat central expectations if it gathers only positive reports. Safe opportunities to communicate criticism affect information quality.",
+          "A correction mechanism specifies how errors are recorded, who decides and how corrections reach the original audience. Speed, accuracy and local adaptation may conflict; no single slogan resolves them. Source transparency, authority limits, independent review and opportunities to object are separate criteria. Viewing an institutional objective as legitimate does not automatically legitimate every method.",
+          "Evaluating a temporary wartime organisation also means asking when and how emergency authority ends. High productive capacity is not sufficient justification for permanent power. A historical conclusion should combine organisational novelty, documented activity and uncertainty about reception. Neither accept every influence claim in advance nor deny genuine capacity simply because the evidence has limits."
+        ],
+        "example": {
+          "title": "Recorded or acted upon?",
+          "text": "A hypothetical overseas representative reports a mistranslation. Possessing that report differs from correcting the next publication. If corrected, ask whether the correction reached the original readers; changing only the central file is insufficient."
+        },
+        "checkpoint": {
+          "question": "Does collecting criticism complete the process of listening?",
+          "answer": "No. Evaluation, decisions, responses and implementation leave additional traces. Feedback counts cannot substitute for these connections."
+        }
+      }
+    ],
+    "visuals": [
+      {
+        "kind": "flow",
+        "title": "Four evidence thresholds from text to interpretation",
+        "caption": "This is a possible journey, not an automatic sequence. Publication, reading and acceptance need different evidence.",
+        "nodes": [
+          {
+            "title": "Production",
+            "text": "A draft shows the content prepared centrally."
+          },
+          {
+            "title": "Transmission",
+            "text": "Dispatch or agency records show movement."
+          },
+          {
+            "title": "Local publication",
+            "text": "The newspaper shows the presented form."
+          },
+          {
+            "title": "Interpretation",
+            "text": "Reader evidence establishes a particular response."
+          }
+        ]
+      },
+      {
+        "kind": "comparison",
+        "title": "Different criteria behind “first”",
+        "caption": "Institutional classification is separate from measuring influence.",
+        "columns": [
+          "Criterion",
+          "Question",
+          "Inference to avoid"
+        ],
+        "rows": [
+          [
+            "First activity",
+            "Was foreign interaction already present?",
+            "Beginning the entire history in 1917"
+          ],
+          [
+            "Central coordination",
+            "Were tools connected through a common mission?",
+            "Assuming control over every local interpretation"
+          ],
+          [
+            "Specialised organisation",
+            "Were mission and personnel differentiated?",
+            "Treating specialisation as persuasion evidence"
+          ],
+          [
+            "Permanent agency",
+            "Were authority and resources continuous?",
+            "Equating temporary capacity with permanence"
+          ]
+        ]
+      },
+      {
+        "kind": "matrix",
+        "title": "Different stages established by sources",
+        "caption": "Complementary records do not all measure the same outcome.",
+        "columns": [
+          "Source",
+          "Finding it can support",
+          "Main limit"
+        ],
+        "rows": [
+          [
+            "Institutional report",
+            "Recorded operations and self-assessment",
+            "Not independent success measurement"
+          ],
+          [
+            "Agency log",
+            "Content reaching an intermediary",
+            "Does not show reader exposure"
+          ],
+          [
+            "Newspaper copy",
+            "Publication form and editorial context",
+            "Does not show audience acceptance"
+          ],
+          [
+            "Reader letter",
+            "One person’s interpretation",
+            "Cannot represent the whole audience"
+          ]
+        ]
+      }
+    ],
+    "cases": [
+      {
+        "title": "Worked case: treating reprinting as persuasion",
+        "scenario": "A hypothetical file contains a statement’s dispatch record and its foreign newspaper publication under a critical headline. The institutional report classifies this as successful foreign support.",
+        "steps": [
+          "Verify production, transmission and publication separately. Each record provides information about another link in the chain.",
+          "Examine the headline and surrounding commentary. Editorial criticism shows why publication cannot automatically count as endorsement.",
+          "Identify absent sources on reader response and political preference. The institution’s success label does not fill that gap."
+        ],
+        "conclusion": "Circulation and critical presentation can be established. The file alone does not support reader persuasion or changed foreign policy."
+      },
+      {
+        "title": "Worked case: capable distribution, weak learning",
+        "scenario": "In a hypothetical communication network, local representatives report a translation error, but headquarters resends the same text. A later report praises only increased dispatch totals.",
+        "steps": [
+          "Measure dispatch volume separately from processing feedback. More activity does not establish improved institutional learning.",
+          "Investigate who received the warning and who could authorise a response. The failure may concern decision-making rather than missing information.",
+          "Identify responsibility for correction and a record that would verify it. Later local publication can show actual change more clearly than central intention."
+        ],
+        "conclusion": "Assess distribution and listening capacities together. Success in one does not automatically remedy weakness in the other."
+      }
+    ],
+    "practice": {
+      "title": "Audit an institutional claim in Excel",
+      "task": "Use the student evidence matrix to unpack a hypothetical CPI-like institution’s claim that it persuaded foreign audiences. Identify real sources when used; never present an exercise file as a historical finding.",
+      "steps": [
+        "List the required stages: production, transmission, publication, interpretation and possible behavioural change.",
+        "Assign an appropriate source type to each stage, explicitly identifying evidence still missing.",
+        "Add a rival explanation, such as battlefield news, local political preferences or social pressure.",
+        "Narrow the concluding sentence to available evidence, specifying what new finding would strengthen or change it."
+      ],
+      "modelAnswer": "Example conclusion: Preparation and publication in a particular newspaper are documented. A critical local headline prevents treating publication as endorsement. Reader interpretations and behavioural change are insufficiently documented. The evidence therefore supports findings about communication capacity and circulation, while general persuasion or decisive political influence remains unresolved."
+    },
+    "faqs": [
+      {
+        "question": "Can reports from a propaganda institution be used?",
+        "answer": "Yes. They are valuable for production, mission understanding and institutional self-presentation. Identify their purpose and seek other evidence for audience response."
+      },
+      {
+        "question": "Do evidential limits mean the institution was ineffective?",
+        "answer": "No. Unproven influence differs from ineffectiveness. Limit conclusions to documented stages and identify unresolved connections."
+      },
+      {
+        "question": "Should we avoid the modern public diplomacy concept entirely?",
+        "answer": "No. Explain the comparative criteria while preserving differences between contemporary language and institutions and the later analytical concept."
+      }
+    ],
+    "sourceNote": "This supplement develops the week 7 content and introductory notes on CPI establishment, networks, temporary status and evaluation. Institutional reports, agency records and reader sources are treated as distinct evidence types. Hypothetical cases claim no archival discoveries, statistics or direct historical quotations."
+  }
+}

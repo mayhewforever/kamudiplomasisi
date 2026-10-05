@@ -1,0 +1,503 @@
+{
+  "week": 5,
+  "tr": {
+    "orientation": "Küba vakası, insani yardımın hem gerçek ihtiyaçlara cevap verebildiğini hem de dış politika ilişkileri içinde siyasi anlam kazanabildiğini gösterir. İki boyutu birbirine indirgemeden inceleyeceğiz. Krizin görünür olması, hangi çözümün haklı veya kaçınılmaz olduğunu kendiliğinden belirlemez. Yardımın örgütlenmesi, alıcıların deneyimi, savaş kararı ve savaş sonrası düzen ayrı sorularla araştırılmalıdır.",
+    "sections": [
+      {
+        "id": "crisis",
+        "title": "1. İnsani ihtiyaçtan politika seçimine",
+        "why": "Acının varlığı ile seçilen aracın gerekçesini ayırıyoruz.",
+        "paragraphs": [
+          "Küba’da 1895’te yeniden başlayan bağımsızlık mücadelesi, İspanyol sömürge yönetimiyle çatışma içinde geniş bir sivil krize dönüştü. Weyler dönemindeki yeniden toplama siyaseti, kırsal nüfusu denetlenen merkezlere taşıdı; tarımsal yıkım, açlık ve hastalık koşulları ağırlaştırdı. Bu bağlamı anlatmak, sivillerin deneyimini yalnız Amerikan müdahalesinin gerekçesi olarak kullanmadan incelemeyi gerektirir.",
+          "İnsani ihtiyaç, insanların yaşamını sürdürebilmek için gereksindiği gıda, sağlık ve güvenlikle ilgilidir. Dış politika seçeneği ise bu ihtiyaca nasıl cevap verileceği hakkındaki karardır. Özel yardım, diplomatik baskı, arabuluculuk, bağımsızlığın tanınması ve askerî müdahale farklı araçlardır. Aynı acı haberinden hepsinin aynı ölçüde uygun olduğu sonucu çıkmaz; etkileri ve maliyetleri ayrı değerlendirilir.",
+          "İnsani ve stratejik güdüler birbirini zorunlu olarak dışlamaz. Bir yönetim acıyı azaltmak isterken ticareti, vatandaşlarının güvenliğini ve bölgesel düzeni de önemseyebilir. Ancak bir gerekçenin kamuya açıklanması, karar içinde belirleyici ağırlık taşıdığını kanıtlamaz. İlan edilen nedenle seçenekleri değerlendiren iç yazışma, farklı kaynak türleri olarak okunmalıdır; ikisi peşinen özdeş veya sahte sayılmamalıdır."
+        ],
+        "example": {
+          "title": "Komşuya yardımın sınırlı benzetmesi",
+          "text": "Varsayımsal olarak hasta komşuya yemek götürmek gerçek yarar sağlar; komşunun bütün kararlarını belirleme hakkı vermez. Benzetme, yardım ile siyasi yetkiyi ayırır. Devletler arası ilişkideki askerî güç ve egemenlik sorunları ise gündelik yardım ilişkisinden çok daha kapsamlıdır."
+        },
+        "checkpoint": {
+          "question": "İnsani krizi kabul etmek, askerî müdahaleyi kabul etmek midir?",
+          "answer": "Hayır. İhtiyacın tespiti ile aracın seçimi ayrı değerlendirmelerdir. Her aracın beklenen yararı, maliyeti ve alıcıların tercihleri araştırılmalıdır."
+        }
+      },
+      {
+        "id": "partnership",
+        "title": "2. Ortaklık: kaynak paylaşımı ve farklı amaçlar",
+        "why": "Birlikte çalışan aktörlerin yetkilerini ve sorumluluklarını ayrıştırıyoruz.",
+        "paragraphs": [
+          "Kamu-özel ortaklığı, devlet kurumlarıyla devlet dışı örgütlerin kaynak ve görev paylaşmasıdır. Küba yardımında Dışişleri Bakanlığı ve konsoloslar diplomatik erişim ile lojistiğe, Kızılhaç uzmanlığa, iş insanları tedarik ve mali yönetime, dinî yayınlar bağış toplamaya katkı sunabiliyordu. Ortaklığın gücü, tek aktörde bulunmayan yetenekleri bir araya getirmesinden doğuyordu; katılımcıların amaçları bundan dolayı özdeşleşmiyordu.",
+          "Clara Barton’ın insani bağımsızlığı koruma çabası ile yönetimin siyasi gerilimi azaltma beklentisi aynı faaliyette bulunabilirdi. Bir örgütün devlet imkânını kullanması bütünüyle devletin uzantısı olduğunu göstermez; özel statüsü de siyasi etkilerden bağımsızlığını garanti etmez. Talimat, bütçe kontrolü, dağıtım kararı ve itiraz hakkı incelenerek ilişkinin fiilî niteliği anlaşılır.",
+          "Hesap verebilirlik, yalnız kimin para verdiğini açıklamak değildir. Yanlış malzeme seçildiğinde, teslimat geciktiğinde veya yerel ihtiyaç görmezden gelindiğinde kimin karar değiştirebildiğini de sorar. Görevlerin dağılması kapasiteyi artırırken sorumluluğu bulanıklaştırabilir. Bu nedenle ortaklık haritasında kurum adlarının yanına bilgi akışı, karar yetkisi ve şikâyetin ulaşacağı makam da eklenmelidir."
+        ],
+        "example": {
+          "title": "Üç logo, tek sorumlu mu?",
+          "text": "Varsayımsal bir yardım paketinde devlet, şirket ve dernek logosu bulunuyor. Bu, görünür ortaklığı gösterir; teslimat kararını kimin verdiğini açıklamaz. Sözleşme, dağıtım talimatı ve itiraz kayıtları, logolardan daha güçlü bir yetki haritası sunabilir."
+        },
+        "checkpoint": {
+          "question": "Ortak bağış kampanyası, ortak siyasi amaç kanıtı mıdır?",
+          "answer": "Tek başına değildir. Aynı operasyon, insani bağımsızlık, kurumsal itibar ve diplomatik gerilim yönetimi gibi farklı amaçları bir arada taşıyabilir."
+        }
+      },
+      {
+        "id": "delivery",
+        "title": "3. Yardımı ölçmek: çağrıdan kullanılabilir yarara",
+        "why": "Faaliyet sayısını gerçekleşmiş insani sonuçla karıştırmıyoruz.",
+        "paragraphs": [
+          "Bir yardım çağrısı kaynak toplama girişimini, bağış kaydı toplanan imkânı, sevkiyat belgesi yola çıkan malzemeyi gösterir. Bunların hiçbiri tek başına ailelere teslimatı kanıtlamaz. Teslim edilen malzemenin ihtiyaca uygun ve kullanılabilir olması da başka bir eşiktir. Araştırma, “yardım yapıldı” ifadesini bu ayrı işlemlere ayırdığında nerede bilgi eksikliği bulunduğu görünür olur.",
+          "Ölçümde payda, sorunun hangi topluluğa veya işleme ilişkin olduğunu belirtir. Belgelenmiş teslimatın gönderilen paketlere oranı, toplanan bağışlara oranından farklı soruyu yanıtlar. Ayrıca kaydı olmayan teslimatı kesin başarısızlık saymak yanlıştır. Eksik bilgi, gecikmiş kayıt veya gerçekleşmeyen teslimat birbirinden ayrılmalıdır; ölçüm aralığı ve kaydın kapsamı açık tutulmalıdır.",
+          "İnsani sonuç ile siyasi etki ayrı değerlendirilir. Besine erişimin artması veya bakım sağlanması doğrudan yarar olabilir; Amerikan yönetimine güvenin artması ise farklı kanıt ister. Yardım alan kişinin teşekkür etmesi bile belirli bir dış politikayı desteklediğini göstermez. Programın siyasi hedefi gerçekleşmezken bazı insani amaçları gerçekleşmiş olabilir; tek başarı puanı bu farkı örter."
+        ],
+        "example": {
+          "title": "Belge fiillerini ayır",
+          "text": "Varsayımsal bir rapor “toplandı”, “gönderildi” ve “dağıtılması planlandı” fiillerini kullanıyor. Bunları aynı teslimat sütununa yazmak sonucu abartır. Her fiili ayrı aşamaya yerleştirmek, gerçekleşen işlemle gelecek niyeti ve eksik kaydı ayırmaya yardım eder."
+        },
+        "checkpoint": {
+          "question": "Teslimat oranı bize siyasi desteği söyler mi?",
+          "answer": "Hayır. Operasyonun belirli bir aşamasını ölçer. Alıcıların görüşlerini, tercihlerini ve bunların değişip değişmediğini ayrıca araştırmak gerekir."
+        }
+      },
+      {
+        "id": "media",
+        "title": "4. Gazeteler, belirsizlik ve savaş kararı",
+        "why": "Gündem etkisini karar yetkisiyle aynı şey saymıyoruz.",
+        "paragraphs": [
+          "Gündem oluşturma, bir konunun kamusal tartışmada daha görünür ve önemli hâle gelmesidir. Çerçeveleme ise olayın hangi sorun, neden veya çözümle ilişkilendirildiğini anlatır. Sansasyonel gazeteler Küba’daki acıları ve İspanyol şiddetini görünür kıldı. Fakat basının tamamı aynı değildi; bir habere maruz kalmak okuyucunun belirli bir askerî çözümü desteklediğini göstermez.",
+          "USS Maine’in Şubat 1898’deki patlaması, nedeni belirsiz bir olayın mevcut güvensizlik içinde hızla yorumlanabildiğini gösterir. Bir suçlama veya sloganın yayılması, suçlamanın doğru olduğunun kanıtı değildir. Tarihçi olayın maddi nedenini, dönemin insanlarınca nasıl yorumlandığını ve yorumun siyasi etkisini ayırmalıdır. Yanlış veya eksik bilgi de davranışı etkileyebilir; etkili olması onu doğru yapmaz.",
+          "Savaşı açıklarken Başkan, Kongre, parti rekabeti, diplomatik girişimler, ekonomik çıkarlar ve sahadaki koşullar birlikte incelenir. Gazeteler eylemsizliğin siyasi maliyetini artırmış olabilir; ancak savaş ilanına yetkili kurumların yerini almamıştır. Basının katkısını göstermek için haberlerden karar değerlendirmelerine uzanan bağlantılar aranır. Savaşın haberlerden sonra gelmesi, tek başına haberlerin savaşı doğurduğunu kanıtlamaz."
+        ],
+        "example": {
+          "title": "Başlık ile kabine kaydı",
+          "text": "Varsayımsal dosyada sert bir gazete başlığı ve aynı gün yazılmış hükümet notu bulunuyor. Zaman yakınlığı araştırma ipucudur. Notun başlığa cevap verdiğini veya aynı bağımsız olaydan etkilendiğini ayırmak için içerik, atıf ve önceki tartışmalar incelenmelidir."
+        },
+        "checkpoint": {
+          "question": "Bir sloganın çok yayılması hangi soruyu cevapsız bırakır?",
+          "answer": "Sloganın iddiasının doğruluğunu, hangi okuyucularca benimsendiğini ve yetkili kararın nedenini tek başına açıklamaz."
+        }
+      },
+      {
+        "id": "recipients",
+        "title": "5. Alıcıların sesi ve dinlemenin kanıtı",
+        "why": "Yardım alan insanları dış politikanın edilgen nesneleri saymıyoruz.",
+        "paragraphs": [
+          "Kübalıların siyasi eylem kapasitesi, kendi amaçlarını kurabilmeleri, taleplerini savunabilmeleri ve seçenekleri değerlendirebilmeleridir. Yalnız mağduriyet görüntülerine odaklanmak, bağımsızlık mücadelesini ve farklı yerel tercihleri görünmez kılabilir. Dış savunuculuk bir acıyı duyururken, kimin adına konuştuğu sorusunu da doğurur. İyi niyet, başkasının sesini eksiksiz temsil etme güvencesi değildir.",
+          "Arşivler güçlü kurumların kayıtlarını daha kolay koruyabilir. Amerikan konsolosu, bağışçı veya yardım yöneticisinin alıcılar hakkındaki değerlendirmesi yararlıdır; fakat Kübalıların kendi görüşü yerine geçmez. Çeviri, tanık seçimi, kayıt amacı ve yardım sağlayıcıya bağımlılık ifadeyi şekillendirebilir. Teşekkür mektubu gerçek minneti içerebilir; yine de bütün siyasi tutumların serbestçe dile getirildiğini garanti etmez.",
+          "Dinleme, sahadan rapor toplamaktan fazlasıdır. Yerel bilgi, gönderilen malzemeyi, dağıtım yerini veya karar usulünü değiştirdiğinde öğrenmeye ilişkin daha güçlü iz oluşur. Eleştirinin merkeze ulaşması, değerlendirilmesi ve yanıtlanması birlikte takip edilmelidir. Kullanıcı görüşü toplayıp hiçbir kararı değiştirmeyen süreç, iki yönlü görünse bile fiilen tek yönlü kalabilir."
+        ],
+        "example": {
+          "title": "Geri bildirim neyi değiştiriyor?",
+          "text": "Varsayımsal bir yerel ekip, gönderilen malzemenin kullanılamadığını bildiriyor. Sonraki sevkiyat listesi değişirse öğrenme bağlantısı araştırılabilir. Yalnız raporun dosyada bulunması, uyarının dikkate alındığını veya sorunun çözüldüğünü kanıtlamaz."
+        },
+        "checkpoint": {
+          "question": "Bir teşekkür mektubu neden dikkatle yorumlanmalıdır?",
+          "answer": "Belirli bir kişinin belirli bağlamdaki ifadesidir. İçten olabilir; fakat temsil kapsamı, bağımlılık ilişkisi ve siyasi anlamı ayrıca incelenmelidir."
+        }
+      },
+      {
+        "id": "aftermath",
+        "title": "6. Kısa vadeli yardım ve uzun vadeli güç ilişkisi",
+        "why": "Sonraki sonuçları incelerken geçmiş niyetleri geriye dönük icat etmiyoruz.",
+        "paragraphs": [
+          "1898’deki Teller Değişikliği, Amerika’nın Küba’yı ilhak etme niyetini reddeden bir beyan içeriyordu. Daha sonraki Platt düzenlemeleri ise Küba’nın antlaşma ve borçlanma alanlarını sınırlayan, Amerikan müdahalesi ve deniz üsleri için imkân sağlayan bir ilişki kurdu. 1902’de kurulan cumhuriyetin egemenliği bu çerçevede önemli sınırlara sahipti; başlangıç söylemiyle sonraki kurumlar birlikte değerlendirilmelidir.",
+          "Egemenlik, bir siyasi topluluğun kendi kararlarını alma yetkisiyle ilgilidir. Kısa vadeli hayat kurtarma faaliyeti, uzun vadede dış denetimin haklılığını otomatik olarak kanıtlamaz. Tersine, sonraki bağımlılık da her erken yardım eyleminin sahte olduğunu göstermez. Etik değerlendirme, gerçek yararı tanırken temsil hakkı, karar gücü ve kalıcı maliyetleri ayrıca tartabilmelidir.",
+          "Geçmişi sonuca göre kaçınılmaz göstermek, başlangıçtaki seçenekleri siler. McKinley yönetiminin başlangıçta diplomatik çözüm araması, savaşın en baştan tek yol sayılmadığını gösterir. Yardımın savaşı önlememesi ile hiç insani yarar üretmemesi farklı iddialardır. Savaşı geciktirdiği gibi daha ince bir sav ise alternatif zaman çizgisi üzerine varsayım değil, ilave karar ve zamanlama kanıtı gerektirir."
+        ],
+        "example": {
+          "title": "İki hükmü birlikte tutmak",
+          "text": "Varsayımsal bir inceleme, yardımın bakım sağladığını ve sonraki düzenin yerel karar alanını daralttığını belgeliyor. Bu iki sonuç çelişmek zorunda değildir. Araştırmacı, tek bir “başarılı” veya “başarısız” etiketi yerine hangi amaçta ne olduğuna dair ayrı hükümler kurabilir."
+        },
+        "checkpoint": {
+          "question": "Sonraki güç eşitsizliği, önceki bütün yardımların samimiyetsizliğini kanıtlar mı?",
+          "answer": "Hayır. Sonuçlar niyet yorumunu yeniden düşündürebilir; fakat tek tek aktörlerin önceki amaçları, zamanına ait kanıtlarla değerlendirilmelidir."
+        }
+      }
+    ],
+    "visuals": [
+      {
+        "kind": "flow",
+        "title": "Yardım faaliyetinden farklı sonuçlara",
+        "caption": "Oklar tamamlanmış başarıyı değil ayrı doğrulama eşiklerini gösterir. Son aşamadaki siyasi tutum, maddi yarardan otomatik çıkarılamaz.",
+        "nodes": [
+          {
+            "title": "Kaynak",
+            "text": "Çağrı, bağış ve sevkiyat ayrı kaydedilir."
+          },
+          {
+            "title": "Ulaşma",
+            "text": "Yer, alıcı ve teslim zamanı doğrulanır."
+          },
+          {
+            "title": "Kullanılabilir yarar",
+            "text": "Malzemenin ihtiyaca uygunluğu araştırılır."
+          },
+          {
+            "title": "Siyasi yorum",
+            "text": "Alıcının görüşü kendi kaynaklarıyla incelenir."
+          }
+        ]
+      },
+      {
+        "kind": "comparison",
+        "title": "Birbirinin yerine geçmeyen ölçüler",
+        "caption": "Aynı operasyon birden fazla amaca sahip olabilir; her amaç uygun ölçüyle değerlendirilir.",
+        "columns": [
+          "Alan",
+          "Sorulacak soru",
+          "Yanlış ikame"
+        ],
+        "rows": [
+          [
+            "Niyet",
+            "Ne amaçlandı?",
+            "Sonuçtan niyet okumak"
+          ],
+          [
+            "Uygulama",
+            "Ne gerçekten teslim edildi?",
+            "Bağış miktarını teslimat saymak"
+          ],
+          [
+            "Alımlama",
+            "Alıcı ne düşündü?",
+            "Göndericinin övgüsünü alıcı görüşü saymak"
+          ],
+          [
+            "Karar",
+            "Hangi seçenek neden seçildi?",
+            "Başlığı savaş kararı saymak"
+          ]
+        ]
+      },
+      {
+        "kind": "matrix",
+        "title": "Kaynak, kullanım ve sınır",
+        "caption": "Belgeleri karşılaştırmak, aynı cümleyi daha çok yerde bulmaktan fazlasıdır.",
+        "columns": [
+          "Kaynak",
+          "Uygun kullanım",
+          "Sınır"
+        ],
+        "rows": [
+          [
+            "Yardım çağrısı",
+            "Amaç ve örgütlenme tasarımı",
+            "Tamamlanmış teslimatı göstermez"
+          ],
+          [
+            "Sevkiyat kaydı",
+            "Yola çıkan malzeme",
+            "Hanelere ulaşmayı göstermez"
+          ],
+          [
+            "Yerel tanıklık",
+            "Belirli alıcının deneyimi",
+            "Bütün Kübalıları temsil etmez"
+          ],
+          [
+            "Yönetim yazışması",
+            "Seçenek değerlendirmesi",
+            "Bütün fiilî sonuçları göstermez"
+          ]
+        ]
+      }
+    ],
+    "cases": [
+      {
+        "title": "Vaka çözümü: teslimat ile desteği ayırmak",
+        "scenario": "Varsayımsal yardım dosyasında bağış makbuzları, gemi çıkış kaydı ve yerel dağıtım defteri var. Bir rapor bunlardan Amerikan siyasetine destek arttığı sonucunu çıkarıyor.",
+        "steps": [
+          "Belgeleri aynı toplamda birleştirme. Bağış, sevkiyat ve teslimat farklı olaylardır; tarihleri ve birimleri eşleştir.",
+          "Dağıtım defterinin kapsamını belirt. Bazı yerleri kapsıyorsa bütün adaya genelleme; eksik alanları bilinmeyen olarak tut.",
+          "Siyasi destek iddiası için alıcı görüşü ara. Teşekkür ve ihtiyaç karşılanması, askerî veya kurumsal düzenlemeye onay anlamına gelmez."
+        ],
+        "conclusion": "Belgeler belirli bir yardım akışını destekleyebilir. Siyasi destek sonucu, ayrıca alımlama ve tercih kanıtı olmadan kurulamaz."
+      },
+      {
+        "title": "Vaka çözümü: basını tek neden saymak",
+        "scenario": "Varsayımsal karşılaştırmada müdahale isteyen bir gazete, diplomatik çözüm öneren başka bir gazete ve güvenlik kaygılarını tartışan hükümet notu bulunuyor.",
+        "steps": [
+          "İki gazetenin hedef kitlesini ve siyasi çizgisini belirle. Görünürlük, toplumsal temsil veya eşit erişim demek değildir.",
+          "Hükümet notunda hangi alternatiflerin değerlendirildiğini ara. Kamuoyu kaygısı ile güvenlik gerekçesi aynı kararda birlikte bulunabilir.",
+          "Karardan önceki ve sonraki metinleri ayır. Sonradan yazılmış bir başarı anlatısını, karar anındaki nedenin doğrudan kanıtı sayma."
+        ],
+        "conclusion": "Basının gündem katkısı araştırılabilir; farklı sesler ve karar kayıtları tek nedenli savaş açıklamasını sınırlamayı gerektirir."
+      }
+    ],
+    "practice": {
+      "title": "Excel’de yardımın kanıt zincirini kur",
+      "task": "Öğrenci kanıt matrisinde bir yardım operasyonunu niyet, sevkiyat, teslimat, alıcı deneyimi ve siyasi sonuç olarak çözümle. Yalnız örnek kullanıyorsan bütün satırları varsayımsal diye işaretle.",
+      "steps": [
+        "Her belgeyi tek bir temel soruyla eşleştir; belgenin tarihi, üreticisi ve coğrafi kapsamını yaz.",
+        "Teslimat için seçtiğin ölçünün paydasını açıkla; bilinmeyenleri gerçekleşmemiş işlemle birleştirme.",
+        "Alıcıların görüşleri için bağımsız veya yerel kaynak ihtiyacını kaydet; bunların temsil sınırını belirt.",
+        "Siyasi sonuç için bir rakip açıklama ekle ve iki açıklamayı hangi ek belgenin ayırabileceğini yaz."
+      ],
+      "modelAnswer": "Örnek koşullu yanıt: Operasyonun belirli alıcılara malzeme ulaştırdığına ilişkin kayıt bulunuyor. Yardımın uygunluğu ve alıcıların kendi görüşleri daha sınırlı belgelenmiş. Bu nedenle teslimat hakkında dar bir sonuç kurulabilir; Amerikan politikasına güven veya savaşın gecikmesi hakkında kesin hüküm verilemez. Bu sınır, yardımın gerçek maddi yararını peşinen reddetmez."
+    },
+    "faqs": [
+      {
+        "question": "İnsani ve stratejik amaç aynı anda bulunabilir mi?",
+        "answer": "Evet. Aynı aktörün birden fazla amacı olabilir. Araştırma, hangisinin hangi karar veya uygulamada etkili olduğunu ayrı kanıtlarla göstermelidir."
+      },
+      {
+        "question": "Yardımı siyasi açıdan incelemek onu küçümsemek midir?",
+        "answer": "Hayır. Maddi yararı dikkatle ölçmek, yardım alanların tercihlerini ve haklarını ayrıca ciddiye almakla bağdaşır. Tek başına niyet övgüsü ikisini de ölçmez."
+      },
+      {
+        "question": "Eksik yerel kaynak varsa ne yapılır?",
+        "answer": "Gönderici kayıtlarını alıcının sesi gibi sunma. Kapsamı açıkça sınırla, dolaylı kanıtın niteliğini belirt ve çözülemeyen soruyu görünür tut."
+      }
+    ],
+    "sourceNote": "Bu bölüm, dersin beşinci hafta içerikleri ve başlangıç notlarındaki Küba, yardım ortaklığı, medya ve savaş sonrası düzen çerçevesini geliştirir. Kurum raporları ile yerel tanıklıklar farklı kaynak türleri olarak tartışılmıştır. Varsayımsal dosyalar yeni tarihsel veri veya doğrudan alıntı değildir; mevcut kaynakçayla birlikte okunmalıdır."
+  },
+  "en": {
+    "orientation": "The Cuban case shows how humanitarian assistance can address genuine needs while acquiring political meaning within foreign relations. Neither dimension should be reduced to the other. Making suffering visible does not automatically establish which remedy is justified or inevitable. Relief organisation, recipients’ experiences, the decision for war and the subsequent political order require separate questions.",
+    "sections": [
+      {
+        "id": "crisis",
+        "title": "1. From humanitarian need to policy choice",
+        "why": "Distinguish the existence of suffering from justification of a particular response.",
+        "paragraphs": [
+          "Cuba’s renewed independence struggle in 1895 became a broad civilian crisis amid conflict with Spanish colonial rule. Weyler’s reconcentration policy moved rural people into controlled centres; agricultural destruction, hunger and disease worsened conditions. Explaining this setting requires examining civilian experiences without treating them merely as a justification for American intervention.",
+          "Humanitarian need concerns the food, healthcare and security required to sustain life. A foreign-policy option concerns how to respond. Private relief, diplomatic pressure, mediation, recognition of independence and military intervention are different instruments. The same report of suffering does not make all equally appropriate; their effects and costs must be assessed separately.",
+          "Humanitarian and strategic motivations need not exclude one another. An administration might seek to reduce suffering while considering commerce, citizens’ security and regional order. Publicly announcing a justification does not establish its decisive weight. Read public explanations and internal deliberations as different sources, without presuming they are either identical or necessarily dishonest."
+        ],
+        "example": {
+          "title": "The limited neighbour analogy",
+          "text": "Hypothetically, bringing food to a sick neighbour offers genuine benefit but gives no right to determine all their decisions. The analogy separates help from political authority. Military power and sovereignty make relations between states considerably more complex than everyday assistance."
+        },
+        "checkpoint": {
+          "question": "Does recognising a humanitarian crisis imply accepting military intervention?",
+          "answer": "No. Identifying need and selecting an instrument are different judgments. Investigate each instrument’s expected benefits, costs and implications for recipients’ preferences."
+        }
+      },
+      {
+        "id": "partnership",
+        "title": "2. Partnership: shared resources, different purposes",
+        "why": "Separate the authority and responsibilities of cooperating actors.",
+        "paragraphs": [
+          "Public-private partnership means government bodies and non-governmental organisations sharing resources and tasks. In Cuban relief, the State Department and consuls offered diplomatic access and logistics; the Red Cross expertise; businesspeople procurement and financial management; religious publications donor mobilisation. Combining capabilities unavailable to one actor strengthened the operation without making participants’ objectives identical.",
+          "Clara Barton’s pursuit of humanitarian independence could coexist with government hopes of reducing political tension. Using state facilities does not make an organisation wholly a state instrument; private status does not guarantee independence from political effects. Instructions, budget control, distribution decisions and rights of objection reveal the relationship’s actual character.",
+          "Accountability involves more than identifying donors. It asks who can change decisions when unsuitable supplies arrive, deliveries stall or local needs are ignored. Dispersed responsibilities can expand capacity while obscuring responsibility. An institutional map therefore needs information flows, decision rights and a destination for complaints alongside the names of partner organisations."
+        ],
+        "example": {
+          "title": "Three logos, one accountable actor?",
+          "text": "A hypothetical parcel carries government, company and association logos. These establish visible partnership, not who decided delivery arrangements. Agreements, distribution instructions and complaint records can provide a stronger authority map than the logos alone."
+        },
+        "checkpoint": {
+          "question": "Does a joint fundraising campaign establish a shared political purpose?",
+          "answer": "Not alone. One operation can accommodate humanitarian independence, institutional reputation and management of diplomatic tensions at the same time."
+        }
+      },
+      {
+        "id": "delivery",
+        "title": "3. Measuring relief: from appeal to usable benefit",
+        "why": "Do not confuse counted activities with achieved humanitarian results.",
+        "paragraphs": [
+          "An appeal indicates mobilisation, donation records collected resources, and shipping records supplies dispatched. None alone proves delivery to families. Whether delivered materials are suitable and usable is another threshold. Breaking “aid was provided” into these separate operations makes gaps in knowledge visible and locates where implementation might have succeeded or stalled.",
+          "A denominator defines the population or operation a measure concerns. Documented deliveries divided by shipments answer a different question from deliveries divided by collected donations. Missing delivery records cannot automatically be classified as failure. Separate missing information, delayed reporting and uncompleted delivery, while specifying the measurement period and coverage of the records.",
+          "Humanitarian outcomes and political influence require distinct assessment. Better access to food or care can be a direct benefit; increased trust in American authorities requires different evidence. Even gratitude does not establish support for a particular foreign policy. A programme can meet some humanitarian aims while missing political objectives; one success score conceals this distinction."
+        ],
+        "example": {
+          "title": "Separate the document’s verbs",
+          "text": "A hypothetical report uses “collected”, “shipped” and “planned for distribution”. Entering all three as completed deliveries inflates results. Assigning each verb to its stage helps separate an accomplished operation from future intention or an unresolved record."
+        },
+        "checkpoint": {
+          "question": "Does a delivery rate establish political support?",
+          "answer": "No. It measures one operational stage. Recipients’ views, preferences and possible changes require separate investigation."
+        }
+      },
+      {
+        "id": "media",
+        "title": "4. Newspapers, uncertainty and the war decision",
+        "why": "Agenda influence is different from formal decision-making authority.",
+        "paragraphs": [
+          "Agenda-setting makes an issue more visible and important in public debate. Framing connects it with particular problems, causes or remedies. Sensational newspapers highlighted Cuban suffering and Spanish violence. The press was not uniform, however, and encountering a report does not establish that a reader endorsed a particular military solution.",
+          "The USS Maine explosion in February 1898 illustrates how uncertain events can be interpreted quickly within existing distrust. A widely circulated accusation or slogan does not prove responsibility. Distinguish the event’s material cause, contemporary interpretations and those interpretations’ political effects. Incorrect or incomplete information can influence behaviour; having influence does not make it accurate.",
+          "Explaining war requires considering the President, Congress, party competition, diplomatic efforts, economic interests and conditions on the ground. Newspapers may have increased the political cost of inaction but did not replace authorised decision-makers. Trace connections from reporting to deliberation. War following newspaper coverage does not alone establish that coverage caused war."
+        ],
+        "example": {
+          "title": "A headline beside a government memorandum",
+          "text": "A hypothetical file contains a hostile headline and a government memorandum written that day. Timing offers a clue, not a conclusion. Content, references and earlier debate help distinguish a response to the headline from responses to the same independent event."
+        },
+        "checkpoint": {
+          "question": "Which questions remain unanswered by a popular slogan?",
+          "answer": "Its factual accuracy, acceptance by particular readers and contribution to the authorised decision all require additional evidence."
+        }
+      },
+      {
+        "id": "recipients",
+        "title": "5. Recipients’ voices and evidence of listening",
+        "why": "Do not treat recipients as passive objects of foreign policy.",
+        "paragraphs": [
+          "Cuban political agency means the ability to formulate objectives, advance demands and assess alternatives. Concentrating only on images of victimhood can hide independence struggles and diverse local preferences. External advocacy can publicise suffering while raising questions about who speaks for whom. Good intentions do not guarantee complete representation of another person’s voice.",
+          "Archives may preserve powerful institutions’ records more readily. Consuls, donors and relief managers offer valuable accounts of recipients, but cannot substitute for Cuban views. Translation, witness selection, recording purposes and dependence on providers may shape expression. A thank-you letter can contain genuine gratitude without establishing that every political opinion could be expressed freely.",
+          "Listening exceeds collecting field reports. Stronger evidence of learning appears when local knowledge changes supplies, distribution sites or decision procedures. Trace whether criticism reached the centre, was evaluated and received a response. Gathering recipients’ views without changing any decision can make a process appear reciprocal while leaving its operation substantially one-way."
+        ],
+        "example": {
+          "title": "What does feedback change?",
+          "text": "A hypothetical local team reports that supplies are unusable. A changed subsequent shipping list provides a possible learning connection to investigate. Merely finding the report in a file does not establish that it was considered or the problem resolved."
+        },
+        "checkpoint": {
+          "question": "Why interpret a thank-you letter carefully?",
+          "answer": "It is a particular person’s expression in a particular setting. It may be sincere, while its representativeness, dependence context and political meaning remain separate questions."
+        }
+      },
+      {
+        "id": "aftermath",
+        "title": "6. Immediate relief and longer power relationships",
+        "why": "Study later consequences without retrospectively inventing earlier intentions.",
+        "paragraphs": [
+          "The Teller Amendment of 1898 disclaimed an American intention to annex Cuba. Later Platt arrangements restricted Cuban treaty-making and borrowing while providing scope for American intervention and naval stations. The republic established in 1902 operated under significant sovereignty constraints. Evaluate initial rhetoric alongside the institutions that subsequently organised the relationship.",
+          "Sovereignty concerns a political community’s authority over its own decisions. Immediate life-saving assistance does not automatically justify longer-term external control. Conversely, subsequent dependency does not show every early humanitarian act was fraudulent. Ethical assessment can acknowledge actual benefits while separately weighing representation, decision-making power and lasting costs to the people concerned.",
+          "Treating the outcome as inevitable erases earlier alternatives. The McKinley administration’s initial pursuit of diplomacy shows that war was not the only option from the outset. Failing to prevent war differs from producing no humanitarian benefit. A finer claim that relief delayed war requires additional deliberative and chronological evidence, not an invented alternative timeline."
+        ],
+        "example": {
+          "title": "Holding two judgments together",
+          "text": "A hypothetical investigation documents both delivered care and later restrictions on local decision-making. These findings need not contradict one another. Instead of one “success” or “failure” label, evaluate what happened to each objective separately."
+        },
+        "checkpoint": {
+          "question": "Does later inequality prove every earlier relief act was insincere?",
+          "answer": "No. Outcomes may prompt reconsideration of intentions, but individual actors’ earlier purposes should be assessed with evidence from their own time."
+        }
+      }
+    ],
+    "visuals": [
+      {
+        "kind": "flow",
+        "title": "From relief operations to different outcomes",
+        "caption": "Arrows mark separate verification thresholds, not completed success. Political attitudes cannot be automatically inferred from material benefit.",
+        "nodes": [
+          {
+            "title": "Resources",
+            "text": "Record appeals, donations and shipments separately."
+          },
+          {
+            "title": "Arrival",
+            "text": "Verify place, recipient and delivery date."
+          },
+          {
+            "title": "Usable benefit",
+            "text": "Investigate whether supplies addressed actual needs."
+          },
+          {
+            "title": "Political interpretation",
+            "text": "Examine recipients’ views through their own sources."
+          }
+        ]
+      },
+      {
+        "kind": "comparison",
+        "title": "Measures that cannot substitute for one another",
+        "caption": "One operation can pursue several aims; assess each with an appropriate measure.",
+        "columns": [
+          "Domain",
+          "Question",
+          "Mistaken substitute"
+        ],
+        "rows": [
+          [
+            "Intention",
+            "What was intended?",
+            "Reading intention directly from outcomes"
+          ],
+          [
+            "Implementation",
+            "What was actually delivered?",
+            "Treating donations as deliveries"
+          ],
+          [
+            "Reception",
+            "What did recipients think?",
+            "Using sender praise as recipient opinion"
+          ],
+          [
+            "Decision",
+            "Which option was selected, and why?",
+            "Treating a headline as the war decision"
+          ]
+        ]
+      },
+      {
+        "kind": "matrix",
+        "title": "Sources, uses and limits",
+        "caption": "Comparing evidence means more than finding the same sentence in several places.",
+        "columns": [
+          "Source",
+          "Appropriate use",
+          "Limit"
+        ],
+        "rows": [
+          [
+            "Relief appeal",
+            "Purpose and organisational design",
+            "Does not establish completed delivery"
+          ],
+          [
+            "Shipping record",
+            "Supplies dispatched",
+            "Does not establish household receipt"
+          ],
+          [
+            "Local testimony",
+            "A particular recipient’s experience",
+            "Cannot represent all Cubans"
+          ],
+          [
+            "Administrative correspondence",
+            "Consideration of alternatives",
+            "Does not establish all actual consequences"
+          ]
+        ]
+      }
+    ],
+    "cases": [
+      {
+        "title": "Worked case: separating delivery from support",
+        "scenario": "A hypothetical relief file contains donation receipts, a ship’s departure record and a local distribution ledger. A report concludes that support for American policy increased.",
+        "steps": [
+          "Do not merge the records into one total. Donation, shipment and delivery are different events; align dates and units.",
+          "Specify the ledger’s coverage. If it records selected places, do not generalise to the entire island; retain unknown areas as unknown.",
+          "Seek recipient evidence for political support. Gratitude or fulfilled needs do not establish approval of military intervention or institutional arrangements."
+        ],
+        "conclusion": "The records may support a particular relief flow. Political support requires additional evidence about reception and preference."
+      },
+      {
+        "title": "Worked case: making the press the sole cause",
+        "scenario": "A hypothetical comparison contains a newspaper demanding intervention, another proposing diplomacy, and a government memorandum discussing security concerns.",
+        "steps": [
+          "Identify each newspaper’s audience and political position. Visibility does not establish social representativeness or equal reach.",
+          "Find the options considered in the memorandum. Public-opinion concerns and security reasoning can coexist within one decision.",
+          "Separate documents written before and after the decision. A later success narrative is not direct evidence of the original decision’s cause."
+        ],
+        "conclusion": "Press contributions to the agenda remain investigable, but diverse voices and decision records limit a single-cause explanation of war."
+      }
+    ],
+    "practice": {
+      "title": "Build a relief evidence chain in Excel",
+      "task": "Use the student evidence matrix to separate intention, shipment, delivery, recipient experience and political outcomes. If using only exercise material, label all rows hypothetical.",
+      "steps": [
+        "Match each document to one main question, identifying date, producer and geographical scope.",
+        "Explain your delivery measure’s denominator; do not combine unknown cases with operations known not to have occurred.",
+        "Record the need for independent or local recipient evidence, including its limits of representation.",
+        "Add a rival explanation for the political result and specify an additional document that could distinguish the explanations."
+      ],
+      "modelAnswer": "An example conditional answer: Records show supplies reached particular recipients. Suitability and recipients’ own views are less fully documented. A narrow delivery conclusion is therefore possible, while increased trust in American policy or delayed war cannot be asserted confidently. This limitation does not pre-emptively deny genuine material benefits."
+    },
+    "faqs": [
+      {
+        "question": "Can humanitarian and strategic purposes coexist?",
+        "answer": "Yes. One actor can pursue several purposes. Research should establish which affected particular decisions or practices using separate evidence."
+      },
+      {
+        "question": "Does political analysis belittle assistance?",
+        "answer": "No. Carefully measuring benefits is compatible with taking recipients’ preferences and rights seriously. Praising intentions alone measures neither."
+      },
+      {
+        "question": "What if local evidence is missing?",
+        "answer": "Do not substitute sender records for recipients’ voices. Limit the claim’s scope, identify indirect evidence and keep unresolved questions visible."
+      }
+    ],
+    "sourceNote": "This supplement develops the week 5 course content and introductory notes on Cuba, relief partnerships, media and the post-war order. Institutional reports and local testimony are discussed as different evidence types. Hypothetical files provide neither new historical findings nor direct quotations; read alongside the existing bibliography."
+  }
+}

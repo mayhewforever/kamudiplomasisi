@@ -1,0 +1,503 @@
+{
+  "week": 6,
+  "tr": {
+    "orientation": "Eğitim değişimi, bir sınırı geçmekten çok ilişkilerin nasıl kurulduğu ve bilginin nasıl kullanıldığı sorusudur. Pan-Amerikan girişimler bu süreci devlet, vakıf, üniversite ve katılımcılar arasındaki iş bölümüyle inceleme imkânı verir. Burada plan, deneyim ve uzun vadeli sonuç ayrılacak; karşılıklı anlayış gibi genel hedeflerin hangi gözlemlerle sınanabileceği adım adım gösterilecektir.",
+    "sections": [
+      {
+        "id": "relationship",
+        "title": "1. Hareketlilik, temas ve ilişki farklıdır",
+        "why": "Bir seyahatin kendisini öğrenme veya sempati saymıyoruz.",
+        "paragraphs": [
+          "Hareketlilik, öğrencinin veya akademisyenin başka bir yerde bulunmasıdır. Eğitim değişiminin ilişkisel değeri ise insanlarla düzenli çalışma, bilgi alışverişi ve programdan sonra da kullanılabilen bağlar kurma ihtimalinden doğar. Bir kampüse giriş yapmak yalnız erişim eşiğini gösterir. Öğrenme ve güvenin oluşması için temasın ne içerdiği ve nasıl yaşandığı araştırılmalıdır.",
+          "Temasın niteliği; süre, ortak görev, dil desteği, eşit söz hakkı ve eleştiri özgürlüğüyle ilgilidir. Aynı mekânda bulunmak, gruplar birbirinden kopuk yaşıyorsa anlamlı etkileşim yaratmayabilir. Buna karşılık gerçek bir sorun üzerinde birlikte çalışmak, kişilerin birbirinin yeteneğini ve düşünme biçimini tanımasına yardım edebilir. Bu bir garanti değil, sınanabilir bir mekanizma önerisidir.",
+          "Kısa tanıtım kampanyası belirli bir mesajın benimsenmesini isteyebilir; eğitim değişimi katılımcının bağımsız değerlendirmesini de korumalıdır. Ev sahibi ülkeyi eleştirerek dönmek başarısızlık kanıtı değildir. Daha doğru bilgi, saygılı anlaşmazlık ve devam eden mesleki ilişki farklı başarı ölçüleri sunar. Üniversiteye hayranlıkla hükümet politikasına destek aynı tutum olarak kodlanmamalıdır."
+        ],
+        "example": {
+          "title": "Arkadaşlık benzetmesinin sınırı",
+          "text": "Varsayımsal olarak yeni komşuyla karşılaşmak tanışmayı, birlikte sorun çözmek ise ilişki geliştirmeyi sağlar. Ancak değişim programında burs, vize ve kurumsal yetki gibi eşitsizlikler vardır. Dostluk benzetmesi, bu maddi ve hukuki koşulların ayrıca incelenmesi gereğini ortadan kaldırmaz."
+        },
+        "checkpoint": {
+          "question": "Programın tamamlanması, güven oluştuğunu gösterir mi?",
+          "answer": "Hayır. Tamamlama bir faaliyet göstergesidir. Güvenin hangi kişiye veya kuruma yöneldiğini ve hangi deneyimlerden doğduğunu ayrıca araştırmak gerekir."
+        }
+      },
+      {
+        "id": "history",
+        "title": "2. Tarihsel planı gerçekleşmiş değişimden ayırmak",
+        "why": "Kurumsal kararların neyi başlattığını, neyi henüz kanıtlamadığını açıklıyoruz.",
+        "paragraphs": [
+          "1910 Buenos Aires konferansının eğitim değişimi kararı, Amerikan devletleri arasında öğrenci ve öğretim üyesi hareketliliğini teşvik etti. Karar, eğitim ilişkisini bölgesel iş birliği gündemine yerleştiren bir adımdı. Ancak kararın varlığı, bütün ilgili üniversitelerin katıldığını veya ziyaretlerin hemen başladığını göstermez. Konferans düzeyindeki öneri ile uygulama kapasitesi farklı eşiklerdir.",
+          "Carnegie’nin 1911 planı ve 1912’de diplomatik kanallara taşınan genelge, kararın örgütlenmesine ilişkin izler sunar. Vakıf finansman ve düzenleme, diplomatlar bağlantı, üniversiteler ev sahipliği ve akademik çalışma imkânı sağlayabilirdi. Bu iş bölümü, tek bir merkezde toplanmayan yetkilerin birbirini tamamlamasına dayanıyordu. Bir aktörün onayı diğer bütün kapıların açıldığı anlamına gelmez.",
+          "Tarihsel inceleme, öneri, bütçe, davet, seyahat ve tamamlanmış çalışma belgelerini ayrı tutmalıdır. Bir davet mektubu ilgi veya niyeti gösterebilir; kabulü ve yolculuğu tek başına göstermez. Sonraki değişim programları karşılaştırma soruları sağlayabilir; fakat daha sonraki bir programın ilkelerini geriye taşıyarak 1910’daki aktörlerin amaçlarını açıklamak, tarihsel bağlamı bozar."
+        ],
+        "example": {
+          "title": "Bir davetin kanıt sınırı",
+          "text": "Varsayımsal bir dosyada üniversite daveti ve vakfın fon kararı bulunuyor; seyahat kaydı yok. Tasarımın ilerlediği söylenebilir. Ziyaretin tamamlandığı veya öğrenme doğurduğu söylenemez. Eksik seyahat kaydı ise ziyaretin kesinlikle gerçekleşmediğini de tek başına kanıtlamaz."
+        },
+        "checkpoint": {
+          "question": "Bir konferans kararıyla katılım listesi aynı soruyu mu yanıtlar?",
+          "answer": "Hayır. İlki ortak amaç ve öneriyi; ikincisi belirli katılımı gösterebilir. Öğrenme ve sonraki kullanım için yine başka belgeler gerekir."
+        }
+      },
+      {
+        "id": "authority",
+        "title": "3. Ortaklıkta yetki, seçim ve hesap verebilirlik",
+        "why": "Programın logoları yerine karar haklarını izliyoruz.",
+        "paragraphs": [
+          "Bir değişim programının kamu-özel niteliği, yalnız ortakların listesinden anlaşılmaz. Bütçeyi kimin yönettiği, adayları kimin seçtiği, ders içeriğini kimin değiştirebildiği ve anlaşmazlıkta kimin son sözü söylediği önemlidir. Hükümet, vakıf ve üniversite farklı kaynaklar sağladığı için karşılıklı bağımlı olabilir; bu bağımlılık eşit yetki paylaşımını kendiliğinden garanti etmez.",
+          "Yerel erişim belirleyicileri, programa kimin girebileceğini ve dönüşte hangi fırsatları bulacağını etkileyen kurumlardır. Eğitim bakanlıkları, üniversite yönetimleri, meslek örgütleri ve işverenler bu rolü üstlenebilir. Dil, gelir, hazırlık süresi veya tavsiye bağlantıları bazı adayları dışarıda bırakabilir. Bu nedenle açık başvuru ilanı, bütün grupların fiilen eşit erişimi olduğunu tek başına göstermez.",
+          "Hesap verebilirlik, katılımcının bir sorunu bildirdiğinde güvenli ve etkili bir çözüm yolu bulabilmesidir. Şikâyetin yalnız bursu veren kişiye gitmesi, bağımsız incelemeyle aynı değildir. Sözleşme ve itiraz usulleri, programın özerklik vaadinin uygulamadaki karşılığını gösterir. Araştırmacı yalnız seçilen başarılı kişileri değil, reddedilenleri ve ayrılanları da değerlendirmeye katmalıdır."
+        ],
+        "example": {
+          "title": "Ücretsiz görünen engel",
+          "text": "Varsayımsal bir burs öğrenim ücretini karşılıyor; fakat başvuru için pahalı dil sınavı gerekiyor. Programın “herkese açık” olması, sınava erişemeyen adayların eşit fırsata sahip olduğu anlamına gelmez. Başvuru koşulunun maliyeti, seçim mekanizmasının parçasıdır."
+        },
+        "checkpoint": {
+          "question": "Finansman sağlayan taraf bütün kararları vermek zorunda mıdır?",
+          "answer": "Hayır. Kaynak katkısıyla yetki dağılımı ayrı tasarlanabilir. Fiilî yetkiyi sözleşmeler, kurul kararları ve itiraz uygulamaları üzerinden incelemek gerekir."
+        }
+      },
+      {
+        "id": "reciprocity",
+        "title": "4. Karşılıklılık: iki yönlü seyahatin ötesi",
+        "why": "Eşit sayı ile ortak gündem kurma hakkını ayırıyoruz.",
+        "paragraphs": [
+          "Karşılıklılık, tarafların hem öğrenebilmesi hem programın yönünü etkileyebilmesidir. İki yönde eşit sayıda kişinin seyahat etmesi, araştırma konularını tek taraf belirliyorsa eşit ortaklık sağlamaz. Kimin bilgisinin değerli sayıldığı, hangi dilde yayımlandığı ve hangi kurumun değerlendirme ölçütlerinin kullanıldığı da ilişkinin yapısını gösterir. Sayısal denge, karar dengesinin yerine geçmez.",
+          "Pan-Amerikan bağlamında Amerikan ve Latin Amerika kurumları arasındaki maddi güç farkı, program tasarımını etkileyebiliyordu. Ancak yerel kurumları yalnız pasif alıcı saymak da hatalıdır. Alan önermek, ortak reddetmek, aday değerlendirmek ve alınan bilgiyi yerel ihtiyaca uyarlamak eylem alanlarıdır. Karşılıklılık, bu kararların gerçekten kullanılabildiğine ilişkin belgeler üzerinden değerlendirilmelidir.",
+          "Bilgi aktarımı tek yönde olursa iki yönlü seyahat bile hiyerarşik kalabilir. Buradaki bilgi hiyerarşisi, bir toplumun deneyiminin evrensel uzmanlık, diğerinin deneyiminin yalnız uygulama alanı sayılmasıdır. Bunu peşinen varsaymak yerine ders programı, ortak yayın, çeviri ve toplantı kararlarında arayın. Ortak adının yazılması, bilgi katkısının eşit ağırlık taşıdığını tek başına göstermez."
+        ],
+        "example": {
+          "title": "Eşit ziyaret, eşitsiz konu seçimi",
+          "text": "Varsayımsal iki üniversite karşılıklı ziyaret düzenliyor; bütün araştırma sorularını yalnız finansör seçiyor. Hareketlilik çift yönlüdür, gündem yetkisi değildir. Yerel ortağın önerileriyle programın değiştiğini gösteren kayıt, karşılıklılık için ziyaret sayısından daha güçlü kanıt sunabilir."
+        },
+        "checkpoint": {
+          "question": "Karşılıklılığın tek göstergesi öğrenci sayısı olabilir mi?",
+          "answer": "Hayır. Sayıya ek olarak konu seçimi, bütçe, itiraz hakkı, öğretim içeriği ve bilginin iki yönde kullanılması incelenmelidir."
+        }
+      },
+      {
+        "id": "evaluation",
+        "title": "5. Etki ölçümünde başlangıç, seçim ve izleme",
+        "why": "Program sonrası olumlu sonucu otomatik olarak programa mal etmiyoruz.",
+        "paragraphs": [
+          "Başlangıç ölçümü, katılımcının programdan önceki bilgisini, tutumunu ve bağlantılarını kaydeder. Program sonundaki olumlu görüş tek başına değişimi göstermez; katılımcı zaten olumlu düşünüyor olabilir. Seçim etkisi, kabul edilen kişilerin baştan daha hareketli veya bağlantılı olması nedeniyle sonraki başarının programa gereğinden fazla yüklenmesi riskidir. Bu yüzden başlangıç özellikleri önemlidir.",
+          "Benzer özellikli katılmayan kişilerle karşılaştırma, bazı rakip açıklamaları sınamaya yardımcı olabilir; bütün farkları ortadan kaldırmaz. Araştırmacı grupların hangi bakımdan benzer olduğunu ve hangi farkların kaldığını belirtmelidir. Tek bir memnuniyet anketi, öğrenme, uzun vadeli ilişki ve kurumsal kullanım gibi farklı sonuçları ölçemez. Her amaç, uygun zaman ve gösterge gerektirir.",
+          "Takip araştırmasında yanıt vermeyenler de önemlidir. Yalnız başarılı ve memnun mezunlara ulaşmak, program deneyimini olduğundan olumlu gösterebilir. Ayrılanların, hayal kırıklığı yaşayanların veya iletişim bilgisi değişenlerin sessizliği aynı anlama gelmez. Yanıt kaybının olası nedenleri ve kimleri dışarıda bıraktığı açıklanmalı; eksik veri sıfır etki veya gizli memnuniyet olarak kodlanmamalıdır."
+        ],
+        "example": {
+          "title": "Parlak mezun hikâyesi",
+          "text": "Varsayımsal olarak uluslararası bağlantıları güçlü bir mezun büyük proje yürütüyor. Program katkı sunmuş olabilir; ancak bütün başarıyı programa bağlamak için önceki ağlarını ve diğer desteklerini incelemek gerekir. Başarı öyküsü, mekanizmayı araştırmaya başlangıçtır; tek başına sonuç ölçümü değildir."
+        },
+        "checkpoint": {
+          "question": "Çıkış anketi on yıl sonraki etkiyi gösterir mi?",
+          "answer": "Hayır. Yakın dönem deneyimi gösterebilir. Kalıcılık ve kullanım için sonraki izleme, farklı kaynaklar ve önceki durumla karşılaştırma gerekir."
+        }
+      },
+      {
+        "id": "transfer",
+        "title": "6. Bireysel öğrenmeden kurumsal kullanıma",
+        "why": "Bilginin dönüş sonrasında nasıl uygulandığını adım adım açıklıyoruz.",
+        "paragraphs": [
+          "Bireysel öğrenme, katılımcının yeni bir bilgiyi anlaması veya kullanabilmesidir. Kurumsal değişim ise çalıştığı örgütün düzenli uygulamalarının değişmesidir. Arada çeviri, uyarlama, meslektaşları ikna etme, yetkili onayı ve kaynak bulma gibi aşamalar bulunur. Katılımcının başarılı olması, bu kapıların hepsinin açıldığı anlamına gelmez; kurum desteği ayrıca araştırılmalıdır.",
+          "Yerel uyarlama, öğrenilen yöntemi aynen kopyalamak değildir. Başka hukuk, bütçe veya çalışma koşulları farklı çözüm gerektirebilir. Uyarlama bazen bilginin zayıflaması değil, kullanılabilir hâle gelmesidir. Araştırmacı özgün yöntemle sonraki uygulamayı karşılaştırırken değişikliklerin gerekçesini aramalıdır. Yerel meslektaşların katkısını silip her yeniliği yurt dışı deneyimine bağlamak, sürecin ortak üretimini gizler.",
+          "Güçlü değerlendirme; program öncesi durum, öğrenilen içerik, sürdürülen ilişki ve gözlenebilir kullanım arasında iz kurulmasını ister. Taslaklar, atölye kayıtları, kurum kararları ve uygulama belgeleri bu yolu gösterebilir. Aynı dönemde başlamış yerel reform gibi rakip açıklamalar da sınanır. Nihai sonuç çoğu zaman “tek neden” değil, belirli koşullarda katkı olarak ifade edilmelidir."
+        ],
+        "example": {
+          "title": "Aylin’in yöntemi yerelleştirmesi",
+          "text": "Varsayımsal Aylin, yurt dışında öğrendiği yöntemi bölümüne getiriyor. Araç eksikliği nedeniyle meslektaşlarıyla daha basit bir sürüm geliştiriyorlar. Bu değişim öğrenmenin yokluğunu değil, uyarlamayı gösterebilir. Kurumun yöntemi benimsemesi ise ayrıca karar ve uygulama kaydı ister."
+        },
+        "checkpoint": {
+          "question": "Bir mezunun yeni bilgisi, neden kurum etkisiyle eşit değildir?",
+          "answer": "Bilginin kullanılması için yerel yetki, kaynak, uyarlama ve meslektaş desteği gerekir. Bunlar öğrenmenin yanında ayrı bağlantılardır."
+        }
+      }
+    ],
+    "visuals": [
+      {
+        "kind": "flow",
+        "title": "Temastan yerel kullanıma olası yol",
+        "caption": "Oklar öğrenmenin otomatik sonucunu göstermez. Dil engeli, yetki eksikliği veya kaynak yetersizliği herhangi bir bağlantıyı kesebilir.",
+        "nodes": [
+          {
+            "title": "Erişim ve temas",
+            "text": "Seçim koşulları ve ortak çalışma deneyimi incelenir."
+          },
+          {
+            "title": "Öğrenme",
+            "text": "Katılımcının neyi anlayıp kullanabildiği gösterilir."
+          },
+          {
+            "title": "Sürdürülen bağ",
+            "text": "Program sonrası gerçek iş birliği araştırılır."
+          },
+          {
+            "title": "Yerel kullanım",
+            "text": "Uyarlama ve kurumun uygulama kararı izlenir."
+          }
+        ]
+      },
+      {
+        "kind": "comparison",
+        "title": "Birbirine karıştırılmaması gereken başarılar",
+        "caption": "Her başarı türünün değeri olabilir; hiçbiri diğerini kendiliğinden kanıtlamaz.",
+        "columns": [
+          "Düzey",
+          "Gözlenebilir iz",
+          "Aynı sayılmaması gereken"
+        ],
+        "rows": [
+          [
+            "Hareketlilik",
+            "Ziyaretin tamamlanması",
+            "Derin öğrenme"
+          ],
+          [
+            "Öğrenme",
+            "Yöntemin doğru uygulanması",
+            "Kurumun yöntemi benimsemesi"
+          ],
+          [
+            "İlişki",
+            "Ortak çalışmanın sürmesi",
+            "Hükümet politikasına destek"
+          ],
+          [
+            "Karşılıklılık",
+            "Yerel önerinin tasarımı değiştirmesi",
+            "Yalnız eşit ziyaret sayısı"
+          ]
+        ]
+      },
+      {
+        "kind": "matrix",
+        "title": "İzleme için kaynak matrisi",
+        "caption": "Kaynak seçimi değerlendirme amacına ve zamana göre değişir.",
+        "columns": [
+          "Kaynak",
+          "Yanıtlayabildiği soru",
+          "Başlıca sınır"
+        ],
+        "rows": [
+          [
+            "Başvuru kaydı",
+            "Kim erişebildi?",
+            "Başvurmayanları tam göstermez"
+          ],
+          [
+            "Çalışma örneği",
+            "Ne öğrenildi?",
+            "Sonraki kullanımı göstermez"
+          ],
+          [
+            "Mezun görüşmesi",
+            "Deneyim nasıl yorumlandı?",
+            "Hatırlama ve yanıt seçimi etkileri"
+          ],
+          [
+            "Kurum uygulama kaydı",
+            "Ne değişti?",
+            "Değişimin tek nedenini belirlemez"
+          ]
+        ]
+      }
+    ],
+    "cases": [
+      {
+        "title": "Vaka çözümü: memnuniyet ile uzun vadeli etki",
+        "scenario": "Varsayımsal program dosyasında olumlu çıkış anketleri ve başarılı bir mezun hikâyesi var. Program öncesi veri ve ayrılanların görüşleri bulunmuyor.",
+        "steps": [
+          "Önce desteklenebilen sonucu yaz: Ankete yanıt verenler yakın dönem deneyimini olumlu değerlendiriyor. Bütün katılımcıların aynı düşündüğünü varsayma.",
+          "Başlangıç ve seçim boşluğunu belirt. Zaten olumlu tutumlu ve bağlantılı adayların seçilip seçilmediği bilinmiyor.",
+          "Kalıcı kullanım için yeni kaynak öner: Sonraki ortak çalışmalar, meslektaş anlatıları ve kurum uygulama kayıtları farklı bağlantıları sınayabilir."
+        ],
+        "conclusion": "Olumlu deneyim hakkında sınırlı kanıt vardır. Uzun vadeli etkiyi programa bağlamak için zaman içinde ve farklı kaynaklarla izleme gerekir."
+      },
+      {
+        "title": "Vaka çözümü: eşit hareketlilik, sınırlı karşılıklılık",
+        "scenario": "Varsayımsal ortaklıkta iki üniversite karşılıklı ziyaret yapıyor; bütçeyi ve bütün konuları yalnız bir taraf belirliyor. Yerel ortak ders içeriğine itiraz ediyor.",
+        "steps": [
+          "Seyahat eşitliğiyle karar eşitliğini ayır. İlki hareketliliğin yönünü gösterir; ikincisi gündem ve veto hakkıyla ilgilidir.",
+          "İtirazın nasıl ele alındığını izle. Kaydedilmesi yetmez; yanıt, gerekçe ve tasarım değişikliği olup olmadığı araştırılır.",
+          "Bilgi akışına bak. Yerel örneklerin derslere ve ortak yayınlara girmesi, katkının görünür bir izi olabilir; yalnız ortak logo yeterli değildir."
+        ],
+        "conclusion": "Karşılıklılık, eşit sayının ötesinde ortakların kararları ve bilgiyi değiştirebilme kapasitesiyle değerlendirilir."
+      }
+    ],
+    "practice": {
+      "title": "Excel’de uzun vadeli değerlendirme tasarla",
+      "task": "14 haftalık rehberin altıncı haftası için başlangıç, program sonu ve dönüş sonrası değerlendirmeyi bağlayan küçük bir plan oluştur. Gerçek öğrenci verisi gerekmez; örnek tasarımı varsayımsal olarak etiketle.",
+      "steps": [
+        "Bir öğrenme amacı ve bir kurumsal kullanım amacı yaz; bunlara ayrı göstergeler seç.",
+        "Her göstergeye uygun zaman ve kaynak ekle; tek memnuniyet anketini bütün amaçlara kullanma.",
+        "Seçim etkisi ile yanıt kaybının hangi yönde yanlılık oluşturabileceğini belirt.",
+        "Bir rakip açıklama ve onu sınayacak ek kayıt öner; yorumunun hangi durumda değişeceğini yaz."
+      ],
+      "modelAnswer": "Örnek değerlendirme: Katılımcının yöntem öğrenmesi, önceki ve sonraki çalışma örnekleriyle incelenebilir. Kurumun yöntemi kullanması için ayrıca uygulama kaydı gerekir. Önceden başlayan reform ve yerel meslektaşların katkısı araştırılmadan bütün değişim programa yüklenemez. Olumlu yorumlar, eleştiriler ve yanıtsız kalan takipler kapsamları belirtilerek birlikte değerlendirilmelidir."
+    },
+    "faqs": [
+      {
+        "question": "Eleştiri programın amacına aykırı mıdır?",
+        "answer": "Bağımsız öğrenmeyi amaçlayan programda değildir. Daha bilgili itiraz, ilişkilerin kopmasıyla aynı şey değildir; eleştirinin güvenle ifade edilmesi de değerlendirilebilir."
+      },
+      {
+        "question": "Küçük program mutlaka daha mı etkilidir?",
+        "answer": "Hayır. Küçük gruplar derin teması kolaylaştırabilir; fakat erişimi sınırlayabilir. Ölçek ve nitelik, hedefler ve kaynaklar birlikte düşünülerek değerlendirilir."
+      },
+      {
+        "question": "Mezun ağına üyelik, çalışan bir ağın kanıtı mıdır?",
+        "answer": "Yalnız kayıtlı bağlantıyı gösterir. Gerçek iletişim, ortak sorun çözme veya çalışma üretimi için ek izler gerekir."
+      }
+    ],
+    "sourceNote": "Bu açıklama, dersin altıncı hafta içerikleri ile mevcut başlangıç notlarındaki Pan-Amerikan değişim, Carnegie planı ve kamu-özel iş bölümü çerçevesini geliştirir. Sonraki programlara ilişkin kavramlar tarihsel aktörlere geriye dönük yüklenmemiştir. Varsayımsal örnekler değerlendirme yöntemini öğretir; gerçek katılımcı verisi veya yeni tarihsel bulgu içermez."
+  },
+  "en": {
+    "orientation": "Educational exchange concerns how relationships develop and knowledge becomes usable, not simply crossing a border. Pan-American initiatives reveal this process through divisions of labour among states, foundations, universities and participants. Separate plans, experiences and longer-term results, then examine which observations can test broad objectives such as mutual understanding.",
+    "sections": [
+      {
+        "id": "relationship",
+        "title": "1. Mobility, contact and relationships differ",
+        "why": "Travel itself does not establish learning or sympathy.",
+        "paragraphs": [
+          "Mobility means a student or scholar being elsewhere. Exchange’s relational value lies in the possibility of regular collaboration, knowledge sharing and connections usable after the programme. Entering a campus establishes only access. Investigating learning and trust requires examining what the contact involved and how participants experienced it.",
+          "Contact quality concerns duration, shared tasks, language support, equal voice and freedom to criticise. Occupying the same place may not produce meaningful interaction if groups remain socially separated. Working on a real problem can instead reveal another person’s capabilities and reasoning. This is a mechanism to test, rather than a guaranteed consequence of meeting.",
+          "A short publicity campaign may seek acceptance of a message, whereas educational exchange should also preserve independent judgment. Returning with criticism of the host country is not proof of failure. More accurate knowledge, respectful disagreement and continuing professional ties offer different success measures. Do not code admiration for a university as support for government policy."
+        ],
+        "example": {
+          "title": "The limits of a friendship analogy",
+          "text": "Hypothetically, meeting a new neighbour establishes acquaintance, while solving problems together can develop a relationship. Exchange programmes also involve unequal access to scholarships, visas and institutional authority. The friendship analogy does not remove the need to examine these material and legal conditions."
+        },
+        "checkpoint": {
+          "question": "Does completing a programme demonstrate trust?",
+          "answer": "No. Completion indicates activity. Investigate whom or what participants trust and which experiences contributed to it."
+        }
+      },
+      {
+        "id": "history",
+        "title": "2. Separate historical plans from completed exchanges",
+        "why": "Explain what institutional decisions initiated and what they cannot yet prove.",
+        "paragraphs": [
+          "The education resolution at the 1910 Buenos Aires conference encouraged student and faculty exchanges among American states. It placed educational relationships on a regional cooperation agenda. The resolution does not establish that all relevant universities participated or visits immediately began. A conference proposal and the capacity to implement it are different thresholds.",
+          "Carnegie’s 1911 plan and the circular transmitted through diplomatic channels in 1912 provide traces of organisation. The foundation could supply funding and administration, diplomats connections, and universities hosting and academic work. This division of labour combined powers dispersed across institutions. One actor’s approval did not mean every remaining gate had opened.",
+          "Historical investigation should distinguish proposals, budgets, invitations, travel and completed academic work. An invitation can show interest or intention without demonstrating acceptance or travel. Later exchange programmes can suggest comparative questions, but projecting their principles backwards to explain actors’ intentions in 1910 distorts the historical setting and obscures institutional differences."
+        ],
+        "example": {
+          "title": "An invitation’s evidential limit",
+          "text": "A hypothetical file contains a university invitation and foundation funding decision, but no travel record. Planning advanced; a completed visit or learning is not yet established. Missing travel documentation also does not alone prove that the visit never happened."
+        },
+        "checkpoint": {
+          "question": "Do conference resolutions and participant lists answer the same question?",
+          "answer": "No. One establishes shared objectives or proposals; the other may establish particular participation. Learning and subsequent use still require different records."
+        }
+      },
+      {
+        "id": "authority",
+        "title": "3. Authority, selection and accountability in partnerships",
+        "why": "Trace decision rights rather than organisational logos.",
+        "paragraphs": [
+          "A programme’s public-private character cannot be understood from its partner list alone. Who controls budgets, chooses candidates, changes teaching and settles disputes matters. Governments, foundations and universities can depend on one another because they supply different resources. Such interdependence does not automatically produce an equal distribution of authority.",
+          "Local gatekeepers influence who enters a programme and which opportunities exist afterwards. Ministries, university administrators, professional bodies and employers can perform this role. Language, income, preparation time or recommendation networks may exclude some applicants. An open call therefore does not establish that every group enjoys equal practical access to participation.",
+          "Accountability requires safe and effective ways for participants to report problems. A complaint channel leading only to the scholarship provider is not equivalent to independent review. Agreements and appeal procedures reveal whether promised autonomy exists in practice. Investigators should include rejected applicants and participants who leave, rather than examining only successful selected individuals."
+        ],
+        "example": {
+          "title": "An apparently free opportunity",
+          "text": "A hypothetical scholarship covers tuition but requires an expensive language examination to apply. Being “open to everyone” does not establish equal opportunity for those unable to access the examination. Application costs form part of the selection mechanism."
+        },
+        "checkpoint": {
+          "question": "Must the funder make every decision?",
+          "answer": "No. Resource contributions and authority can be arranged separately. Investigate actual powers through agreements, board decisions and the handling of appeals."
+        }
+      },
+      {
+        "id": "reciprocity",
+        "title": "4. Reciprocity beyond travel in both directions",
+        "why": "Distinguish equal numbers from the right to shape an agenda.",
+        "paragraphs": [
+          "Reciprocity means both sides can learn and influence the programme’s direction. Equal numbers travelling each way do not create equal partnership if one side sets every research topic. Whose knowledge is valued, which language carries it and whose evaluation standards apply also reveal the relationship. Numerical balance cannot substitute for balanced decision-making.",
+          "Material differences between American and Latin American institutions could affect Pan-American programme design. Yet treating local institutions as passive recipients is also mistaken. They could propose fields, reject partners, assess candidates and adapt knowledge to local needs. Evaluate reciprocity through evidence showing whether these opportunities for decision-making could actually be exercised.",
+          "Two-way travel can remain hierarchical if knowledge flows only one way. A knowledge hierarchy treats one society’s experience as universal expertise and another’s merely as a site of application. Investigate this possibility in curricula, joint publications, translations and meeting decisions rather than assuming it. Listing a partner does not establish equal intellectual weight."
+        ],
+        "example": {
+          "title": "Equal visits, unequal topic selection",
+          "text": "Two hypothetical universities exchange visitors, but the funder chooses every research question. Mobility is reciprocal; agenda authority is not. Records showing the local partner’s proposals changed the programme may support reciprocity more strongly than visitor numbers alone."
+        },
+        "checkpoint": {
+          "question": "Can student numbers be the only reciprocity indicator?",
+          "answer": "No. Examine topic selection, budgets, rights of objection, teaching content and knowledge use in both directions alongside participation."
+        }
+      },
+      {
+        "id": "evaluation",
+        "title": "5. Baselines, selection and follow-up",
+        "why": "Do not automatically credit a programme with every favourable later outcome.",
+        "paragraphs": [
+          "A baseline records knowledge, attitudes and connections before participation. Positive views afterwards do not alone establish change; participants may already have held them. Selection effects arise when unusually mobile or connected applicants are chosen, leading evaluators to assign too much subsequent success to the programme. Initial characteristics therefore matter to explanation.",
+          "Comparison with similar non-participants may help test rival explanations, but does not remove every difference. Explain how groups are comparable and which differences remain. One satisfaction survey cannot measure learning, durable relationships and institutional use simultaneously. Each objective requires an appropriate indicator and timing rather than the most convenient available number.",
+          "Non-response matters in follow-up. Reaching only successful, satisfied alumni can make experience appear more favourable. Withdrawal, disappointment and changed contact details can all produce silence, but mean different things. Explain possible reasons for attrition and whom it excludes; do not code missing observations as zero effect or unexpressed satisfaction."
+        ],
+        "example": {
+          "title": "The outstanding graduate story",
+          "text": "A hypothetical graduate with strong previous international connections leads a major project. Exchange may have contributed, but attributing all success to it requires examining earlier networks and other support. A success story starts mechanism investigation; it is not sufficient outcome measurement by itself."
+        },
+        "checkpoint": {
+          "question": "Does an exit survey establish effects ten years later?",
+          "answer": "No. It can describe immediate experience. Persistence and use require later follow-up, different sources and comparison with earlier conditions."
+        }
+      },
+      {
+        "id": "transfer",
+        "title": "6. From individual learning to institutional use",
+        "why": "Explain how knowledge becomes applicable after return.",
+        "paragraphs": [
+          "Individual learning means understanding or applying new knowledge. Institutional change concerns an organisation’s regular practices. Translation, adaptation, persuading colleagues, authorised approval and obtaining resources can stand between them. A successful participant does not establish that all these gates opened. Institutional support requires separate investigation alongside what the person learned abroad.",
+          "Local adaptation is not identical copying. Different legal, budgetary or working conditions may require another solution. Adaptation can make knowledge usable rather than weaken it. Compare the original method with later practice and investigate reasons for changes. Erasing local colleagues’ contributions while crediting every innovation to foreign experience conceals joint production.",
+          "Strong evaluation traces connections between prior conditions, learned material, maintained relationships and observable use. Drafts, workshop records, institutional decisions and implementation documents can reveal that route. Test competing explanations, including domestic reform already underway. The most defensible conclusion may concern a contribution under specified conditions rather than a single cause."
+        ],
+        "example": {
+          "title": "Aylin adapts a method",
+          "text": "Hypothetically, Aylin brings home a method learned abroad. Lacking equipment, she and colleagues develop a simpler version. The difference may indicate adaptation rather than absent learning. Institutional adoption still requires separate decision and implementation evidence."
+        },
+        "checkpoint": {
+          "question": "Why does a graduate’s knowledge differ from institutional impact?",
+          "answer": "Use requires local authority, resources, adaptation and colleagues’ support. These are additional links, not automatic properties of learning."
+        }
+      }
+    ],
+    "visuals": [
+      {
+        "kind": "flow",
+        "title": "A possible route from contact to local use",
+        "caption": "Arrows are not automatic learning consequences. Language barriers, absent authority or missing resources can interrupt any link.",
+        "nodes": [
+          {
+            "title": "Access and contact",
+            "text": "Investigate selection conditions and shared work."
+          },
+          {
+            "title": "Learning",
+            "text": "Demonstrate what participants understand and can apply."
+          },
+          {
+            "title": "Continued connection",
+            "text": "Investigate actual collaboration after the programme."
+          },
+          {
+            "title": "Local use",
+            "text": "Trace adaptation and institutional implementation decisions."
+          }
+        ]
+      },
+      {
+        "kind": "comparison",
+        "title": "Successes that should not be conflated",
+        "caption": "Each success can matter; none automatically establishes the next.",
+        "columns": [
+          "Level",
+          "Observable trace",
+          "Must not be equated with"
+        ],
+        "rows": [
+          [
+            "Mobility",
+            "A completed visit",
+            "Deep learning"
+          ],
+          [
+            "Learning",
+            "Correct application of a method",
+            "Institutional adoption"
+          ],
+          [
+            "Relationship",
+            "Continued joint work",
+            "Support for government policy"
+          ],
+          [
+            "Reciprocity",
+            "Local proposals changing design",
+            "Equal visitor numbers alone"
+          ]
+        ]
+      },
+      {
+        "kind": "matrix",
+        "title": "A source matrix for follow-up",
+        "caption": "Choose evidence according to evaluation purpose and timing.",
+        "columns": [
+          "Source",
+          "Question it can answer",
+          "Main limitation"
+        ],
+        "rows": [
+          [
+            "Application record",
+            "Who accessed selection?",
+            "Does not fully capture non-applicants"
+          ],
+          [
+            "Work sample",
+            "What was learned?",
+            "Does not show subsequent use"
+          ],
+          [
+            "Alumni interview",
+            "How was experience interpreted?",
+            "Recall and response-selection effects"
+          ],
+          [
+            "Institutional implementation record",
+            "What changed?",
+            "Does not identify a sole cause"
+          ]
+        ]
+      }
+    ],
+    "cases": [
+      {
+        "title": "Worked case: satisfaction and lasting influence",
+        "scenario": "A hypothetical programme file contains favourable exit surveys and one successful graduate story. Baseline data and the views of those who left are unavailable.",
+        "steps": [
+          "State the supported finding first: respondents evaluated their immediate experience positively. Do not assume every participant agreed.",
+          "Identify baseline and selection gaps. It is unknown whether already favourable, well-connected applicants were disproportionately selected.",
+          "Propose additional evidence for lasting use: later collaborations, colleagues’ accounts and institutional implementation records test different connections."
+        ],
+        "conclusion": "There is limited evidence about positive experience. Attributing lasting outcomes requires investigation across time and different sources."
+      },
+      {
+        "title": "Worked case: equal mobility, limited reciprocity",
+        "scenario": "Two hypothetical universities exchange visitors, but one controls the budget and every topic. The local partner objects to teaching content.",
+        "steps": [
+          "Separate equal travel from equal decision rights. One describes movement; the other concerns agenda-setting and veto authority.",
+          "Trace the objection’s handling. Recording it is insufficient; investigate responses, reasons and possible design changes.",
+          "Examine knowledge flows. Local examples entering teaching and joint publications may indicate contribution; shared logos alone cannot establish it."
+        ],
+        "conclusion": "Assess reciprocity through partners’ capacity to alter decisions and knowledge, beyond equal participant numbers."
+      }
+    ],
+    "practice": {
+      "title": "Design a longitudinal evaluation in Excel",
+      "task": "For week 6 of the 14-week guide, connect baseline, programme completion and post-return evaluation. No real student data are required; label your design hypothetical.",
+      "steps": [
+        "Specify one learning objective and one institutional-use objective, giving each a separate indicator.",
+        "Assign suitable timing and sources to each; do not use one satisfaction survey for every purpose.",
+        "Explain how selection effects and non-response could bias conclusions and in which direction.",
+        "Add a rival explanation and a record that could test it; state what finding would change your interpretation."
+      ],
+      "modelAnswer": "Example evaluation: Learning a method can be examined through earlier and later work samples. Institutional use requires an additional implementation record. Investigate pre-existing reform and local colleagues’ contributions before attributing all change to the programme. Assess favourable accounts, criticism and unanswered follow-ups together while specifying their coverage."
+    },
+    "faqs": [
+      {
+        "question": "Does criticism contradict the programme’s purpose?",
+        "answer": "Not when the purpose includes independent learning. Better-informed disagreement is different from broken relationships; participants’ ability to criticise safely can itself be evaluated."
+      },
+      {
+        "question": "Are smaller programmes necessarily more effective?",
+        "answer": "No. Small groups may facilitate deeper contact but restrict access. Consider scale and quality together with objectives and available resources."
+      },
+      {
+        "question": "Does alumni-network membership prove a working network?",
+        "answer": "It establishes a registered connection only. Actual communication, joint problem-solving or collaborative work requires further traces."
+      }
+    ],
+    "sourceNote": "This supplement develops the week 6 content and introductory notes on Pan-American exchange, Carnegie planning and public-private divisions of labour. Concepts associated with later programmes are not retrospectively assigned to historical actors. Hypothetical examples teach evaluation methods; they contain no actual participant data or new historical findings."
+  }
+}

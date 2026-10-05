@@ -1,0 +1,503 @@
+{
+  "week": 10,
+  "tr": {
+    "orientation": "Savaş iletişimini tek bir propaganda makinesi gibi düşünmek kolaydır; fakat bu düşünce, farklı kurumların neden işbirliği yaptığı ve neden çatıştığı sorularını cevapsız bırakır. Bu bölüm DCR, CIAA ve OWI’yi yetki, araç, bölge ve zaman bakımından karşılaştırır. Kurumları ezberlemek yerine belirli bir kararın hangi aşamalardan geçtiğini inceleyeceğiz. Böylece örgütsel büyüklük ile tutarlı strateji, hızlı üretim ile güvenilir etki arasındaki fark görünür olacaktır.",
+    "sections": [
+      {
+        "id": "mandates",
+        "title": "1. Kurum adı, görev alanının kısa yolu değildir",
+        "why": "Tarih, coğrafya ve hukuki konum birlikte okunmadığında yanlış kuruma yanlış iş yüklenir.",
+        "paragraphs": [
+          "DCR, Dışişleri Bakanlığı bünyesinde 1938’de kurulan Kültürel İlişkiler Bölümüdür. Eğitim ve kültür bağlarını daha uzun bir zaman ufkuyla ele aldı. CIAA veya resmi kısaltmasıyla OCIAA, 1940’ta kurulan öncü örgütlenmeden gelişti ve 1941’de Amerikalar Arası İşler Koordinatörlüğü adını aldı. Özellikle Latin Amerika’ya odaklanan bu yapı, bölgesel ilişkilerle çeşitli faaliyet alanlarını bir araya getirdi.",
+          "1942’de kurulan OWI, Savaş Bilgilendirme Ofisidir. Savaş haberlerini ve geniş ölçekli bilgilendirmeyi koordine etti. Ancak yurt dışı yetki alanı Latin Amerika’yı dışarıda bırakıyordu; bu bölgede bilgi dağıtımı OCIAA’nın sorumluluğundaydı. Bu sınır küçük bir isim ayrıntısı değildir: Belirli bir kampanyanın üreticisini, dağıtıcısını ve onay makamını yanlış eşleştirmek, hangi kararın kimden beklenebileceğini baştan yanlış kurar.",
+          "Üç boyutu ayırın: Resmi yetki, bir işi yapma kapasitesi ve ortaklar üzerinden erişim. Bir kurum film üretebilir ama her bölgede doğrudan dağıtma yetkisine sahip olmayabilir. Başka kurum yerel ortağa erişebilir fakat üretim bütçesi sınırlı olabilir. Aynı materyalin kurumlar arasında dolaşması tek merkezden yönetildiğini kanıtlamaz; tarihli görev tanımları ve uygulama kayıtları birlikte okunmalıdır."
+        ],
+        "example": {
+          "title": "Varsayımsal benzetme: Hastanedeki görevler",
+          "text": "Bir hastanede laboratuvar sonuç üretir, hekim yorumlar, yönetim kaynak ayırır. Aynı hasta için çalışmak aynı yetkiye sahip olmak değildir. Benzetme görev ayrımını açıklar; savaş kurumlarının siyasi rekabetini bütünüyle temsil etmez."
+        },
+        "checkpoint": {
+          "question": "OWI’nin film üretmesi hangi yetkiyi otomatik vermez?",
+          "answer": "Latin Amerika’da doğrudan bilgi dağıtma yetkisini vermez; üretim kapasitesiyle coğrafi yetki ayrıdır."
+        }
+      },
+      {
+        "id": "mechanisms",
+        "title": "2. Araç seçimi, değişimin nasıl beklendiğini açıklar",
+        "why": "Burs, bölgesel ağ ve günlük haber aynı zaman içinde aynı sonucu üretmez.",
+        "paragraphs": [
+          "DCR’nin burs, çeviri, konferans ve üniversite temasları üzerinden beklenen işleyişi tekrarlanan karşılaşmadır. İnsanlar bilgi edinebilir ve sonraki işbirliğine temel olacak bağlantılar kurabilir. Hemen görünür tutum değişikliği beklemek, uzun vadeli ilişkiyi yanlış ölçer. Bununla birlikte zamanın uzun olması başarısızlığı görünmez kılma gerekçesi değildir; temasın sürmesi ve bilginin kullanılması gibi ara sonuçlar araştırılabilir.",
+          "CIAA, bölgesel bağlam içinde kültür, sağlık, ticaret ve medya ağlarını birleştirdi. Özel şirketler ve yerel ortaklar hazır dağıtım, dil bilgisi veya güven sağlayabilirdi. Ancak ortakların çıkarları aynı değildir. Bir şirket satış, bir kültür kurumu saygınlık, yerel aktör kendi siyasi konumu için hareket edebilir. Kapasiteyi artıran ortaklık, aynı zamanda amaç ve hesap verme sorunları yaratır.",
+          "OWI’nin hızlı haber üretimi, belirsizliği azaltma ve rakip anlatılara yanıt verme beklentisine dayanıyordu. Hız, doğruluktan ayrı bir üstünlük değildir: Tekrarlanan yanlışlıklar sonraki doğru haberin de kuşkuyla karşılanmasına yol açabilir. Bir haberin zamanında yayımlanmasıyla güvenilir bulunmasını ayırın. Kaynağın geçmiş davranışı, düzeltme pratiği ve dinleyicinin başka kaynaklarla karşılaştırması bu işleyişin koşullarıdır; sonuçları otomatik değildir."
+        ],
+        "example": {
+          "title": "Varsayımsal örnek: Aynı göstergeyle ölçmek",
+          "text": "Bir ekip burs programını günlük yayın sayısıyla, haber servisini ise mezun ağıyla değerlendiriyor. İki ölçü de faaliyetin beklenen işleyişine uymuyor. Önce hangi ara değişimin beklendiğini, sonra göstergeyi seçmek gerekir."
+        },
+        "checkpoint": {
+          "question": "Uzun vadeli ilişki, bugün hiç ölçülemez mi?",
+          "answer": "Ölçülebilir; devam eden temas, ortak üretim ve yerel kullanım gibi ara sonuçlar için uygun kanıt aranır."
+        }
+      },
+      {
+        "id": "coordination",
+        "title": "3. Koordinasyon sorunu çoğu zaman yapısaldır",
+        "why": "Anlaşmazlığı yalnız zor kişiliklere bağlamak, teşvikleri ve karar kurallarını gözden kaçırır.",
+        "paragraphs": [
+          "Dışişleri görevlileri diplomatik tutarlılığa, haber yetkilileri hızlı yanıta, askeri makamlar operasyonel güvenliğe, bölge uzmanları yerel uygunluğa öncelik verebilir. Aynı açıklamayı değerlendirirken farklı riskler görmeleri anlaşılabilir. Bu farklar kişisel uyumsuzluktan ibaret değildir; görevlerinin oluşturduğu sorumluluk ve ödül yapısıyla ilgilidir. İyi bir açıklama, hangi kurumun neyi kaybetmekten çekindiğini görünür kılar.",
+          "Koordinasyon, bütün kurumların aynılaşması veya aynı metni her yerde yayımlaması değildir. Ortak olgusal standartlar, açık onay yetkisi, zamanında bilgi paylaşımı ve sorumlu yerel uyarlama gerekir. Yerel değişiklik izni yoksa merkezden gelen metin bağlama uymayabilir. Sınırsız takdir yetkisi varsa tutarsız iddialar ortaya çıkabilir. Araştırma sorusu, bu iki sorun arasında hangi karar usulünün kurulduğudur.",
+          "Bir toplantının yapılması veya komitenin kurulması, koordinasyonun işlediğini göstermez. Karar günlüğü, birbirini tekrar eden talimatlar, geciken onaylar ve düzeltilen taslaklar daha açıklayıcıdır. Anlaşmazlık bazen hatayı önleyerek kaliteyi artırır; bazen gerekli yanıtı geciktirir. Süreyi tek başına başarı ölçüsü saymayın. Gecikmenin hangi bilgi veya risk nedeniyle oluştuğunu ve sonuçta neyin değiştiğini inceleyin."
+        ],
+        "example": {
+          "title": "Varsayımsal örnek: İtirazın değeri",
+          "text": "Bölge uzmanı bir çevirinin yerel anlamını yanlış bulup yayını durduruyor. Bu bir gecikmedir; fakat düzeltme önemli bir yanlışı önlüyorsa koordinasyon başarısızlığı diye sınıflandırılamaz. Onay kaydı iki yorumu ayırmaya yardım eder."
+        },
+        "checkpoint": {
+          "question": "Daha kısa onay süresi her zaman daha iyi midir?",
+          "answer": "Hayır. Hızın yanı sıra doğruluk, güvenlik ve yerel anlam üzerindeki sonuç değerlendirilmelidir."
+        }
+      },
+      {
+        "id": "audiences",
+        "title": "4. Hedef kitle sınırı, dolaşımı bütünüyle kontrol etmez",
+        "why": "Yabancı kamuoyu tek bir topluluk olmadığı gibi iç ve dış dolaşım da tamamen ayrı değildir.",
+        "paragraphs": [
+          "Yurt dışı için hazırlanmış bir haber ülke içinde yeniden yayımlanabilir; iç haber yabancı basına taşınabilir. Üreticinin niyeti, mesajın coğrafyasını sabitlemez. Bu nedenle hedeflenen kitleyle fiilen karşılaşan kitleyi ayrı kaydedin. İstenmeyen dolaşım, kurumların şeffaflık ve yetki değerlendirmesini değiştirebilir. Bir mesajın nereye gönderildiği ile nerede okunduğu aynı veriyle belirlenmeyebilir; yeniden yayın zinciri izlenmelidir.",
+          "Yabancı kamuların içinde dil, sınıf, siyasi aidiyet, sömürge deneyimi ve medyaya erişim farklılaşır. Bir bölgeyi tek dinleyici gibi ele almak, mesajın neden farklı yorumlandığını açıklayamaz. Çeviri yalnız sözcük değişimi değildir; anlamı yerel tartışmaya yerleştirir. Bununla birlikte her eleştiriyi çeviri hatası saymak da yanlıştır: Hedef kitle, göndericinin politikasını anlayıp bilinçli biçimde reddedebilir.",
+          "Yerel ortak bu yüzden hem kaynak hem karar sahibidir. Programı uyarlayabilir, eleştirebilir veya kendi çıkarları için kullanabilir. Ortakla görüşmek, onun bütün toplumu temsil ettiğini göstermez. Hangi gruplara eriştiğini ve kimlerin dışında kaldığını sorun. Geri bildirim yalnız merkeze bilgi taşıyan kanal olarak değil, merkez kararını değiştirebilecek bir süreç olarak incelendiğinde koordinasyonun niteliği daha iyi anlaşılır."
+        ],
+        "example": {
+          "title": "Varsayımsal örnek: Başka ülkede alıntı",
+          "text": "Yabancı dinleyici için hazırlanan açıklama, iç basında bağlamı kısaltılarak yayımlanıyor. İlk üretim emri hedefi gösterir; sonraki gazete metni gerçek dolaşımın başka bir aşamasını gösterir. İki belgeyi tek kitle tepkisi gibi okumayın."
+        },
+        "checkpoint": {
+          "question": "Olumsuz yerel tepki her zaman iletişim hatası mıdır?",
+          "answer": "Hayır. Politikanın bilinçli eleştirisi olabilir; anlamama, güvensizlik ve anlaşmazlık ayrı araştırılır."
+        }
+      },
+      {
+        "id": "evaluation",
+        "title": "5. Üretimden sonuca geçerken kanıt basamakları kurun",
+        "why": "Kurumun çok çalışması, hedeflenen değişimin meydana geldiğini tek başına göstermez.",
+        "paragraphs": [
+          "Faaliyet, içerik üretimi veya toplantı düzenlenmesidir; çıktı tamamlanmış film, bülten veya burs olabilir. Erişilebilirlik, içeriğin bulunabilmesini; maruz kalma insanların gerçekten karşılaşmasını gösterir. Alımlama, nasıl yorumlandığıdır. Sonuç ise tanımlanmış bilgi, ilişki veya davranış değişimidir. Bu kavramlar farklı soruları karşılar. Kurum raporunun güçlü olduğu üretim aşamasını, başka verisi olmadığı için nihai etki yerine koymayın.",
+          "Savaş sırasında kamuoyu ve hükümet tercihleri birçok nedenle değişebilir. Askeri gelişmeler, ekonomik yardım, güvenlik hesapları ve iç siyasi mücadele iletişimle birlikte çalışabilir. Kampanyadan sonra değişim görülmesi, kampanyanın değişimi tek başına yarattığını göstermez. Zaman sırası, karar vericilerin gerekçeleri ve benzer fakat farklı maruz kalmış grupların karşılaştırılması, nedensel iddiayı güçlendirebilir. Bunların sınırlılıkları da açıkça belirtilmelidir.",
+          "İki açıklamayı gerçekten yarıştırmak için her birinin bekleyeceği bulguyu yazın. Haber mekanizması, belirli bilginin tartışmaya girmesini bekler; ekonomik açıklama, kararların maddi koşullarla birlikte değişmesini bekleyebilir. Aynı olay her ikisine de uyabilir. Bu durumda tek neden ilan etmek yerine katkı iddiası kurmak daha savunulabilirdir. Bilinmeyeni başarısızlık veya başarı saymadan, açıklamanın kanıt sınırında durun."
+        ],
+        "example": {
+          "title": "Varsayımsal örnek: İşbirliği kararı",
+          "text": "Bir hükümet olumlu film gösterimlerinden sonra ticaret anlaşması yapıyor. Bu sıralama araştırma başlangıcıdır. Karar tutanakları ekonomik pazarlığı vurguluyorsa filmin tek neden olduğu iddiası zayıflar; bütün iletişim katkısı otomatik silinmez."
+        },
+        "checkpoint": {
+          "question": "Güçlü kanıt her zaman tek neden gösterir mi?",
+          "answer": "Hayır. Belirli koşullarda sınırlı katkı gösteren sonuç da güçlü ve açıklayıcı olabilir."
+        }
+      },
+      {
+        "id": "legacy",
+        "title": "6. Olağanüstü kapasite ile kalıcı meşruiyeti ayırın",
+        "why": "Savaş için uygun görülen düzenleme, barış dönemi için kendiliğinden yeterli gerekçe değildir.",
+        "paragraphs": [
+          "Savaş dönemi kurumları yeni uzmanlar, araçlar ve bölgesel bilgi üretti; aynı zamanda yetki çatışması ve hesap verebilirlik sorunları yarattı. Kurumsal büyüme hem kapasite artışı hem daha karmaşık kontrol anlamına gelebilir. Mirası değerlendirirken teknik becerileri, çalışan ağlarını ve çözülmemiş yönetim sorularını birlikte düşünün. Çok sayıda araç bulunması, bu araçların tek ve tutarlı bir stratejiye bağlandığını kanıtlamaz.",
+          "Demokratik denetim, yalnız doğru kişinin göreve getirilmesi değildir. Yetkinin sınırları, kayıtların erişilebilirliği, hatanın düzeltilmesi ve itirazın kim tarafından inceleneceği önemlidir. Hızlı kararı savunan görüş, acil ihtiyaçları vurgular; sıkı denetimi savunan görüş, yanlışın ve yetki genişlemesinin maliyetini öne çıkarır. Analiz, bu görüşleri soyut karşıtlık yerine somut karar, zaman ve risk üzerinden karşılaştırmalıdır.",
+          "Günümüze aktarılabilecek ders, geçmişteki kurum adlarını yeni sorunlara yapıştırmak değildir. Benzer işlevsel ayrımı arayın: Kim üretir, kim dağıtır, kim doğrular, kim yerel itirazı değerlendirir? Teknoloji ve hukuk değiştiğinde aynı çözüm aynı sonucu vermeyebilir. Tarihsel benzetme bir hipotez üretir; bugünkü uygulanabilirliğin kanıtı olmaz. Aktarım yaparken benzer mekanizmayı, farklı koşulu ve aranacak gözlemi birlikte belirtin."
+        ],
+        "example": {
+          "title": "Varsayımsal örnek: Acil koordinasyon masası",
+          "text": "Kriz için kurulan bir masa bilgi paylaşımını hızlandırıyor. Kriz bittikten sonra sürmesi önerildiğinde amaç, süre ve denetim yeniden gerekçelendirilmelidir. Acil yarar, sınırsız kalıcı yetki için tek başına kanıt değildir."
+        },
+        "checkpoint": {
+          "question": "Kapasitenin korunması neden aynı yetkinin korunması demek değildir?",
+          "answer": "Beceriler aktarılabilir; yetkinin amacı, sınırı ve denetimi yeni bağlamda ayrıca gerekçelendirilir."
+        }
+      }
+    ],
+    "visuals": [
+      {
+        "kind": "flow",
+        "title": "Bir açıklamanın karar yolu",
+        "caption": "Her aşama bilgi veya yetki sağlar; oklar iknanın kesinleştiğini değil kararın ilerlediğini gösterir.",
+        "nodes": [
+          {
+            "title": "Sorunu tanımla",
+            "text": "Hedef kitle, bölge ve süreyi belirt."
+          },
+          {
+            "title": "Yetkiyi eşleştir",
+            "text": "Üretim, dağıtım ve onay sahiplerini ayır."
+          },
+          {
+            "title": "Bilgiyi birleştir",
+            "text": "Doğruluk, yerel anlam ve güvenlik itirazlarını kaydet."
+          },
+          {
+            "title": "Yanıtı değerlendir",
+            "text": "Düzeltme, erişim ve alımlama için ayrı kayıt ara."
+          }
+        ]
+      },
+      {
+        "kind": "comparison",
+        "title": "Aynı hedefe farklı araçlar",
+        "caption": "Kurumlar arasındaki farklar mutlak yalıtım değildir; bağlantılar belgeyle gösterilmelidir.",
+        "columns": [
+          "Kurum veya sorun",
+          "Öne çıkan işleyiş",
+          "Uygun araştırma sorusu"
+        ],
+        "rows": [
+          [
+            "DCR",
+            "Tekrarlanan eğitim ve kültür teması",
+            "İlişki ve bilgi kullanımı sürdü mü?"
+          ],
+          [
+            "CIAA / OCIAA",
+            "Bölgesel ortaklık ve dağıtım",
+            "Yerel erişim ve uyarlama nasıl sağlandı?"
+          ],
+          [
+            "OWI",
+            "Hızlı savaş haberi",
+            "Bilgi zamanında ve güvenilir bulundu mu?"
+          ],
+          [
+            "Ortak koordinasyon",
+            "Görev ve bilginin birleştirilmesi",
+            "Karar hangi kayıtla iyileşti?"
+          ]
+        ]
+      },
+      {
+        "kind": "matrix",
+        "title": "Kurumsal kanıtın sınırları",
+        "caption": "Kurumun kendi açıklaması ile uygulama ve alımlama kayıtlarını karşılaştırın.",
+        "columns": [
+          "Kaynak",
+          "Desteklediği iddia",
+          "Gösteremediği sonuç"
+        ],
+        "rows": [
+          [
+            "Görev tanımı",
+            "Resmi yetki ve kapsam",
+            "Fiili uygulamanın tamamı"
+          ],
+          [
+            "Bütçe",
+            "Kaynak tahsisi",
+            "İzleyici güveni"
+          ],
+          [
+            "Onay günlüğü",
+            "Karar sırası ve gecikme",
+            "Tek başına diplomatik etki"
+          ],
+          [
+            "Yerel tepki kaydı",
+            "Belirli grubun yorumu",
+            "Bütün ülkenin görüşü"
+          ]
+        ]
+      }
+    ],
+    "cases": [
+      {
+        "title": "Vaka 1: Latin Amerika’da yanlış haber",
+        "scenario": "Varsayımsal bir Latin Amerika kentinde yanlış savaş haberi dolaşıyor. Bir ekip doğrudan OWI dağıtımı öneriyor; başka ekip bütün işi burs programına bırakıyor.",
+        "steps": [
+          "İhtiyacı hızlı doğrulama ve bölgesel dağıtım olarak ayırın. Uzun vadeli ilişki bu acil ihtiyacın tamamını karşılamaz.",
+          "OWI’nin üretim kapasitesini, Latin Amerika’da OCIAA’nın dağıtım sorumluluğundan ayırın. Dış bilgi sağlayıcılığı ile yerel yetkiyi eşitlemeyin.",
+          "Yerel ortağın çevirisini ve düzeltmenin kime ulaştığını kaydedin. Yayın yapılması, yanlış inancın giderildiğini tek başına göstermez."
+        ],
+        "conclusion": "Savunulabilir tasarım, gerekli bilgiyi uygun bölgesel yetki ve ortaklarla buluşturur; kurum adından otomatik çözüm çıkarmaz."
+      },
+      {
+        "title": "Vaka 2: Hız mı, onay mı?",
+        "scenario": "Varsayımsal bir bülten yerel uzman itirazıyla gecikiyor. Yönetici bunu başarısızlık sayıyor; uzman metnin ciddi anlam hatası içerdiğini belirtiyor.",
+        "steps": [
+          "İlk taslağı, itirazı ve düzeltmeyi karşılaştırın. Anlaşmazlığı kişilik öyküsü yerine gözlenebilir içerik farkı olarak kaydedin.",
+          "Gecikmenin maliyetini ve yanlış yayımlamanın olası zararını ayrı değerlendirin. Her gecikmeyi güvenlik veya kalite gerekçesiyle otomatik savunmayın.",
+          "Sonraki benzer durum için açık süre, yetkili kişi ve düzeltme usulü önerin; yerel bilginin merkeze etkisini koruyun."
+        ],
+        "conclusion": "Koordinasyonun kalitesi, yalnız hızla değil hatayı azaltma ve zamanında yanıt verme arasındaki gerekçeli dengeyle değerlendirilir."
+      }
+    ],
+    "practice": {
+      "title": "Excel ile kurumlar arası karar dosyası",
+      "task": "Ortak çalışma kitabının 10. hafta rehberine bir varsayımsal karar ekleyin; kanıt matrisinde görev ve sonuç iddialarını ayırın.",
+      "steps": [
+        "Hedef bölgeyi, kitleyi, sorunu ve beklenen süreyi açıkça yazın.",
+        "DCR, CIAA ve OWI için ilgili veya ilgisiz rolü gerekçelendirin; yetki sınırını koruyun.",
+        "Üretim, onay, yerel uyarlama ve dağıtım için sorumlu aktör ve gerekli belgeyi belirtin.",
+        "Bir başarı göstergesi, güçlü alternatif açıklama ve kararı yeniden inceleme koşulu yazın."
+      ],
+      "modelAnswer": "Acil yanlış haber için doğrulanmış içerik ve bölgesel dağıtım gerekir. OCIAA’nın Latin Amerika rolü korunur; DCR ilişkileri erişimi kolaylaştırabilir. Başarı yalnız yayın sayısıyla değil, doğru bilginin hedef kitleye ulaştığına dair bulguyla sınanır."
+    },
+    "faqs": [
+      {
+        "question": "CIAA ve OCIAA iki ayrı kurum mudur?",
+        "answer": "Bu bağlamda OCIAA resmi kısaltma, CIAA ise literatürde yaygın kullanımdır. Ad ve yetki değişikliklerini anlamak için yine de belirli tarihteki resmi düzenleme kontrol edilmelidir."
+      },
+      {
+        "question": "Yetki çatışması her zaman verimsizlik midir?",
+        "answer": "Hayır. Farklı uzmanlıkların itirazı hatayı önleyebilir. Ancak çözülmeyen çelişkili talimat veya gereksiz tekrar da üretebilir; hangisi olduğu karar kayıtlarıyla gösterilir."
+      },
+      {
+        "question": "Neden tek bir başarı sıralaması yapmıyoruz?",
+        "answer": "Kurumların araçları, bölgeleri ve zaman ufukları farklıdır. Aynı genel amaca katkıyı karşılaştırabiliriz, fakat burs, haber ve bölgesel ağ için aynı çıktı sayısını kullanamayız."
+      }
+    ],
+    "sourceNote": "Açıklamalar mevcut 10. hafta içeriğindeki DCR, OCIAA/CIAA ve OWI karşılaştırmasını ve Schindler’in kurumsal belirsizlik tartışmasını geliştirir. Tarih ve yetki bilgileri verilen notlara dayanır; örnek karar dosyaları varsayımsaldır."
+  },
+  "en": {
+    "orientation": "Imagining wartime communication as one propaganda machine leaves important questions unanswered: why did institutions cooperate, and why did they clash? This supplement compares DCR, CIAA and OWI through authority, instruments, geography and time. Instead of memorising agencies, we follow decisions. That approach distinguishes organisational expansion from coherent strategy, and rapid production from credible influence.",
+    "sections": [
+      {
+        "id": "mandates",
+        "title": "1. An agency name is not a complete mandate",
+        "why": "Date, geography and legal location must be read together to avoid assigning the wrong task.",
+        "paragraphs": [
+          "The Division of Cultural Relations (DCR), established within the State Department in 1938, approached educational and cultural ties over a longer horizon. CIAA, or officially OCIAA, developed from a predecessor created in 1940 and took the name Office of the Coordinator of Inter-American Affairs in 1941. Particularly focused on Latin America, it connected regional relationships with several fields of activity.",
+          "The Office of War Information (OWI), created in 1942, coordinated war news and large-scale information. Its overseas jurisdiction excluded Latin America, where information distribution remained OCIAA’s responsibility. This boundary is not a minor naming detail. Misidentifying a campaign’s producer, distributor or approving authority distorts which decisions could reasonably be expected from each institution.",
+          "Separate formal authority, practical capacity and partner access. An institution might produce a film without possessing direct distribution authority everywhere. Another might reach local partners while lacking production resources. Material circulating between agencies does not establish unified command. Read dated mandates alongside implementation records to distinguish what an organisation could legally do from what it actually did."
+        ],
+        "example": {
+          "title": "Hypothetical analogy: Hospital responsibilities",
+          "text": "A laboratory produces results, a doctor interprets them and management allocates resources. Working for the same patient does not confer identical authority. The analogy clarifies task division without fully representing wartime political rivalry."
+        },
+        "checkpoint": {
+          "question": "Which power does OWI film production not automatically confer?",
+          "answer": "Direct information distribution authority in Latin America; production capacity differs from geographical jurisdiction."
+        }
+      },
+      {
+        "id": "mechanisms",
+        "title": "2. Instruments reveal the expected route to change",
+        "why": "Fellowships, regional networks and daily news do not produce identical outcomes on identical schedules.",
+        "paragraphs": [
+          "The DCR’s fellowships, translations, conferences and university contacts relied on repeated encounters. People might learn and establish connections supporting later cooperation. Expecting immediate attitude change mismeasures a longer relationship. Yet a long horizon must not conceal failure: continuing contact and institutional use of knowledge provide intermediate outcomes that can be investigated before ultimate diplomatic consequences become visible.",
+          "CIAA combined cultural, health, commercial and media networks within a regional setting. Firms and local partners could supply established distribution, linguistic knowledge or trust. Their interests nevertheless differed. A company might prioritise sales, a cultural institution reputation, and a local actor its own political position. The same partnership that expands capacity can complicate purpose and accountability.",
+          "OWI’s rapid information production aimed to reduce uncertainty and answer competing narratives. Speed cannot be treated independently of accuracy: repeated errors may undermine subsequent truthful reports. Distinguish timely publication from perceived credibility. Earlier conduct, correction practices and comparison with competing sources condition how a news service operates. They create hypotheses about influence rather than guaranteeing audience trust."
+        ],
+        "example": {
+          "title": "Hypothetical example: The wrong indicator",
+          "text": "A team evaluates fellowships through daily publication totals and a news service through alumni networks. Neither measure matches the expected process. Identify the intermediate change first, then choose an appropriate indicator."
+        },
+        "checkpoint": {
+          "question": "Are long-term relationships impossible to assess now?",
+          "answer": "No. Continuing contact, joint work and local use can provide intermediate evidence with suitable records."
+        }
+      },
+      {
+        "id": "coordination",
+        "title": "3. Coordination problems are often structural",
+        "why": "Explaining disagreement only through difficult personalities misses incentives and decision rules.",
+        "paragraphs": [
+          "Diplomats may prioritise consistency, news officials prompt response, military authorities operational security, and regional specialists local relevance. They can reasonably perceive different risks in the same announcement. Such differences are not simply personal incompatibility; responsibilities and organisational rewards shape them. Explain what each institution fears losing before treating its objection as obstruction or professional incompetence.",
+          "Coordination does not require identical agencies or identical content everywhere. It requires shared factual standards, clear approval powers, timely information and accountable local adaptation. Without adaptation, central content may miss its context; unlimited discretion may produce contradictory claims. Investigate the procedures established between these extremes rather than assuming either central uniformity or unrestricted local choice is inherently superior.",
+          "A meeting or committee does not demonstrate working coordination. Decision logs, duplicate instructions, delayed approvals and revised drafts are more informative. Disagreement may improve quality by preventing error, or obstruct a necessary response. Duration alone cannot decide which occurred. Examine the information or risk behind the delay and what changed in the resulting decision."
+        ],
+        "example": {
+          "title": "Hypothetical example: A useful objection",
+          "text": "A regional specialist halts publication over a mistranslation. Delay is observable, but preventing a serious error may justify it. Approval records help distinguish successful scrutiny from dysfunctional obstruction."
+        },
+        "checkpoint": {
+          "question": "Is shorter approval time always better?",
+          "answer": "No. Assess effects on accuracy, security and local meaning alongside speed."
+        }
+      },
+      {
+        "id": "audiences",
+        "title": "4. Intended boundaries do not fully control circulation",
+        "why": "Foreign publics are diverse, and domestic and overseas information spaces are not sealed.",
+        "paragraphs": [
+          "An overseas report can be republished domestically, while domestic news travels abroad. The producer’s intention cannot fix the geography of reception. Record intended audiences separately from actual recipients. Unintended circulation can alter questions of transparency and authority. Evidence about where material was sent may not establish where it was read; follow republication rather than stopping at the original distribution list.",
+          "Foreign publics differ by language, class, political affiliation, colonial experience and media access. Treating a region as one listener cannot explain divergent interpretations. Translation places meaning within local debate rather than merely replacing words. Equally, criticism is not always mistranslation: audiences may understand a policy and deliberately reject it. Distinguish misunderstanding, distrust and disagreement.",
+          "A local partner is therefore both a resource and a decision maker. It can adapt, criticise or use a programme for its own interests. Consultation does not establish representation of the whole population. Ask which groups it reaches and excludes. Study feedback as a process capable of changing central decisions, not merely a channel carrying observations upwards."
+        ],
+        "example": {
+          "title": "Hypothetical example: An unexpected reprint",
+          "text": "An overseas announcement appears in the domestic press with shortened context. The production order identifies the intended audience; the newspaper reveals another circulation stage. Neither alone establishes one unified audience response."
+        },
+        "checkpoint": {
+          "question": "Does negative local feedback necessarily show a communication error?",
+          "answer": "No. It may reflect informed criticism of policy; misunderstanding and disagreement require different explanations."
+        }
+      },
+      {
+        "id": "evaluation",
+        "title": "5. Build evidence stages between production and outcomes",
+        "why": "An agency’s effort does not by itself establish the intended change.",
+        "paragraphs": [
+          "Activity includes producing content or organising meetings; an output is a finished film, bulletin or fellowship award. Availability concerns possible access, exposure actual encounters, reception interpretation, and outcomes defined changes in knowledge, relationships or behaviour. These concepts answer different questions. An institutional archive’s strength on production does not justify substituting output totals for unmeasured influence.",
+          "Wartime opinions and government choices could change through military events, economic assistance, security calculations and domestic conflict alongside communication. Change following a campaign does not prove the campaign caused it alone. Chronology, decision-makers’ reasons and comparisons among similar groups with different exposure can strengthen a causal argument. Each method’s limitations must still be stated.",
+          "To compare explanations seriously, write what evidence each predicts. A news mechanism may predict specific information entering debate; an economic explanation may predict decisions tracking material conditions. One event can fit both. A bounded contribution claim is then more defensible than a single-cause verdict. Neither missing evidence nor unresolved alternatives should silently become success or failure."
+        ],
+        "example": {
+          "title": "Hypothetical example: A cooperation decision",
+          "text": "A government signs a trade agreement after favourable film screenings. The sequence starts an inquiry. Records emphasising commercial bargaining weaken a film-only explanation without necessarily eliminating every communicative contribution."
+        },
+        "checkpoint": {
+          "question": "Does strong evidence always identify one exclusive cause?",
+          "answer": "No. Evidence of a limited contribution under specified conditions can support a strong explanation."
+        }
+      },
+      {
+        "id": "legacy",
+        "title": "6. Separate emergency capacity from enduring legitimacy",
+        "why": "An arrangement justified during war needs a fresh argument for peacetime continuation.",
+        "paragraphs": [
+          "Wartime institutions developed specialists, instruments and regional knowledge while generating jurisdictional conflict and accountability problems. Organisational expansion can mean both greater capacity and more complicated control. Evaluate technical skills, professional networks and unresolved governance together. Possessing many instruments does not establish that they formed one coherent strategy or were equally suitable for every purpose.",
+          "Democratic oversight concerns more than appointing a trustworthy person. Authority limits, accessible records, correction and independent examination of complaints matter. Advocates of rapid decisions emphasise urgency; advocates of stronger review emphasise error and expanding power. Compare these positions through a specific decision, timescale and risk rather than treating speed and accountability as abstract, mutually exclusive preferences.",
+          "Transferable lessons do not come from attaching historical agency names to new problems. Ask who produces, distributes, verifies and evaluates local objections. Changes in technology and law may alter the result of an apparently similar arrangement. Historical analogy generates a hypothesis, not proof of present feasibility. Identify the comparable mechanism, changed conditions and observable evidence needed for the transfer."
+        ],
+        "example": {
+          "title": "Hypothetical example: An emergency coordination desk",
+          "text": "A crisis desk accelerates information sharing. Continuing it after the crisis requires renewed justification of purpose, duration and oversight. Emergency usefulness alone does not establish a case for unlimited permanent authority."
+        },
+        "checkpoint": {
+          "question": "Why does retaining capacity differ from retaining identical powers?",
+          "answer": "Skills can transfer, while authority’s purpose, limits and oversight need justification in the new setting."
+        }
+      }
+    ],
+    "visuals": [
+      {
+        "kind": "flow",
+        "title": "The decision pathway of an announcement",
+        "caption": "Each stage supplies information or authority; arrows show decision progression, not assured persuasion.",
+        "nodes": [
+          {
+            "title": "Define the problem",
+            "text": "Specify audience, region and timescale."
+          },
+          {
+            "title": "Match authority",
+            "text": "Separate production, distribution and approval."
+          },
+          {
+            "title": "Combine knowledge",
+            "text": "Record accuracy, local meaning and security concerns."
+          },
+          {
+            "title": "Evaluate the response",
+            "text": "Seek separate evidence of correction, exposure and reception."
+          }
+        ]
+      },
+      {
+        "kind": "comparison",
+        "title": "Different routes towards a broad objective",
+        "caption": "Institutional differences do not mean isolation; connections require evidence.",
+        "columns": [
+          "Institution or problem",
+          "Principal process",
+          "Suitable question"
+        ],
+        "rows": [
+          [
+            "DCR",
+            "Repeated educational and cultural contact",
+            "Did relationships and knowledge use continue?"
+          ],
+          [
+            "CIAA / OCIAA",
+            "Regional partnership and distribution",
+            "How were local access and adaptation achieved?"
+          ],
+          [
+            "OWI",
+            "Timely war information",
+            "Was information encountered and trusted in time?"
+          ],
+          [
+            "Shared coordination",
+            "Connecting tasks and information",
+            "Which record shows an improved decision?"
+          ]
+        ]
+      },
+      {
+        "kind": "matrix",
+        "title": "Limits of institutional evidence",
+        "caption": "Compare official accounts with implementation and audience records.",
+        "columns": [
+          "Source",
+          "Claim it supports",
+          "Outcome it cannot establish"
+        ],
+        "rows": [
+          [
+            "Mandate",
+            "Formal authority and scope",
+            "Complete implementation"
+          ],
+          [
+            "Budget",
+            "Resource allocation",
+            "Audience trust"
+          ],
+          [
+            "Approval log",
+            "Decision sequence and delay",
+            "Diplomatic influence by itself"
+          ],
+          [
+            "Local response record",
+            "A particular group’s interpretation",
+            "An entire country’s opinion"
+          ]
+        ]
+      }
+    ],
+    "cases": [
+      {
+        "title": "Case 1: False news in Latin America",
+        "scenario": "In this hypothetical case, false war news circulates in a Latin American city. One team proposes direct OWI distribution; another leaves the whole problem to fellowships.",
+        "steps": [
+          "Separate prompt verification from regional distribution. Long-term relationships cannot meet the entire urgent requirement.",
+          "Distinguish OWI production capacity from OCIAA’s Latin American distribution responsibility. External information supply is not identical to local authority.",
+          "Record local translation and who encountered the correction. Publication alone does not establish that the false belief disappeared."
+        ],
+        "conclusion": "A defensible design connects necessary information with appropriate regional authority and partners rather than deriving an automatic solution from an agency name."
+      },
+      {
+        "title": "Case 2: Speed or approval?",
+        "scenario": "A hypothetical bulletin is delayed after a regional specialist objects. A manager calls this failure; the specialist identifies a serious error of meaning.",
+        "steps": [
+          "Compare the draft, objection and revision. Turn a personality narrative into an observable difference in content.",
+          "Assess delay costs separately from possible harm caused by publishing the error. Do not automatically defend every delay through safety or quality claims.",
+          "Propose clear deadlines, approval responsibility and correction procedures for similar cases while preserving local knowledge’s influence."
+        ],
+        "conclusion": "Coordination quality depends on a reasoned balance between preventing errors and responding promptly, not on speed alone."
+      }
+    ],
+    "practice": {
+      "title": "Construct an interagency decision file in Excel",
+      "task": "Add a hypothetical decision to the shared Week 10 guide and separate task claims from outcome claims in the evidence matrix.",
+      "steps": [
+        "Specify the target region, audience, problem and expected timescale.",
+        "Explain each institution’s relevant or irrelevant role while preserving jurisdictional limits.",
+        "Identify actors and documents for production, approval, local adaptation and distribution.",
+        "State a success indicator, a strong rival explanation and a condition requiring renewed review."
+      ],
+      "modelAnswer": "Urgent false news requires verified content and regional distribution. OCIAA’s Latin American role remains intact; DCR relationships may facilitate access. Test success through evidence that accurate information reached the audience, not publication totals alone."
+    },
+    "faqs": [
+      {
+        "question": "Are CIAA and OCIAA separate institutions?",
+        "answer": "In this context OCIAA is the formal abbreviation and CIAA common scholarly usage. Nevertheless, dated official arrangements must be checked when discussing changes in names and authority."
+      },
+      {
+        "question": "Is jurisdictional conflict always inefficient?",
+        "answer": "No. Specialist disagreement can prevent mistakes, but can also produce unresolved contradictory orders or duplication. Decision records establish which occurred in a specific case."
+      },
+      {
+        "question": "Why avoid one universal success ranking?",
+        "answer": "The institutions differed in instruments, regions and timescales. Their contributions can be compared, but fellowships, news and regional networks cannot sensibly share one undifferentiated output count."
+      }
+    ],
+    "sourceNote": "This supplement develops the existing Week 10 comparison of DCR, OCIAA/CIAA and OWI and Schindler’s discussion of institutional ambiguity. Dates and jurisdictions follow the supplied materials; decision files are explicitly hypothetical."
+  }
+}

@@ -49,6 +49,7 @@
     return [
       "<section class=\"study-panel lesson-panel\" id=\"week-" + week + "-lesson\" role=\"tabpanel\" aria-labelledby=\"week-" + week + "-lesson-tab\">",
       beginner ? window.CourseLearning.render(beginner, app.state.language, "") : "",
+      window.CourseDepth && window.COURSE_DEPTH ? window.CourseDepth.render(window.COURSE_DEPTH[week], app.state.language) : "",
       beginner ? "<details class=\"lg-deep\"><summary>" + escapeHtml(learningLabels.deeper) + "</summary><p class=\"lg-deep-intro\">" + escapeHtml(learningLabels.deeperHelp) + "</p><div class=\"lg-deep-content\">" : "",
       "<div class=\"lesson-intro\"><div><p class=\"study-kicker\">" + escapeHtml(app.t("week") + " " + week + " · " + app.t("lessonNarrative")) + "</p><h3>" + escapeHtml(study.lead || app.t("detailedTopic")) + "</h3></div><span class=\"study-time\">" + escapeHtml(app.t("readingTime")) + "</span></div>",
       "<div class=\"lesson-sections\">" + sections + "</div>",

@@ -1,0 +1,503 @@
+{
+  "week": 11,
+  "tr": {
+    "orientation": "Bir film kopyasının üretilmesi, bir ülkede gösterilmesi ve izleyicinin fikrini değiştirmesi aynı olay değildir. Bu hafta radyo, film ve basını birer sihirli etki aracı olarak değil, insanlar ve kurumlar tarafından işletilen süreçler olarak inceliyoruz. İyi Komşuluk Politikası bağlamı, dostluk söyleminin geçmiş deneyimle nasıl karşılaştığını gösterir. Amaç, hangi aşamada ne bildiğimizi ve hangi sonucun hâlâ kanıt beklediğini açıkça söyleyebilmektir.",
+    "sections": [
+      {
+        "id": "context",
+        "title": "1. Görünürlük açığı ile güven sorunu farklıdır",
+        "why": "Daha çok mesaj, önceki davranışın yarattığı kuşkuyu kendiliğinden gidermez.",
+        "paragraphs": [
+          "Ders kaynakları, ABD’nin Latin Amerika’daki iletişimini geçmiş müdahaleler, ekonomik ilişkiler ve eşitsizliklerin oluşturduğu bağlamda ele alır. Sorunu yalnız Amerika hakkında az bilgi bulunması şeklinde tanımlamak yanıltıcıdır. İnsanlar göndericiyi tanıyıp ona güvenmeyebilir. Bu durumda gerekli değişim, bilgi miktarının artmasından farklıdır. Önce hangi sorunun bulunduğunu belirtmek, araç seçimini ve başarı değerlendirmesini doğrudan etkiler.",
+          "Franklin D. Roosevelt döneminin İyi Komşuluk Politikası, müdahale etmeme ve karşılıklı saygı söylemiyle ilişkilendirilir. Radyo, film ve basın bu yönelimi görünür kılabilir; fakat söylemle davranışın tutarlılığı ayrıca değerlendirilmelidir. Tek açıklamadan bütün bölgenin deneyimi çıkarılamaz. Ülke, tarih ve toplumsal gruba göre uygulama farklılaşabilir. İletişim, bir politika değişimini anlatabilir; bu değişimi kendisinin yarattığı varsayılmamalıdır.",
+          "İki yorum arasında analitik gerilim vardır. Bir yorum kültürel yakınlaşmanın karşılıklı anlayış fırsatlarına; diğeri güçlü devletin stratejik çıkarlarına dikkat çeker. Aynı program ikisini de içerebilir. Bir filmi yalnız samimi dostluk veya yalnız gizli manipülasyon saymak yerine, içerik, finansman, yerel karar ve izleyici yorumunu karşılaştırın. Amaç, işleyiş ve sonuç birlikte incelendiğinde daha sınırlı fakat savunulabilir açıklama oluşur."
+        ],
+        "example": {
+          "title": "Varsayımsal benzetme: Güvenilmez komşu",
+          "text": "Daha önce verdiği sözü tutmayan bir komşu yeni dostluk mektubu gönderiyor. Mektup bilgi sunabilir; güven için davranışın da değişmesi gerekebilir. Benzetme tutarlılığı açıklar, uluslararası eşitsizliği bireysel ilişkiye indirgememelidir."
+        },
+        "checkpoint": {
+          "question": "Düşük güven her zaman bilgi eksikliği midir?",
+          "answer": "Hayır. İnsanlar politikayı anlayıp geçmiş deneyim veya çıkarları nedeniyle güvenmeyebilir."
+        }
+      },
+      {
+        "id": "media",
+        "title": "2. Teknolojik imkân ile gözlenmiş etkiyi ayırın",
+        "why": "Bir aracın yapabildiği şey, belirli bir ortamda yaptığı şeyle aynı değildir.",
+        "paragraphs": [
+          "Radyo, hızlı ve tekrarlanan sesli iletişime olanak sağlar. Ancak vericinin kapsama alanı, dinleme kanıtı değildir. Alıcı sahipliği, sinyal kalitesi, yayın saati ve dil, potansiyel erişimi gerçek karşılaşmaya dönüştüren koşullardır. Aynı kente sinyal ulaşması, bütün toplumsal grupların eşit erişimi olduğunu göstermez. Yayın kaydıyla dinleyici kaydını ayrı tutmak bu nedenle temel bir yöntem tercihidir.",
+          "Film, anlatıyı görüntü ve sesle birleştirerek yoğun bir ortak deneyim yaratabilir. Bu teknik özellik iknanın kanıtı değildir. Kopyanın hazırlanması, çevrilmesi, sevki, yerel onayı ve salon programına alınması ayrı kararlardır. Sonraki izleyici de anlatıyı farklı okuyabilir. Gösterim kaydı, belirli yerde sergilenmeyi belgeleyebilir; kimin izlediği, ne kadar dikkat ettiği ve ne düşündüğü için başka kaynak gerekir.",
+          "Basılı metin ayrıntılı açıklama sunabilir ve yeniden okunabilir. Ancak okuryazarlık, kâğıt, dağıtım ve editoryal tercih erişimi sınırlar. Gazeteye gönderilen metin hiç basılmayabilir, kısaltılabilir veya eleştirel başlıkla sunulabilir. Bir mecrayı diğerinden mutlak üstün saymak yerine, hedef kitlenin koşullarıyla eşleştirin. Araçların farklı imkânları, test edilecek beklentiler üretir; evrensel etki sıralaması üretmez."
+        ],
+        "example": {
+          "title": "Varsayımsal örnek: Aynı içerik, farklı erişim",
+          "text": "Bir haber radyoda yayımlanıyor ve gazeteye gönderiliyor. Yayın günlüğü ilk faaliyeti doğrular; gazetenin teslim alması ise basıldığını göstermez. İki kanal için aynı erişim göstergesini kullanmak farklı süreçleri karıştırır."
+        },
+        "checkpoint": {
+          "question": "Sinyalin ulaşması neyi kanıtlar?",
+          "answer": "Teknik erişilebilirliği destekler; dinlenme, güven veya ikna için ayrı kanıt gerekir."
+        }
+      },
+      {
+        "id": "intermediaries",
+        "title": "3. Aracılar mesajı yalnız taşımaz, dönüştürür",
+        "why": "Üretici ile hedef kitle arasındaki karar sahipleri açıklamanın merkezinde olmalıdır.",
+        "paragraphs": [
+          "Çevirmen, editör, dağıtıcı, sinema işletmecisi ve yerel ortak, mesajın geçeceği yolu etkileyebilir. Bu kişileri yalnız boru gibi düşünmek, seçim güçlerini siler. Metni kısaltabilir, bazı görüntüleri çıkarabilir, başlığı değiştirebilir veya yayını reddedebilirler. Merkez metniyle yerel sürümü karşılaştırmak, aracılığın gözlenebilir izini sağlar. Aynı kampanya adı altında farklı yerlerde farklı içeriklerle karşılaşılması mümkündür.",
+          "Özel ağlarla işbirliği, hazır dağıtım ve uzmanlık sağlayabilir; fakat kamu amacıyla ticari amaç aynı değildir. Şirket izleyici ilgisini, editör yayın çizgisini, yerel ortak siyasi konumunu korumaya çalışabilir. Bu farkları otomatik sabotaj saymayın; ortaklığın çalışma koşulları olarak inceleyin. Sözleşmeler resmi sorumluluğu, pazarlık yazışmaları fiili değişiklikleri, yayımlanan sürüm ise son içeriği farklı açılardan gösterir.",
+          "Yerel uyarlama bazen mesajı daha anlaşılır yapar, bazen yeni bir kalıp yargı yaratır. Özgün ifadeye sadakatle yerel uygunluk arasında tek doğru denge bulunmayabilir. Araştırmacı hangi değişikliğin neden yapıldığını ve nasıl karşılandığını sorar. Yerel aracının görüşünü bütün toplumun sesi saymamak da gerekir. Hangi kesime eriştiği, hangi ekonomik veya siyasi bağlara sahip olduğu, temsil iddiasının sınırını belirler."
+        ],
+        "example": {
+          "title": "Varsayımsal örnek: Değişen başlık",
+          "text": "Gönderilen dostluk yazısı yerel gazetede kuşku bildiren başlıkla yayımlanıyor. Yazının dolaşımı gerçekleşmiştir; ancak çerçevesi değişmiştir. Bu belge aracının kararını gösterir, bütün okurların kuşku duyduğunu değil."
+        },
+        "checkpoint": {
+          "question": "Yerel başlık değişikliği doğrudan kamuoyu tepkisi midir?",
+          "answer": "Önce editoryal bir karardır. Okuyucu tepkisini temsil edip etmediği ayrıca araştırılmalıdır."
+        }
+      },
+      {
+        "id": "evidence",
+        "title": "4. Her kaynak, kanıt zincirinin başka halkasını aydınlatır",
+        "why": "En çok belgenin bulunduğu aşama, en güçlü etkinin bulunduğu aşama olmayabilir.",
+        "paragraphs": [
+          "Üretim emri niyet ve faaliyeti, tamamlanmış kopya çıktıyı, sevk listesi dağıtımı, teknik kayıt erişilebilirliği gösterir. İzleyici veya dinleyici kaydı gerçek karşılaşmaya; mektup ve eleştiri belirli yoruma yaklaşır. Karar tutanağı ise davranışsal veya siyasi bağlantı için ipucu sağlayabilir. Bu kaynaklar birbirinin yerine geçmez. Bir aşamadan sonrakine geçerken destekleyen belgeyi ve boş kalan bağlantıyı belirtin.",
+          "Kaynakların taraflı veya sınırlı olması, değersiz oldukları anlamına gelmez. Kurum raporu kendi başarısını seçebilir; mektup yazanlar kendilerini seçer; diplomat erişebildiği çevreyi gözler. Bu nedenle soruyu daraltın. Bir mektup belirli yorumun varlığını gösterir, yaygınlığını değil. Olumlu mektupların sayısı, bütün dinleyiciler bilinmeden kamuoyu oranına çevrilemez. Verinin hangi topluluğu kapsadığı, sonuç cümlesinin kapsamını belirlemelidir.",
+          "Kaynak yokluğunu da dikkatle yorumlayın. Bir olay hiç gerçekleşmemiş, kaydedilmemiş veya kaydı korunmamış olabilir. Eksiksiz tutulması beklenen bir gösterim listesinde yokluk anlamlı ipucu verebilir; rastgele korunmuş dosyada aynı yokluk çok az şey söyler. Önce arşivin kayıt üretme ve saklama koşullarını araştırın. Bilinmiyor ifadesi, sıfır etki veya kesin başarısızlık gibi sayısal bir sonuç değildir."
+        ],
+        "example": {
+          "title": "Varsayımsal örnek: Sessiz arşiv",
+          "text": "Dağınık korunmuş bir dosyada dinleyici mektubu bulunmuyor. Bu, kimsenin dinlemediğini göstermez. Mektupların hangi birimde toplandığı ve saklanıp saklanmadığı araştırılmadan alımlama hakkında olumsuz sonuç kurulamaz."
+        },
+        "checkpoint": {
+          "question": "Çok sayıda dağıtım belgesi neyi güçlü biçimde gösterebilir?",
+          "answer": "Dağıtımın örgütlenmesini; aynı güçte ikna veya politika etkisini değil."
+        }
+      },
+      {
+        "id": "causality",
+        "title": "5. Beğenme, inanma ve davranmayı tek sonuç yapmayın",
+        "why": "Olumlu yorumla siyasi tercih arasındaki bağlantı koşulludur.",
+        "paragraphs": [
+          "Bir kişi filmi beğenip gönderici devletin politikasına karşı çıkabilir. Bir habere inanıp önerilen işbirliğini kendi çıkarına uygun bulmayabilir. Kültürel beğeni, kaynak güveni ve politika tercihi ayrı değerlendirmelerdir. Bu ayrımları kaynaklarda kullanılan fiillerle ve sorularla izleyin. Eğlenceli buldu ifadesini destekledi biçiminde yeniden yazmak, araştırmacının kanıtı büyütmesidir; metnin göstermediği bir geçiş ekler.",
+          "Savaş koşullarında askeri gelişmeler, ticaret, deniz güvenliği, iç siyasi koalisyonlar ve diplomatik baskı davranışı etkileyebilir. Medya kampanyasından sonra işbirliği görülmesi, kampanyanın tek neden olduğu anlamına gelmez. Karar vericilerin gerekçelerini, mesajla karşılaşma zamanını ve başka değişimleri karşılaştırın. Kampanyaya erişmeyen benzer aktörlerin davranışı yararlı olabilir; fakat bağlamları gerçekten karşılaştırılabilir değilse basit karşılaştırma yanıltıcı olabilir.",
+          "Olumsuz ve ayrışan örnekleri incelemeye katın. Yoğun yayın olup beklenen tutum değişmemişse, hangi bağlantının çalışmadığı araştırılabilir. Olumlu film yorumu ile olumsuz politika tercihi birlikte bulunduğunda bu çelişkiyi hata diye atmayın; farklı mekanizmaları gösteriyor olabilir. Sonuç bazen yalnız bilgi sağladı veya mevcut işbirliğini kolaylaştırdı biçiminde kurulabilir. Sınırlı katkı, dikkatle desteklendiğinde büyük fakat kanıtsız iddiadan daha güçlüdür."
+        ],
+        "example": {
+          "title": "Varsayımsal örnek: İki farklı cevap",
+          "text": "Bir seyirci filmi etkileyici bulduğunu, fakat hükümetinin anlaşmaya katılmaması gerektiğini yazıyor. İki ifade tutarsız olmak zorunda değildir; estetik değerlendirme ile siyasi karar farklı nesnelere yönelir."
+        },
+        "checkpoint": {
+          "question": "Olumlu film eleştirisi politika desteği için yeterli mi?",
+          "answer": "Hayır. Politika tercihine ilişkin ayrı ifade veya davranış kanıtı gerekir."
+        }
+      },
+      {
+        "id": "comparison",
+        "title": "6. Çok kanallı dolaşım ile bağımsız doğrulamayı ayırın",
+        "why": "Aynı hikâyenin çoğalması, bağımsız gözlem sayısının arttığı anlamına gelmeyebilir.",
+        "paragraphs": [
+          "Bir haber önce radyoda duyulup sonra gazetede özetlenebilir, ardından film haberine girebilir. Bu dolaşım görünürlüğü artırabilir; ancak üç mecrada aynı iddianın bulunması üç bağımsız kaynağın doğrulaması değildir. Kaynağın kökenini, alıntı zincirini ve tarih sırasını izleyin. Farklı arşiv kutularında bulunan belgeler de aynı ilk metnin kopyaları olabilir. Kaynak sayısı ile bağımsız gözlem sayısını ayrı düşünün.",
+          "Karşılaştırmalı araştırmada ülke, dönem ve toplumsal grup seçimi önemlidir. Kentli gazete okuru ile kırsal radyo dinleyicisi farklı erişim ve yorum koşullarına sahiptir. İki ülkede benzer sonucun görülmesi, aynı iletişim mekanizmasının işlediğini göstermez. Program yoğunluğu, önceki ilişkiler, yerel denetim ve alternatif nedenleri birlikte kaydedin. Arşivlerin eşit korunmadığı yerde kanıt güveni de eşit olmayabilir; belge bolluğu etki büyüklüğü değildir.",
+          "Günümüzde platformlar ve içerik üreticileri, geçmiş editörler gibi erişimi seçip anlamı değiştirebilir. Ancak veri toplama, hız ve kişiye göre hedefleme farklıdır. Tarihsel benzetme, görünmez aracıyı bulmaya yardım eder; aynı etkiyi varsaymayı haklı kılmaz. Aktarım için üç cümle yazın: Benzer karar noktası nedir, değişen koşul nedir, beklenen sonuç hangi veriyle sınanır? Böylece tarih hazır reçete yerine araştırma aracı olur."
+        ],
+        "example": {
+          "title": "Varsayımsal örnek: Üç gazete, tek kaynak",
+          "text": "Üç gazetede aynı olumlu haber bulunuyor; metinler tek ajans bülteninden alınmış. Bu durum yayılımı gösterir, üç bağımsız gözlemi değil. Yerel başlık farkları yine aracılık açısından ayrıca değerli olabilir."
+        },
+        "checkpoint": {
+          "question": "Farklı gazeteler mutlaka bağımsız kanıt sağlar mı?",
+          "answer": "Hayır. Ortak kaynak ve kopyalama zinciri kontrol edilmeden bağımsızlık varsayılmaz."
+        }
+      }
+    ],
+    "visuals": [
+      {
+        "kind": "flow",
+        "title": "Medya mesajının kanıt yolu",
+        "caption": "Her geçiş ayrı koşul ve kaynak ister. Son düğüm bile politika etkisini kendiliğinden kanıtlamaz.",
+        "nodes": [
+          {
+            "title": "Üretim",
+            "text": "Ne hazırlandı; kimin amacıyla?"
+          },
+          {
+            "title": "Erişim",
+            "text": "Hangi araç ve aracıyla ulaşabilir hâle geldi?"
+          },
+          {
+            "title": "Karşılaşma",
+            "text": "Kim gerçekten izledi, dinledi veya okudu?"
+          },
+          {
+            "title": "Yorum",
+            "text": "Kim ne anladı, beğendi veya reddetti?"
+          }
+        ]
+      },
+      {
+        "kind": "comparison",
+        "title": "Mecra, imkân ve engel",
+        "caption": "Teknik imkânlar gözlenmiş etki değildir; koşullara bağlı beklentilerdir.",
+        "columns": [
+          "Mecra",
+          "Sağlayabileceği imkân",
+          "İncelenecek engel"
+        ],
+        "rows": [
+          [
+            "Radyo",
+            "Hızlı, tekrarlanan ses",
+            "Alıcı, dil, saat ve sinyal"
+          ],
+          [
+            "Film",
+            "Görüntülü ortak deneyim",
+            "Kopya, çeviri ve salon"
+          ],
+          [
+            "Basın",
+            "Ayrıntı ve yeniden okuma",
+            "Okuryazarlık, dağıtım ve editör"
+          ],
+          [
+            "Çoklu dolaşım",
+            "Tekrar ve görünürlük",
+            "Ortak kaynak ve farklı kitleler"
+          ]
+        ]
+      },
+      {
+        "kind": "matrix",
+        "title": "Kaynağın gösterdiği ve göstermediği",
+        "caption": "Bir kayıt değerli olabilir; fakat yanlış soruya cevap vermez.",
+        "columns": [
+          "Kaynak",
+          "Desteklediği bilgi",
+          "Sınır"
+        ],
+        "rows": [
+          [
+            "Sevk listesi",
+            "Kopyanın gönderildiği yer",
+            "Gösterildiğini kanıtlamaz"
+          ],
+          [
+            "Salon kaydı",
+            "Belirli gösterim veya katılım",
+            "Yorumu tek başına göstermez"
+          ],
+          [
+            "Seyirci mektubu",
+            "Belirli kişinin değerlendirmesi",
+            "Kitle oranını temsil etmez"
+          ],
+          [
+            "Karar tutanağı",
+            "Belirli kararın gerekçesi",
+            "Bütün kamuoyunun görüşü değildir"
+          ]
+        ]
+      }
+    ],
+    "cases": [
+      {
+        "title": "Vaka 1: Başarı raporunun büyük sıçraması",
+        "scenario": "Varsayımsal bir rapor, birçok gösterim ve olumlu mektup bulunduğu için bütün hedef kitlenin ikna olduğunu ileri sürüyor.",
+        "steps": [
+          "Gösterim belgelerini mektuplardan ayırın. İlki sergilemeyi, ikincisi belirli yorumları aydınlatır.",
+          "Katılım tekrarlarını, mektup yazarlarının seçilimini ve sessiz kalanları araştırın. Bilinmeyen toplamla tutum oranı hesaplamayın.",
+          "Politika desteği iddiası için ayrı kaynak arayın; olumlu kültürel yorumu siyasal tercihe dönüştürmeyin."
+        ],
+        "conclusion": "Dosya dağıtımı ve bazı olumlu tepkileri destekleyebilir. Bütün kitleyi kapsayan ikna iddiası bu kanıtı aşar."
+      },
+      {
+        "title": "Vaka 2: Kampanya mı, ticaret mi?",
+        "scenario": "Varsayımsal bir hükümet, medya kampanyasıyla aynı dönemde işbirliği anlaşması imzalıyor. Aynı zamanda önemli ticari görüşmeler yürütülüyor.",
+        "steps": [
+          "İletişim ve ticaret süreçlerini tarihlendirin. Kararın kampanyadan önce şekillenip şekillenmediğini araştırın.",
+          "Karar tutanaklarında hangi bilgi ve çıkarların anıldığını karşılaştırın. Tek olumlu alıntıyı bütün nedenlerin özeti saymayın.",
+          "Benzer fakat farklı medya erişimi olan bir bağlam düşünün; güvenlik ve ekonomik koşulların karşılaştırmayı sınırladığını belirtin."
+        ],
+        "conclusion": "Her iki süreç katkı sağlamış olabilir. Kaynaklar yalnız ticari gerekçeyi gösteriyorsa kampanyanın bağımsız etkisi kanıtlanmış sayılmaz."
+      }
+    ],
+    "practice": {
+      "title": "Excel ile medya kanıt zinciri",
+      "task": "Ortak çalışma kitabındaki varsayımsal ölçüm laboratuvarını, öğrenci kanıt matrisiyle birlikte kullanın; sayıları önce doğru aşamaya yerleştirin.",
+      "steps": [
+        "Bir radyo, film veya basın örneğini açıkça varsayımsal olarak tanımlayın; hedef grubu sınırlandırın.",
+        "Üretim, erişilebilirlik, karşılaşma ve yorum göstergelerini ayrı kaydedin.",
+        "Her göstergeye hangi sonucu kanıtlamadığı notunu ve veri kapsamını ekleyin.",
+        "En güçlü alternatif açıklamayı yazın; bilinmeyen değeri sıfırla doldurmadan sınırlı sonuç oluşturun."
+      ],
+      "modelAnswer": "Dağıtım kaydı potansiyel erişimi, salon belgesi belirli gösterimi, mektup belirli yorumu destekler. Katılımcıların tamamının tutumu ve siyasi davranışı bilinmediğinden kamuoyu desteği oranı veya politika etkisi çıkarılamaz."
+    },
+    "faqs": [
+      {
+        "question": "Olumlu mektuplar hiç kullanışlı değil mi?",
+        "answer": "Kullanışlıdır: Yorum biçimini, gerekçeyi ve belirli deneyimi gösterir. Sorun onları bütün dinleyicilerin temsili örneklemi gibi kullanmaktır; soruyu kaynağın kapasitesine göre daraltın."
+      },
+      {
+        "question": "Film gösterimi maruz kalmayı kanıtlar mı?",
+        "answer": "Gösterim kaydı sergilemeyi gösterir. İnsanların gerçekten bulunduğuna ilişkin kayıt maruz kalma iddiasını güçlendirir; dikkat, yorum ve ikna yine ayrı kanıt ister."
+      },
+      {
+        "question": "Teknoloji hiç önemli değil mi?",
+        "answer": "Önemlidir; hız, maliyet, kalıcılık ve erişim yollarını değiştirir. Ancak bu imkânların insanlar ve kurumlar tarafından hangi koşullarda kullanıldığını göstermeden diplomatik etki sonucuna geçilmez."
+      }
+    ],
+    "sourceNote": "Bu bölüm mevcut 11. hafta içeriğindeki İyi Komşuluk Politikası, medya aracılığı ve alımlama tartışmasını geliştirir. Schindler ve Cull üzerine verilen açıklamalar temel alınmıştır. Varsayımsal vakalar tarihsel istatistik veya arşiv bulgusu değildir."
+  },
+  "en": {
+    "orientation": "Producing a film, screening it abroad and changing viewers’ minds are different events. This week examines radio, film and press as processes operated by people and institutions, rather than magical instruments of influence. The Good Neighbor Policy provides a setting in which friendship messages encountered earlier experience. Our objective is to identify what each stage establishes and which conclusions still require evidence.",
+    "sections": [
+      {
+        "id": "context",
+        "title": "1. A visibility gap differs from a trust problem",
+        "why": "More messages do not automatically overcome doubts arising from earlier conduct.",
+        "paragraphs": [
+          "The supplied materials place American communication in Latin America within histories of intervention, economic relationships and inequality. Defining the problem simply as insufficient knowledge about America is misleading. People can know the sender and distrust it. The required change then differs from increasing information volume. Diagnosing the problem shapes both the instrument selected and the criteria used to assess success.",
+          "Franklin D. Roosevelt’s Good Neighbor Policy is associated with non-intervention and mutual-respect language. Radio, film and press could make this approach visible, but consistency between statements and conduct requires separate assessment. One announcement cannot establish an entire region’s experience. Country, date and social group matter. Communication may describe a policy change without having caused the change itself.",
+          "Two interpretations create useful tension. One highlights opportunities for cultural understanding; another stresses a powerful state’s strategic interests. A programme can contain both. Rather than reducing a film to sincere friendship or concealed manipulation, compare content, funding, local decisions and audience interpretation. Examining purpose, process and outcome supports a bounded explanation instead of an assumed moral or causal verdict."
+        ],
+        "example": {
+          "title": "Hypothetical analogy: An unreliable neighbour",
+          "text": "A neighbour who previously broke promises sends a friendship letter. The letter supplies information, but trust may also require changed behaviour. The analogy explains consistency without reducing international inequality to a personal relationship."
+        },
+        "checkpoint": {
+          "question": "Does low trust always indicate missing information?",
+          "answer": "No. People may understand policy and distrust it because of experience or interests."
+        }
+      },
+      {
+        "id": "media",
+        "title": "2. Separate technical possibility from observed effect",
+        "why": "What a medium makes possible differs from what it accomplishes in a particular setting.",
+        "paragraphs": [
+          "Radio enables rapid, repeated audio communication. Transmitter coverage is not evidence of listening. Receiver ownership, signal quality, scheduling and language condition the passage from potential access to actual encounter. A signal reaching a city does not establish equal access across its social groups. Keeping broadcast logs separate from audience evidence is therefore a basic methodological decision.",
+          "Film combines narrative, image and sound in a potentially intense shared experience. That possibility is not proof of persuasion. Preparing, translating, shipping, approving and scheduling a print involve separate decisions. Viewers may then interpret it differently. Screening records document exhibition in a place; who attended, paid attention and formed which judgement require additional sources.",
+          "Print can provide detailed explanation and permit rereading. Literacy, paper, distribution and editorial choices nevertheless constrain access. Supplied material may never appear, or appear shortened beneath a critical headline. Match each medium to audience conditions instead of ranking them universally. Different affordances generate expectations to test, not an automatic hierarchy of diplomatic effectiveness."
+        ],
+        "example": {
+          "title": "Hypothetical example: One story, different access routes",
+          "text": "A story is broadcast and sent to a newspaper. A broadcast log confirms the first activity; newspaper receipt does not establish publication. Using one access indicator for both confuses different processes."
+        },
+        "checkpoint": {
+          "question": "What does a signal reaching an area establish?",
+          "answer": "It supports technical availability; listening, trust and persuasion require separate evidence."
+        }
+      },
+      {
+        "id": "intermediaries",
+        "title": "3. Intermediaries transform messages as well as carry them",
+        "why": "Decision makers between producers and audiences belong at the centre of the explanation.",
+        "paragraphs": [
+          "Translators, editors, distributors, cinema operators and local partners influence a message’s route. Treating them as pipes erases their selection powers. They can shorten text, remove images, change headlines or refuse publication. Comparing central and local versions makes mediation observable. Audiences in different places may encounter different content under the same campaign name.",
+          "Private partnerships can supply established distribution and expertise, but public and commercial purposes are not identical. Firms may protect audience appeal, editors their publication’s position, and local partners their political standing. Do not automatically label these differences sabotage; examine them as operating conditions. Contracts show formal obligations, correspondence practical negotiations, and published versions final content.",
+          "Local adaptation can improve comprehension or introduce new stereotypes. There may be no universally correct balance between fidelity and local relevance. Investigate what changed, why and how audiences responded. Do not equate an intermediary’s view with the whole society’s voice. Its social reach, economic relationships and political connections define the limits of its representative claim."
+        ],
+        "example": {
+          "title": "Hypothetical example: A changed headline",
+          "text": "A supplied friendship article appears under a sceptical local headline. Circulation occurred, but framing changed. The document shows editorial intervention, not that every reader shared the editor’s doubts."
+        },
+        "checkpoint": {
+          "question": "Is a local headline change direct evidence of public opinion?",
+          "answer": "It is first an editorial decision. Whether it represents readers’ responses requires investigation."
+        }
+      },
+      {
+        "id": "evidence",
+        "title": "4. Each source illuminates a different link",
+        "why": "The best-documented stage is not necessarily the stage with the strongest effects.",
+        "paragraphs": [
+          "A production order concerns intention and activity; a completed copy establishes output; shipment lists concern distribution; technical logs address availability. Attendance records approach actual exposure, while letters and reviews reveal particular interpretations. Decision minutes may illuminate behavioural or political connections. These sources are not interchangeable. Identify the supporting record and the missing link whenever moving between stages.",
+          "Limited or interested sources are not worthless. Agencies may select successes, letter writers select themselves, and diplomats observe accessible circles. Narrow the question accordingly. A letter demonstrates an interpretation’s existence rather than prevalence. Favourable correspondence cannot become an opinion percentage without a defensible population and sample. The source’s social coverage must bound the conclusion’s scope.",
+          "Interpret absence cautiously. An event might not have occurred, might not have been recorded, or might have lost its records. Absence from an otherwise comprehensive screening register can be informative; absence from randomly surviving files may say little. Investigate record creation and preservation first. Unknown is not a numerical finding of zero influence or definite failure."
+        ],
+        "example": {
+          "title": "Hypothetical example: A silent archive",
+          "text": "A fragmentary file contains no listener letters. This does not establish that nobody listened. Investigate where letters were collected and whether they survived before drawing a negative reception conclusion."
+        },
+        "checkpoint": {
+          "question": "What can numerous shipping records demonstrate strongly?",
+          "answer": "They may document distribution organisation very well, without demonstrating persuasion or policy influence equally well."
+        }
+      },
+      {
+        "id": "causality",
+        "title": "5. Do not combine enjoyment, belief and action",
+        "why": "The link between favourable interpretation and political preference is conditional.",
+        "paragraphs": [
+          "Someone can enjoy a film while opposing the sender’s policy, or believe a report while rejecting the proposed cooperation. Cultural appreciation, source trust and policy preference are distinct judgements. Track the verbs and questions used in your sources. Rewriting “found entertaining” as “supported” enlarges the evidence by inserting a transition the original document does not establish.",
+          "Military events, trade, maritime security, domestic coalitions and diplomatic pressure can influence wartime behaviour. Cooperation following a campaign does not identify the campaign as the sole cause. Compare decision-makers’ reasons, exposure timing and other changes. Similar actors without exposure may provide a useful comparison, but substantially different contexts can make a simple comparison misleading.",
+          "Include negative and divergent cases. Intensive broadcasting without expected attitude change helps investigate a failed connection. Favourable film interpretation alongside policy opposition may reveal distinct mechanisms rather than bad data. A conclusion that communication supplied information or facilitated existing cooperation can be appropriate. Carefully supported contribution is analytically stronger than an expansive claim with no demonstrated pathway."
+        ],
+        "example": {
+          "title": "Hypothetical example: Two different responses",
+          "text": "A viewer writes that a film was impressive but the government should not join the proposed agreement. The statements need not conflict: aesthetic evaluation and political choice concern different objects."
+        },
+        "checkpoint": {
+          "question": "Does a favourable review establish policy support?",
+          "answer": "No. A separate statement or behavioural record must address the policy preference."
+        }
+      },
+      {
+        "id": "comparison",
+        "title": "6. Separate repeated circulation from independent confirmation",
+        "why": "A story multiplying across channels may not add independent observations.",
+        "paragraphs": [
+          "A radio report may be summarised in a newspaper and then enter a newsreel. Circulation can increase visibility, but three appearances do not establish three independent confirmations. Trace provenance, quotations and publication dates. Documents preserved in different archival boxes may copy the same original. Count sources separately from independent observations rather than treating file quantity as evidential strength.",
+          "Comparative research must specify country, period and social group. Urban newspaper readers and rural radio listeners encounter different access and interpretive conditions. Similar outcomes across countries do not establish identical mechanisms. Record programme intensity, earlier relationships, local controls and alternative causes. Unequal archival preservation also means unequal confidence; abundant documents are not a measure of greater influence.",
+          "Contemporary platforms and creators can select access and transform meaning, partly resembling earlier editors. Data collection, speed and individualised targeting nevertheless differ. Historical analogy helps identify an overlooked intermediary but cannot establish the same effect. State the comparable decision point, changed condition and evidence needed to test the proposed outcome. History then becomes a research instrument rather than a ready-made recipe."
+        ],
+        "example": {
+          "title": "Hypothetical example: Three papers, one source",
+          "text": "Three newspapers publish one favourable story copied from an agency bulletin. This demonstrates circulation rather than three independent observations. Different local headlines may still be valuable evidence of mediation."
+        },
+        "checkpoint": {
+          "question": "Do different newspapers necessarily provide independent evidence?",
+          "answer": "No. Investigate common sources and copying before assuming independence."
+        }
+      }
+    ],
+    "visuals": [
+      {
+        "kind": "flow",
+        "title": "An evidence pathway for media messages",
+        "caption": "Each transition needs conditions and evidence. The final node still does not automatically establish policy influence.",
+        "nodes": [
+          {
+            "title": "Production",
+            "text": "What was prepared, for whose purpose?"
+          },
+          {
+            "title": "Access",
+            "text": "Which medium and intermediary made it available?"
+          },
+          {
+            "title": "Encounter",
+            "text": "Who actually watched, listened or read?"
+          },
+          {
+            "title": "Interpretation",
+            "text": "Who understood, enjoyed or rejected what?"
+          }
+        ]
+      },
+      {
+        "kind": "comparison",
+        "title": "Medium, opportunity and obstacle",
+        "caption": "Technical possibilities are conditional expectations, not observed effects.",
+        "columns": [
+          "Medium",
+          "Possible opportunity",
+          "Obstacle to investigate"
+        ],
+        "rows": [
+          [
+            "Radio",
+            "Rapid, repeated audio",
+            "Receivers, language, schedule and signal"
+          ],
+          [
+            "Film",
+            "Shared visual experience",
+            "Prints, translation and cinemas"
+          ],
+          [
+            "Press",
+            "Detail and rereading",
+            "Literacy, distribution and editorial choice"
+          ],
+          [
+            "Cross-media circulation",
+            "Repetition and visibility",
+            "Common origins and different audiences"
+          ]
+        ]
+      },
+      {
+        "kind": "matrix",
+        "title": "What records show and leave unresolved",
+        "caption": "A record can be valuable without answering the wrong question.",
+        "columns": [
+          "Source",
+          "Information supported",
+          "Limit"
+        ],
+        "rows": [
+          [
+            "Shipping list",
+            "Destination of a copy",
+            "Does not establish screening"
+          ],
+          [
+            "Cinema record",
+            "A particular exhibition or attendance",
+            "Does not alone establish interpretation"
+          ],
+          [
+            "Viewer letter",
+            "A particular person’s evaluation",
+            "Does not represent an audience percentage"
+          ],
+          [
+            "Decision minutes",
+            "Reasons for a particular decision",
+            "Not the opinion of the whole public"
+          ]
+        ]
+      }
+    ],
+    "cases": [
+      {
+        "title": "Case 1: A success report’s inferential leap",
+        "scenario": "A hypothetical report cites many screenings and favourable letters, then claims the entire target audience was persuaded.",
+        "steps": [
+          "Separate screening records from letters. The former concern exhibition, the latter particular interpretations.",
+          "Investigate repeat attendance, self-selection among writers and silent viewers. Do not calculate attitude percentages with an unknown denominator.",
+          "Seek separate evidence for policy support rather than converting favourable cultural interpretation into political preference."
+        ],
+        "conclusion": "The file may support distribution and some favourable responses. Universal persuasion exceeds what this evidence can establish."
+      },
+      {
+        "title": "Case 2: Campaign or commerce?",
+        "scenario": "A hypothetical government signs a cooperation agreement during a media campaign. Significant commercial negotiations occur simultaneously.",
+        "steps": [
+          "Date the communication and trade processes. Investigate whether the decision was already forming before the campaign.",
+          "Compare information and interests mentioned in decision records. One favourable quotation cannot summarise every cause.",
+          "Consider a comparable setting with different media exposure, while identifying security and economic differences limiting comparison."
+        ],
+        "conclusion": "Both processes might contribute. If sources establish only commercial reasons, the campaign’s independent effect remains unproven."
+      }
+    ],
+    "practice": {
+      "title": "Build a media evidence chain in Excel",
+      "task": "Use the shared workbook’s hypothetical measurement lab alongside the student evidence matrix. Assign numbers to the correct stage before interpreting them.",
+      "steps": [
+        "Define a radio, film or press example explicitly as hypothetical and specify the target group.",
+        "Record production, availability, actual encounter and interpretation as separate indicators.",
+        "Add each indicator’s coverage and what it cannot establish.",
+        "Write the strongest rival explanation and a bounded conclusion without replacing unknown values with zero."
+      ],
+      "modelAnswer": "Distribution records support potential access, cinema records a particular screening, and letters particular interpretations. The full audience’s attitudes and political behaviour remain unknown, so neither a public-support rate nor policy influence follows."
+    },
+    "faqs": [
+      {
+        "question": "Are favourable letters useful at all?",
+        "answer": "Yes. They reveal interpretations, reasons and particular experiences. The mistake is treating them as a representative listener sample. Match your question to what the source can establish."
+      },
+      {
+        "question": "Does a screening prove exposure?",
+        "answer": "A screening record establishes exhibition. Evidence that people were present strengthens an exposure claim; attention, interpretation and persuasion still require separate support."
+      },
+      {
+        "question": "Does technology matter, then?",
+        "answer": "Certainly: it changes speed, cost, durability and access routes. But diplomatic effects require evidence of how people and institutions used these possibilities under particular conditions."
+      }
+    ],
+    "sourceNote": "This supplement develops the existing Week 11 material on the Good Neighbor Policy, mediation and reception, drawing on the supplied discussion of Schindler and Cull. Hypothetical cases are neither historical statistics nor archival findings."
+  }
+}

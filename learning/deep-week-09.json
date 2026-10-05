@@ -1,20 +1,20 @@
 {
   "week": 9,
   "tr": {
-    "orientation": "Devlet dışındaki kurumlar uluslararası ilişkileri nasıl sürdürür? Savaşlar arası dönemi yalnız merkezi bir Amerikan iletişim kurumunun yokluğu üzerinden anlatmak, üniversiteleri, vakıfları ve meslek ağlarını görünmez bırakır. Bu hafta tek bir projeyi izleyerek para, bilgi, erişim ve karar yetkisini ayırıyoruz. Amaç, özel faaliyeti peşinen bağımsız ya da devletin uzantısı saymak yerine, ilişki türünü belgelerle belirlemektir.",
+    "orientation": "Bu bölüm, devlet dışı kurumların uluslararası ilişkileri sürdürme biçimlerini inceler. Savaşlar arası dönemin yalnız merkezi bir Amerikan iletişim kurumunun yokluğu üzerinden açıklanması, üniversitelerin, vakıfların ve meslek ağlarının faaliyetlerini gözden kaçırır. Proje düzeyindeki inceleme, finansman, bilgi, erişim ve karar yetkisini ayrıştırır. Amaç, özel faaliyeti peşinen bağımsız veya devletin uzantısı saymadan ilişki türünü belgelerle belirlemektir.",
     "sections": [
       {
         "id": "decentralisation",
-        "title": "1. Merkez yokluğu ile faaliyet yokluğu farklıdır",
+        "title": "1. Merkezi kurumun yokluğu ve faaliyetlerin sürekliliği",
         "why": "Dağınık ilişkiler hem esneklik yaratabilir hem de hesap vermeyi zorlaştırabilir.",
         "paragraphs": [
-          "Birinci Dünya Savaşı sonrasında Kamuoyu Bilgilendirme Komitesinin kapanması, yabancı toplumlarla bütün ilişkilerin sona erdiği anlamına gelmedi. Diplomatik temsilcilikler, üniversiteler, vakıflar ve meslek kuruluşları sınır ötesi çalışmalarını sürdürdü. Resmi ofis, program yürüten kuruluş ve kişiler arasındaki bağlantı farklı düzeylerdir. Bir düzeydeki kopuşu diğerlerine otomatik yaymak, görünür örgüt şemasını bütün toplumsal alan sanma hatasıdır.",
+          "Birinci Dünya Savaşı sonrasında Kamuoyu Bilgilendirme Komitesinin kapanması, yabancı toplumlarla bütün ilişkilerin sona ermesi anlamına gelmedi. Diplomatik temsilcilikler, üniversiteler, vakıflar ve meslek kuruluşları sınır ötesi çalışmalarını sürdürdü. Resmî ofis, program yürüten kuruluş ve kişiler arasındaki bağlantılar farklı analiz düzeyleridir. Bir düzeydeki kopuşun diğerlerine kendiliğinden yansıdığını varsaymak, örgütsel yapıyla daha geniş toplumsal ilişkiler alanını birbirine indirger.",
           "Merkezsiz yapının maliyetleri açıktır: Hedefler farklılaşabilir, benzer işler tekrarlanabilir ve denetim dağılabilir. Buna karşılık farklı kuruluşların uzmanlığı ve yerel bağlantıları, tek merkezden kurulamayacak temaslar sağlayabilir. Esneklik ile koordinasyon arasında tek ve değişmez bir denge yoktur. Acil duyuru için tutarlılık önemliyken araştırma işbirliğinde yerel ihtiyaçlara uyum daha belirleyici olabilir. Başarı ölçütü amaçla birlikte tanımlanmalıdır.",
-          "İki yorumu karşılaştırın. Birincisi, dağınıklığı güçlü devlet kapasitesinin eksikliği olarak okur. İkincisi, çok sayıda bağımsız ilişkinin kırılganlığı azaltabileceğini vurgular. Bunlar her durumda birbirini dışlamaz. Aynı ağ bir projede dayanıklı, başka projede yavaş olabilir. Analiz, belirli ülke, dönem ve iş için hangi özelliğin nasıl sonuç ürettiğini göstermelidir; merkezi olmayı kendiliğinden başarı saymamalıdır."
+          "İki yorum karşılaştırılabilir: İlki örgütsel dağınıklığı devlet kapasitesinin sınırlılığıyla açıklar; ikincisi çok sayıda bağımsız ilişkinin kırılganlığı azaltabileceğini vurgular. Bu açıklamalar her durumda birbirini dışlamaz. Aynı ağ bir projede dayanıklılık sağlarken başka bir projede gecikmeye yol açabilir. Analiz, belirli ülke, dönem ve görev bakımından hangi örgütsel özelliğin nasıl sonuç ürettiğini göstermelidir. Merkezileşme, kendiliğinden başarı ölçütü olarak kullanılamaz."
         ],
         "example": {
           "title": "Varsayımsal benzetme: Mahalle dayanışması",
-          "text": "Bir belediye programı olmadan okul, dükkân ve dernek ortak etkinlik düzenleyebilir. Temas vardır, tek komuta yoktur. Benzetme koordinasyon sorununu açıklar; uluslararası güç farklarını ve diplomatik yetkiyi tam olarak temsil etmez."
+          "text": "Bir okul, dükkân ve dernek, belediye programı bulunmadan ortak etkinlik düzenleyebilir. Bu durumda faaliyet, tek bir komuta merkezi olmaksızın gerçekleşir. Benzetme koordinasyon sorununu açıklar; uluslararası güç farklılıklarını ve diplomatik yetkiyi bütünüyle temsil etmez."
         },
         "checkpoint": {
           "question": "Bir merkezi ofis bulunmaması hangi sonucu doğrudan vermez?",
@@ -23,34 +23,34 @@
       },
       {
         "id": "relations",
-        "title": "2. Devletle ilişkinin türünü proje düzeyinde belirleyin",
+        "title": "2. Proje düzeyinde devletle ilişki türleri",
         "why": "Temas, destek, ortaklık ve kontrol aynı ilişki değildir.",
         "paragraphs": [
           "Özel diplomasi, devlet dışındaki kuruluşların örgütlü uluslararası etkileşimini anlatan analitik bir kavramdır. Özel statü hukuki konuma işaret eder; siyasal tarafsızlığı, eşitliği veya devletten tam yalıtılmışlığı kanıtlamaz. Vakıf yöneticileri kendi amaçlarını izleyebilirken diplomatlarla da işbirliği yapabilir. Bir kuruluşun bütün tarihini tek etiketle özetlemek yerine, belirli bir projenin kaynak ve karar yapısını yeniden kurmak gerekir.",
           "Paralel faaliyette amaçlar örtüşür fakat ortak karar gösterilmemiştir. Kolaylaştırıcılık, tanıştırma veya erişim sağlama gibi yardımdır. Resmi ortaklıkta katkılar ve görevler bir düzenlemeyle belirlenir. Daha güçlü kontrol iddiası ise talimat, gözetim veya kararın engellenebilmesi gibi kanıt ister. Bunlar sabit kurum tipleri değildir; aynı kuruluş farklı tarihlerde veya projelerde farklı ilişki biçimlerine girebilir.",
-          "Finansmanın önemli olması, bütün kararların finansörü izlediğini varsaymayı haklı kılmaz. Para sağlayan kurum konuyu sınırlayabilir, fakat üniversite aday seçebilir; yerel bakanlık yeterliliği tanıyabilir. Hangi aktörün hayır diyebildiğini araştırmak, törenlerde görünen destekçilerden daha açıklayıcı olabilir. Yetkiyi sözleşmeden okuyun, uygulamayı yazışmayla sınayın. Kâğıt üzerindeki kurallar ile fiili pazarlık aynı yönde olmayabilir."
+          "Finansmanın önemi, bütün kararların finansör tarafından belirlendiği varsayımını haklı kılmaz. Finansman sağlayan kuruluş konuyu sınırlandırırken üniversite adayları seçebilir ve yerel bakanlık yeterliliği tanıyabilir. Ret yetkisinin hangi aktörde bulunduğu, törenlerdeki görünür destekten daha açıklayıcı olabilir. Sözleşmedeki yetki dağılımını uygulamaya ilişkin yazışmalarla sınayın. Yazılı kurallar ve fiili pazarlık her durumda aynı sonucu üretmeyebilir."
         ],
         "example": {
           "title": "Varsayımsal örnek: Elçilik mektubu",
-          "text": "Elçilik bir vakfı üniversiteyle tanıştırıyor; vakıf bütçeyi, üniversite adayları belirliyor. Tanıştırma belgesi kolaylaştırıcılığı destekler. Elçiliğin programı yönettiği iddiası için ek talimat veya denetim kaydı gerekir."
+          "text": "Bir elçilik vakfı üniversiteyle tanıştırmakta; vakıf bütçeyi, üniversite ise adayları belirlemektedir. Tanıştırma belgesi kolaylaştırıcılık iddiasını destekler. Elçiliğin programı yönettiği iddiası ek talimat veya denetim kaydı gerektirir."
         },
         "checkpoint": {
-          "question": "Devlet finansmanı otomatik olarak tam kontrol müdür?",
+          "question": "Devlet finansmanı, tam kontrol iddiasını tek başına destekler mi?",
           "answer": "Hayır. Finansman koşulları, karar yetkileri, veto imkânı ve uygulamadaki pazarlık ayrıca gösterilmelidir."
         }
       },
       {
         "id": "reciprocity",
-        "title": "3. Karşılıklılık seyahat sayısından fazlasıdır",
+        "title": "3. Karşılıklılık, hareketlilik ve gündem belirleme yetkisi",
         "why": "Eşit yönde hareketlilik, eşit gündem belirleme gücünü garanti etmez.",
         "paragraphs": [
-          "Karşılıklılık, tarafların yalnız programa katılmasını değil, amaç ve kaynakları etkileyebilmesini ifade eder. İki yönlü seyahat görünür bir hareketlilik göstergesidir; fakat araştırma konusunu, seçim ölçütünü ve bütçeyi tek taraf belirliyorsa karar gücü eşit değildir. Bu yüzden kim geldi sorusunun yanına kimin talebi programı değiştirdi sorusunu ekleyin. Katılım ile etkili söz hakkı farklı gözlemlerdir.",
-          "Uzmanlık programları çoğu zaman yeterlilik belgeleri, dil koşulları ve tavsiye ağları kullanır. Bu kurallar idari açıdan makul olabilirken bazı grupları sistemli olarak dışarıda bırakabilir. Eşitsizlik iddiasını kurmak için yalnız seçilmiş kişilere bakmayın. Başvuranlar, reddedilenler, istisnalar ve gönderen kurumların itirazları hakkında veri arayın. Aynı görünen kuralın farklı başlangıç koşullarında farklı sonuç üretebileceğini hesaba katın.",
-          "Yerel ortağın talebini romantikleştirmek de çözüm değildir. Bir üniversite yönetimi kendi ülkesindeki bütün toplumsal ihtiyaçları temsil etmez; seçkin kurumlar programı kendi yararına yönlendirebilir. Dolayısıyla karşılıklılık değerlendirmesi iki yönlüdür: Yabancı sponsorun gücü kadar yerel temsil sorunu da incelenir. Ortaklar arasındaki pazarlığı ve program dışında kalan grupları birlikte görmek, eşitlik iddiasını daha dikkatli kurmayı sağlar."
+          "Karşılıklılık, tarafların katılımının yanı sıra amaçları ve kaynakları etkileyebilmesini ifade eder. İki yönlü seyahat hareketlilik göstergesidir; ancak araştırma konusunu, seçim ölçütlerini ve bütçeyi tek taraf belirliyorsa karar yetkisi eşit dağılmamıştır. Katılımcıların kimliğine ilişkin soru, hangi ortağın talebinin programı değiştirdiği sorusuyla birlikte ele alınmalıdır. Katılım ve etkili söz hakkı farklı gözlemlerdir ve ayrı kanıt gerektirir.",
+          "Uzmanlık programları çoğu zaman yeterlilik belgeleri, dil koşulları ve tavsiye ağları kullanır. Bu kurallar idari açıdan makul olabilirken bazı grupları sistemli olarak dışarıda bırakabilir. Eşitsizlik iddiasını kurmak için incelemeyi yalnız seçilmiş kişilerle sınırlandırmayın. Başvuranlar, reddedilenler, istisnalar ve gönderen kurumların itirazları hakkında veri arayın. Aynı görünen kuralın farklı başlangıç koşullarında farklı sonuç üretebileceğini hesaba katın.",
+          "Yerel ortağın tercihlerine eleştirel inceleme olmadan temsil gücü atfedilmemelidir. Bir üniversite yönetimi ülkesindeki bütün toplumsal ihtiyaçları temsil etmez; seçkin kurumlar programı kendi yararlarına yönlendirebilir. Karşılıklılık değerlendirmesi, yabancı sponsorun gücüyle birlikte yerel temsil sorununu da ele almalıdır. Ortaklar arasındaki pazarlığın ve program dışında kalan grupların birlikte incelenmesi, eşitlik iddiasının daha dikkatli sınırlandırılmasını sağlar."
         ],
         "example": {
-          "title": "Varsayımsal örnek: Araştırma konusu değişiyor",
-          "text": "Yerel araştırmacılar sağlık bursunun konusunu kendi bölgesindeki ihtiyaca yöneltmek istiyor. Talebin toplantı tutanağında bulunması katılımı; bütçe ve programın gerçekten değişmesi ise gündemi etkilemeyi daha güçlü biçimde gösterir."
+          "title": "Varsayımsal örnek: Araştırma konusunun değiştirilmesi",
+          "text": "Yerel araştırmacılar, sağlık bursunun konusunun bölgesel bir ihtiyaca yönelmesini talep etmektedir. Talebin toplantı tutanağında yer alması katılımı; bütçe ve programdaki fiili değişiklikler ise gündem üzerindeki etkiyi daha güçlü biçimde belgeler."
         },
         "checkpoint": {
           "question": "İki ülkeden eşit katılımcı sayısı neyi kanıtlamaz?",
@@ -59,16 +59,16 @@
       },
       {
         "id": "knowledge",
-        "title": "4. Öğrenmeden politika etkisine geçişi kanıtlayın",
-        "why": "Burs kaydı bir sonuç zincirinin başlangıcıdır; bütün zincirin kanıtı değildir.",
+        "title": "4. Öğrenme, kurumsal kullanım ve politika etkisi",
+        "why": "Burs kaydı, sonuçlar dizisinin belirli bir aşamasına ilişkin kanıttır; bütün geçişleri tek başına göstermez.",
         "paragraphs": [
-          "Bir değişim programı kaynak, fırsat ve ilişki üretir. Burs verilmesi çıktı; yeni bilgi edinilmesi öğrenme; bilginin kurumda uygulanması kullanım; belirli bir karara katkısı ise daha ileri bir sonuçtur. Bu aşamaları ayırmak eğitimin değerini küçültmez. Tam tersine, gerçek öğrenmeyi kanıtlanmamış büyük diplomatik iddiaların altında kaybetmeden tanımlamayı sağlar. Her aşama farklı zaman aralığında görünür olabilir.",
-          "İşleyişi açıklamak için ara bağlantıyı sorun. Katılımcı hangi bilgiyi edindi, kimle temas kurdu ve dönüşte hangi imkâna sahipti? Kaynak veya yetki yoksa öğrenilen yöntem uygulanmayabilir. Bir uzman ağı kriz sırasında güvenilir temas sağlayabilir; bu, devlet kararını belirlediği anlamına gelmez. Bilgi alışverişinden politikaya geçişte yerel çıkarlar, bütçe ve başka kurumların kararları da devreye girer.",
-          "Başarılı mezunları seçerek anlatmak, görünmeyen başarısızlıkları dışarıda bırakır. Ünlü bir mezunun sonraki konumu, programın bu konumu yarattığını göstermez; kişi başlangıçta da ayrıcalıklı olabilir. Dönüş yapmayanları, yarıda kalan bursları ve öğrenip politika etkisi yaratmayanları inceleyin. Mektuplar deneyimi ayrıntılı anlatabilir, ancak etki oranı için temsili bir payda sağlamaz. Sonucun kapsamını belge kapsamına göre sınırlandırın."
+          "Bir değişim programı kaynak, fırsat ve ilişki sağlar. Burs verilmesi çıktı; yeni bilgi edinilmesi öğrenme; bilginin kurumda uygulanması kullanım; belirli bir karara katkı ise daha ileri bir sonuç olarak tanımlanır. Bu ayrımlar, eğitimin değerini azaltmaksızın öğrenmeyi kanıtlanmamış diplomatik sonuçlardan bağımsız biçimde değerlendirmeyi mümkün kılar. Aşamaların gözlenebilir hâle gelmesi farklı zaman aralıkları gerektirebilir.",
+          "İşleyişin açıklanabilmesi için aşamalar arasındaki bağlantı belirlenmelidir. Katılımcı hangi bilgiyi edindi, kimle temas kurdu ve dönüşte hangi imkâna sahipti? Kaynak veya yetki yoksa öğrenilen yöntem uygulanmayabilir. Bir uzman ağı kriz sırasında güvenilir temas sağlayabilir; bu, devlet kararını belirlediği anlamına gelmez. Bilgi alışverişinden politikaya geçişte yerel çıkarlar, bütçe ve başka kurumların kararları da devreye girer.",
+          "Yalnız başarılı mezunların seçilerek incelenmesi, daha az görünür başarısız deneyimlerin dışlanmasına yol açar. Ünlü bir mezunun sonraki konumu, programın bu konumu yarattığını göstermez; kişi başlangıçta da ayrıcalıklı olabilir. Dönüş yapmayanları, yarıda kalan bursları ve öğrenip politika etkisi yaratmayanları inceleyin. Mektuplar deneyimi ayrıntılı anlatabilir, ancak etki oranı için temsili bir payda sağlamaz. Sonucun kapsamını belge kapsamına göre sınırlandırın."
         ],
         "example": {
           "title": "Varsayımsal örnek: Yeni yöntem, eski bütçe",
-          "text": "Bursiyer yeni laboratuvar tekniği öğrenir; dönüşte ekipman olmadığı için uygulayamaz. Öğrenme başarısı ile kurumsal kullanımın yokluğu aynı anda bulunabilir. Bu farkı tek başarı etiketiyle silmeyin."
+          "text": "Bir bursiyer yeni bir laboratuvar tekniği öğrenmekte, ancak dönüşte ekipman eksikliği nedeniyle bunu uygulayamamaktadır. Öğrenme başarısı ile kurumsal kullanımın yokluğu birlikte gözlenebilir. Tek bir genel başarı sınıflandırması bu ayrımı ortadan kaldırır."
         },
         "checkpoint": {
           "question": "Uygulama gerçekleşmediyse öğrenme de yok mudur?",
@@ -77,16 +77,16 @@
       },
       {
         "id": "institutions",
-        "title": "5. Kuruluşları aynı özel aktör torbasına koymayın",
+        "title": "5. Özel kuruluşların amaçları, araçları ve aracılık işlevleri",
         "why": "Farklı amaçlar, araçlar ve aracılık görevleri farklı araştırma soruları üretir.",
         "paragraphs": [
           "Mevcut ders kaynakları, Rockefeller Vakfını bilim, tıp ve halk sağlığı ağlarıyla; Carnegie çevresini uluslararası barış, hukuk ve düşünsel ilişki çabalarıyla; Uluslararası Eğitim Enstitüsünü ise eğitim değişimlerinin koordinasyonuyla tartışır. Bu ayrımlar, bütün faaliyetleri tek diplomatik kampanyanın parçaları gibi okumamayı sağlar. Ortak uluslararası ilgileri bulunması, aynı örgütsel araç veya başarı ölçüsüne sahip oldukları anlamına gelmez.",
-          "Koordinasyon görünmeyen bir güç biçimi olabilir. Başvuruları eşleştirmek, yeterlilikleri doğrulamak, koşulları çevirmek ve kurum dizini tutmak, değişimi mümkün kılar. Aynı işlemler kimin uygun sayılacağını da belirler. İdari araçlar tarafsız teknik ayrıntılar gibi görünse de katılımın sınırını çizebilir. Bu nedenle yalnız kamuya açık hedeflere değil, başvuru formlarına, sınıflandırmalara ve istisna usullerine de kaynak olarak bakın.",
-          "Karşılaştırma için aynı soruyu bütün kurumlara yöneltin: Amaç nedir, kime erişiyor, hangi aracı kullanıyor ve beklenen değişim nasıl oluşacak? Sonra farklılığı koruyun. Konferans sayısını, laboratuvar desteğini ve değişim eşleştirmesini tek başarı sıralamasına sokmak yanıltıcıdır. Ortak ölçüt hesap verebilirlik olabilir; araçların çıktıları ise kendi bağlamlarında değerlendirilmelidir. Karşılaştırılabilirlik, bütün kurumları aynılaştırmak demek değildir."
+          "Koordinasyon görünmeyen bir güç biçimi olabilir. Başvuruları eşleştirmek, yeterlilikleri doğrulamak, koşulları çevirmek ve kurum dizini tutmak, değişimi mümkün kılar. Aynı işlemler kimin uygun sayılacağını da belirler. İdari araçlar tarafsız teknik ayrıntılar gibi görünse de katılımın sınırını çizebilir. Bu nedenle kamuya açık hedeflerin yanı sıra başvuru formlarını, sınıflandırmaları ve istisna usullerini de kaynak olarak inceleyin.",
+          "Kurumlar ortak sorular üzerinden karşılaştırılmalıdır: Amaç, erişilen gruplar, kullanılan araç ve beklenen değişimin mekanizması nedir? Yanıtlardaki kurumsal farklılıklar korunmalıdır. Konferans sayısı, laboratuvar desteği ve değişim eşleştirmelerini tek başarı sıralamasına yerleştirmek yanıltıcıdır. Hesap verebilirlik ortak ölçüt olarak kullanılabilir; araçların çıktıları ise kendi bağlamlarında değerlendirilmelidir. Karşılaştırılabilirlik, kurumsal farklılıkların ortadan kaldırılmasını gerektirmez."
         ],
         "example": {
           "title": "Varsayımsal örnek: Formdaki engel",
-          "text": "Bir değişim formu yalnız belirli türde diploma kabul ediyor. Kural işlemleri hızlandırabilir, fakat farklı eğitim sisteminden uygun adayları dışlayabilir. Başvuru ve itiraz kayıtları birlikte okunmadan kuralın etkisi bilinemez."
+          "text": "Bir değişim başvuru formu yalnız belirli türde diplomayı kabul etmektedir. Bu kural işlemleri hızlandırabilirken başka eğitim sistemlerindeki uygun adayları dışlayabilir. Etkinin değerlendirilebilmesi için başvuru ve itiraz kayıtları birlikte incelenmelidir."
         },
         "checkpoint": {
           "question": "İdari koordinasyon neden güç sayılabilir?",
@@ -95,16 +95,16 @@
       },
       {
         "id": "history",
-        "title": "6. Sonraki kullanımı başlangıçtaki niyet sanmayın",
-        "why": "Tarihi sonucundan geriye doğru yazmak, aktörlerin kendi amaçlarını siler.",
+        "title": "6. Başlangıçtaki niyet ve sonraki kullanımın ayrıştırılması",
+        "why": "Bilinen sonuçtan geriye doğru kurulan açıklamalar, aktörlerin dönemsel amaçlarını ve alternatiflerini gözden kaçırabilir.",
         "paragraphs": [
-          "1920’lerde kurulan bir bilimsel bağlantı daha sonra savaş dönemi kurumlarına yardımcı olabilir. Bu, bağlantının baştan savaş için kurulduğunu göstermez. Geçmişi bilinen sonucun hazırlığı sayma eğilimine sonuçtan geriye okuma denebilir. Bundan kaçınmak için programın kuruluş belgelerini, o tarihteki hedeflerini ve seçeneklerini inceleyin. Sonraki kullanım ayrı bir tarihsel olay olarak açıklanmalıdır; otomatik niyet devamlılığı gibi sunulmamalıdır.",
-          "1930’lardaki kriz ve uluslararası gerilim, mevcut ağlara resmi ilgiyi artıran bağlamı oluşturdu. Dersin 1938 Kültürel İlişkiler Bölümü tartışması, yeni koordinasyonla önceden var olan kapasitenin birleşmesini görünür kılar. Bir anda özel alanın tamamen devletleştiği sonucuna geçmeyin. İnsan, bilgi ve kaynak akışlarını farklı tarihlerde karşılaştırmak, hangi yetkinin değiştiğini ve hangi bağımsızlığın sürdüğünü daha iyi gösterir.",
+          "1920’lerde kurulan bir bilimsel bağlantı, daha sonraki savaş dönemi kurumlarına yardımcı olabilir. Bu durum, bağlantının başlangıçta savaş amacıyla kurulduğunu göstermez. Bilinen sonucu geçmişin kaçınılmaz yönelimi olarak ele almak, sonuçtan geriye okuma sorununu doğurur. Programın kuruluş belgeleri, dönemin hedefleri ve mevcut seçenekler birlikte incelenmelidir. Sonraki kullanım, niyetin kendiliğinden sürekliliği olarak varsayılmadan ayrı bir tarihsel olay olarak açıklanmalıdır.",
+          "1930’lardaki kriz ve uluslararası gerilim, mevcut ağlara resmi ilgiyi artıran bağlamı oluşturdu. Dersin 1938 Kültürel İlişkiler Bölümü tartışması, yeni koordinasyonla önceden var olan kapasitenin birleşmesini görünür kılar. Bu değişimden özel faaliyet alanının bir anda bütünüyle devlet denetimine geçtiği sonucu çıkarılamaz. İnsan, bilgi ve kaynak akışlarını farklı tarihlerde karşılaştırmak, hangi yetkinin değiştiğini ve hangi bağımsızlığın sürdüğünü daha iyi gösterir.",
           "Kaynak eleştirisinde ileriye dönük vaatle geriye dönük başarı anlatısını ayırın. Başvuru belgesi beklenen amacı; sonraki rapor ise kurumun sonucu nasıl sunmak istediğini gösterebilir. Yazışma ve mali kayıtlarla karşılaştırma, seçilmiş başarı örneklerini dengeleyebilir. Son hüküm ülke, meslek, katılımcı grubu ve yıllarla sınırlandırılmalıdır. Böylece özel diplomasi bütünüyle başarılı veya devletin gizli uzantısı ilan edilmeden somut ilişki açıklanabilir."
         ],
         "example": {
           "title": "Varsayımsal örnek: Yeniden kullanılan adres listesi",
-          "text": "Bir bilim derneğinin adres listesi yıllar sonra resmi bir haber dağıtımında kullanılıyor. Liste aktarımı sonraki işbirliğini gösterir; ilk üyelerin bu gelecek kullanımı amaçladığını göstermek için ayrı belge gerekir."
+          "text": "Bir bilim derneğinin adres listesi, yıllar sonra resmî haber dağıtımında kullanılmaktadır. Listenin aktarılması sonraki işbirliğini gösterir; ilk üyelerin gelecekteki bu kullanımı amaçladığı iddiası ayrı belge gerektirir."
         },
         "checkpoint": {
           "question": "Sonradan kullanım hangi iddiayı tek başına desteklemez?",
@@ -115,12 +115,12 @@
     "visuals": [
       {
         "kind": "flow",
-        "title": "Bir projede kararın yolculuğu",
+        "title": "Proje düzeyinde karar ve sonuçların incelenmesi",
         "caption": "Oklar izlenecek soruları bağlar; bursun kalıcı etki yaratacağını varsaymaz.",
         "nodes": [
           {
             "title": "Amaç ve kaynak",
-            "text": "Kim neyi finanse ediyor?"
+            "text": "Hangi aktör hangi faaliyeti finanse etmektedir?"
           },
           {
             "title": "Seçim ve pazarlık",
@@ -132,7 +132,7 @@
           },
           {
             "title": "Sonraki kullanım",
-            "text": "Kim, nerede, hangi koşulla kullanıyor?"
+            "text": "Bilgi ve ilişkiler kimler tarafından, nerede ve hangi koşullarda kullanılmaktadır?"
           }
         ]
       },
@@ -171,7 +171,7 @@
       {
         "kind": "matrix",
         "title": "Özel diplomasi için kanıt matrisi",
-        "caption": "Aynı belgeyi amaç, kullanım ve nihai etki için tekrar tekrar yeterli saymayın.",
+        "caption": "Amaç, kullanım ve nihai etki iddiaları farklı kanıtlar gerektirir; aynı kayıt bu iddiaların tümü için yeterli sayılamaz.",
         "columns": [
           "Kaynak",
           "Gösterdiği bağlantı",
@@ -203,21 +203,21 @@
     ],
     "cases": [
       {
-        "title": "Vaka 1: Bursun görünmeyen karar sahipleri",
-        "scenario": "Varsayımsal bir vakıf sağlık bursunu finanse ediyor. Üniversite aday seçiyor, elçilik vize sürecinde temas sağlıyor, yerel hastane araştırma konusunun değiştirilmesini istiyor.",
+        "title": "Vaka 1: Burs programında karar yetkisinin dağılımı",
+        "scenario": "Varsayımsal bir vakıf sağlık bursunu finanse etmekte, üniversite adayları seçmekte, elçilik vize sürecinde temas sağlamaktadır. Yerel hastane ise araştırma konusunun değiştirilmesini talep etmektedir.",
         "steps": [
           "Aktörlerin katkılarını ayrı yazın. Finansman, seçim ve erişim aynı yetki değildir; elçilik teması kontrolü kanıtlamaz.",
           "Hastanenin talebini kaydedin; program veya bütçe değişmişse gündem etkisi için daha güçlü bulgu elde edilir.",
           "Seçilmeyen adayları ve kabul koşullarını araştırın. Görünür katılımcıların başarısı, herkesin eşit fırsatı olduğunu göstermez."
         ],
-        "conclusion": "Kanıtlar farklı güçleri gösterebilir. Karşılıklılık, hastanenin yalnız dinlenmesiyle değil, kararı etkileyip etkileyememesiyle değerlendirilir."
+        "conclusion": "Kanıtlar farklı güç biçimlerini ortaya koyabilir. Karşılıklılık, hastanenin görüşünün alınmasının ötesinde kararları etkileyebilme kapasitesi üzerinden değerlendirilir."
       },
       {
         "title": "Vaka 2: Başarılı mezun anlatısı",
-        "scenario": "Varsayımsal bir yıllık rapor, bir değişim katılımcısının önemli göreve geldiğini anlatıyor. Diğer katılımcılar, başlangıç konumu ve alternatif destekler hakkında bilgi vermiyor.",
+        "scenario": "Varsayımsal bir yıllık rapor, bir değişim katılımcısının önemli bir göreve atandığını belirtmektedir. Diğer katılımcılar, kişinin başlangıçtaki konumu ve alternatif destekler hakkında bilgi sunmamaktadır.",
         "steps": [
           "Göreve gelmeyi doğrulayın; raporun seçtiği kişinin program öncesindeki kaynaklarını araştırın.",
-          "Programın belirli bilgi veya bağlantı yoluyla katkı yaptığını gösteren ara belge arayın. Zaman sırası tek başına neden değildir.",
+          "Programın belirli bilgi veya bağlantılar yoluyla katkısını gösteren ara kayıtları araştırın. Zamansal sıralama tek başına nedenselliği kanıtlamaz.",
           "Diğer katılımcıları, kesintiye uğrayan programları ve farklı açıklamaları inceleyin. Bilinmeyen toplamla etki oranı hesaplamayın."
         ],
         "conclusion": "Bireysel başarı belgelenebilir; programın onu yarattığı ve bütün katılımcılara benzer etki yaptığı iddiaları henüz kurulamaz."
@@ -225,18 +225,18 @@
     ],
     "practice": {
       "title": "Excel ile yetki ve kanıt haritası",
-      "task": "Ortak öğrenci kanıt matrisine varsayımsal burs vakasını ekleyerek aktörlerin karar gücünü görünür kılın.",
+      "task": "Ortak öğrenci kanıt matrisine varsayımsal burs vakasını ekleyin ve aktörlerin karar yetkilerini ayrı kaydedin.",
       "steps": [
         "Projenin tarihini, amacını ve aktörlerini yazın; tarihsel bulgu olmadığını işaretleyin.",
         "Para sağlayan, seçim yapan, erişim açan ve veto edebilen aktörleri ayrı not edin.",
         "Her rol için mevcut belgeyi, alternatif yorumu ve eksik kanıtı kaydedin.",
         "Karşılıklılık ve sonuç hakkında yalnız desteklenen kapsamda kısa hüküm yazın; sonraki araştırma belgesini belirtin."
       ],
-      "modelAnswer": "Vakıf finansman sağlar, üniversite seçer, elçilik kolaylaştırır. Yerel hastanenin talebi bilinir; kararı değiştirdiği henüz bilinmez. Programın devletçe yönetildiği veya kalıcı politika etkisi ürettiği sonucuna bu bilgilerle varılamaz."
+      "modelAnswer": "Vakıf finansman sağlamakta, üniversite adayları seçmekte ve elçilik kolaylaştırıcılık yapmaktadır. Yerel hastanenin talebi belgelenmiş olmakla birlikte kararı değiştirdiği henüz bilinmemektedir. Bu bilgiler, devlet yönetimi veya kalıcı politika etkisi iddialarını desteklememektedir."
     },
     "faqs": [
       {
-        "question": "Özel aktör olmak bağımsız olmak mıdır?",
+        "question": "Özel hukuki statü, fiili karar bağımsızlığı anlamına gelir mi?",
         "answer": "Hukuki bağımsızlık ile her projede fiili karar bağımsızlığı farklıdır. Kaynak koşulları, ortaklar ve veto yetkileri belirli proje üzerinden incelenmelidir."
       },
       {
@@ -245,22 +245,22 @@
       },
       {
         "question": "Politika etkisi yoksa burs başarısız mıdır?",
-        "answer": "Mutlaka değil. Eğitim, araştırma veya ilişki amaçlarına katkı bulunabilir. Başarıyı programın amacıyla değerlendirmek, eğitsel değeri kanıtlanmamış diplomatik iddiadan ayırır."
+        "answer": "Politika etkisinin bulunmaması tek başına başarısızlık göstermez. Program eğitim, araştırma veya ilişkilerin geliştirilmesine katkıda bulunmuş olabilir. Başarının program amacıyla ilişkilendirilmesi, eğitsel değeri kanıtlanmamış diplomatik iddialardan ayırır."
       }
     ],
     "sourceNote": "Bu bölüm mevcut 9. hafta içeriğinin Schindler, vakıflar, Uluslararası Eğitim Enstitüsü ve savaşlar arası ağlar tartışmasını geliştirir. Tarihsel tespitler verilen ders kaynaklarıyla sınırlıdır; varsayımsal dosyalar yöntem alıştırmasıdır."
   },
   "en": {
-    "orientation": "How do non-state institutions sustain international relationships? Describing the interwar period only through the absence of a central American communication agency makes universities, foundations and professional networks disappear. This week follows individual projects to separate money, information, access and decision authority. The objective is to establish relationships through evidence rather than presume either complete independence or hidden government direction.",
+    "orientation": "This section examines how non-state institutions sustain international relationships. Explaining the interwar period solely through the absence of a central American communication agency overlooks the activities of universities, foundations and professional networks. Project-level inquiry distinguishes funding, information, access and decision authority. Its objective is to establish relationships through documentary evidence without presuming either independence or government direction.",
     "sections": [
       {
         "id": "decentralisation",
-        "title": "1. No central agency does not mean no activity",
+        "title": "1. Absence of a central agency and continuity of activity",
         "why": "Dispersed relationships can support flexibility while complicating accountability.",
         "paragraphs": [
-          "The Committee on Public Information’s postwar closure did not end every relationship with foreign societies. Diplomatic missions, universities, foundations and professional organisations continued cross-border work. A formal office, an organisation running programmes and connections between individuals are different levels. Extending a break at one level to all others mistakes the visible organisational chart for the entire social field.",
+          "The Committee on Public Information’s postwar closure did not terminate all relationships with foreign societies. Diplomatic missions, universities, foundations and professional organisations continued cross-border activities. A formal office, a programme organisation and interpersonal connections constitute different levels of analysis. Assuming that discontinuity at one level necessarily extends to the others conflates organisational structure with the wider field of social relationships.",
           "Decentralisation has costs: objectives can diverge, work may be duplicated and oversight dispersed. Conversely, specialised institutions and local connections can provide contacts unavailable through central command. The balance is not constant. Consistency may matter most for an urgent announcement, while responsiveness to local needs matters more for research cooperation. Define success in relation to the purpose.",
-          "Compare two interpretations. One treats fragmentation as insufficient state capacity; another emphasises the resilience of numerous independent relationships. These need not contradict each other universally. The same network can be resilient in one project and slow in another. Specify the country, period and task, then explain how a particular organisational feature operated rather than assuming centralisation equals success."
+          "Two interpretations can be compared: the first explains organisational fragmentation through limited state capacity; the second emphasises the reduced vulnerability associated with multiple independent relationships. These explanations are not invariably mutually exclusive. A network can provide resilience in one project and generate delay in another. Analysis should identify how a particular organisational feature produced outcomes within a specified country, period and task. Centralisation cannot itself serve as a measure of success."
         ],
         "example": {
           "title": "Hypothetical analogy: Neighbourhood cooperation",
@@ -273,30 +273,30 @@
       },
       {
         "id": "relations",
-        "title": "2. Classify the government relationship project by project",
+        "title": "2. Government relationships at project level",
         "why": "Contact, assistance, partnership and control are different relationships.",
         "paragraphs": [
           "Private diplomacy is an analytical term for organised international engagement by non-state organisations. Private legal status does not prove political neutrality, equality or insulation from government. Foundation officers can pursue their own objectives while cooperating with diplomats. Instead of giving an organisation one permanent label, reconstruct the resources and decisions within a particular project.",
           "Parallel activity involves overlapping purposes without demonstrated joint decisions. Facilitation provides introductions or access. Formal partnership establishes contributions and responsibilities. Stronger control claims require evidence of instruction, supervision or an ability to block decisions. These are not fixed types of institution: one organisation may enter different relationships across projects or move between them over time.",
-          "The importance of funding does not justify assuming the funder decides everything. A foundation might restrict topics while a university selects candidates and a local ministry recognises qualifications. Asking who can refuse often reveals more than ceremonial sponsorship. Read authority through agreements and test implementation through correspondence. Written rules and practical bargaining need not point in the same direction."
+          "The importance of funding does not justify assuming that the funder determines every decision. A foundation may restrict topics while a university selects candidates and a local ministry recognises qualifications. Authority to refuse can be more revealing than visible ceremonial support. Test the allocation of authority in agreements against implementation correspondence. Written rules and practical negotiation do not necessarily produce identical outcomes."
         ],
         "example": {
           "title": "Hypothetical example: An embassy letter",
           "text": "An embassy introduces a foundation to a university; the foundation sets funding and the university selects candidates. The introduction supports facilitation. Government direction needs additional instructions or oversight records."
         },
         "checkpoint": {
-          "question": "Does government funding automatically establish complete control?",
+          "question": "Does government funding alone support a claim of complete control?",
           "answer": "No. Examine funding conditions, decision authority, veto opportunities and practical negotiation."
         }
       },
       {
         "id": "reciprocity",
-        "title": "3. Reciprocity is more than travel in both directions",
+        "title": "3. Reciprocity, mobility and authority over priorities",
         "why": "Balanced mobility does not guarantee balanced control over priorities.",
         "paragraphs": [
-          "Reciprocity involves partners influencing purposes and resources, not merely joining activities. Travel in both directions shows mobility. If one side controls research topics, selection and budgets, decision power remains unequal. Add “whose request changed the programme?” to “who attended?” Participation and effective influence are different observations, requiring different forms of evidence.",
+          "Reciprocity concerns partners’ influence over objectives and resources as well as their participation. Travel in both directions indicates mobility; however, decision authority remains unequal if one party determines research topics, selection criteria and budgets. Questions about participant identity should therefore be considered alongside evidence of which partner’s requests changed the programme. Participation and effective influence are distinct observations requiring separate evidence.",
           "Expert programmes often require credentials, language skills and recommendations. Administratively reasonable rules can systematically exclude some groups. Investigate applicants, rejected candidates, exceptions and objections from sending institutions rather than examining selected participants alone. Identical rules can have different consequences for applicants with different starting resources. Establish those conditions before declaring either fairness or deliberate exclusion.",
-          "Do not romanticise the local partner. A university administration does not represent every social need in its country; well-positioned institutions can redirect programmes towards themselves. Reciprocity therefore requires scrutiny of both foreign sponsorship and local representation. Examining negotiations alongside excluded groups supports a more careful equality claim than simply contrasting an external donor with a unified local community."
+          "Local partners should not be presumed representative without critical examination. A university administration does not represent every social need in its country; privileged institutions may direct programmes towards their own interests. Assessing reciprocity requires scrutiny of local representation alongside foreign sponsorship. Examining negotiations and excluded groups together allows claims about equality to be delimited more carefully."
         ],
         "example": {
           "title": "Hypothetical example: Changing the research topic",
@@ -309,16 +309,16 @@
       },
       {
         "id": "knowledge",
-        "title": "4. Demonstrate the passage from learning to policy",
-        "why": "A fellowship record begins an outcome chain; it does not establish the entire chain.",
+        "title": "4. Learning, institutional application and policy influence",
+        "why": "A fellowship record provides evidence for a particular stage of an outcome sequence, not for all its transitions.",
         "paragraphs": [
-          "An exchange programme supplies resources, opportunities and relationships. An award is an output; acquiring knowledge is learning; applying it institutionally is use; contributing to a particular decision is a further outcome. Separating these stages does not diminish education. It protects real learning from being obscured by unsupported diplomatic claims. Different stages may become visible over different periods.",
+          "An exchange programme supplies resources, opportunities and relationships. A fellowship award is an output; knowledge acquisition constitutes learning; institutional application constitutes use; contribution to a particular decision is a further outcome. These distinctions allow learning to be assessed independently of unproven diplomatic consequences without diminishing educational value. The stages may become observable over different timescales.",
           "Identify the intermediate connection: what knowledge did participants acquire, whom did they meet, and what opportunities existed on return? Without equipment or authority, learning may remain unused. Expert networks can provide trusted crisis contacts without determining government decisions. Local interests, budgets and other institutions intervene between intellectual exchange and policy. A causal explanation must account for these conditions.",
-          "Selecting only prominent alumni hides less successful experiences. Later prominence does not establish that the programme caused it; participants may have started with considerable advantages. Include interrupted fellowships, non-returnees and participants who learned without influencing policy. Letters can describe experience richly without supplying a representative success rate. Restrict the outcome claim to the population and period the records actually cover."
+          "Selecting only prominent alumni excludes less successful experiences from the analysis. Later prominence does not establish that the programme caused it; participants may have started with considerable advantages. Include interrupted fellowships, non-returnees and participants who learned without influencing policy. Letters can describe experience richly without supplying a representative success rate. Restrict the outcome claim to the population and period the records actually cover."
         ],
         "example": {
           "title": "Hypothetical example: New knowledge, unchanged budget",
-          "text": "A fellow learns a laboratory technique but lacks equipment after returning. Successful learning and absent institutional application can coexist. One overall success label would erase this distinction."
+          "text": "A fellow learns a laboratory technique but cannot apply it after returning because equipment is unavailable. Successful learning and absent institutional application can coexist. A single overall success classification obscures this distinction."
         },
         "checkpoint": {
           "question": "Does absent application establish absent learning?",
@@ -327,12 +327,12 @@
       },
       {
         "id": "institutions",
-        "title": "5. Do not put all private institutions into one category",
+        "title": "5. Private institutions: Purposes, instruments and mediation",
         "why": "Different purposes, instruments and coordinating functions generate different research questions.",
         "paragraphs": [
           "The supplied materials discuss Rockefeller through scientific, medical and public-health networks; Carnegie through international peace, law and intellectual relationships; and the Institute of International Education through exchange coordination. These distinctions prevent every activity from becoming part of one presumed diplomatic campaign. Shared international interests do not establish identical instruments, organisational roles or measures of success.",
           "Coordination can exercise inconspicuous power. Matching applicants, verifying credentials, translating requirements and maintaining institutional directories make exchange possible. Those procedures also determine eligibility. Administrative instruments may appear merely technical while defining who can participate. Examine application forms, classifications and exception procedures alongside public objectives. An organisation’s apparently supporting role may therefore deserve central analytical attention.",
-          "Ask comparable questions of each institution: what is its purpose, whom does it reach, which instrument does it use, and how should change occur? Preserve differences in the answers. Ranking conference totals, laboratory grants and exchange placements on one success scale is misleading. Accountability can be a shared criterion while outputs require contextual interpretation. Comparison does not require making institutions identical."
+          "Institutions should be compared through common questions about purpose, groups reached, instruments and mechanisms of expected change. Institutional differences in the answers must be retained. Conference totals, laboratory support and exchange placements cannot meaningfully form one undifferentiated success ranking. Accountability may provide a shared criterion, while outputs require contextual interpretation. Comparability does not require the elimination of institutional differences."
         ],
         "example": {
           "title": "Hypothetical example: An application barrier",
@@ -345,11 +345,11 @@
       },
       {
         "id": "history",
-        "title": "6. Do not turn later use into original intention",
-        "why": "Writing backwards from an outcome erases contemporary purposes and alternatives.",
+        "title": "6. Distinguishing original intention from subsequent use",
+        "why": "Explanations constructed backwards from known outcomes may obscure contemporary objectives and alternatives.",
         "paragraphs": [
-          "A scientific connection formed in the 1920s might assist a later wartime agency. This does not show it was originally created for war. To avoid treating the past as preparation for a known outcome, examine founding documents, contemporary objectives and alternatives. Explain later reuse as a distinct historical event rather than automatic continuity of intention.",
-          "The crises and international tensions of the 1930s provided a context for increased official attention to existing networks. The course’s discussion of the 1938 Division of Cultural Relations shows new coordination joining established capacity. Do not assume an instantaneous conversion of the entire private field into state ownership. Compare people, information and resources across dates to identify changing authority and surviving independence.",
+          "A scientific connection established in the 1920s might assist subsequent wartime institutions. This does not establish that it was originally created for war. Treating a known outcome as the inevitable direction of earlier developments constitutes retrospective reasoning. Founding documents, contemporary objectives and available alternatives require joint examination. Later use must be explained as a distinct historical event rather than presumed continuity of intention.",
+          "The crises and international tensions of the 1930s provided a context for increased official attention to existing networks. The course’s discussion of the 1938 Division of Cultural Relations shows new coordination joining established capacity. This change does not establish that all private activity immediately came under state control. Compare people, information and resources across dates to identify changing authority and surviving independence.",
           "Distinguish prospective promises from retrospective success narratives. Applications may reveal expected purposes; later reports show how institutions wanted results represented. Correspondence and financial records can test selected success stories. Bound the final judgement by country, profession, participant cohort and years. This explains concrete relationships without declaring all private diplomacy either successful or a concealed extension of government."
         ],
         "example": {
@@ -365,12 +365,12 @@
     "visuals": [
       {
         "kind": "flow",
-        "title": "Trace decisions within a project",
+        "title": "Project-level analysis of decisions and outcomes",
         "caption": "Arrows connect investigative questions, not guaranteed progress towards lasting influence.",
         "nodes": [
           {
             "title": "Purpose and resources",
-            "text": "Who funds what?"
+            "text": "Which actor finances which activity?"
           },
           {
             "title": "Selection and negotiation",
@@ -382,7 +382,7 @@
           },
           {
             "title": "Subsequent use",
-            "text": "Who uses them, where and under what conditions?"
+            "text": "Who uses the knowledge and relationships, where and under what conditions?"
           }
         ]
       },
@@ -421,7 +421,7 @@
       {
         "kind": "matrix",
         "title": "Evidence for private diplomacy",
-        "caption": "Do not repeatedly treat one record as sufficient proof of purpose, use and ultimate influence.",
+        "caption": "Claims about purpose, use and ultimate influence require different evidence; one record cannot be assumed sufficient for all three.",
         "columns": [
           "Source",
           "Connection it supports",
@@ -453,21 +453,21 @@
     ],
     "cases": [
       {
-        "title": "Case 1: The fellowship’s less visible decision makers",
+        "title": "Case 1: The distribution of authority within a fellowship programme",
         "scenario": "A hypothetical foundation funds a health fellowship. A university selects candidates, an embassy facilitates visa contacts, and a local hospital requests a different research topic.",
         "steps": [
           "Separate contributions. Funding, selection and access are different powers; embassy contact does not prove control.",
           "Record the hospital’s request. A resulting budget or programme revision supplies stronger evidence of influence over priorities.",
           "Investigate rejected candidates and eligibility rules. Visible participants’ success does not establish equal opportunity for everyone."
         ],
-        "conclusion": "The evidence may reveal different forms of power. Reciprocity depends on whether the hospital could affect decisions, not merely whether it was heard."
+        "conclusion": "The evidence may reveal different forms of power. Reciprocity requires assessment of the hospital’s capacity to influence decisions beyond the recording of its views."
       },
       {
         "title": "Case 2: The prominent alumnus",
         "scenario": "A hypothetical annual report celebrates a former exchange participant’s appointment to an important position. It omits other participants, prior advantages and alternative support.",
         "steps": [
           "Verify the appointment and investigate the selected person’s resources before participation.",
-          "Seek an intermediate record linking specific programme knowledge or contacts to the appointment. Sequence alone is not causation.",
+          "Seek intermediate records linking specific programme knowledge or contacts to the appointment. Temporal sequence alone does not establish causation.",
           "Examine other participants, interrupted programmes and rival explanations. Do not calculate an impact rate with an unknown denominator."
         ],
         "conclusion": "Individual achievement may be documented. The programme’s causal contribution and comparable effects on all participants remain unestablished."
@@ -475,18 +475,18 @@
     ],
     "practice": {
       "title": "Map authority and evidence in Excel",
-      "task": "Add the hypothetical fellowship to the shared student evidence matrix and make each actor’s decision authority visible.",
+      "task": "Add the hypothetical fellowship to the shared student evidence matrix and record each actor’s decision authority separately.",
       "steps": [
         "Record the date, purpose and actors, identifying the scenario as hypothetical.",
         "Separate the funder, selector, access provider and actors able to veto decisions.",
         "For every role, record the available document, alternative interpretation and missing evidence.",
         "Write a bounded judgement about reciprocity and outcomes, then identify the next document needed."
       ],
-      "modelAnswer": "The foundation funds, the university selects and the embassy facilitates. The hospital’s request is known; its influence on the decision is not. These facts do not establish government direction or lasting policy influence."
+      "modelAnswer": "The foundation supplies funding, the university selects candidates and the embassy facilitates contacts. The hospital’s request is documented, but its influence on the decision remains unknown. These facts do not support claims of government direction or lasting policy influence."
     },
     "faqs": [
       {
-        "question": "Does private status mean independence?",
+        "question": "Does private legal status establish practical decision autonomy?",
         "answer": "Legal independence differs from practical autonomy in every project. Investigate resource conditions, partners and veto rights through a specific programme rather than assigning a universal label."
       },
       {
@@ -495,7 +495,7 @@
       },
       {
         "question": "Is a fellowship unsuccessful without policy influence?",
-        "answer": "Not necessarily. It may contribute to education, research or relationships. Evaluating its stated purpose distinguishes educational value from unsupported diplomatic claims."
+        "answer": "The absence of policy influence does not itself establish failure. The programme may have contributed to education, research or relationships. Relating success to programme objectives distinguishes educational value from unproven diplomatic claims."
       }
     ],
     "sourceNote": "This supplement develops the existing Week 9 material on Schindler, foundations, the Institute of International Education and interwar networks. Historical statements remain within the supplied course sources; hypothetical files are methodological exercises."

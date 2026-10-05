@@ -1,93 +1,193 @@
 {
   "week": 8,
   "tr": {
-    "title": "Doğru bir mesaj neden yine de sorunlu olabilir?",
-    "nutshell": "Bu hafta mesajları yalnızca doğru veya yanlış diye ayırmayı bırakıyoruz. Kimin konuştuğunu, hangi bilgiyi seçtiğini ve dinleyicinin itiraz edip edemediğini de soruyoruz. Birinci Dünya Savaşı'ndaki Kamuoyu Bilgilendirme Komitesi (CPI), savaş hedeflerini açıklıyordu; tarafsız bir ders anlatmıyordu. Bu amaç, her açıklamanın yalan olduğu anlamına gelmez.",
-    "analogy": "Varsayımsal bir ikinci el bisiklet ilanı düşünün. Satıcı, bisikletin yeni lastiklerini doğru biçimde anlatıyor ama bozuk frenlerini söylemiyor. Tek cümle doğru; satın alma kararına sunulan resim eksik. Siyasi iletişimde de doğrulukla yeterli bağlamı ayrı kontrol ederiz.",
+    "title": "Doğru bilginin etik sınırları ve bağlamsal yeterlilik",
+    "nutshell": "Bu hafta iletişim uygulamaları, olgusal doğruluğun yanı sıra kaynağın kimliği, bilgi seçimi ve hedef kitlenin itiraz imkânları açısından değerlendirilir. Birinci Dünya Savaşı sırasında Kamuoyu Bilgilendirme Komitesi (CPI), tarafsız eğitim sunma amacıyla değil, savaş hedeflerini açıklama amacıyla faaliyet gösterdi. Bu amaç, açıklamaların tamamının yanlış olduğu sonucunu desteklemez.",
+    "analogy": "Varsayımsal bir ikinci el bisiklet ilanında satıcı yeni lastikleri doğru biçimde tanıtırken bozuk frenleri belirtmemektedir. İlandaki önerme doğru olsa da satın alma kararına temel oluşturacak bilgi eksiktir. Bu örnek, siyasi iletişimin değerlendirilmesinde olgusal doğruluk ile bağlamsal yeterliliğin ayrı ölçütler olarak ele alınmasını açıklar.",
     "objectives": [
-      "Bilgilendirme, açık savunuculuk ve propaganda arasındaki farkı sorularla açıklamak.",
+      "Bilgilendirme, açık savunuculuk ve propaganda arasındaki kavramsal ayrımları analitik sorularla açıklamak.",
       "Doğruluk, kaynak açıklığı ve itiraz özgürlüğünü ayrı değerlendirmek.",
       "Bir kurumun kapanmasıyla iletişim becerilerinin kaybolmasını birbirinden ayırmak."
     ],
     "concepts": [
-      {"term": "Savunuculuk", "meaning": "Bir görüşü veya politikayı açıkça destekleyen iletişimdir. Desteklemek, mutlaka yalan söylemek değildir.", "example": "Varsayımsal: Kaynağı belirtilmiş bir belediye ilanı yeni ulaşım planını savunur."},
-      {"term": "Propaganda", "meaning": "Burada siyasi düşünceyi yönlendirmeyi amaçlayan sistemli iletişim anlamında kullanıyoruz. Etik değerlendirme için yönteme ayrıca bakarız.", "example": "Varsayımsal: Bir kampanya aynı siyasi mesajı afişlerde ve konuşmalarda tekrarlar."},
-      {"term": "Kaynak şeffaflığı", "meaning": "Mesajı kimin hazırladığının ve finanse ettiğinin anlaşılabilmesidir.", "example": "Varsayımsal: Yerel görünen bir ilan, yabancı sponsorunu açıkça belirtir."},
-      {"term": "Hedef kitlenin özerkliği", "meaning": "İnsanların bilgiyi karşılaştırıp baskı görmeden kendi kararını verebilmesidir.", "example": "Varsayımsal: Okurlar, eleştirdikleri için cezalandırılmadan bir bültene itiraz edebilir."}
+      {
+        "term": "Savunuculuk",
+        "meaning": "Bir görüşü veya politikayı açıkça destekleyen iletişimdir. Bir görüşün desteklenmesi, zorunlu olarak yanlış bilgi verilmesi anlamına gelmez.",
+        "example": "Varsayımsal: Kaynağı belirtilmiş bir belediye ilanı yeni ulaşım planını savunur."
+      },
+      {
+        "term": "Propaganda",
+        "meaning": "Bu bölümde, siyasi düşünceyi yönlendirmeyi amaçlayan sistemli iletişim olarak tanımlanır. Kullanılan yöntemlerin etik niteliği ayrıca değerlendirilmelidir.",
+        "example": "Varsayımsal: Bir kampanya aynı siyasi mesajı afişlerde ve konuşmalarda tekrarlar."
+      },
+      {
+        "term": "Kaynak şeffaflığı",
+        "meaning": "Mesajı kimin hazırladığının ve finanse ettiğinin anlaşılabilmesidir.",
+        "example": "Varsayımsal: Yerel görünen bir ilan, yabancı sponsorunu açıkça belirtir."
+      },
+      {
+        "term": "Hedef kitlenin özerkliği",
+        "meaning": "Bireylerin bilgileri karşılaştırarak baskı altında kalmadan karar verebilme kapasitesidir.",
+        "example": "Varsayımsal: Okurlar, eleştirdikleri için cezalandırılmadan bir bültene itiraz edebilir."
+      }
     ],
     "steps": [
-      {"title": "1. İddiayı küçültün", "text": "Bütün kampanyaya hemen iyi veya kötü demeyin. Tek bir bülten seçin. Doğrulanabilir cümleyi, yazarın yorumunu ve eksik bağlamı ayrı yazın. Yayın sırasında bilinenlerle sonradan öğrenilenleri karıştırmayın."},
-      {"title": "2. Karar alanını inceleyin", "text": "Okur sponsorun kim olduğunu biliyor mu? Başka kaynaklara ulaşabiliyor mu? Yanlışlık hangi yolla düzeltilebilir? Aynı soruları sevdiğiniz ve karşı çıktığınız aktörlere sorun. Bir ölçütte başarı, diğerindeki sorunu silmez."},
-      {"title": "3. Sorumluluğu ve devamlılığı ayırın", "text": "CPI ile dönemin baskıcı yasaları aynı kurum değildir. Belirli bir zarar için karar ve uygulama bağlantısı gerekir. CPI'ın savaş sonrası kapanması da insanların, yöntemlerin ve ilişkilerin kendiliğinden yok olduğunu göstermez."}
+      {
+        "title": "1. İncelenecek iddiayı sınırlandırın",
+        "text": "Kampanyanın tamamına ilişkin genel bir etik hükümden önce belirli bir bülteni inceleyin. Doğrulanabilir önermeyi, yazarın yorumunu ve eksik bağlamı ayrı kaydedin. Yayın sırasında mevcut olan bilgi ile sonradan elde edilen bilgiyi birbirinden ayırın."
+      },
+      {
+        "title": "2. Karar verme koşullarını inceleyin",
+        "text": "Okurun sponsor hakkında bilgi sahibi olmasını, alternatif kaynaklara erişimini ve hata düzeltme yollarını değerlendirin. Aynı ölçütleri, araştırmacının desteklediği ve karşı çıktığı aktörlere tutarlı biçimde uygulayın. Bir ölçütün karşılanması, diğer boyutlardaki sorunları ortadan kaldırmaz."
+      },
+      {
+        "title": "3. Sorumluluğu ve devamlılığı ayırın",
+        "text": "CPI'ın kurumsal faaliyetleri ile dönemin baskıcı hukuki düzenlemeleri birbirinden ayrılmalıdır. Belirli bir zararın atfedilebilmesi için kararlar ile uygulama arasındaki bağlantının belgelenmesi gerekir. CPI'ın savaş sonrası kapanması, personelin, yöntemlerin ve ilişkilerin kendiliğinden ortadan kalktığını göstermez."
+      }
     ],
     "diagram": {
-      "title": "Bir mesajı dört durakta kontrol edin",
+      "title": "Mesaj değerlendirmesinin dört boyutu",
       "nodes": [
-        {"title": "İddia", "text": "Tam olarak hangi cümle doğrulanabilir?"},
-        {"title": "Bağlam", "text": "Kararı değiştirebilecek ne eksik?"},
-        {"title": "Kaynak", "text": "Kim konuşuyor, kim ödüyor?"},
-        {"title": "İtiraz", "text": "Okur karşılaştırabilir ve yanıt verebilir mi?"}
+        {
+          "title": "İddia",
+          "text": "Hangi önerme olgusal olarak doğrulanabilir?"
+        },
+        {
+          "title": "Bağlam",
+          "text": "Hangi eksik bilgi kararın değişmesine yol açabilir?"
+        },
+        {
+          "title": "Kaynak",
+          "text": "İçeriğin üreticisi ve finansörü kimdir?"
+        },
+        {
+          "title": "İtiraz",
+          "text": "Okurun karşılaştırma ve yanıt verme imkânı var mıdır?"
+        }
       ],
-      "caption": "Bu sıra bir inceleme yoludur; dört kontrolü yapmak mesajın etik olduğunu veya ikna yarattığını kendiliğinden kanıtlamaz."
+      "caption": "Bu sıralama bir inceleme usulüdür; dört boyutun değerlendirilmesi, iletişimin etik niteliğini veya ikna etkisini tek başına kanıtlamaz."
     },
     "workedExample": {
-      "title": "Çözümlü alıştırma: Seçilmiş başarılar",
-      "scenario": "Varsayımsal bir savaş bülteni iki başarılı sevkiyatı duyuruyor. Aynı tarihte bilinen üçüncü sevkiyatın başarısızlığını dışarıda bırakıyor; kurumun adı açıkça yazıyor.",
+      "title": "Çözümlü alıştırma: Başarıların seçici sunumu",
+      "scenario": "Varsayımsal bir savaş bülteni iki başarılı sevkiyatı duyurmakta, yayın tarihinde bilinen üçüncü sevkiyatın başarısızlığını dışarıda bırakmaktadır. Yayımlayan kurumun adı açıkça belirtilmiştir.",
       "steps": [
         "İlk iki sevkiyatın gerçekleştiğini doğrulayın. Bu, cümlelerin doğruluğunu sınar.",
-        "Üçüncü sevkiyatın yayın anında bilindiğini gösteren kaydı arayın. Bugünkü bilginiz tek başına yeterli değildir.",
+        "Üçüncü sevkiyatın başarısızlığının yayın sırasında bilindiğini gösteren kayıt arayın. Sonradan edinilen bilgi, bu iddiayı tek başına desteklemez.",
         "Bültenin tüm sevkiyatları başarılı gösterip göstermediğini inceleyin. Sponsorun açık olması, eksik bağlam sorununu çözmez."
       ],
-      "lesson": "Savunulabilir sonuç: Metin doğru olgular içeriyor, fakat bütün tabloyu yanıltıcı sunmuş olabilir. Okurları gerçekten yanıltıp yanıltmadığı ayrı kanıt ister."
+      "lesson": "Kanıtlarla desteklenebilecek sonuç, metnin doğru olgular içermesine rağmen genel durumu yanıltıcı biçimde sunmuş olabileceğidir. Okurların fiilen yanıltıldığı iddiası ayrı kanıt gerektirir."
     },
-    "misconception": {"claim": "Doğru bilgi kullanan bir kampanya mutlaka etiktir.", "correction": "Doğruluk önemlidir; gizli finansman, seçici bağlam veya baskı ayrıca değerlendirilir."},
-    "quickCheck": {"question": "Bir gazetenin CPI bülteni yayımlaması sansürü kanıtlar mı?", "answer": "Hayır. Yayın tercihi ile zorlamayı ayırmak için talimat, tehdit veya yaptırım kanıtı gerekir."},
-    "practice": {"task": "Ortak Excel çalışma kitabındaki öğrenci kanıt matrisine varsayımsal bülten için bir satır ekleyin: iddia, mevcut kanıt, eksik kanıt ve geçici etik değerlendirme.", "hint": "Kanıt yokluğunu 'yanlış' diye doldurmayın; 'henüz belirlenemedi' yazın."},
-    "takeaways": ["Doğru cümle, eksiksiz anlatı demek değildir.", "İkna ile baskı aynı şey değildir.", "Etik hükmünüzü değiştirecek yeni kanıtı belirtin."]
+    "misconception": {
+      "claim": "Doğru bilgi kullanan bir kampanya mutlaka etiktir.",
+      "correction": "Doğruluk önemlidir; gizli finansman, seçici bağlam veya baskı ayrıca değerlendirilir."
+    },
+    "quickCheck": {
+      "question": "Bir gazetenin CPI bülteni yayımlaması sansürü kanıtlar mı?",
+      "answer": "Yayın kararı tek başına sansürü kanıtlamaz. Editoryal tercih ile zorlamanın ayrıştırılması için talimat, tehdit veya yaptırım kanıtı gerekir."
+    },
+    "practice": {
+      "task": "Ortak Excel çalışma kitabındaki öğrenci kanıt matrisine varsayımsal bülten için bir satır ekleyin: iddia, mevcut kanıt, eksik kanıt ve geçici etik değerlendirme.",
+      "hint": "Kanıt yokluğunu 'yanlış' olarak kodlamayın; 'henüz belirlenemedi' ifadesini kullanın."
+    },
+    "takeaways": [
+      "Bir önermenin olgusal doğruluğu, anlatının bağlamsal yeterliliğini güvence altına almaz.",
+      "İkna ve baskı, analitik olarak ayrı iletişim süreçleridir.",
+      "Etik değerlendirmenin hangi yeni kanıtlar ışığında değişebileceğini belirtin."
+    ]
   },
   "en": {
-    "title": "Why can a truthful message still be problematic?",
-    "nutshell": "This week, we move beyond sorting messages into true and false. We also ask who is speaking, what information they select, and whether listeners can object. During the First World War, the Committee on Public Information (CPI) explained war aims; it was not giving a neutral lesson. That purpose does not make every statement a lie.",
-    "analogy": "Imagine a hypothetical advertisement for a used bicycle. The seller accurately describes its new tyres but omits its broken brakes. One sentence is true; the picture offered to the buyer is incomplete. Political communication also requires separate checks of truth and adequate context.",
+    "title": "The ethical limits of truthful information and contextual adequacy",
+    "nutshell": "This week assesses communication practices through factual accuracy, source identity, information selection and opportunities for audience challenge. During the First World War, the Committee on Public Information (CPI) sought to explain war aims rather than provide neutral education. That purpose does not establish that all its statements were false.",
+    "analogy": "In a hypothetical advertisement for a used bicycle, the seller accurately describes new tyres while omitting defective brakes. The proposition is accurate, but the information available for a purchasing decision is incomplete. The example illustrates why factual accuracy and contextual adequacy require separate assessment in political communication.",
     "objectives": [
-      "Explain information, open advocacy and propaganda through practical questions.",
+      "Explain the conceptual distinctions between information, open advocacy and propaganda through analytical questions.",
       "Evaluate accuracy, source disclosure and freedom to object separately.",
       "Distinguish an institution's closure from the disappearance of communication skills."
     ],
     "concepts": [
-      {"term": "Advocacy", "meaning": "Communication that openly supports a position or policy. Supporting something does not necessarily mean lying.", "example": "Hypothetical: An identified municipal advertisement supports a new transport plan."},
-      {"term": "Propaganda", "meaning": "Here, systematic communication intended to direct political thinking. Its methods require a separate ethical assessment.", "example": "Hypothetical: A campaign repeats one political message in posters and speeches."},
-      {"term": "Source transparency", "meaning": "Being able to identify who prepared and financed a message.", "example": "Hypothetical: An apparently local advertisement discloses its foreign sponsor."},
-      {"term": "Audience autonomy", "meaning": "People's ability to compare information and decide without pressure.", "example": "Hypothetical: Readers can challenge a bulletin without punishment for criticism."}
+      {
+        "term": "Advocacy",
+        "meaning": "Communication that openly supports a position or policy. Such support does not necessarily involve providing false information.",
+        "example": "Hypothetical: An identified municipal advertisement supports a new transport plan."
+      },
+      {
+        "term": "Propaganda",
+        "meaning": "Defined here as systematic communication intended to direct political thinking. The ethical character of its methods requires separate assessment.",
+        "example": "Hypothetical: A campaign repeats one political message in posters and speeches."
+      },
+      {
+        "term": "Source transparency",
+        "meaning": "The identifiability of those who prepared and financed a message.",
+        "example": "Hypothetical: An apparently local advertisement discloses its foreign sponsor."
+      },
+      {
+        "term": "Audience autonomy",
+        "meaning": "The capacity of individuals to compare information and make decisions without coercive pressure.",
+        "example": "Hypothetical: Readers can challenge a bulletin without punishment for criticism."
+      }
     ],
     "steps": [
-      {"title": "1. Narrow the claim", "text": "Do not immediately label an entire campaign good or bad. Choose one bulletin. Separate its verifiable statement, the author's interpretation and missing context. Distinguish information available at publication from facts learned later."},
-      {"title": "2. Examine room for choice", "text": "Does the reader know the sponsor? Can they consult other sources? How could an error be corrected? Ask the same questions of actors you support and oppose. Passing one test does not remove another problem."},
-      {"title": "3. Separate responsibility and continuity", "text": "The CPI and the period's repressive laws were not the same institution. A specific harm requires evidence linking decisions and implementation. The CPI's postwar closure does not establish that people, methods and relationships automatically disappeared."}
+      {
+        "title": "1. Delimit the claim under examination",
+        "text": "Examine a particular bulletin before making an overall ethical judgement about the campaign. Record its verifiable proposition, authorial interpretation and missing context separately. Distinguish information available at publication from knowledge acquired subsequently."
+      },
+      {
+        "title": "2. Examine the conditions of audience choice",
+        "text": "Assess the reader’s knowledge of sponsorship, access to alternative sources and available correction procedures. Apply the same criteria consistently to actors whom the researcher supports and opposes. Satisfying one criterion does not resolve problems in other dimensions."
+      },
+      {
+        "title": "3. Separate responsibility and continuity",
+        "text": "The CPI’s institutional activities must be distinguished from the period’s repressive legal measures. Attributing a particular harm requires evidence connecting decisions with implementation. The CPI’s postwar closure does not establish the automatic disappearance of personnel, methods or relationships."
+      }
     ],
     "diagram": {
-      "title": "Check a message at four stops",
+      "title": "Four dimensions of message assessment",
       "nodes": [
-        {"title": "Claim", "text": "Exactly which statement can be verified?"},
-        {"title": "Context", "text": "What missing information might change a decision?"},
-        {"title": "Source", "text": "Who speaks, and who pays?"},
-        {"title": "Challenge", "text": "Can readers compare and respond?"}
+        {
+          "title": "Claim",
+          "text": "Which proposition permits factual verification?"
+        },
+        {
+          "title": "Context",
+          "text": "Which omitted information could change a decision?"
+        },
+        {
+          "title": "Source",
+          "text": "Who produced and financed the content?"
+        },
+        {
+          "title": "Challenge",
+          "text": "Can readers compare sources and respond?"
+        }
       ],
-      "caption": "This is an investigation sequence. Completing four checks does not automatically prove ethical communication or persuasion."
+      "caption": "This sequence provides a procedure for inquiry; assessing all four dimensions does not itself establish ethical acceptability or persuasive effects."
     },
     "workedExample": {
-      "title": "Worked exercise: Selected successes",
+      "title": "Worked exercise: Selective presentation of success",
       "scenario": "A hypothetical wartime bulletin reports two successful deliveries. It omits a third delivery's failure, known at publication. The institution is clearly identified.",
       "steps": [
         "Verify the first two deliveries. This tests the accuracy of the statements.",
-        "Seek a record showing the third delivery was known at publication. Your present knowledge alone is insufficient.",
+        "Seek a record establishing that the third delivery’s failure was known at publication. Subsequent knowledge cannot establish this claim by itself.",
         "Check whether the bulletin presents all deliveries as successful. Sponsor disclosure does not solve missing context."
       ],
-      "lesson": "A defensible conclusion: The text contains true facts but may misrepresent the overall situation. Whether it actually misled readers requires separate evidence."
+      "lesson": "The evidence supports a qualified conclusion: the text contains accurate facts but may misrepresent the overall situation. Establishing that readers were actually misled requires separate evidence."
     },
-    "misconception": {"claim": "A campaign using truthful information must be ethical.", "correction": "Accuracy matters; hidden funding, selective context and pressure require additional assessment."},
-    "quickCheck": {"question": "Does a newspaper printing a CPI bulletin prove censorship?", "answer": "No. Distinguishing editorial choice from coercion requires evidence of instructions, threats or penalties."},
-    "practice": {"task": "In the shared Excel workbook's student evidence matrix, add one row for the hypothetical bulletin: claim, available evidence, missing evidence and provisional ethical assessment.", "hint": "Do not label absent evidence 'false'; write 'not yet established'."},
-    "takeaways": ["A truthful sentence is not a complete account.", "Persuasion and coercion are different.", "Identify new evidence that could change your ethical judgement."]
+    "misconception": {
+      "claim": "A campaign using truthful information must be ethical.",
+      "correction": "Accuracy matters; hidden funding, selective context and pressure require additional assessment."
+    },
+    "quickCheck": {
+      "question": "Does a newspaper printing a CPI bulletin prove censorship?",
+      "answer": "Publication alone does not establish censorship. Distinguishing editorial choice from coercion requires evidence of instructions, threats or penalties."
+    },
+    "practice": {
+      "task": "In the shared Excel workbook's student evidence matrix, add one row for the hypothetical bulletin: claim, available evidence, missing evidence and provisional ethical assessment.",
+      "hint": "Code absent evidence as 'not yet established', rather than 'false'."
+    },
+    "takeaways": [
+      "Factual accuracy at the level of an individual proposition does not ensure contextual adequacy.",
+      "Persuasion and coercion are analytically distinct communication processes.",
+      "Specify the new evidence that could warrant revision of the ethical judgement."
+    ]
   }
 }

@@ -1,38 +1,38 @@
 {
   "week": 4,
   "tr": {
-    "orientation": "Bu bölüm, Kral Pamuk stratejisinin neden beklenen diplomatik sonucu vermediğini açıklarken tarihsel bilgiyle nedensel akıl yürütmeyi birleştirir. Amaç, ekonomik gücün önemsiz olduğunu söylemek değildir. Bir kaynağın hangi koşullarda, kimin aracılığıyla ve ne kadar süre içinde siyasi tercihi değiştirebildiğini araştırmaktır. Kanıtın gösterdiği durumla araştırmacının çıkardığı sonucu her aşamada ayıracağız.",
+    "orientation": "Bu bölüm, Kral Pamuk stratejisinin beklenen diplomatik sonucu neden sağlamadığını, tarihsel açıklama ile nedensel akıl yürütmeyi birleştirerek inceler. Temel sorun, ekonomik kaynakların önemi kadar, belirli bir kaynağın hangi koşullarda, hangi aracılar üzerinden ve ne kadar sürede siyasi tercihleri değiştirebildiğidir. Her aşamada, kaynağın ortaya koyduğu bulgu ile araştırmacının bu bulgudan yaptığı çıkarım ayrıştırılmalıdır.",
     "sections": [
       {
         "id": "resource",
         "title": "1. Kaynak, bağımlılık ve pazarlık gücü",
-        "why": "Ekonomik büyüklüğü doğrudan siyasi başarı saymamak için kavramları ayırıyoruz.",
+        "why": "Ekonomik önem ile siyasi başarı arasındaki kavramsal ayrım belirlenmelidir.",
         "paragraphs": [
           "Kaynak, aktörün kullanabileceği bir imkândır; pazarlık gücü ise belirli bir ilişkide karşı tarafın seçeneklerini değiştirebilme kapasitesidir. Güney pamuğunun Avrupa tekstil üretimindeki önemi, Konfederasyona önemli bir başlangıç kaynağı sağlıyordu. Ancak kaynak sahibi olmak, Britanya veya Fransa hükümetlerinin kararını belirlemekle aynı değildi. Sonuç, hedeflenen karar üzerinden tanımlanmalıdır.",
           "Bağımlılık, yalnızca bir malın çok tüketilmesi değildir. Başka kaynaktan edinmenin maliyeti, stokların dayanma süresi ve üretimi uyarlama imkânı da önemlidir. Bir ülke belirli malı çok satın alırken kısa sürede alternatif bulabilir. Dolayısıyla savaş öncesi toplam ticaret verisi, savaş içindeki siyasi kırılganlığın eksiksiz ölçüsü değildir.",
           "Konfederasyonun beklentisi, arz kaybının ekonomik sıkıntı yaratması ve bu sıkıntının tanınma, arabuluculuk veya müdahaleye dönüşmesiydi. Bunlar da birbirinin eş anlamlısı değildir: Tanınma siyasi statüye, arabuluculuk taraflar arasında çözüm arayışına, müdahale ise daha geniş bir eylem alanına işaret eder. Başarı iddiasında hangi sonucun arandığını önceden belirtmek gerekir."
         ],
         "example": {
-          "title": "Un satıcısının sınırı",
+          "title": "Un tedarikçisi benzetmesinde pazarlık gücünün sınırları",
           "text": "Varsayımsal benzetmede tek un satıcısı, fırından destek almak için satışı durdurur. Fırının stok kullanması veya başka satıcı bulması tehdidi zayıflatır. Benzetme uyumu açıklar; ancak devletlerin savaş ve meşruiyet hesaplarını bir ticari sözleşmeye indirgememelidir."
         },
         "checkpoint": {
-          "question": "Pamuk ihtiyacı, neden tek başına tavizi kanıtlamaz?",
+          "question": "Pamuk ihtiyacı neden siyasi tavize ilişkin yeterli kanıt değildir?",
           "answer": "İhtiyaç başlangıç koşuludur. Alternatiflerin maliyeti, siyasi talebin iletilmesi ve yetkili karar vericinin tercihi ayrıca gösterilmelidir."
         }
       },
       {
         "id": "disruption",
-        "title": "2. Arz kesintisini doğru aktöre bağlamak",
+        "title": "2. Arz kesintilerinin aktörlere atfedilmesi",
         "why": "Benzer ekonomik sonuçlar, farklı eylemlerden doğabilir.",
         "paragraphs": [
-          "Savaşın başlangıcındaki gönüllü pamuk tutma, Güneyli üretici ve savunucuların ihracatı kısıtlama çabalarını içeriyordu. Birliğin ablukası ise Güney ticaretini sınırlayan askerî faaliyetti. İki süreç Avrupa arzını daraltabilir; fakat aynı amaçla aynı aktör tarafından yürütülmemiştir. Kıtlığı tek bir merkezî Konfederasyon planının doğrudan çıktısı saymak bu ayrımı siler.",
+          "Savaşın başlangıcındaki gönüllü pamuk tutma, Güneyli üretici ve savunucuların ihracatı kısıtlama çabalarını içeriyordu. Birliğin ablukası ise Güney ticaretini sınırlayan askerî faaliyetti. İki süreç Avrupa arzını daraltabilir; fakat aynı amaçla aynı aktör tarafından yürütülmemiştir. Kıtlığı tek bir merkezî Konfederasyon planının doğrudan çıktısı saymak bu analitik ayrımı ortadan kaldırır.",
           "Bir nedensel açıklama, müdahaleyi tanımlamadan etkisini ölçemez. Önce hangi kesintinin, nerede ve ne zaman işlediği sorulmalıdır. İhracat kaydındaki düşüş hem kısıtlama hem abluka hem de başka savaş koşullarıyla ilişkili olabilir. Birlikte değişen iki etkenin etkisini yalnız toplam pamuk miktarından güvenle ayırmak mümkün değildir.",
           "Zaman da mekanizmanın parçasıdır. Avrupa stokları ilk şoku geciktirdi; yüksek fiyatlar alternatif tedariki ve üretim uyarlamasını teşvik etti. Böylece baskı, hedefin bağımlılığını azaltan tepkiler üretebildi. Araştırmacı bir başlangıç yılına ait bağımlılık oranını bütün savaş boyunca sabit kabul ederse, stratejinin kendi etkisiyle değişen ilişkiyi gözden kaçırır."
         ],
         "example": {
-          "title": "Tek rakam, iki olası süreç",
-          "text": "Varsayımsal bir araştırmada liman kayıtları ihracatın düştüğünü gösteriyor. Bu bulgu kesintiyi destekler; nedenini tek başına belirlemez. Üretici yazışmaları ile abluka kayıtları, farklı mekanizmaların hangi dönemde etkili olduğunu araştırmak için ayrı kaynaklar sağlar."
+          "title": "Tek gösterge altında farklı nedensel süreçler",
+          "text": "Varsayımsal bir araştırmada liman kayıtları ihracatın azaldığını göstermektedir. Bu bulgu arz kesintisini destekler; ancak nedenini tek başına belirlemez. Üretici yazışmaları ile abluka kayıtları, farklı mekanizmaların hangi dönemlerde işlediğini araştırmak için ayrı kaynaklar sağlar."
         },
         "checkpoint": {
           "question": "İhracat düşüşü hangi iddiayı doğrudan destekler?",
@@ -41,16 +41,16 @@
       },
       {
         "id": "publics",
-        "title": "3. Ekonomik acı, tek bir siyasi talep değildir",
-        "why": "Toplum içindeki farklı çıkarları ve karar yetkilerini görünür kılıyoruz.",
+        "title": "3. Ekonomik sıkıntı ve siyasi taleplerin farklılaşması",
+        "why": "Toplumsal çıkar farklılıkları ile karar yetkisinin dağılımı ayrı incelenmelidir.",
         "paragraphs": [
-          "Avrupa kamuoyu tek bir kişi gibi düşünülemez. Tekstil işçileri, fabrika sahipleri, liman tüccarları, kölelik karşıtı gruplar ve hükümetler aynı olayın farklı maliyetleriyle karşılaşıyordu. Geçimini kaybeden bir işçinin köleliğe karşı çıkması çelişki olmak zorunda değildir. İnsanlar maddi çıkarla ahlaki değerlendirmeyi birlikte tartabilir; bunların ağırlığı da değişebilir.",
-          "Toplumsal talebin siyasi etkiye dönüşmesi, örgütlenme ve erişim gerektirir. Bir toplantıda alınan kararın hükümete iletilmesi, karar vericilerce dikkate alınması ve diğer talepler karşısında ağırlık kazanması ayrı aşamalardır. Bu yüzden yerel bir dilekçeyi ulusal tercih gibi sunmak, hem temsil sorununu hem de karar kurumlarının rolünü atlar.",
+          "Avrupa kamuoyu homojen bir aktör olarak ele alınamaz. Tekstil işçileri, fabrika sahipleri, liman tüccarları, kölelik karşıtı gruplar ve hükümetler aynı olayın farklı maliyetleriyle karşılaşıyordu. Geçimini kaybeden bir işçinin köleliğe karşı çıkması çelişki olmak zorunda değildir. İnsanlar maddi çıkarla ahlaki değerlendirmeyi birlikte tartabilir; bunların ağırlığı da değişebilir.",
+          "Toplumsal talebin siyasi etkiye dönüşmesi, örgütlenme ve erişim gerektirir. Bir toplantıda alınan kararın hükümete iletilmesi, karar vericilerce dikkate alınması ve diğer talepler karşısında ağırlık kazanması ayrı aşamalardır. Bu yüzden yerel bir dilekçeyi ulusal tercih gibi sunmak, hem temsil sorununu hem de karar kurumlarının rolünü göz ardı eder.",
           "Sorumluluğun kime yüklendiği de sonucu değiştirir. İşçi kıtlığı Konfederasyonun baskısına, Birliğin ablukasına, kendi hükümetine veya savaşın bütününe bağlayabilir. Aynı işsizlik farklı hedeflere yönelen öfke yaratabilir. Ekonomik verilerin yanına mektuplar, toplantı kayıtları ve basın yorumları konmadan, mağduriyetin hangi siyasi anlama dönüştüğü önceden varsayılmamalıdır."
         ],
         "example": {
           "title": "Temsil sınırı",
-          "text": "Varsayımsal olarak bir işçi toplantısı Birliği destekliyor, başka bir toplantı arabuluculuk istiyor. İkisi birlikte görüş çeşitliliğini gösterir. Katılım, yer ve örgütlenme bilgisi olmadan hangisinin bütün işçileri temsil ettiğini söyleyemeyiz."
+          "text": "Varsayımsal örnekte bir işçi toplantısı Birliği desteklerken başka bir toplantı arabuluculuk talep etmektedir. İki kayıt birlikte görüş çeşitliliğini göstermektedir. Katılım, yer ve örgütlenme hakkında bilgi bulunmadığında, toplantılardan herhangi birinin bütün işçileri temsil ettiği ileri sürülemez."
         },
         "checkpoint": {
           "question": "Bir işçi toplantısı, hükümetin kararını gösterir mi?",
@@ -60,15 +60,15 @@
       {
         "id": "legitimacy",
         "title": "4. İletişim ile savunulan düzen arasındaki gerilim",
-        "why": "Mesajın ikna gücünü yalnız anlatım tekniğiyle açıklamıyoruz.",
+        "why": "İkna gücü, anlatım tekniğiyle birlikte savunulan siyasetin niteliğine bağlıdır.",
         "paragraphs": [
           "Meşruiyet, bir siyasi düzenin veya davranışın haklı ve kabul edilebilir görülmesidir. Konfederasyon savunucuları bağımsızlık, anayasal haklar ve serbest ticaret dilini kullandı. Ancak köleliği koruyan düzen, özellikle kölelik karşıtı çevrelerde bu anlatının güvenilirliğini sınırladı. Sorun yalnız mesajın yeterince iyi duyurulamaması değil, mesaj ile gözlenebilir uygulama arasındaki uyuşmazlıktı.",
           "Henry Hotze ve The Index gibi aracılar, savları yerel tartışma ortamına taşıdı. Aracı, mesajı aynen ileten tarafsız bir kanal değildir; haber seçer, yorum ekler ve kendi çevresinin dilini kullanır. Resmî destek, editoryal müdahale ve yerel girişim birbirinden ayrılmalıdır. Mesajların benzerliği tek başına tam merkezî denetimi kanıtlamaz.",
           "İki yorum yarışabilir: İletişim zayıf olduğu için destek bulunamamış olabilir; savunulan siyaset inandırıcı bulunmadığı için iletişim sınırlanmış olabilir. Bu açıklamaları ayırmak için erişim kayıtlarıyla eleştirilerin içeriği birlikte okunur. Mesajı görmemek, anlamamak ve bilerek reddetmek farklı durumlardır. Eleştiriyi otomatik olarak bilgisizlik saymak, hedef kitlenin muhakemesini görünmez kılar."
         ],
         "example": {
-          "title": "Alıntı onay mıdır?",
-          "text": "Varsayımsal bir gazete The Index’teki savı aktarıp kölelik nedeniyle eleştiriyor. Bu, savın dolaşıma girdiğini gösterir; benimsendiğini göstermez. Aynı metnin görünmesi, destek yerine karşı anlatının malzemesi hâline geldiğine de işaret edebilir."
+          "title": "Alıntı ile onay arasındaki ayrım",
+          "text": "Varsayımsal bir gazete, The Index’teki savı aktararak kölelik nedeniyle eleştirmektedir. Bu kullanım, savın dolaşıma girdiğini göstermekte, ancak benimsendiğini göstermemektedir. Aynı metnin yayımlanması, destek sağlamaktan ziyade karşı anlatının dayanağı olarak kullanıldığına da işaret edebilir."
         },
         "checkpoint": {
           "question": "Meşruiyet sorunu neden daha çok yayınla mutlaka çözülmez?",
@@ -78,15 +78,15 @@
       {
         "id": "evidence",
         "title": "5. Kaynak eleştirisi: hangi belge, hangi sonuç?",
-        "why": "İddianın kapsamını kaynağın taşıyabileceği düzeye indiriyoruz.",
+        "why": "İddianın kapsamı, kaynakların destekleyebildiği çıkarımlarla sınırlandırılmalıdır.",
         "paragraphs": [
-          "Kaynak eleştirisi, belgeyi şüpheli diye atmak değildir. Belgeyi kimin, ne zaman, hangi amaç ve bilgi imkânıyla ürettiğini sormaktır. Fiyat serisi piyasa hareketini, yardım kaydı toplumsal müdahaleyi, kabine yazışması karar değerlendirmesini gösterebilir. Bir kaynak kendi sorusu için güçlü, başka bir soru için yetersiz olabilir.",
+          "Kaynak eleştirisi, belgeyi kuşkulu olduğu gerekçesiyle dışlamak yerine, üreticisini, tarihini, amacını ve üreticinin bilgiye erişimini incelemeyi gerektirir. Fiyat serisi piyasa hareketini, yardım kaydı toplumsal müdahaleyi, kabine yazışması karar değerlendirmesini gösterebilir. Bir kaynak kendi sorusu için güçlü, başka bir soru için yetersiz olabilir.",
           "Kurumsal raporlar başarıyı öne çıkarabilir; muhalif gazeteler başarısızlığı seçebilir; anılar sonradan oluşan bilgiyi geçmişe taşıyabilir. Bu eğilimler bütün içeriğin yanlış olduğunu göstermez. Önemli olan somut iddiaları bağımsız kaynaklarla karşılaştırmaktır. Aynı ilk haberi kopyalayan üç gazete, birbirinden bağımsız üç doğrulama olarak sayılmamalıdır; bilgi akışının kökeni izlenmelidir.",
           "Temsil ve arşiv korunumu da değerlendirmeye girer. Eldeki işçi mektupları bütün işçileri kapsamayabilir; karar kaydının bulunmaması kararın hiç tartışılmadığını göstermez. Bilinmeyen ile gerçekleşmeyen ayrılmalıdır. Bununla birlikte her belirsizlik bütün yorumları eşitlemez: Tarihi, kapsamı ve kökeni bilinen kaynaklar, sınırları belirtilmiş çıkarımları yine de destekleyebilir."
         ],
         "example": {
-          "title": "Kanıtı aşan fiil",
-          "text": "Varsayımsal bir öğrenci, “Gazete hükümeti ikna etti” yazıyor; elindeki tek belge gazetenin ilgili sayısı. Daha savunulabilir ifade “Gazete tanınmayı savunan bir yazı yayımladı”dır. İkna iddiası için karar sürecine uzanan ek izler gerekir."
+          "title": "Nedensel iddianın kanıtla sınırlandırılması",
+          "text": "Varsayımsal örnekte bir öğrenci, elindeki tek belge gazetenin ilgili sayısı olduğu hâlde “Gazete hükümeti ikna etti” ifadesini kullanmaktadır. Kanıtla daha uyumlu ifade, “Gazete tanınmayı savunan bir yazı yayımladı”dır. İkna iddiası, yayını karar sürecine bağlayan ilave izler gerektirir."
         },
         "checkpoint": {
           "question": "Üç benzer haber, neden üç bağımsız kanıt olmayabilir?",
@@ -95,8 +95,8 @@
       },
       {
         "id": "explanation",
-        "title": "6. Başarısızlığın yerini bulmak ve genellemeyi sınırlamak",
-        "why": "Çok nedenli açıklamayı yalnız neden listesi olmaktan çıkarıyoruz.",
+        "title": "6. Başarısızlığın aşamaları ve genellemenin sınırları",
+        "why": "Çok nedenli açıklama, nedenlerin sıralanmasının ötesinde işleyişlerini göstermelidir.",
         "paragraphs": [
           "Kral Pamuk stratejisinin istenen sonuca ulaşamaması, ekonomik etkilerin hiç oluşmadığı anlamına gelmez. Stoklar zaman kazandırdı, alternatif arz gelişti, kölelik meşruiyeti zedeledi ve hükümetler savaş riskini tarttı. Bu nedenlerin listesi başlangıçtır; açıklama, hangi dönemde hangi bağlantıyı nasıl etkilediklerini gösterdiğinde güçlenir. Aynı etkenin önemi zaman içinde değişebilir.",
           "Süreç izleme, olayları yalnız sıraya koymak değil, bir aşamanın sonraki aşamaya hangi karar veya davranış üzerinden bağlandığını araştırmaktır. Hükümetin pamuk sıkıntısını tartışması etki için bir izdir; fakat bütün tercihini onun belirlediğini göstermez. Askerî beklentiler ve güvenlik maliyetleri aynı karar içinde daha ağır basmış olabilir.",
@@ -104,18 +104,18 @@
         ],
         "example": {
           "title": "Sonucu bölerek açıklama",
-          "text": "Varsayımsal sonuç paragrafı, ekonomik zarar bulunduğunu fakat hükümetin savaş riskini daha ağır gördüğünü söylüyor. Bu, zarar ile tavizi ayıran bir açıklamadır. Yine de ikinci cümle ancak hükümet değerlendirmesine ilişkin kanıt varsa savunulabilir."
+          "text": "Varsayımsal sonuç paragrafında ekonomik zarar saptanmakta, ancak hükümetin savaş riskine daha fazla ağırlık verdiği ileri sürülmektedir. Bu açıklama zarar ile tavizi ayrıştırır. İkinci önerme, yalnız hükümetin değerlendirmesine ilişkin kanıtla desteklendiğinde savunulabilir."
         },
         "checkpoint": {
           "question": "Başarısızlık incelemesinde ilk soru ne olmalıdır?",
-          "answer": "“Hiç etkisi oldu mu?” yerine “Hangi hedef, hangi dönemde, hangi aşamada gerçekleşmedi?” sorusu daha belirli kanıt aramayı sağlar."
+          "answer": "Araştırma, genel bir etki sorusuyla sınırlanmamalı; hangi hedefin, hangi dönemde ve hangi aşamada gerçekleşmediğini belirlemelidir. Bu ayrım, daha belirli kanıtların araştırılmasını sağlar."
         }
       }
     ],
     "visuals": [
       {
         "kind": "flow",
-        "title": "Kaynak nasıl diplomatik sonuca dönüşebilir?",
+        "title": "Ekonomik kaynaktan diplomatik sonuca olası mekanizma",
         "caption": "Oklar zorunlu sonuçları değil araştırılacak bağlantıları gösterir. Her aşamada uyum, karşı tepki veya başka öncelikler zinciri değiştirebilir.",
         "nodes": [
           {
@@ -138,12 +138,12 @@
       },
       {
         "kind": "comparison",
-        "title": "Birbirine benzeyen fakat farklı olanlar",
+        "title": "Analitik olarak ayrıştırılması gereken olgular",
         "caption": "Aynı görünür sonuç, farklı mekanizmalardan doğabilir; karşılaştırma yanlış eşitlikleri önler.",
         "columns": [
           "Ayrım",
-          "Birinci taraf",
-          "İkinci taraf"
+          "Birinci olgu",
+          "İkinci olgu"
         ],
         "rows": [
           [
@@ -170,7 +170,7 @@
       },
       {
         "kind": "matrix",
-        "title": "Kanıtın taşıdığı ve taşımadığı yük",
+        "title": "Kanıtın desteklediği iddialar ve çıkarım sınırları",
         "caption": "Sütunlar kaynağı değersizleştirmez; her kaynağın hangi soruya cevap verdiğini belirler.",
         "columns": [
           "Kaynak",
@@ -203,40 +203,40 @@
     ],
     "cases": [
       {
-        "title": "Vaka çözümü: fiyat artışından tanınmaya atlamak",
-        "scenario": "Varsayımsal araştırma dosyasında bir fiyat artışı, fabrika sahibinin müdahale çağrısı ve hükümetin savaş riskine ilişkin yazışması bulunuyor. Dosya gerçek bir arşiv bulgusu olarak sunulmuyor.",
+        "title": "Vaka çözümü: fiyat artışından tanınmaya ilişkin çıkarım",
+        "scenario": "Varsayımsal araştırma dosyasında fiyat artışı, bir fabrika sahibinin müdahale çağrısı ve hükümetin savaş riskine ilişkin yazışması bulunmaktadır. Dosya, gerçek bir arşiv bulgusu olarak sunulmamaktadır.",
         "steps": [
-          "Önce üç gözlemi ayır: ekonomik değişim, toplumsal talep ve karar değerlendirmesi. Birlikte bulunmaları, otomatik olarak kesintisiz etki zinciri kurmaz.",
-          "Talebin hükümete ulaştığını gösteren tarihi veya yazışma bağlantısını ara. Aynı dönemde yazılmış olmak, belgelerin birbirini etkilediğini tek başına göstermez.",
-          "Hükümetin alternatifleri nasıl sıraladığını incele. Pamuk sıkıntısı kabul edilip savaş riski daha ağır görülebilir; bu durumda baskı vardır ama istenen taviz yoktur."
+          "Ekonomik değişim, toplumsal talep ve karar değerlendirmesine ilişkin üç gözlemi ayrıştırınız. Birlikte bulunmaları, kesintisiz bir etki zincirini kendiliğinden kanıtlamaz.",
+          "Talebin hükümete ulaştığını gösteren tarih veya yazışma bağlantısını araştırınız. Aynı dönemde yazılmış olmaları, belgelerin birbirini etkilediğini tek başına göstermez.",
+          "Hükümetin alternatifleri nasıl sıraladığını inceleyiniz. Pamuk sıkıntısı kabul edilirken savaş riskine daha fazla ağırlık verilmiş olabilir; bu durumda baskı bulunmakta, ancak istenen taviz gerçekleşmemektedir."
         ],
         "conclusion": "Savunulabilir sonuç, pamuk maliyetinin karar ortamına girmiş olabileceğidir. Nihai tercihi belirlediğini söylemek için daha güçlü bağlantı gerekir."
       },
       {
         "title": "Vaka çözümü: yüksek görünürlük, belirsiz kabul",
-        "scenario": "Varsayımsal dosyada bir Konfederasyon savı farklı gazetelerde tekrar ediliyor. Bazıları eleştiriyor; okuyucu mektupları yalnız bir şehirden korunmuş.",
+        "scenario": "Varsayımsal dosyada bir Konfederasyon savı farklı gazetelerde tekrarlanmaktadır. Bazı gazeteler savı eleştirmektedir; korunmuş okuyucu mektupları ise yalnız bir şehirden gelmektedir.",
         "steps": [
-          "Yeniden basımların ortak kaynağını izle. Aynı haberin kopyaları erişim göstergesi olabilir; bağımsız destek sayısı değildir.",
-          "Gazetelerin başlıklarını ve yorumlarını karşılaştır. Alıntı, destek amacıyla da itirazı görünür kılmak için de kullanılabilir.",
-          "Okuyucu mektuplarının yerini, tarihini ve seçilme biçimini kaydet. Tek şehirden gelen yanıtları Avrupa kamuoyuna genelleme."
+          "Yeniden basımların ortak kaynağını izleyiniz. Aynı haberin kopyaları erişim göstergesi olabilir; ancak bağımsız destek sayısı olarak kullanılamaz.",
+          "Gazetelerin başlıklarını ve yorumlarını karşılaştırınız. Alıntı, destek sağlama amacıyla kullanılabileceği gibi itirazı görünür kılmak için de kullanılabilir.",
+          "Okuyucu mektuplarının yerini, tarihini ve seçilme biçimini kaydediniz. Tek şehirden gelen yanıtları Avrupa kamuoyuna genellemeyiniz."
         ],
         "conclusion": "Dolaşım belgelenebilir; kabulün kapsamı belirsiz kalabilir. Eksik alımlama kanıtı, ne evrensel başarı ne de mutlak etkisizlik hükmü verir."
       }
     ],
     "practice": {
-      "title": "Excel ile koşullu bir açıklama kur",
-      "task": "Öğrenci kanıt matrisinde Kral Pamuk stratejisi için kaynak, iddia, ara bağlantı ve sınır ilişkisini kur. Gerçek belgeleri kullanıyorsan künyelerini ekle; alıştırma verilerini açıkça varsayımsal olarak işaretle.",
+      "title": "Excel ile koşullu açıklama geliştirme",
+      "task": "Öğrenci kanıt matrisinde Kral Pamuk stratejisi için kaynak, iddia, ara bağlantı ve sınır arasındaki ilişkileri kurunuz. Gerçek belgelerin künyelerini ekleyiniz; alıştırma verilerini açıkça varsayımsal olarak işaretleyiniz.",
       "steps": [
-        "Fiyat veya ithalat kaydını ekonomik etki satırına yerleştir; zaman ve coğrafi kapsamını yaz.",
-        "Toplantı, dilekçe veya gazete kaydını ayrı satıra koy; konuşanın kim olduğunu ve kimi temsil etmediğini belirt.",
-        "Hükümet tercihi için hangi belgenin eksik olduğunu yaz; belgesiz bağlantıyı kesin sonuçla doldurma.",
-        "İkame arz veya savaş riski gibi bir rakip açıklama ekle; onu sınamak için gereken kaynağı belirt."
+        "Fiyat veya ithalat kaydını ekonomik etki satırına yerleştiriniz; zamanını ve coğrafi kapsamını belirtiniz.",
+        "Toplantı, dilekçe veya gazete kaydını ayrı bir satıra yerleştiriniz; ifadenin sahibini ve temsil kapsamının dışında kalanları belirtiniz.",
+        "Hükümet tercihi için hangi belgenin eksik olduğunu belirtiniz; belgelenmemiş bağlantı hakkında kesin sonuç ileri sürmeyiniz.",
+        "Alternatif arz veya savaş riski gibi bir rakip açıklama ekleyiniz; bu açıklamayı sınamak için gereken kaynağı belirtiniz."
       ],
-      "modelAnswer": "Örnek koşullu yanıt: Pamuk kıtlığı ekonomik maliyet yarattı ve bazı grupların taleplerinde yer buldu. Eldeki kayıtlar bu taleplerin kabine tercihini belirlediğini göstermiyor. Savaş riski ve alternatif tedarik olasılığı birlikte incelenmelidir. Bu nedenle ekonomik etki için kanıt bulunurken istenen diplomatik sonuç hakkında daha dar bir hüküm kurulabilir."
+      "modelAnswer": "Örnek koşullu değerlendirme: Pamuk kıtlığı ekonomik maliyet yaratmış ve bazı grupların taleplerinde yer almıştır. Mevcut kayıtlar, bu taleplerin kabine tercihini belirlediğini göstermemektedir. Savaş riski ile alternatif tedarik imkânları birlikte araştırılmalıdır. Ekonomik etkiye ilişkin kanıt bulunması, istenen diplomatik sonucun gerçekleştiği iddiasından daha sınırlı bir sonucu desteklemektedir."
     },
     "faqs": [
       {
-        "question": "Ekonomik baskı işe yaramadıysa pamuk önemsiz miydi?",
+        "question": "Ekonomik baskının başarısızlığı, pamuğun önemsizliğini gösterir mi?",
         "answer": "Hayır. Bir kaynak ciddi maliyet yaratıp istenen siyasi kararı sağlayamayabilir. Kaynağın önemi ile stratejik başarının derecesi ayrı değerlendirilir."
       },
       {
@@ -251,38 +251,38 @@
     "sourceNote": "Bu açıklama, dersin dördüncü hafta içerikleri ile mevcut başlangıç notlarının kavramsal ve tarihsel çerçevesini geliştirir. The Index, hükümet kayıtları ve işçi kaynakları burada farklı kanıt türleri olarak ele alınmıştır; yeni belge keşfi veya doğrudan alıntı iddia edilmez. Varsayımsal vakalar, tarihsel veri yerine yöntem alıştırmasıdır."
   },
   "en": {
-    "orientation": "This supplement combines historical explanation with causal reasoning to examine why King Cotton did not deliver its expected diplomatic result. The issue is not whether economic resources matter, but when, through whom and over what period they change political choices. At each stage, distinguish what a source establishes from the conclusion an investigator draws.",
+    "orientation": "This section integrates historical explanation and causal reasoning to examine why King Cotton did not secure its expected diplomatic outcome. Analysis concerns the significance of economic resources and the conditions, intermediaries and time periods through which a particular resource may alter political choices. At each stage, the finding established by a source must be distinguished from the investigator’s inference.",
     "sections": [
       {
         "id": "resource",
         "title": "1. Resources, dependence and bargaining power",
-        "why": "Economic importance must be distinguished from political success.",
+        "why": "Economic importance and political success require conceptual distinction.",
         "paragraphs": [
-          "A resource is something an actor can use; bargaining power is the capacity to alter another actor’s options within a particular relationship. Southern cotton’s importance to European textiles gave the Confederacy a significant initial resource. Possessing that resource, however, differed from determining British or French government decisions. Define success through the decision being sought.",
+          "A resource is an asset available to an actor; bargaining power is the capacity to alter another actor’s options within a particular relationship. Southern cotton’s importance to European textiles gave the Confederacy a significant initial resource. Possessing that resource, however, differed from determining British or French government decisions. Success must be defined in relation to the decision sought.",
           "Dependence involves more than consuming a large amount of a commodity. The cost of obtaining substitutes, the duration of stocks and opportunities to adapt production also matter. A country may import heavily yet find alternatives quickly. Aggregate pre-war trade figures therefore cannot fully measure political vulnerability during the war.",
-          "The Confederate expectation connected interrupted supply to hardship, then to recognition, mediation or intervention. These outcomes are not synonyms. Recognition concerns political status; mediation involves seeking a settlement between parties; intervention covers a broader range of actions. Specify which outcome is being evaluated before claiming that economic pressure succeeded or failed."
+          "The Confederate expectation connected interrupted supply to hardship, then to recognition, mediation or intervention. These outcomes are not synonyms. Recognition concerns political status; mediation involves seeking a settlement between parties; intervention covers a broader range of actions. Assessment of economic pressure as successful or unsuccessful requires prior specification of the outcome under evaluation."
         ],
         "example": {
-          "title": "The flour supplier’s limits",
+          "title": "Limits of bargaining power in the flour-supplier analogy",
           "text": "In a hypothetical analogy, a sole flour supplier suspends sales to win a bakery’s support. Stocks or another supplier weaken the threat. The analogy explains adaptation, but must not reduce governments’ calculations about war and legitimacy to a commercial contract."
         },
         "checkpoint": {
-          "question": "Why does needing cotton not establish concession?",
+          "question": "Why is demand for cotton insufficient evidence of political concession?",
           "answer": "Need is an initial condition. Alternative costs, transmission of political demands and the authorised decision-maker’s choice require separate evidence."
         }
       },
       {
         "id": "disruption",
-        "title": "2. Attributing supply disruption to the right actor",
+        "title": "2. Attributing supply disruptions to actors",
         "why": "Similar economic outcomes can result from different actions.",
         "paragraphs": [
-          "Early voluntary cotton withholding involved Southern producers and advocates restricting exports. The Union blockade was an opposing military operation against Southern trade. Both could reduce European supplies, but they were not undertaken by the same actor for the same purpose. Treating scarcity as the direct output of one centrally administered Confederate plan erases this distinction.",
-          "A causal explanation must identify an intervention before measuring its effects. Ask where, when and how each disruption operated. Falling exports could reflect withholding, blockade and other wartime conditions. Total cotton volumes alone cannot reliably separate the contributions of factors changing simultaneously. Their timing and operation need independent investigation.",
-          "Time belongs inside the mechanism. European stocks delayed the first shock; higher prices encouraged alternative supply and production adjustment. Pressure could therefore elicit responses that reduced dependence. Applying an initial dependence measure unchanged throughout the war overlooks a relationship that could be altered by the very strategy under examination."
+          "Early voluntary cotton withholding involved Southern producers and advocates restricting exports. The Union blockade was an opposing military operation against Southern trade. Both could reduce European supplies, but they were not undertaken by the same actor for the same purpose. Treating scarcity as the direct output of one centrally administered Confederate plan obscures this analytical distinction.",
+          "A causal explanation must identify an intervention before measuring its effects. Analysis must establish where, when and how each disruption operated. Falling exports could reflect withholding, blockade and other wartime conditions. Total cotton volumes alone cannot reliably separate the contributions of factors changing simultaneously. Their timing and operation need independent investigation.",
+          "Temporal dynamics form part of the causal mechanism. European stocks delayed the first shock; higher prices encouraged alternative supply and production adjustment. Pressure could therefore elicit responses that reduced dependence. Applying an initial dependence measure unchanged throughout the war overlooks a relationship that could be altered by the very strategy under examination."
         ],
         "example": {
-          "title": "One number, two possible processes",
-          "text": "In a hypothetical investigation, port records show falling exports. This supports disruption but does not identify its cause alone. Producers’ correspondence and blockade records offer separate ways to investigate which mechanisms operated in different periods."
+          "title": "Distinct causal processes underlying one indicator",
+          "text": "In a hypothetical investigation, port records indicate falling exports. The finding supports supply disruption without independently identifying its cause. Producers’ correspondence and blockade records provide distinct sources for investigating which mechanisms operated in particular periods."
         },
         "checkpoint": {
           "question": "What does falling export volume directly support?",
@@ -291,16 +291,16 @@
       },
       {
         "id": "publics",
-        "title": "3. Hardship does not create one political demand",
-        "why": "Different interests and decision-making powers must remain visible.",
+        "title": "3. Economic hardship and differentiated political demands",
+        "why": "Differences in social interests and the distribution of decision-making authority require separate examination.",
         "paragraphs": [
-          "European public opinion cannot be treated as one person. Textile workers, factory owners, port merchants, anti-slavery groups and governments encountered different costs. A worker could lose income while continuing to oppose slavery without contradiction. People can weigh material interests alongside moral judgments, and the relative importance of those considerations can change.",
+          "European public opinion cannot be treated as a homogeneous actor. Textile workers, factory owners, port merchants, anti-slavery groups and governments encountered different costs. A worker could lose income while continuing to oppose slavery without contradiction. People can weigh material interests alongside moral judgements, and the relative importance of those considerations can change.",
           "Translating a social demand into political influence requires organisation and access. A meeting resolution must reach government, receive attention and acquire weight relative to competing demands. These are separate stages. Presenting a local petition as a national preference bypasses both the problem of representation and the role of decision-making institutions.",
           "Attribution of responsibility also matters. A worker might blame Confederate pressure, the Union blockade, their own government or the war generally. Identical unemployment could direct anger towards different targets. Economic records need letters, meeting minutes and press commentary before investigators infer which political meaning hardship acquired."
         ],
         "example": {
           "title": "The limits of representation",
-          "text": "Hypothetically, one workers’ meeting supports the Union while another demands mediation. Together they demonstrate diversity. Without information about attendance, location and organisation, neither can be assumed to represent all workers."
+          "text": "In a hypothetical example, one workers’ meeting supports the Union while another requests mediation. Together, the records demonstrate diversity of opinion. Without information about attendance, location and organisation, neither meeting can be treated as representative of all workers."
         },
         "checkpoint": {
           "question": "Does a workers’ meeting establish government choice?",
@@ -310,14 +310,14 @@
       {
         "id": "legitimacy",
         "title": "4. Communication and the order being defended",
-        "why": "Persuasiveness cannot be explained through presentation techniques alone.",
+        "why": "Persuasiveness depends on the policy being defended as well as its presentation.",
         "paragraphs": [
           "Legitimacy means being regarded as justified and acceptable. Confederate advocates used independence, constitutional rights and free trade as frames. Yet the protection of slavery constrained their credibility, especially among anti-slavery audiences. The problem was not simply insufficient publicity: the message conflicted with observable features of the political order it defended.",
-          "Henry Hotze and The Index carried arguments into local debate. An intermediary is not a neutral pipe: it selects information, adds interpretation and uses its community’s language. Official support, editorial intervention and local initiative should be distinguished. Similar messages alone do not establish complete central control over the people circulating them.",
-          "Two interpretations may compete: weak communication prevented support, or objectionable policy constrained communication. Compare reach records with the substance of criticism to distinguish them. Failing to encounter a message, misunderstanding it and deliberately rejecting it are different states. Automatically treating criticism as ignorance makes the audience’s judgment disappear from the explanation."
+          "Henry Hotze and The Index carried arguments into local debate. An intermediary is not a neutral transmission channel: it selects information, adds interpretation and uses its community’s language. Official support, editorial intervention and local initiative should be distinguished. Similar messages alone do not establish complete central control over the people circulating them.",
+          "Two interpretations may compete: weak communication prevented support, or objectionable policy constrained communication. Distinguishing these explanations requires comparison of reach records with the substance of criticism. Failing to encounter a message, misunderstanding it and deliberately rejecting it are different states. Automatically treating criticism as ignorance excludes the audience’s own judgement from the explanation."
         ],
         "example": {
-          "title": "Does quotation imply approval?",
+          "title": "Distinguishing quotation from endorsement",
           "text": "A hypothetical newspaper reproduces an argument from The Index and criticises it over slavery. The argument circulated, but was not necessarily accepted. Its appearance may show that it became material for a counter-narrative."
         },
         "checkpoint": {
@@ -328,14 +328,14 @@
       {
         "id": "evidence",
         "title": "5. Source criticism: which document supports which conclusion?",
-        "why": "Limit claims to what their sources can sustain.",
+        "why": "The scope of a claim must remain within the inferences its sources can support.",
         "paragraphs": [
-          "Source criticism does not mean discarding a document because it has a perspective. Ask who produced it, when, for what purpose and with what access to information. Prices indicate market movement, relief records social responses, and cabinet correspondence deliberation. A source can be strong for one question yet inadequate for another.",
-          "Institutional reports may highlight success, opposition newspapers select failure, and memoirs project later knowledge backwards. These tendencies do not make every statement false. Compare specific claims with independent evidence. Three newspapers copying one original report are not three independent confirmations; investigate where their information originated and how it travelled.",
-          "Representation and archival survival matter too. Surviving workers’ letters may not represent all workers; missing decision records do not establish that an issue was never discussed. Distinguish unknown from absent. Nevertheless, uncertainty does not make every interpretation equally plausible: sources with known dates, scope and origins can support carefully limited inferences."
+          "Source criticism does not mean discarding a document because it has a perspective. It examines who produced the document, when, for what purpose and with what access to information. Prices indicate market movement, relief records social responses, and cabinet correspondence deliberation. A source can be strong for one question yet inadequate for another.",
+          "Institutional reports may highlight success, opposition newspapers select failure, and memoirs project later knowledge backwards. These tendencies do not make every statement false. Specific claims require comparison with independent evidence. Three newspapers copying one original report are not three independent confirmations; their informational origins and transmission require investigation.",
+          "Representation and archival survival also affect interpretation. Surviving workers’ letters may not represent all workers; missing decision records do not establish that an issue was never discussed. Unknown outcomes must be distinguished from events known not to have occurred. Nevertheless, uncertainty does not make every interpretation equally plausible: sources with known dates, scope and origins can support carefully limited inferences."
         ],
         "example": {
-          "title": "A verb exceeding the evidence",
+          "title": "Bounding causal claims by available evidence",
           "text": "A hypothetical student writes “The newspaper persuaded the government” while possessing only the newspaper itself. “The newspaper published an argument for recognition” is more defensible. Persuasion requires additional traces connecting publication to the decision process."
         },
         "checkpoint": {
@@ -345,12 +345,12 @@
       },
       {
         "id": "explanation",
-        "title": "6. Locate failure and limit generalisation",
-        "why": "A multicausal explanation must do more than list causes.",
+        "title": "6. Stages of failure and limits of generalisation",
+        "why": "A multicausal explanation must establish how causes operate beyond identifying their presence.",
         "paragraphs": [
-          "King Cotton’s failure to secure its desired outcome does not mean economic effects were absent. Stocks bought time, substitutes developed, slavery damaged legitimacy and governments considered war risks. Listing these factors is a beginning. Explanation strengthens when it shows which link each affected, how and during which period; their relative importance could change.",
+          "King Cotton’s failure to secure its desired outcome does not mean economic effects were absent. Stocks provided time for adjustment, substitutes developed, slavery damaged legitimacy and governments considered war risks. Identifying these factors is an initial analytical step. Explanation requires establishing which connection each affected, through what process and during which period; their relative importance could change.",
           "Process tracing means investigating the decisions or actions connecting successive stages, rather than merely arranging events chronologically. A government’s discussion of cotton hardship is a trace of possible influence, but does not establish that cotton determined its entire choice. Military expectations and security costs may have weighed more heavily within the same decision.",
-          "Comparison and counterfactual questions test scope: would pressure have been stronger without alternative supply? This question does not report unexperienced history as fact; it exposes a condition underlying the claim. When transferring lessons elsewhere, reconsider stocks, substitutes, political access and costs to the coercer. One case does not establish a universal law."
+          "Comparison and counterfactual questions test scope: would pressure have been stronger without alternative supply? This question does not report unexperienced history as fact; it exposes a condition underlying the claim. Applying the explanation to other cases requires reassessment of stocks, substitutes, political access and costs to the coercer. One case does not establish a universal law."
         ],
         "example": {
           "title": "Explaining by separating outcomes",
@@ -358,14 +358,14 @@
         },
         "checkpoint": {
           "question": "What should a failure investigation ask first?",
-          "answer": "Instead of “Did it have any effect?”, ask which objective remained unmet, at what stage and during which period."
+          "answer": "Investigation should specify which objective remained unmet, at what stage and during which period, rather than relying solely on a general question about influence. This distinction directs the search towards more specific evidence."
         }
       }
     ],
     "visuals": [
       {
         "kind": "flow",
-        "title": "How might a resource produce diplomatic outcomes?",
+        "title": "A possible mechanism linking economic resources to diplomatic outcomes",
         "caption": "Arrows indicate links to investigate, not necessary results. Adaptation, resistance or competing priorities can change the chain.",
         "nodes": [
           {
@@ -388,12 +388,12 @@
       },
       {
         "kind": "comparison",
-        "title": "Similar-looking but different phenomena",
+        "title": "Phenomena requiring analytical distinction",
         "caption": "The same visible result can arise through different mechanisms. Comparison prevents false equivalences.",
         "columns": [
           "Distinction",
-          "One side",
-          "The other side"
+          "First phenomenon",
+          "Second phenomenon"
         ],
         "rows": [
           [
@@ -420,7 +420,7 @@
       },
       {
         "kind": "matrix",
-        "title": "What evidence can and cannot carry",
+        "title": "Claims supported by evidence and limits of inference",
         "caption": "The columns do not discredit sources; they specify which question each can answer.",
         "columns": [
           "Source",
@@ -453,10 +453,10 @@
     ],
     "cases": [
       {
-        "title": "Worked case: jumping from prices to recognition",
-        "scenario": "A hypothetical research file contains rising prices, a factory owner’s intervention appeal and government correspondence about war risk. This is an exercise, not a reported archival discovery.",
+        "title": "Worked case: inferring recognition from price increases",
+        "scenario": "A hypothetical research file contains rising prices, a factory owner’s appeal for intervention and government correspondence about war risk. The file is an exercise rather than a reported archival discovery.",
         "steps": [
-          "Separate economic change, social demand and decision-making. Their coexistence does not automatically establish an uninterrupted influence chain.",
+          "Distinguish the three observations concerning economic change, social demand and deliberation. Their coexistence does not independently establish an uninterrupted causal sequence.",
           "Seek dates or correspondence connecting the demand to government. Documents written around the same time need not have influenced one another.",
           "Examine how government ranked alternatives. It might acknowledge cotton hardship while giving war risk greater weight; pressure then exists without the desired concession."
         ],
@@ -464,7 +464,7 @@
       },
       {
         "title": "Worked case: high visibility, uncertain acceptance",
-        "scenario": "A hypothetical file contains a Confederate argument repeated by several newspapers. Some criticise it; surviving reader letters come from only one city.",
+        "scenario": "A hypothetical file contains a Confederate argument repeated in several newspapers. Some newspapers criticise it, while surviving reader letters originate from only one city.",
         "steps": [
           "Trace the common origin of reprints. Copies of one report can indicate circulation but are not independent endorsements.",
           "Compare headlines and commentary. Quotation can promote an argument or make an objection visible.",
@@ -474,19 +474,19 @@
       }
     ],
     "practice": {
-      "title": "Build a conditional explanation in Excel",
-      "task": "Use the student evidence matrix to connect sources, claims, intermediate links and limitations for King Cotton. Identify real documents fully; label exercise material hypothetical.",
+      "title": "Developing a conditional explanation in Excel",
+      "task": "Use the student evidence matrix to establish relationships among sources, claims, intermediate connections and limitations for King Cotton. Provide full references for actual documents and explicitly label exercise data as hypothetical.",
       "steps": [
         "Place a price or import record under economic effects, recording its time and geographical scope.",
         "Give meeting, petition or newspaper evidence a separate row; identify its speaker and whom that speaker does not represent.",
         "Specify which government-decision document is missing; do not fill the unsupported connection with a definite conclusion.",
         "Add a rival explanation, such as alternative supply or war risk, and identify evidence needed to test it."
       ],
-      "modelAnswer": "An example conditional answer: Cotton scarcity imposed economic costs and appeared in some groups’ demands. Available records do not establish that those demands determined cabinet choice. War risk and alternative supply should be investigated together. Evidence of economic effects therefore supports a narrower conclusion than proof of the intended diplomatic outcome."
+      "modelAnswer": "Illustrative conditional assessment: Cotton scarcity imposed economic costs and appeared in some groups’ demands. Available records do not establish that these demands determined cabinet choice. War risk and opportunities for alternative supply require joint investigation. Evidence of economic effects supports a more limited conclusion than the claim that the intended diplomatic outcome was achieved."
     },
     "faqs": [
       {
-        "question": "If economic pressure failed, was cotton unimportant?",
+        "question": "Does the failure of economic pressure establish cotton’s insignificance?",
         "answer": "No. A resource can impose serious costs without securing the desired political decision. Assess its importance separately from strategic success."
       },
       {

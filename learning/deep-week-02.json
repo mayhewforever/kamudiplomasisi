@@ -1,20 +1,20 @@
 {
   "week": 2,
   "tr": {
-    "orientation": "Franklin vakası, kişisel itibarın diplomatik erişime nasıl katkı verebildiğini incelemek için elverişlidir. Ancak erişim, güven, maddi yardım ve ittifak aynı sonuç değildir. Bu hafta Amerikan bağımsızlık mücadelesinin ihtiyaçlarını, Fransız kararının koşullarını ve aradaki toplumsal ağları birlikte okuyacağız. Franklin'in katkısını küçültmeden, bütün süreci tek kişinin başarısına indirgemeyen bir açıklama kuracağız. Kamu diplomasisi burada dönemin resmî kurum adı değil, geçmişteki yabancı kamularla etkileşimi incelemek için kullandığımız bugünkü bir kavramdır.",
+    "orientation": "Franklin vakası, kişisel itibarın diplomatik erişime olası katkısını incelemek için elverişlidir. Erişim, güven, maddi yardım ve ittifak ise farklı sonuçlardır. Bu hafta Amerikan bağımsızlık mücadelesinin ihtiyaçları, Fransız kararının koşulları ve bu süreçleri ilişkilendiren toplumsal ağlar birlikte incelenmektedir. Amaç, Franklin’in katkısını korurken bütün süreci tek kişinin başarısına indirgemeyen bir açıklama geliştirmektir. Kamu diplomasisi burada dönemin resmî kurumsal adı olarak değil, geçmişte yabancı kamularla kurulan etkileşimi incelemeye yönelik güncel bir analitik kavram olarak kullanılmaktadır.",
     "sections": [
       {
         "id": "independence-and-support",
-        "title": "1. Bağımsızlık ilanı dış desteğin yerini neden tutmadı?",
-        "why": "Diplomatik sorunu açık tanımlamak, sonradan görülen ittifakı bütün faaliyetlerin tek ve kaçınılmaz sonucu gibi okumayı önler.",
+        "title": "1. Bağımsızlık ilanı ve dış destek ihtiyacı",
+        "why": "Diplomatik sorunun açık biçimde tanımlanması, sonraki ittifakın bütün faaliyetlerin tek ve kaçınılmaz sonucu olarak yorumlanmasını önler.",
         "paragraphs": [
-          "On Üç Koloni 1776'da bağımsızlık ilan ettiğinde, bunu söylemekle diğer devletlerin kabulünü elde etmiş olmadı. Savaşın sürdürülmesi için silah ve kredi, ticaret için bağlantılar, devletlik iddiası için tanınma gerekiyordu. İttifak daha ileri yükümlülükler yaratabilirdi. Bu ihtiyaçlar ilişkiliydi, fakat birbirinin yerine geçmiyordu. Bir malzeme teslimatı, açık diplomatik tanınmanın belgesi sayılamaz; bir sempati ifadesi de maddi destek değildir.",
-          "Fransa açısından karar yalnız Amerikan davasının çekiciliği değildi. Britanya'yı zayıflatma fırsatı ile başarısız olabilecek bir isyana bağlanmanın maliyeti birlikte değerlendiriliyordu. Böylece iletişim, askerî ve mali hesapların içinde yer aldı. Amerikan temsilcileri hem ihtiyaçlarını anlatmalı hem de yaşayabilir bir ortak olduklarına ilişkin belirsizliği azaltmalıydı. Buna rağmen iyi anlatılmış bir dava, karşı tarafın savaş riskini kendiliğinden ortadan kaldırmazdı.",
-          "Franklin 1776 sonlarında Fransa'ya geldiğinde Kongre komiteleri, Avrupa bağlantıları ve Silas Deane'in tedarik çalışmaları zaten vardı. Bu kronoloji, nedenleri ayırmak için önemlidir. Bir aktörün gelişiyle bütün faaliyetlerin başladığını varsaymak, önceki altyapıyı görünmez kılar. Analizde Franklin'in eklediği katkıyı mevcut ağlardan ayırmaya çalışın. Tam bir ayrım her zaman mümkün olmayabilir; bu durumda katkıyı koşullu biçimde ifade edin."
+          "On Üç Koloni’nin 1776’da bağımsızlık ilan etmesi, diğer devletlerin bu iddiayı kabul ettiği anlamına gelmiyordu. Savaşın sürdürülmesi için silah ve kredi, ticaret için bağlantılar, devletlik iddiası için tanınma gerekiyordu. İttifak daha ileri yükümlülükler yaratabilirdi. Bu ihtiyaçlar ilişkili olmakla birlikte birbirinin yerine geçmiyordu. Bir malzeme teslimatı açık diplomatik tanınmayı, bir sempati ifadesi ise maddi desteği tek başına belgeleyemez.",
+          "Fransa açısından karar yalnız Amerikan davasının çekiciliğine dayanmıyordu. Britanya’yı zayıflatma fırsatı, başarısız olabilecek bir isyana destek vermenin maliyetiyle birlikte değerlendiriliyordu. Dolayısıyla iletişim, askerî ve mali hesapların içinde işliyordu. Amerikan temsilcilerinin hem ihtiyaçlarını açıklaması hem de yaşayabilir bir ortak olduklarına ilişkin belirsizliği azaltması gerekiyordu. Bununla birlikte, etkili biçimde sunulan bir dava karşı tarafın savaş riskini kendiliğinden ortadan kaldıramazdı.",
+          "Franklin 1776 sonlarında Fransa’ya geldiğinde Kongre komiteleri, Avrupa bağlantıları ve Silas Deane’in tedarik çalışmaları zaten mevcuttu. Bu kronoloji, nedensel katkıların ayrıştırılması bakımından önemlidir. Bütün faaliyetlerin tek bir aktörün gelişiyle başladığını varsaymak, mevcut altyapıyı değerlendirme dışında bırakır. Analiz, Franklin’in ek katkısını önceden var olan ağlardan ayırmaya çalışmalıdır. Bu ayrım bütünüyle yapılamıyorsa katkı koşullu biçimde ifade edilmelidir."
         ],
         "example": {
           "title": "Varsayımsal benzetme: Yeni bir girişimin ortağı",
-          "text": "Yeni bir girişim tanınmış bir temsilci bulsa bile yatırımcılar bütçeyi, işi sürdürme kapasitesini ve riski sorar. Benzetme, itibarın değerlendirmeyi kolaylaştırmasını açıklar; devletlerin savaşa ilişkin kararlarını ticari sözleşmeye indirgemez."
+          "text": "Varsayımsal olarak, yeni bir girişimin tanınmış bir temsilci edinmesi yatırımcıların bütçe, faaliyetlerin sürdürülebilirliği ve risk hakkındaki değerlendirmelerini ortadan kaldırmaz. Benzetme, itibarın değerlendirmeyi kolaylaştırabileceğini gösterir; devletlerin savaş kararlarını ticari sözleşmelere indirgemez."
         },
         "checkpoint": {
           "question": "Bir yardım kaydı neden ittifakı kanıtlamaz?",
@@ -23,16 +23,16 @@
       },
       {
         "id": "reputation-and-networks",
-        "title": "2. Bilimsel itibar hangi yolu açabilir?",
-        "why": "Ün, bir başlangıç kaynağıdır. Etkisini açıklamak için tanınırlıktan belirli temaslara, temaslardan belirli karar kanallarına geçişi izlemek gerekir.",
+        "title": "2. Bilimsel itibar ve diplomatik erişim kanalları",
+        "why": "Tanınırlık başlangıçtaki bir kaynaktır. Etkisini açıklamak için bu kaynaktan belirli temaslara ve temaslardan karar kanallarına geçiş izlenmelidir.",
         "paragraphs": [
-          "Franklin'in elektrik araştırmaları ve Avrupa'daki uzun yazışmaları, diplomatik görevinden önce tanınırlık yaratmıştı. Bu ilişkiler yalnız propaganda amacıyla sonradan kurulmuş bir vitrin değildi. Bilinen uzmanlık ve karşılıklılık, görüşme talebinin dikkate alınmasını kolaylaştırabiliyordu. Ancak bilimsel alanda güvenilir olmak, askerî veya siyasi bütün iddiaların kabul edileceği anlamına gelmez. Güven konuya ve ilişkiye bağlıdır; bir alandan diğerine aktarılması araştırılmalıdır.",
-          "Varsayımsal olarak, güvendiğiniz bir öğretmenin bir kişiyi tanıştırması görüşme isteğinizi artırabilir. Fakat onun bütün önerilerini kabul etmezsiniz. Bu benzetmede tavsiye, erişim maliyetini azaltır; kararın yerine geçmez. Franklin için de hangi ilişki hangi editöre, yatırımcıya veya saray bağlantısına ulaşmayı kolaylaştırdı sorusu, genel popülerlik ifadesinden daha açıklayıcıdır. Bir temasın varlığı ile o temasta gerçekten bilgi aktarılması ayrı gözlemlerdir.",
+          "Franklin’in elektrik araştırmaları ve Avrupa’daki uzun süreli yazışmaları, diplomatik görevinden önce tanınırlık yaratmıştı. Bu ilişkiler yalnızca propaganda amacıyla sonradan oluşturulmuş bir sunumdan ibaret değildi. Tanınan uzmanlık ve karşılıklılık, görüşme talebinin dikkate alınmasını kolaylaştırabiliyordu. Ancak bilimsel güvenilirlik, askerî veya siyasi bütün iddiaların kabulünü garanti etmez. Güven konuya ve ilişkiye bağlıdır; bir alandan diğerine aktarılması ayrıca araştırılmalıdır.",
+          "Varsayımsal olarak, güvenilir bir öğretmenin yaptığı tanıştırma, muhatabın görüşme isteğini artırabilir; ancak sunulacak bütün önerileri kabul etmesini gerektirmez. Bu benzetmede tavsiye erişim maliyetini azaltır, kararın yerine geçmez. Franklin vakasında da hangi ilişkinin hangi editöre, yatırımcıya veya saray bağlantısına ulaşmayı kolaylaştırdığını belirlemek, genel bir popülerlik iddiasından daha açıklayıcıdır. Temasın varlığı ile bu temas sırasında bilgi aktarılması ayrı gözlemlerdir.",
           "İlişki ağı, bağlantılı kişilerden oluşur; aynı düşünceye sahip tek bir aktör değildir. Kongre adına çalışan Franklin, Deane ve Arthur Lee ile Fransız karar çevreleri farklı yetkilere sahipti. Çevirmenler, tüccarlar ve editörler de kendi amaçlarını izliyordu. Benzer mesajlar ortak talimat bulunduğunu kanıtlamaz. Eşgüdüm için yazışma, görev paylaşımı veya finansman gibi izler aranmalı; ağın imkânları kadar anlaşmazlıkları da hesaba katılmalıdır."
         ],
         "example": {
-          "title": "Varsayımsal örnek: Davet ile karar arasındaki mesafe",
-          "text": "Bir bilim çevresinin daveti, Franklin'in o çevreye erişimini gösterebilir. Davetlilerin siyasi görüşleri ve bir bakanın kararı ayrı sorulardır. Aynı daveti bu üç düzeyin hepsine kanıt diye yazmak, ilişkinin etkisini büyütür."
+          "title": "Varsayımsal örnek: Davet, değerlendirme ve karar ayrımı",
+          "text": "Bir bilim çevresinin daveti, Franklin’in o çevreye erişimini gösterebilir. Davetlilerin siyasi görüşleri ve bir bakanın kararı ise ayrı inceleme konularıdır. Aynı davetin üç düzey için de kanıt olarak kullanılması, ilişkinin etkisini olduğundan geniş gösterir."
         },
         "checkpoint": {
           "question": "Bilimsel itibar neden doğrudan siyasi destek değildir?",
@@ -41,12 +41,12 @@
       },
       {
         "id": "plural-french-publics",
-        "title": "3. Fransız kamuoyu yerine hangi Fransız çevresi?",
-        "why": "Genel bir ülke adı, farklı çıkarları ve karar yetkilerini örtebilir. Hedef kamuyu belirlemek açıklamanın ölçeğini düzeltir.",
+        "title": "3. Fransız kamularının farklılaşması ve temsil sorunu",
+        "why": "Bir ülkenin genel adıyla yapılan atıflar farklı çıkarları ve karar yetkilerini örtebilir. Hedef kamunun tanımlanması, açıklamanın uygun ölçekte kurulmasını sağlar.",
         "paragraphs": [
-          "Fransız sarayı, bakanlık çevreleri, bilim akademileri, salonlar, tüccarlar ve okurlar aynı soruları sormuyordu. Saray savaş riskini, tüccar ödeme ve ticaret imkânını, bilim çevresi uzmanlık ve itibarı değerlendirebilirdi. Bu farklılıklar basit bir destekleyenler ve karşı çıkanlar çizgisine sığmaz. Bir kişi Amerikan bağımsızlığına sempati duyarken savaşa girmenin maliyetinden çekinebilir. Tutumun konusu belirtilmeden destek ifadesi eksik kalır.",
-          "Franklin'in ziyaretçileri ve salon tanıdıkları toplumun tamamını temsil etmiyordu. Temsil sorunu, gözlenen kişilerin daha geniş topluluk hakkında ne söyleyebileceğidir. Seçkin çevrelerin önemi, nüfusu eksiksiz yansıtmalarından değil belirli bilgi ve karar kanallarına erişmelerinden gelebilir. Dolayısıyla iki soruyu ayırın: Kaç kişiyi temsil ediyorlar ve hangi karara nasıl ulaşabiliyorlar? Az sayıdaki bağlantının stratejik değeri yüksek olabilir, fakat bu genel kamuoyu değildir.",
-          "Yerel aracılar yalnız mesaj taşıyan borular değildir. Metni seçer, çevirir, vurguları değiştirir veya kendi tartışmasına uyarlarlar. Alımlama bu nedenle göndericinin niyetiyle aynı olmayabilir. Franklin'in sadelik imgesi bazı çevrelerde çekici bulunurken başka beklentilerle yorumlanabilirdi. Araştırma, Amerikalı temsilcinin anlatısını Fransız okurun tepkisinin yerine koymamalıdır. Destek mektubu belirli bir kişinin görüşünü verir; sessizlik ise otomatik onay sayılamaz."
+          "Fransız sarayı, bakanlık çevreleri, bilim akademileri, salonlar, tüccarlar ve okurlar farklı değerlendirmeler yapıyordu. Saray savaş riskini, tüccarlar ödeme ve ticaret imkânlarını, bilim çevreleri ise uzmanlık ve itibarı dikkate alabilirdi. Bu farklılıklar, destekleyenler ve karşı çıkanlar biçimindeki basit bir ayrımla açıklanamaz. Amerikan bağımsızlığına sempati duyan bir kişi aynı zamanda savaşa girmenin maliyetinden kaygılanabilir. Bu nedenle tutumun konusu belirtilmeden destek kavramı yeterince tanımlanmış olmaz.",
+          "Franklin’in ziyaretçileri ve salon tanıdıkları toplumun tamamını temsil etmiyordu. Temsil sorunu, gözlenen kişilere ilişkin bulguların daha geniş topluluk hakkında ne söyleyebileceğiyle ilgilidir. Seçkin çevrelerin önemi, nüfusu eksiksiz yansıtmalarından ziyade belirli bilgi ve karar kanallarına erişmelerinden kaynaklanabilir. Bu nedenle temsil ettikleri topluluk ile hangi karara nasıl ulaşabildikleri ayrı sorulardır. Az sayıdaki bağlantı stratejik önem taşıyabilir; ancak genel kamuoyunun göstergesi sayılamaz.",
+          "Yerel aracılar mesajları edilgen biçimde aktarmakla sınırlı değildir. Metni seçer, çevirir, vurgularını değiştirir veya kendi tartışmalarına uyarlarlar. Bu nedenle alımlama, göndericinin niyetiyle örtüşmeyebilir. Franklin’in sadelik imgesi bazı çevrelerde çekici bulunurken başka çevrelerde farklı beklentiler üzerinden yorumlanabilirdi. Araştırma, Amerikan temsilcisinin anlatısını Fransız okurların tepkisi yerine kullanmamalıdır. Destek mektubu belirli bir kişinin görüşünü kaydeder; sessizlik ise onay olarak kabul edilemez."
         ],
         "example": {
           "title": "Varsayımsal örnek: Aynı haberin iki okuru",
@@ -59,16 +59,16 @@
       },
       {
         "id": "listening-print-and-image",
-        "title": "4. Dinlemek, yayınlamak ve görünür olmak nasıl ayrılır?",
-        "why": "Faaliyetleri ayrı işlevlerle okumak, bütün başarıyı kişisel karizmaya bağlamak yerine işleyen iletişim süreçlerini görünür kılar.",
+        "title": "4. Dinleme, yayın ve görünürlüğün analitik ayrımı",
+        "why": "Faaliyetlerin işlev bakımından ayrıştırılması, sonucu bütünüyle kişisel karizmaya atfetmek yerine ilgili iletişim süreçlerinin incelenmesini sağlar.",
         "paragraphs": [
-          "Schindler'in yaklaşımı, Franklin'in faaliyetlerinde dinleme, değişim, savunuculuk ve basılı iletişimi birlikte incelemeye imkân verir. Dinleme yalnız nazik sohbet değildir; karşı tarafın kaygısını anlamaya çalışmaktır. Ancak bilgi edinmek ile bu bilgiyi kullanmak farklıdır. Bir mektupta Fransız çevrelerinin şüphesi aktarılmışsa gözlem vardır. Sonraki mesaj veya temas önceliği bu şüphe nedeniyle değişmişse, uyarlama iddiası daha güçlü hâle gelir.",
-          "Basılı metinlerde üretim, dağıtım, okuma, inanma ve eylem ayrı basamaklardır. Bir Amerikan metninin Fransızcaya çevrilmesi erişim ihtimalini artırır; kaç kişinin okuduğunu veya kabul ettiğini tek başına göstermez. Dönemin gazeteleri ve mektupları bu basamaklardan farklı izler bırakır. İki yayın aynı kaynaktan türemişse bağımsız doğrulama sayılmamalıdır. Bir metnin dolaşımı ile mesajın hedef kitle tarafından benimsenmesini farklı cümlelerle anlatın.",
-          "Franklin'in kamusal imgesi de kaynak eleştirisi gerektirir. Portreler, sade görünüm ve hatıra eşyaları görünürlüğü gösterebilir; bunlardan otomatik ittifak etkisi çıkarılamaz. Ayrıca özgürlük söyleminin sınırları vardı: Amerikan davasının cumhuriyetçi dili, monarşik Fransa'dan yardım arıyor ve Amerika'daki kölelik ile dışlanmayı ortadan kaldırmıyordu. Bu gerilimleri belirtmek imgenin hiç etkili olmadığını söylemek değil, çekiciliğin kime ve hangi konuda yöneldiğini sormaktır."
+          "Schindler’in yaklaşımı, Franklin’in faaliyetlerindeki dinleme, değişim, savunuculuk ve basılı iletişimin birlikte incelenmesine imkân verir. Dinleme, yalnızca nazik bir etkileşimden ibaret değildir; karşı tarafın kaygılarını anlamaya yönelir. Bununla birlikte bilgi edinmek ile bilgiyi kullanmak farklı aşamalardır. Fransız çevrelerinin şüphelerini aktaran bir mektup gözleme ilişkin kanıt sağlar. Sonraki mesajın veya temas önceliğinin bu şüpheler nedeniyle değişmesi, uyarlama iddiasını daha güçlü biçimde destekler.",
+          "Basılı metinlerin üretimi, dağıtımı, okunması, inandırıcı bulunması ve eyleme dönüşmesi ayrı aşamalardır. Bir Amerikan metninin Fransızcaya çevrilmesi erişilebilirliğini artırır; kaç kişinin metni okuduğunu veya kabul ettiğini tek başına göstermez. Dönemin gazeteleri ve mektupları bu aşamalara ilişkin farklı izler bırakır. Aynı kaynaktan türeyen iki yayın bağımsız doğrulama sayılmamalıdır. Metnin dolaşımı ile hedef kitle tarafından benimsenmesi ayrı iddialar olarak değerlendirilmelidir.",
+          "Franklin’in kamusal imgesi de kaynak eleştirisi gerektirir. Portreler, sade görünüm ve hatıra eşyaları görünürlüğü gösterebilir; ancak ittifak üzerindeki etkilerini tek başına kanıtlamaz. Özgürlük söyleminin de sınırları vardı: Amerikan davasının cumhuriyetçi dili, monarşik Fransa’dan yardım arıyor ve Amerika’daki kölelik ile dışlanmayı ortadan kaldırmıyordu. Bu gerilimlerin belirtilmesi, imgenin etkisiz olduğunu varsaymadan çekiciliğin hangi çevrelere ve meselelere ilişkin olduğunun araştırılmasını sağlar."
         ],
         "example": {
           "title": "Varsayımsal örnek: Düzeltmenin izini sürmek",
-          "text": "Bir mektup belirli bir söylentiyi bildiriyor, sonraki yayın o söylentiye yanıt veriyorsa dinleme ile uyarlama arasında olası bağ vardır. Bağı kurmak için tarih ve yazışma gerekir; yalnız metinlerin benzemesi yeterli değildir."
+          "text": "Bir mektubun belirli bir söylentiyi bildirmesi ve sonraki yayının bu söylentiye yanıt vermesi, dinleme ile uyarlama arasında olası bir bağlantıya işaret eder. Bağlantının kurulması kronoloji ve yazışma kanıtı gerektirir; metinler arasındaki benzerlik tek başına yeterli değildir."
         },
         "checkpoint": {
           "question": "Çeviri yapılması hangi aşamayı göstermez?",
@@ -77,16 +77,16 @@
       },
       {
         "id": "alliance-and-causation",
-        "title": "5. 1778 ittifakını birden çok nedenle açıklamak",
+        "title": "5. 1778 ittifakının çok nedenli açıklaması",
         "why": "Sonuçtan geriye giderek her önceki faaliyeti başarılı saymak yerine, zaman içindeki karar hesabını incelemek gerekir.",
         "paragraphs": [
-          "1777 Saratoga zaferi ve Britanya'nın teslimiyeti hakkındaki haberler, Amerikan direnişinin sürdürülebilirliğine ilişkin değerlendirmeyi değiştirdi. Fransa'nın Britanya'yı zayıflatma çıkarı ise daha geniş stratejik zemini oluşturuyordu. Bunlar Franklin'in itibarıyla aynı tür nedenler değildir. Stratejik çıkar neden destek düşünüldüğünü, askerî gelişme risk hesabının neden değişebildiğini, diplomatik ağlar ise müzakerenin hangi ilişkiler içinde yürüdüğünü açıklamaya yardım eder.",
+          "1777’de Saratoga’daki Amerikan zaferi ve buradaki Britanya teslimiyetine ilişkin haberler, Amerikan direnişinin sürdürülebilirliğine yönelik değerlendirmeleri değiştirdi. Fransa’nın Britanya’yı zayıflatma çıkarı daha geniş stratejik zemini oluşturuyordu. Bu nedenler, Franklin’in itibarından farklı analitik roller taşır. Stratejik çıkar desteğin neden değerlendirildiğini, askerî gelişme risk hesabının neden değişebildiğini, diplomatik ağlar ise müzakerenin hangi ilişkiler içinde yürütüldüğünü açıklamaya katkıda bulunur.",
           "1778'de Dostluk ve Ticaret Antlaşması tanınma ve ticari ilişkileri; İttifak Antlaşması askerî yükümlülükleri somutlaştırdı. Antlaşmalar önemli sonuç belgeleridir, fakat belirli bir salon konuşmasının ağırlığını kendi başlarına açıklamazlar. Bunun için karar öncesindeki seçenekleri, haberleri ve gerekçeleri izlemek gerekir. Yakın neden ile arka plan koşulunu ayırmak, tek bir olayın bütün açıklamayı üstlenmesini önler; aynı koşul farklı zamanda farklı önem taşıyabilir.",
           "Karşı olgusal soru şudur: Franklin'in ilişkileri bulunmasaydı hangi süreçler yine işleyebilirdi? Fransız stratejik çıkarı ve önceki tedarik bağlantıları ortadan kalkmayabilirdi. Bu, Franklin'in önemsizliğini kanıtlamaz; onun katkısını daha belirli hâle getirir. İlişkiler erişimi kolaylaştırmış, güveni desteklemiş veya bilgi belirsizliğini azaltmış olabilir. Bu katkılardan hangisinin savunulacağı belgelerin taşıdığı ağırlığa bağlıdır; vazgeçilmezlik iddiası daha güçlü kanıt ister."
         ],
         "example": {
           "title": "Varsayımsal yorum karşılaştırması",
-          "text": "Bir öğrenci ittifakı yalnız popülerlikle, diğeri yalnız askerî zaferle açıklar. Daha iyi çözüm, her açıklamanın hangi aşamayı aydınlattığını göstermektir. Birden çok nedenin bulunması, hepsinin eşit ağırlıkta olduğunu da göstermez."
+          "text": "Bir öğrencinin ittifakı yalnız popülerlikle, diğerinin ise yalnız askerî zaferle açıklaması durumunda, her açıklamanın hangi aşamaya ilişkin olduğu değerlendirilmelidir. Birden çok nedenin bulunması, bunların eşit ağırlık taşıdığını göstermez."
         },
         "checkpoint": {
           "question": "Antlaşma, Franklin'in tek başına belirleyici olduğunu kanıtlar mı?",
@@ -95,12 +95,12 @@
       },
       {
         "id": "sources-and-transfer",
-        "title": "6. Kaynak eleştirisinden bugüne aktarılabilir derse",
-        "why": "Tarihsel örnekten yararlanmak, görünür kişiliği taklit etmekten çok, ilişkilerin hangi koşullarda işe yaradığını anlamayı gerektirir.",
+        "title": "6. Kaynak eleştirisi ve tarihsel bulguların aktarılabilirliği",
+        "why": "Tarihsel örnekten çıkarım yapmak, görünür bir kişiliğin taklidinden ziyade ilişkilerin hangi koşullarda etkili olduğunu incelemeyi gerektirir.",
         "paragraphs": [
-          "Kaynak eleştirisinde önce belgenin üreticisini, muhatabını, tarihini ve amacını kaydedin. Franklin'in mektubu niyetini veya algısını gösterebilir; bütün Fransız toplumunun doğrudan kaydı değildir. Bir portre kamusal temsili, ziyaret kaydı teması, ticari sözleşme maddi işlemi gösterebilir. Aynı belge bazı iddialar için güçlü, bazıları için zayıftır. Belgenin döneme ait olması, tarafsız veya temsil gücü yüksek olduğu anlamına gelmez.",
-          "Amerikan, Fransız ve Britanya kaynaklarını karşılaştırmak farklı bakışları açabilir; ancak yalnız sayıyı artırmak yeterli değildir. Belgeler aynı haberden türemiş olabilir veya benzer seçkin çevreleri yansıtabilir. Arşivde çok görünür bir aktörün tarihsel etkisini otomatik büyük saymayın. Yazılı izi az olan yerel aracılar daha az görünür kalabilir. Sonradan yazılan başarı anlatıları da sonucu bildikleri için geçmişi kaçınılmaz bir yola dönüştürebilir.",
-          "Aktarım için önce mekanizmayı adlandırın: güvenilirlik, aracılık veya belirsizliğin azaltılması. Ardından günümüzdeki medya, kurum ve hedef kitle farklarını belirtin. Bilimsel itibarın erişim açması, her tanınmış kişinin her konuda güvenilir olacağı anlamına gelmez. Yerel ortağa alan açılması yararlı olabilir, fakat ortak kendi amaçlarını korur. Akademik sonuç, hangi katkının hangi koşulda gözlendiğini ve hangi bağlantının hâlâ eksik olduğunu açıklar."
+          "Kaynak eleştirisi, belgenin üreticisinin, muhatabının, tarihinin ve amacının belirlenmesiyle başlar. Franklin’in mektubu niyetini veya algısını gösterebilir; Fransız toplumunun tamamına ilişkin doğrudan bir kayıt değildir. Portre kamusal temsili, ziyaret kaydı teması, ticari sözleşme maddi işlemi gösterebilir. Aynı belgenin kanıt gücü, değerlendirilen iddiaya göre değişir. Belgenin döneme ait olması, tarafsız veya temsil gücü yüksek olduğunu göstermez.",
+          "Amerikan, Fransız ve Britanya kaynaklarının karşılaştırılması farklı bakış açılarını ortaya çıkarabilir; ancak yalnız kaynak sayısının artması yeterli değildir. Belgeler aynı haberden türemiş veya benzer seçkin çevreleri yansıtıyor olabilir. Bir aktörün arşivdeki görünürlüğü, tarihsel etkisinin büyüklüğüyle özdeşleştirilmemelidir. Daha az yazılı iz bırakan yerel aracılar kaynaklarda daha sınırlı yer alabilir. Sonraki başarı anlatıları da sonucu bilmenin etkisiyle, koşullara bağlı olayları geriye dönük olarak kaçınılmaz bir süreç gibi sunabilir.",
+          "Tarihsel bulgunun aktarımında önce güvenilirlik, aracılık veya belirsizliğin azaltılması gibi mekanizmalar tanımlanmalıdır. Ardından günümüzdeki medya, kurum ve hedef kitle farklılıkları belirtilmelidir. Bilimsel itibarın erişim sağlaması, tanınmış her kişinin her konuda güvenilir olduğunu göstermez. Yerel ortağa takdir alanı tanınması yararlı olabilir; ancak ortak kendi amaçlarını korur. Akademik sonuç, hangi katkının hangi koşullarda gözlendiğini ve hangi bağlantının henüz açıklanamadığını belirtmelidir."
         ],
         "example": {
           "title": "Varsayımsal aktarım: Güncel bir bilim temsilcisi",
@@ -139,7 +139,7 @@
       {
         "kind": "comparison",
         "title": "Dört farklı sonuç",
-        "caption": "Birinin kanıtı diğerinin yerine geçmez.",
+        "caption": "Bir sonuca ilişkin kanıt, diğer sonucun kanıtı yerine kullanılamaz.",
         "columns": [
           "Sonuç",
           "Ne değişir?",
@@ -171,10 +171,10 @@
       {
         "kind": "matrix",
         "title": "Franklin kaynaklarının sınırları",
-        "caption": "Kaynağın temsil ettiği çevreyi, anlattığı olaydan ayrı değerlendirin.",
+        "caption": "Kaynağın temsil ettiği çevreyi, aktardığı olaydan ayrı değerlendiriniz.",
         "columns": [
           "Kaynak",
-          "Güçlü olduğu soru",
+          "Yanıtlayabildiği soru",
           "Sınırı"
         ],
         "rows": [
@@ -204,67 +204,67 @@
     "cases": [
       {
         "title": "Tarihsel kaynak çalışması: 23 Aralık 1776 mektubu",
-        "scenario": "Franklin, Silas Deane ve Arthur Lee'nin Vergennes'e mektubu, ticaret antlaşması önerisini ve görüşme talebini içerir. Belgeyi bir başarı sonucu olarak değil, talebin kaydı olarak okuyun.",
+        "scenario": "Franklin, Silas Deane ve Arthur Lee’nin Vergennes’e mektubu, ticaret antlaşması önerisini ve görüşme talebini içerir. Belge, başarılı bir sonucun değil, söz konusu talebin kaydı olarak değerlendirilmelidir.",
         "steps": [
-          "Yazarları ve yetkilerini kaydedin. Üç temsilcinin mektubunu tek kişinin bağımsız faaliyeti gibi sunmayın; görev ilişkisini koruyun.",
-          "Metnin desteklediği dar iddiayı yazın: Amerikan tarafı öneri sunmuş ve temas istemiştir. Fransız kabulü aynı cümleden çıkmaz.",
-          "Kabul iddiası için yanıt ve müzakere kaydı arayın. Daha sonraki antlaşmanın varlığı, önceki talebin tek başına belirleyici olduğunu göstermez."
+          "Yazarları ve yetkilerini kaydediniz. Üç temsilcinin ortak mektubunu tek kişinin bağımsız faaliyeti olarak sunmayınız; görev ilişkilerini koruyunuz.",
+          "Metnin desteklediği sınırlı iddiayı belirtiniz: Amerikan temsilcileri öneri sunmuş ve temas talep etmiştir. Fransız kabulü bu ifadeden çıkarılamaz.",
+          "Kabul iddiası için yanıt ve müzakere kayıtlarını araştırınız. Daha sonraki antlaşmanın varlığı, önceki talebin tek başına belirleyici olduğunu göstermez."
         ],
         "conclusion": "Bu belge niyet ve girişim için güçlüdür; kabulün ve ittifakın nedenini açıklamak için başka kanıtlarla birleştirilmelidir."
       },
       {
         "title": "Varsayımsal vaka: Portrelerden ittifak sonucu çıkarmak",
-        "scenario": "Bir öğrenci Franklin portrelerinin dolaşımını görerek Fransız toplumunun ikna edildiğini ve bunun ittifakı yarattığını iddia ediyor. Buradaki çıkarım zinciri eğitim amacıyla kurulmuştur.",
+        "scenario": "Bir öğrenci, Franklin portrelerinin dolaşımından hareketle Fransız toplumunun ikna edildiğini ve bunun ittifakı doğurduğunu ileri sürmektedir. Bu çıkarım dizisi eğitim amacıyla oluşturulmuştur.",
         "steps": [
-          "İlk gözlemi daraltın: Portreler bir temsil biçiminin üretildiğini gösterir. Dolaşım için de dağıtım veya kullanım izi gerekir.",
-          "Satın alma veya sergilemenin farklı nedenlerini düşünün: Merak, moda, bilimsel hayranlık veya siyasi destek aynı şey değildir.",
-          "Toplumsal tepkiyi karar sürecine bağlayan belge arayın. Böyle bir belge yoksa görünürlük hakkında konuşun; ittifakın nedeni hakkında kesin hüküm kurmayın."
+          "İlk gözlemin kapsamını belirleyiniz: Portreler belirli bir temsil biçiminin üretildiğini gösterir. Dolaşım iddiası için ayrıca dağıtım veya kullanım izleri gereklidir.",
+          "Satın alma veya sergilemenin farklı gerekçelerini değerlendiriniz: Merak, moda, bilimsel hayranlık ve siyasi destek birbirinin yerine kullanılamaz.",
+          "Toplumsal tepkiyi karar sürecine bağlayan belgeleri araştırınız. Bunlar bulunmuyorsa sonucu görünürlükle sınırlayınız; ittifakın nedeni hakkında kesin hüküm vermeyiniz."
         ],
         "conclusion": "Görsel malzeme değerlidir, fakat gösterdiği imgeyi izleyicinin yorumu veya hükümet kararıyla eşitlememek gerekir."
       }
     ],
     "practice": {
-      "title": "Excel'de erişim ile ittifakı ayırın",
-      "task": "Öğrenci kanıt matrisinde bir mektup, bir görsel kaynak ve bir antlaşmayı farklı kanıt düzeyleriyle değerlendirin. Gerçekte incelemediğiniz belgeye içerik atfetmeyin.",
+      "title": "Excel’de erişim ve ittifak kanıtlarının ayrıştırılması",
+      "task": "Öğrenci kanıt matrisinde bir mektubu, bir görsel kaynağı ve bir antlaşmayı farklı kanıt düzeyleri bakımından değerlendiriniz. İncelenmemiş belgelere içerik atfetmeyiniz.",
       "steps": [
-        "Her satıra kaynak türünü, tarihini ve üreticisini yazın. Bilinmeyen alanları açık bırakmak yerine bilinmiyor olarak işaretleyin.",
-        "Kaynağın gösterebileceği sonucu erişim, değerlendirme, maddi işlem veya resmî yükümlülük olarak adlandırın.",
-        "Bir sonraki sonuca geçmek için eksik olan kanıtı ekleyin. Portreden doğrudan ittifaka ok çizmeyin; aradaki yorum ve karar aşamalarını düşünün.",
-        "14 haftalık rehberde ikinci hafta için bir sonuç paragrafı yazın. Franklin'in katkısını, Saratoga ve Fransız stratejik çıkarlarıyla aynı açıklamada ama farklı rollerle gösterin."
+        "Her satırda kaynak türünü, tarihini ve üreticisini kaydediniz. Eksik alanları boş bırakmak yerine “bilinmiyor” olarak işaretleyiniz.",
+        "Kaynağın destekleyebildiği sonucu erişim, değerlendirme, maddi işlem veya resmî yükümlülük olarak sınıflandırınız.",
+        "Bir sonraki sonuca geçmek için gereken ek kanıtı belirtiniz. Portre ile ittifak arasında doğrudan bağlantı kurmak yerine ara yorum ve karar aşamalarını değerlendiriniz.",
+        "14 haftalık rehberde ikinci haftanın sonuç paragrafını yazınız. Franklin’in katkısını, Saratoga’yı ve Fransız stratejik çıkarlarını aynı açıklamada farklı nedensel rollerle ele alınız."
       ],
-      "modelAnswer": "Örnek sonuç: Mektup Amerikan temsilcilerinin talebini, antlaşma ise kabul edilen yükümlülükleri gösterir. Aradaki ilişkiyi açıklamak için müzakere ve alımlama izleri gerekir. Franklin'in itibarı erişimi kolaylaştırmış olabilir; askerî gelişmeler ve Fransız çıkarları karar hesabının diğer parçalarıdır. Eldeki kaynaklar bunların kesin ağırlığını belirlemiyorsa bunu açıkça belirtmeliyiz."
+      "modelAnswer": "Örnek sonuç: Mektup Amerikan temsilcilerinin talebini, antlaşma ise kabul edilen yükümlülükleri göstermektedir. Aralarındaki ilişkiyi açıklamak için müzakere ve alımlama kanıtları gerekir. Franklin’in itibarı erişimi kolaylaştırmış olabilir; askerî gelişmeler ve Fransız çıkarları karar hesabına farklı katkılar sağlamıştır. Mevcut kaynaklar bu katkıların kesin ağırlığını belirlemeye yetmiyorsa söz konusu sınır açıkça belirtilmelidir."
     },
     "faqs": [
       {
-        "question": "Franklin önemliyse neden kahramanlık anlatısı yeterli değil?",
-        "answer": "Önemli katkı ile tek başına belirleyicilik farklı iddialardır. Komiteler, diğer temsilciler, aracılar ve Fransız karar koşulları hesaba katıldığında Franklin'in katkısı daha açık tanımlanabilir."
+        "question": "Franklin’in katkısının açıklanmasında kahramanlık anlatısının sınırları nelerdir?",
+        "answer": "Önemli katkı ile tek başına belirleyicilik farklı iddialardır. Komitelerin, diğer temsilcilerin, aracıların ve Fransız karar koşullarının değerlendirilmesi, Franklin’in rolünün daha açık tanımlanmasını sağlar."
       },
       {
         "question": "Dönemde kamu diplomasisi kurumu yoksa bu kavram kullanılabilir mi?",
-        "answer": "Analitik karşılaştırma için kullanılabilir; fakat dönemin kendi kurumsal adı gibi sunulmamalıdır. Önce tarihsel aktör ve uygulamayı tanımlayın, sonra kavramın hangi özelliği açıklamaya yardım ettiğini belirtin."
+        "answer": "Kavram analitik karşılaştırma için kullanılabilir; ancak dönemin resmî kurumsal adı olarak sunulmamalıdır. Önce tarihsel aktör ve uygulama tanımlanmalı, ardından kavramın hangi özelliği açıklamaya katkı sağladığı belirtilmelidir."
       },
       {
-        "question": "Belirli bir çevrenin tepkisi küçük bir bulgu mudur?",
-        "answer": "Hayır. İyi sınırlandırılmış bir çevre, belirli bir karar kanalını aydınlatabilir. Sorun küçük örnek değil, onu bütün toplumun görüşü olarak sunmak veya karar etkisini kanıtsız varsaymaktır."
+        "question": "Belirli bir çevrenin tepkisine ilişkin bulgunun analitik önemi nedir?",
+        "answer": "Açık biçimde sınırlandırılmış bir çevreye ilişkin bulgu, belirli bir karar kanalını aydınlatabilir. Sorun örneğin küçüklüğünden ziyade bütün toplumun görüşünü temsil ettiğinin veya karar üzerinde etkili olduğunun kanıtsız varsayılmasıdır."
       }
     ],
-    "sourceNote": "Bu bölüm mevcut ikinci hafta notlarındaki Franklin, Fransız kamuları, Saratoga ve 1778 antlaşmaları anlatısını geliştirir. Schindler'in yabancı kamularla etkileşim çerçevesi, kişisel ilişki ile stratejik bağlamı birlikte okumak için kullanılmıştır. Kaynak örnekleri dersin mevcut belge repertuvarına dayanır; yeni alıntı veya tarihsel bulgu eklenmemiştir. Varsayımsal senaryolar yalnız çıkarım sınaması içindir."
+    "sourceNote": "Bu bölüm, mevcut ikinci hafta notlarındaki Franklin, Fransız kamuları, Saratoga ve 1778 antlaşmaları anlatısını ayrıntılandırmaktadır. Schindler’in yabancı kamularla etkileşim çerçevesi, kişisel ilişkileri stratejik bağlamla birlikte incelemek için kullanılmıştır. Kaynak örnekleri dersin mevcut belge repertuvarına dayanmaktadır; yeni alıntı veya tarihsel bulgu eklenmemiştir. Varsayımsal senaryolar yalnız çıkarımların sınanmasına yöneliktir."
   },
   "en": {
-    "orientation": "Franklin’s mission illustrates reputation’s possible contribution to access. Access, trust, assistance and alliance remain distinct. We examine American needs, French decisions and connecting networks without reducing the outcome to one person. Public diplomacy is our analytical concept for historical foreign engagement, not the period’s official institutional title.",
+    "orientation": "Franklin’s mission provides a case for examining the possible contribution of personal reputation to diplomatic access. Access, trust, material assistance and alliance remain distinct outcomes. This week examines the needs of the American independence struggle, the conditions of French decisions and the social networks connecting these processes. The aim is to preserve Franklin’s contribution within an explanation that does not reduce the entire outcome to one individual. Public diplomacy is used as a contemporary analytical concept for historical engagement with foreign publics, rather than as the period’s official institutional designation.",
     "sections": [
       {
         "id": "independence-and-support",
-        "title": "1. Why declaring independence did not secure external support",
-        "why": "Define the problem before treating alliance as every activity’s inevitable result.",
+        "title": "1. The declaration of independence and the need for external support",
+        "why": "Defining the diplomatic problem prevents interpretation of the later alliance as the sole and inevitable result of every activity.",
         "paragraphs": [
           "The Thirteen Colonies' declaration of independence in 1776 did not automatically obtain other states' acceptance. Sustaining war required arms and credit; trade required connections; statehood claims required recognition. Alliance could create further obligations. These needs were connected but not interchangeable. A delivery of supplies cannot establish open diplomatic recognition, just as an expression of sympathy cannot establish material assistance.",
           "France's decision concerned more than the American cause's appeal. Opportunities to weaken Britain had to be weighed against the costs of supporting a rebellion that might fail. Communication therefore operated within military and financial calculations. American representatives needed to explain their needs and reduce uncertainty about their viability as partners. A well-presented cause nevertheless could not automatically remove another state's risk of war.",
-          "When Franklin arrived in late 1776, congressional committees, European connections and Silas Deane's supply efforts already existed. This chronology helps separate causes. Assuming every activity began with one actor's arrival hides existing infrastructure. Try to distinguish Franklin's additional contribution from established networks. Complete separation may be impossible; when it is, express the contribution conditionally rather than assigning the whole process to him."
+          "When Franklin arrived in late 1776, congressional committees, European connections and Silas Deane’s supply efforts already existed. This chronology matters for distinguishing causal contributions. Assuming that every activity began with one actor’s arrival excludes the existing infrastructure from analysis. Franklin’s additional contribution should therefore be distinguished from established networks where possible. Where complete separation is not possible, the contribution should be expressed conditionally."
         ],
         "example": {
           "title": "Hypothetical analogy: A new venture's partner",
-          "text": "Hypothetically, investors still ask a famous representative’s venture about budgets, endurance and risk. Reputation facilitates assessment; the analogy does not reduce states’ war decisions to business contracts."
+          "text": "Hypothetically, a new venture’s appointment of a recognised representative does not eliminate investors’ assessment of budgets, operational sustainability and risk. The analogy illustrates how reputation may facilitate assessment; it does not reduce states’ decisions about war to commercial contracts."
         },
         "checkpoint": {
           "question": "Why does a record of assistance not establish alliance?",
@@ -273,16 +273,16 @@
       },
       {
         "id": "reputation-and-networks",
-        "title": "2. What pathway can scientific reputation open?",
-        "why": "Trace reputation through particular contacts and decision channels.",
+        "title": "2. Scientific reputation and channels of diplomatic access",
+        "why": "Recognition is an initial resource. Explaining its effects requires tracing connections from reputation to specific contacts and from those contacts to decision channels.",
         "paragraphs": [
-          "Franklin's electrical research and long European correspondence created recognition before his mission. These relationships were not simply a display manufactured afterwards for propaganda. Recognised expertise and reciprocity could encourage attention to a meeting request. Scientific credibility, however, did not guarantee acceptance of every military or political assertion. Trust depends on topics and relationships; its transfer from one domain to another needs investigation.",
-          "Hypothetically, an introduction from a trusted teacher may make you more willing to meet someone without accepting every proposal they offer. Recommendation reduces an access barrier rather than deciding the outcome. Likewise, asking which relationship connected Franklin to an editor, investor or court contact explains more than general popularity. A connection's existence and the actual transmission of information through it are separate observations.",
+          "Franklin’s electrical research and long-standing European correspondence generated recognition before his diplomatic mission. These relationships were not simply a presentation created subsequently for propaganda purposes. Recognised expertise and reciprocity could encourage attention to a meeting request. Scientific credibility, however, did not guarantee acceptance of every military or political assertion. Trust depends on the issue and relationship; its transfer across domains requires separate investigation.",
+          "In a hypothetical example, an introduction by a trusted teacher may increase a recipient’s willingness to meet someone without producing acceptance of every subsequent proposal. The recommendation reduces an access barrier without determining the decision. Likewise, identifying which relationship connected Franklin to a particular editor, investor or court contact is more explanatory than a general claim of popularity. The existence of a contact and the transmission of information through it are separate observations.",
           "A network contains connected people, not a single actor sharing one opinion. Franklin, Deane and Arthur Lee represented Congress, while French decision circles held different authority. Translators, merchants and editors pursued their own purposes. Similar messages do not prove shared instructions. Look for correspondence, divided responsibilities or funding to establish coordination, and consider disagreements alongside the opportunities networks provide."
         ],
         "example": {
-          "title": "Hypothetical example: An invitation is not a decision",
-          "text": "A scientific invitation shows access, not guests’ political opinions or a minister’s decision. Using it for all three exaggerates influence."
+          "title": "Hypothetical example: Distinguishing invitation, assessment and decision",
+          "text": "An invitation from a scientific circle may establish Franklin’s access to that circle. Guests’ political views and a minister’s decision require separate examination. Using the same invitation as evidence at all three levels overstates the relationship’s influence."
         },
         "checkpoint": {
           "question": "Why is scientific reputation not directly political support?",
@@ -291,16 +291,16 @@
       },
       {
         "id": "plural-french-publics",
-        "title": "3. Which French circles, rather than simply French opinion?",
-        "why": "Country names conceal differing interests and authority. Identify the public and scale.",
+        "title": "3. The differentiation of French publics and the problem of representation",
+        "why": "General references to a country can obscure different interests and decision-making powers. Defining the relevant public establishes an appropriate scale of explanation.",
         "paragraphs": [
-          "The French court, ministries, academies, salons, merchants and readers did not ask identical questions. The court could weigh war risks, merchants payments and trade, scientific circles expertise and reputation. These differences exceed a simple division into supporters and opponents. Someone could sympathise with American independence while worrying about war's costs. Support is an incomplete description unless its object is specified.",
-          "Franklin's visitors and salon acquaintances did not represent society as a whole. Representation concerns what observed people can tell us about a wider population. Elite circles might matter through access to information and decisions, rather than accurately reflecting everyone. Separate two questions: whom do they represent, and which decisions can they reach? A small number of contacts can carry strategic significance without representing general opinion.",
-          "Local intermediaries are not passive pipes. They select, translate, emphasise and adapt messages to their own debates. Reception can therefore differ from the sender's intentions. Franklin's image of simplicity could attract some circles while encountering other expectations. Researchers must not substitute an American representative's account for French readers' responses. A supportive letter records one person's assessment; silence is not automatic approval."
+          "The French court, ministries, academies, salons, merchants and readers evaluated different questions. The court could assess war risks, merchants could assess payments and trade, and scientific circles could assess expertise and reputation. These differences cannot be reduced to a simple division between supporters and opponents. Sympathy for American independence could coexist with concern about the costs of war. Support therefore remains insufficiently defined unless its object is specified.",
+          "Franklin’s visitors and salon acquaintances did not represent society as a whole. Representation concerns what findings about observed people can establish about a wider population. Elite circles might matter because of access to information and decision channels rather than accurate reflection of the population. Their representativeness and their connections to decisions therefore require separate questions. A small number of contacts may carry strategic significance without constituting evidence of general public opinion.",
+          "Local intermediaries do more than transmit messages passively. They select, translate, emphasise and adapt texts to their own debates. Reception may therefore diverge from the sender’s intentions. Franklin’s image of simplicity could attract some circles while being interpreted through different expectations elsewhere. An American representative’s account cannot substitute for French readers’ responses. A supportive letter records a particular person’s assessment; silence cannot be treated as approval."
         ],
         "example": {
           "title": "Hypothetical example: Two readers of one report",
-          "text": "A merchant might read American endurance through payment risk, a salon guest through liberty. These hypothetical readings illustrate diversity, not archival findings."
+          "text": "A merchant might interpret news of American endurance in terms of payment risk, while a salon guest might interpret it in terms of political liberty. These hypothetical interpretations illustrate why the same text need not produce a uniform response; they are not archival findings."
         },
         "checkpoint": {
           "question": "Why is generalising salon support to all France problematic?",
@@ -309,12 +309,12 @@
       },
       {
         "id": "listening-print-and-image",
-        "title": "4. Separate listening, publication and visibility",
-        "why": "Separate functions to explain communication processes beyond personal charisma.",
+        "title": "4. Distinguishing listening, publication and visibility",
+        "why": "Distinguishing activities by function makes communication processes available for analysis without attributing the entire outcome to personal charisma.",
         "paragraphs": [
-          "Schindler's approach permits examining listening, exchange, advocacy and print communication together. Listening means trying to understand another party's concerns, not merely being sociable. Obtaining information and using it nevertheless differ. A letter reporting French doubts records an observation. If those doubts subsequently change a message or contact priority, a claim about adaptation becomes stronger. Look for that connection rather than assuming it.",
-          "For printed texts, production, distribution, reading, belief and action are different stages. Translating an American text into French increases potential accessibility; it cannot alone reveal how many read or accepted it. Newspapers and letters leave traces of different stages. Publications derived from the same source do not provide independent confirmation. Describe circulation separately from audiences' adoption of the message.",
-          "Franklin's public image also requires source criticism. Portraits, plain appearance and memorabilia can indicate visibility, without establishing alliance effects. The liberty narrative had limits: American republican language sought monarchical French assistance without eliminating American slavery and exclusion. Acknowledging these tensions does not declare the image ineffective. It asks for whom, and on which issue, it could be attractive."
+          "Schindler’s approach permits examination of listening, exchange, advocacy and print communication within Franklin’s activities. Listening involves seeking to understand another party’s concerns rather than merely engaging courteously. Obtaining information and using it nevertheless remain distinct stages. A letter reporting doubts in French circles provides evidence of observation. A subsequent change in message or contact priorities attributable to those doubts would support a stronger claim about adaptation.",
+          "The production, distribution, reading, acceptance and behavioural consequences of printed texts are distinct stages. Translating an American text into French increases accessibility; it cannot alone establish how many people read or accepted it. Contemporary newspapers and letters leave traces of different stages. Two publications derived from the same source should not count as independent confirmation. Circulation and audience acceptance require assessment as separate claims.",
+          "Franklin’s public image also requires source criticism. Portraits, plain appearance and memorabilia may indicate visibility but cannot alone establish effects on the alliance. The discourse of liberty also had limits: American republican language sought assistance from monarchical France without eliminating American slavery and exclusion. Specifying these tensions enables examination of the circles and issues to which attraction related without assuming that the image was ineffective."
         ],
         "example": {
           "title": "Hypothetical example: Tracing a correction",
@@ -327,16 +327,16 @@
       },
       {
         "id": "alliance-and-causation",
-        "title": "5. Explain the 1778 alliance through several causes",
-        "why": "Investigate changing calculations instead of retrospectively crediting every activity.",
+        "title": "5. A multicausal explanation of the 1778 alliance",
+        "why": "Examine changing decision calculations rather than retrospectively attributing success to every preceding activity.",
         "paragraphs": [
-          "The American victory at Saratoga and news of Britain's surrender in 1777 changed assessments of American endurance. France's interest in weakening Britain formed a broader strategic setting. These are different kinds of causes from Franklin's reputation. Strategic interest helps explain why support was considered, military developments why risk assessments changed, and diplomatic networks the relationships through which negotiation proceeded.",
+          "The American victory at Saratoga and news of British surrender there in 1777 changed assessments of the sustainability of American resistance. France’s interest in weakening Britain constituted the broader strategic context. These causes occupy different analytical roles from Franklin’s reputation. Strategic interest helps explain why support was considered, military developments why risk calculations changed, and diplomatic networks the relationships through which negotiations proceeded.",
           "In 1778, the Treaty of Amity and Commerce formalised recognition and commercial relations; the Treaty of Alliance created military obligations. Treaties document important outcomes, but cannot themselves establish a particular salon conversation's contribution. Trace earlier options, information and reasoning. Distinguishing immediate causes from background conditions prevents one event carrying the whole explanation; the same condition may matter differently at different times.",
           "The counterfactual question asks which processes might still have operated without Franklin's relationships. French strategic interests and earlier supply connections might have remained. This does not establish his irrelevance; it makes his contribution more specific. Relationships may have facilitated access, supported trust or reduced uncertainty. Which contribution is defensible depends on the evidence. Claiming indispensability requires more than showing a useful role."
         ],
         "example": {
           "title": "Hypothetical comparison of interpretations",
-          "text": "One student explains alliance entirely through popularity, another entirely through military victory. A stronger account identifies the stage each explanation illuminates. Several causes existing does not establish that their weights were equal."
+          "text": "If one student explains the alliance entirely through popularity and another entirely through military victory, assessment should identify the stage addressed by each explanation. The presence of several causes does not establish that their contributions had equal weight."
         },
         "checkpoint": {
           "question": "Does the treaty prove Franklin alone was decisive?",
@@ -345,16 +345,16 @@
       },
       {
         "id": "sources-and-transfer",
-        "title": "6. From source criticism to transferable lessons",
-        "why": "Understand conditions under which relationships work instead of imitating personalities.",
+        "title": "6. Source criticism and the transferability of historical findings",
+        "why": "Drawing inferences from a historical case requires examining the conditions under which relationships were effective rather than imitating a prominent personality.",
         "paragraphs": [
-          "Begin source criticism by recording a document's author, recipient, date and purpose. Franklin's letter can show intentions or perceptions, not directly record French society as a whole. A portrait can show representation, a visitor record contact, a commercial contract a transaction. Documents vary in strength across claims. Being contemporary does not make a source neutral or representative.",
-          "Comparing American, French and British sources can reveal different perspectives, but increasing their number is insufficient. Documents may repeat one report or reflect similar elite circles. Do not equate an actor's archival visibility with historical influence. Local intermediaries leaving fewer written traces may remain less visible. Later success narratives also know the outcome and can retrospectively turn contingent events into an apparently inevitable path.",
-          "For transfer, first name a mechanism: credibility, intermediation or reduced uncertainty. Then identify contemporary differences in media, institutions and audiences. Scientific reputation opening access does not mean every famous person is credible on every issue. Giving local partners discretion may help, but they retain their own purposes. An academic conclusion specifies the observed contribution, its conditions and the connection still missing."
+          "Source criticism begins by identifying a document’s producer, recipient, date and purpose. Franklin’s letter may show intentions or perceptions; it is not a direct record of French society as a whole. A portrait may show public representation, a visitor record contact, and a commercial contract a material transaction. A document’s evidential strength varies with the claim being assessed. Contemporary provenance does not establish neutrality or representativeness.",
+          "Comparing American, French and British sources may reveal different perspectives, but an increased number of documents is insufficient. Sources may derive from the same report or reflect similar elite circles. Archival visibility should not be equated with the extent of an actor’s historical influence. Local intermediaries leaving fewer written traces may remain less visible. Later success narratives may also use knowledge of the outcome to represent contingent events retrospectively as an inevitable process.",
+          "Transferring a historical finding requires first specifying a mechanism, such as credibility, intermediation or reduced uncertainty. Contemporary differences in media, institutions and audiences should then be identified. Scientific reputation facilitating access does not establish that every recognised individual is credible on every issue. Discretion for local partners may be beneficial, but partners retain their own purposes. An academic conclusion specifies the contribution observed, its conditions and the connection that remains unexplained."
         ],
         "example": {
           "title": "Hypothetical transfer: A contemporary science representative",
-          "text": "A recognised researcher may gain international access. The Franklin analogy requires relevant expertise, intermediaries and decision channels; similar appearance or personality is not a mechanism."
+          "text": "A recognised researcher’s participation in an international meeting may facilitate access. An analogy with Franklin becomes explanatory only through examination of relevant expertise, intermediaries and decision channels. Similarity in appearance or personality is not a causal mechanism."
         },
         "checkpoint": {
           "question": "Do sources from three countries guarantee certainty?",
@@ -389,7 +389,7 @@
       {
         "kind": "comparison",
         "title": "Four different outcomes",
-        "caption": "Evidence for one does not substitute for another.",
+        "caption": "Evidence concerning one outcome cannot substitute for evidence concerning another.",
         "columns": [
           "Outcome",
           "What changes?",
@@ -424,7 +424,7 @@
         "caption": "Assess the circle a source represents separately from the event it describes.",
         "columns": [
           "Source",
-          "Strong question",
+          "Question addressed",
           "Limit"
         ],
         "rows": [
@@ -454,9 +454,9 @@
     "cases": [
       {
         "title": "Historical source exercise: The letter of 23 December 1776",
-        "scenario": "Franklin, Silas Deane and Arthur Lee's letter to Vergennes contains a proposed commercial treaty and meeting request. Read it as a request's record, not a successful outcome.",
+        "scenario": "Franklin, Silas Deane and Arthur Lee’s letter to Vergennes contains a proposed commercial treaty and a request for a meeting. The document should be assessed as a record of the request rather than of a successful outcome.",
         "steps": [
-          "Record writers and authority: three representatives’ letter is not one person’s independent activity.",
+          "Record the authors and their authority. Preserve the representatives’ official relationships rather than presenting their joint letter as one person’s independent activity.",
           "State the narrow claim supported: American representatives offered a proposal and sought contact. French acceptance does not follow from that sentence.",
           "Seek replies and negotiation records to establish acceptance. A later treaty's existence does not make the earlier request independently decisive."
         ],
@@ -464,9 +464,9 @@
       },
       {
         "title": "Hypothetical case: Inferring alliance from portraits",
-        "scenario": "A student observes Franklin portraits and claims French society was persuaded, producing alliance. This inference chain is constructed for learning.",
+        "scenario": "A student infers from the circulation of Franklin portraits that French society was persuaded and that this produced the alliance. This sequence of inferences is constructed as a teaching exercise.",
         "steps": [
-          "Portraits show production of representations. Circulation requires additional distribution or usage traces.",
+          "Specify the scope of the first observation: portraits establish the production of a form of representation. A claim about circulation also requires traces of distribution or use.",
           "Consider different motives for purchase or display: curiosity, fashion, scientific admiration and political support are not interchangeable.",
           "Seek documents connecting public responses to decisions. Without them, discuss visibility rather than making a firm claim about the alliance's cause."
         ],
@@ -474,30 +474,30 @@
       }
     ],
     "practice": {
-      "title": "Separate access from alliance in Excel",
-      "task": "Assess a letter, a visual source and a treaty at different evidential levels in the student matrix. Attribute no contents to documents you have not examined.",
+      "title": "Distinguishing evidence of access and alliance in Excel",
+      "task": "Assess a letter, a visual source and a treaty at different evidential levels in the student matrix. Attribute no contents to unexamined documents.",
       "steps": [
-        "Record source type, date and producer for each row. Mark missing information unknown rather than silently leaving gaps.",
+        "Record source type, date and producer in each row. Mark missing information as “unknown” rather than leaving fields blank.",
         "Identify its supported outcome: access, assessment, material transaction or official obligation.",
-        "Add evidence missing for the next outcome. Do not jump from portrait to alliance; consider interpretation and decision stages between them.",
+        "Specify the additional evidence needed to establish the next outcome. Assess the intermediate stages of interpretation and decision rather than infer a direct connection between portrait and alliance.",
         "Write week two's conclusion in the 14-week guide. Include Franklin's contribution, Saratoga and French strategic interests, assigning distinct explanatory roles."
       ],
-      "modelAnswer": "Example: The letter shows American representatives' request; the treaty records accepted obligations. Explaining their relationship requires negotiation and reception evidence. Franklin's reputation may have facilitated access, while military developments and French interests shaped calculations. If available sources cannot establish their precise weights, acknowledge that limitation."
+      "modelAnswer": "Example conclusion: The letter records the American representatives’ request, while the treaty records accepted obligations. Explaining the relationship between them requires evidence of negotiation and reception. Franklin’s reputation may have facilitated access; military developments and French interests contributed differently to decision calculations. Any inability of the available sources to determine the precise weight of these contributions should be stated explicitly."
     },
     "faqs": [
       {
-        "question": "If Franklin mattered, why is a heroic account insufficient?",
-        "answer": "Contribution differs from sole decisiveness. Including committees, representatives, intermediaries and French conditions clarifies Franklin’s role."
+        "question": "What are the limits of a heroic narrative in explaining Franklin’s contribution?",
+        "answer": "An important contribution and sole decisiveness are different claims. Assessing committees, other representatives, intermediaries and the conditions of French decisions allows a more precise account of Franklin’s role."
       },
       {
         "question": "Can public diplomacy describe a period without that institution?",
-        "answer": "Yes, analytically, not as a contemporary institutional name. Identify historical actors and practices, then explain which feature the concept clarifies."
+        "answer": "The concept may be used for analytical comparison, but should not be presented as the period’s official institutional designation. Identify historical actors and practices first, then specify which feature the concept helps explain."
       },
       {
-        "question": "Is one circle's response an insignificant finding?",
-        "answer": "No. A defined circle can illuminate a decision channel. Do not equate its opinion with society’s or assume decision influence."
+        "question": "What is the analytical significance of a finding concerning one circle’s response?",
+        "answer": "A finding concerning a clearly defined circle may illuminate a particular decision channel. The limitation concerns unsupported assumptions of societal representativeness or influence on decisions, rather than sample size alone."
       }
     ],
-    "sourceNote": "Based on existing week-two materials: Franklin, French publics, Saratoga and treaties. Schindler connects relationships with strategy. No new findings or quotations. Hypothetical scenarios test inference."
+    "sourceNote": "This section elaborates the existing week-two account of Franklin, French publics, Saratoga and the treaties. Schindler’s framework of engagement with foreign publics supports examination of personal relationships alongside strategic context. Source examples derive from the course’s existing document repertoire; no new quotations or historical findings have been added. Hypothetical scenarios are used only to test inferences."
   }
 }

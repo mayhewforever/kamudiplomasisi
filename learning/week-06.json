@@ -2,51 +2,51 @@
   "week": 6,
   "tr": {
     "title": "Eğitim değişimi: seyahatten kalıcı ilişkiye",
-    "nutshell": "Bir öğrenciyi veya akademisyeni başka ülkeye göndermek, işin yalnız başlangıcıdır. Pan-Amerikan, yani Amerika kıtasındaki ülkeler arasında kurulan eğitim ağları, insanlar ve kurumlar arasında ilişki geliştirmeyi hedefledi. Başarıyı anlamak için kaç kişinin gittiğinin yanında ne öğrendiğini ve dönüşte ne yapabildiğini sormalıyız.",
-    "analogy": "Varsayımsal gündelik benzetme: Yeni bir komşuyla bir kez karşılaşmak arkadaşlık kurmak değildir. Birlikte sorun çözmek, birbirini dinlemek ve zaman içinde görüşmek ilişkiyi güçlendirebilir. Ama kötü muamele, çok sayıda karşılaşmaya rağmen güveni azaltabilir.",
+    "nutshell": "Öğrenci veya akademisyenlerin başka bir ülkeye gönderilmesi, eğitim değişiminin başlangıç aşamasıdır. Amerika kıtasındaki ülkeler arasında kurulan Pan-Amerikan eğitim ağları, kişiler ve kurumlar arasında ilişkiler geliştirmeyi hedefledi. Başarının değerlendirilmesi, seyahat edenlerin sayısıyla birlikte katılımcıların öğrendiklerinin ve dönüş sonrasında uygulayabildiklerinin incelenmesini gerektirir.",
+    "analogy": "Varsayımsal benzetmede yeni bir komşuyla tek bir karşılaşma, arkadaşlık ilişkisinin kurulduğunu göstermez. Ortak sorun çözme, karşılıklı dinleme ve zaman içinde sürdürülen temas, ilişkiyi güçlendirebilir. Buna karşılık olumsuz muamele, tekrarlanan karşılaşmalara rağmen güveni azaltabilir.",
     "objectives": [
-      "Seyahat ile öğrenmeyi ayırmak.",
-      "Karşılıklılığın sayıdan fazlası olduğunu açıklamak.",
+      "Fiziksel hareketlilik ile öğrenmeyi ayrıştırmak.",
+      "Karşılıklılığın sayısal dengeden farklı boyutlarını açıklamak.",
       "Dönüş sonrasında kullanılabilen bilgiyi araştırmak."
     ],
     "concepts": [
       {
         "term": "Eğitim değişimi",
-        "meaning": "Başka toplumdaki insanlarla eğitim veya akademik çalışma yoluyla düzenli temas kurmaktır.",
+        "meaning": "Başka bir toplumdaki kişilerle eğitim veya akademik çalışma aracılığıyla düzenli temas kurulmasıdır.",
         "example": "Konuk akademisyenin yerel meslektaşlarıyla ortak araştırma yapması."
       },
       {
         "term": "Karşılıklılık",
-        "meaning": "Tarafların hem öğrenebilmesi hem kararları etkileyebilmesidir.",
+        "meaning": "Tarafların hem öğrenme hem de kararları etkileme imkânına sahip olmasıdır.",
         "example": "Ev sahibiyle konuk, araştırma konusunu birlikte seçebilir; eşit kişi sayısı tek başına yeterli değildir."
       },
       {
         "term": "Kurumsal değişim",
-        "meaning": "Bir kişinin değil, çalıştığı kurumun işleyişinin değişmesidir.",
+        "meaning": "Bireysel kazanımın ötesinde, bir örgütün yerleşik uygulamalarında meydana gelen değişimdir.",
         "example": "Öğrenilen yöntemin bir bölümün düzenli derslerine girmesi."
       },
       {
         "term": "Seçim etkisi",
-        "meaning": "Katılımcıların programdan önce de farklı özellikler taşımasıdır.",
-        "example": "Zaten uluslararası bağlantıları güçlü adaylar seçilmişse, sonraki bütün bağlantıları programa bağlayamayız."
+        "meaning": "Katılımcıların program öncesinde de farklı özellikler taşımasının, sonuçların programa atfedilmesini etkileyebilmesidir.",
+        "example": "Uluslararası bağlantıları zaten güçlü adayların seçilmesi durumunda, sonraki bütün bağlantılar programa atfedilemez."
       }
     ],
     "steps": [
       {
-        "title": "Önce planın aşamasını belirle",
-        "text": "1910’daki Amerikalar arası karar, 1911’deki Carnegie planı ve 1912’deki diplomatik genelge, örgütlenmeyi gösterir. Bütçe onayı veya davet, ziyaretin tamamlandığı anlamına gelmez. Gerçek katılım için ayrıca seyahat ve ev sahipliği kayıtlarını ara."
+        "title": "Planlama aşamasının belirlenmesi",
+        "text": "1910’daki Amerikalar arası karar, 1911’deki Carnegie planı ve 1912’deki diplomatik genelge, örgütlenme sürecine ilişkin kanıt sağlar. Bütçe onayı veya davet, ziyaretin tamamlandığını göstermez. Fiilî katılımın belirlenmesi için seyahat ve ev sahipliği kayıtları ayrıca incelenmelidir."
       },
       {
-        "title": "Temasın niteliğini incele",
-        "text": "Devlet diplomatik erişim, vakıf para, üniversite akademik ortam sağlayabilir. Ancak katılımcının yeterli dil desteği, söz hakkı ve ortak çalışma imkânı yoksa program yüzeysel kalabilir. Eleştiri yapabilmek, karşılıklı öğrenmenin bir parçasıdır."
+        "title": "Temasın niteliğinin değerlendirilmesi",
+        "text": "Devlet diplomatik erişim, vakıf finansman, üniversite ise akademik ortam sağlayabilir. Ancak yeterli dil desteği, söz hakkı ve ortak çalışma imkânı bulunmadığında katılım sınırlı bir etkileşim düzeyinde kalabilir. Eleştiri özgürlüğü, karşılıklı öğrenmenin bir bileşenidir."
       },
       {
-        "title": "Dönüşten sonrasını takip et",
-        "text": "Yeni bilgi, yerel ihtiyaçlara uyarlanmak zorundadır. Mezunun bunu uygulamak için zamanı, araçları ve kurum desteği var mı? Bir üniversiteyi beğenmesi, o ülkenin hükümet politikasını desteklediğini göstermez. Bu farklı sonuçları ayrı değerlendir."
+        "title": "Dönüş sonrası bilgi kullanımının izlenmesi",
+        "text": "Yeni bilginin yerel ihtiyaçlara uyarlanması gerekir. Mezunun uygulama için zamanı, araçları ve kurum desteği bulunup bulunmadığı araştırılmalıdır. Bir üniversiteye yönelik olumlu değerlendirme, ilgili ülkenin hükümet politikasının desteklendiğini göstermez. Bu sonuçlar ayrı incelenmelidir."
       }
     ],
     "diagram": {
-      "title": "Tarihsel planı uygulamadan ayır",
+      "title": "Tarihsel planlama ile uygulamanın ayrıştırılması",
       "nodes": [
         {
           "title": "1910: öneri",
@@ -65,83 +65,83 @@
           "text": "Kim gerçekten gitti ve hangi çalışmayı yaptı?"
         }
       ],
-      "caption": "İlk üç durak planlama izleridir. Son kutu gerçekleşmiş ziyaret iddiası değildir; cevaplanması gereken araştırma sorusudur."
+      "caption": "İlk üç aşama planlamaya ilişkin kanıt sunmaktadır. Son aşama, ziyaretlerin gerçekleştiği iddiasını değil, yanıtlanması gereken uygulama sorusunu ifade eder."
     },
     "workedExample": {
-      "title": "Aylin’in dönüşü: öğrenme mi, kurum değişimi mi?",
-      "scenario": "Varsayımsal örnek: Aylin bir dönem konuk öğrencidir. Yeni bir araştırma yöntemi öğrenir; döndüğü bölümde yöntemi kullanacak araç bulunmaz.",
+      "title": "Aylin’in dönüşü: bireysel öğrenme ve kurumsal değişim",
+      "scenario": "Varsayımsal örnekte Aylin, bir dönem konuk öğrenci olarak eğitim görür. Yeni bir araştırma yöntemi öğrenir; ancak döndüğü bölümde yöntemi uygulamak için gerekli araçlar bulunmaz.",
       "steps": [
-        "Öğrenme bulgusunu yaz: Aylin yöntemi bir örnek üzerinde uygulayabiliyor.",
-        "Kurum sonucunu ayrı tut: Bölümü henüz yöntemi kullanmıyor; araç eksikliği bağlantıyı kesiyor.",
-        "İzlenecek adımı seç: Bölüm araç sağlıyor mu, Aylin meslektaşlarına eğitim verebiliyor mu?"
+        "Öğrenmeye ilişkin bulguyu belirtiniz: Aylin yöntemi bir örnek üzerinde uygulayabilmektedir.",
+        "Kurumsal sonucu ayrı değerlendiriniz: Bölüm yöntemi henüz kullanmamaktadır; araç eksikliği öğrenme ile uygulama arasındaki bağlantıyı kesintiye uğratmaktadır.",
+        "İzleme sorularını belirleyiniz: Bölüm gerekli araçları sağlamakta mıdır ve Aylin meslektaşlarına eğitim verebilmekte midir?"
       ],
-      "lesson": "Bireysel kazanım değerlidir; fakat tek başına kurumun değiştiğini kanıtlamaz."
+      "lesson": "Bireysel öğrenme anlamlı bir kazanımdır; ancak tek başına kurumsal değişimin gerçekleştiğini göstermez."
     },
     "misconception": {
       "claim": "“Ev sahibi ülkeyi eleştiren katılımcı, programın başarısız olduğunu gösterir.”",
-      "correction": "Daha bilgili eleştiri öğrenmenin sonucu olabilir. Saygılı tartışma ve sürdürülen iş birliği, zorunlu hayranlıktan farklı başarı ölçüleridir."
+      "correction": "Daha bilgili eleştiri, öğrenmenin bir sonucu olabilir. Saygılı tartışma ve sürdürülen iş birliği, koşulsuz olumlu tutumdan farklı başarı ölçütleri sunar."
     },
     "quickCheck": {
       "question": "İki ülkenin eşit sayıda öğrenci göndermesi karşılıklılığı kanıtlar mı?",
-      "answer": "Hayır. Konuları kimin seçtiğini, kimin konuşabildiğini ve bilginin iki yönde akıp akmadığını da incelemeliyiz."
+      "answer": "Eşit katılımcı sayıları yeterli değildir. Konuları kimin belirlediği, söz hakkının nasıl dağıldığı ve bilginin iki yönde aktarılıp aktarılmadığı da incelenmelidir."
     },
     "practice": {
-      "task": "Excel’in 14 haftalık rehberinde 6. hafta için iki izleme göstergesi yaz: biri hemen ölçülebilen öğrenme, diğeri dönüş sonrasında bilgi kullanımı. Her birine uygun bir belge türü ekle.",
+      "task": "Excel’in 14 haftalık rehberinde 6. hafta için iki izleme göstergesi yazınız: biri hemen ölçülebilen öğrenmeye, diğeri dönüş sonrasında bilgi kullanımına ilişkin olmalıdır. Her gösterge için uygun bir belge türü belirtiniz.",
       "hint": "Katılım belgesi öğrenmenin niteliğini göstermez. Örnek çalışma ve kurumun uygulama kaydı farklı soruları yanıtlar."
     },
     "takeaways": [
-      "Gitmek, öğrenmek ve uygulamak farklı aşamalardır.",
+      "Hareketlilik, öğrenme ve uygulama ayrı değerlendirme aşamalarıdır.",
       "Karşılıklılık, ortak söz ve karar hakkı gerektirir.",
-      "Kalıcı ilişki için dönüş sonrasını da incele."
+      "Kalıcı ilişkilerin değerlendirilmesi, dönüş sonrası sürecin izlenmesini gerektirir."
     ]
   },
   "en": {
     "title": "Educational exchange: from travel to lasting relationships",
-    "nutshell": "Sending a student or scholar abroad is only the beginning. Pan-American educational networks—networks between countries of the Americas—sought relationships among people and institutions. To understand success, ask what participants learned and could do afterwards, alongside how many travelled.",
-    "analogy": "Hypothetical everyday analogy: Meeting a new neighbour once does not establish friendship. Solving problems together, listening and staying in contact may strengthen a relationship. Poor treatment, however, can reduce trust despite repeated encounters.",
+    "nutshell": "Sending students or scholars abroad constitutes an initial stage of educational exchange. Pan-American educational networks, connecting countries of the Americas, sought to develop relationships among individuals and institutions. Evaluating success requires examining participants’ learning and its application after return alongside the number who travelled.",
+    "analogy": "In a hypothetical analogy, a single encounter with a new neighbour does not establish friendship. Joint problem-solving, mutual listening and sustained contact can strengthen the relationship. Adverse treatment, however, may reduce trust despite repeated encounters.",
     "objectives": [
-      "Separate travel from learning.",
-      "Explain why reciprocity exceeds equal numbers.",
+      "Distinguish physical mobility from learning.",
+      "Explain the dimensions of reciprocity beyond numerical balance.",
       "Investigate knowledge that can be used after return."
     ],
     "concepts": [
       {
         "term": "Educational exchange",
-        "meaning": "Regular contact with people in another society through education or academic work.",
+        "meaning": "Regular engagement with individuals in another society through education or academic work.",
         "example": "A visiting scholar researches with local colleagues."
       },
       {
         "term": "Reciprocity",
-        "meaning": "Both sides can learn and influence decisions.",
+        "meaning": "The opportunity for both parties to learn and influence decisions.",
         "example": "Host and visitor choose research topics together; equal participant numbers alone are insufficient."
       },
       {
         "term": "Institutional change",
-        "meaning": "A change in an organisation’s practices, beyond one individual.",
+        "meaning": "A change in an organisation’s established practices beyond an individual participant’s gains.",
         "example": "A learned method becomes part of a department’s regular teaching."
       },
       {
         "term": "Selection effect",
-        "meaning": "Participants may already have different characteristics before the programme.",
-        "example": "If recruits already had strong international networks, not every later connection can be credited to the programme."
+        "meaning": "The possibility that participants’ pre-existing characteristics affect the attribution of outcomes to the programme.",
+        "example": "Where selected applicants already possessed strong international networks, not every subsequent connection can be attributed to the programme."
       }
     ],
     "steps": [
       {
-        "title": "Locate the planning stage",
-        "text": "The inter-American resolution of 1910, Carnegie’s 1911 plan and the 1912 diplomatic circular show organisation. Budget approval or invitation does not establish a completed visit. Seek travel and hosting records to confirm participation."
+        "title": "Identifying the planning stage",
+        "text": "The inter-American resolution of 1910, Carnegie’s 1911 plan and the 1912 diplomatic circular provide evidence of organisation. Budget approval or an invitation does not establish a completed visit. Travel and hosting records require separate examination to establish actual participation."
       },
       {
-        "title": "Examine contact quality",
-        "text": "Government can provide diplomatic access, a foundation money, and a university an academic setting. Without language support, a voice and opportunities for joint work, participation may remain shallow. Freedom to criticise supports mutual learning."
+        "title": "Evaluating the quality of contact",
+        "text": "Government can provide diplomatic access, a foundation funding, and a university an academic setting. Without adequate language support, opportunities to contribute and joint work, participation may yield limited substantive interaction. Freedom to criticise is a component of mutual learning."
       },
       {
-        "title": "Follow the return home",
-        "text": "New knowledge needs adapting to local needs. Does the graduate have time, equipment and institutional support to use it? Admiring a university does not demonstrate support for its country’s government policy. Assess these outcomes separately."
+        "title": "Tracing knowledge use after return",
+        "text": "New knowledge requires adaptation to local needs. Evaluation must examine whether graduates have the time, equipment and institutional support to apply it. A favourable assessment of a university does not establish support for that country’s government policy. These outcomes require separate analysis."
       }
     ],
     "diagram": {
-      "title": "Separate the historical plan from implementation",
+      "title": "Distinguishing historical planning from implementation",
       "nodes": [
         {
           "title": "1910: proposal",
@@ -160,34 +160,34 @@
           "text": "Who actually travelled, and what work did they do?"
         }
       ],
-      "caption": "The first three stages show planning. The last box asks a research question; it does not claim visits occurred."
+      "caption": "The first three stages provide evidence of planning. The final stage formulates an implementation question; it does not assert that visits occurred."
     },
     "workedExample": {
-      "title": "Aylin returns: learning or institutional change?",
-      "scenario": "Hypothetical example: Aylin spends a term as a visiting student. She learns a research method, but her home department lacks the equipment to use it.",
+      "title": "Aylin’s return: individual learning and institutional change",
+      "scenario": "In a hypothetical example, Aylin spends a term as a visiting student and learns a research method. Her home department, however, lacks the equipment required to apply it.",
       "steps": [
-        "Record learning: Aylin can apply the method to an example.",
-        "Separate the institutional result: Her department does not yet use it; missing equipment interrupts the link.",
-        "Choose a follow-up: Does the department obtain equipment, and can Aylin train colleagues?"
+        "Specify the learning finding: Aylin can apply the method to an example.",
+        "Assess the institutional outcome separately: the department does not yet use the method, as missing equipment interrupts the connection between learning and application.",
+        "Specify follow-up questions: does the department obtain the necessary equipment, and can Aylin train colleagues?"
       ],
-      "lesson": "Individual learning matters, but does not alone prove that an institution changed."
+      "lesson": "Individual learning is a substantive gain, but does not independently establish institutional change."
     },
     "misconception": {
       "claim": "“A participant who criticises the host country demonstrates programme failure.”",
-      "correction": "Better-informed criticism can reflect learning. Respectful discussion and continuing cooperation offer different success measures from compulsory admiration."
+      "correction": "Better-informed criticism can result from learning. Respectful discussion and sustained cooperation provide measures of success distinct from an expectation of unconditional approval."
     },
     "quickCheck": {
       "question": "Do equal student numbers travelling each way prove reciprocity?",
-      "answer": "No. Examine who selects topics, who can speak and whether knowledge flows both ways."
+      "answer": "Equal participant numbers are insufficient. Evaluation must also examine who selects topics, how opportunities to contribute are distributed and whether knowledge flows in both directions."
     },
     "practice": {
-      "task": "In week 6 of the workbook’s 14-week guide, enter two follow-up indicators: immediate learning and knowledge used after return. Add an appropriate document type for each.",
+      "task": "Enter two follow-up indicators for week 6 of the workbook’s 14-week guide: one for immediate learning and another for knowledge use after return. Specify an appropriate document type for each indicator.",
       "hint": "Attendance certificates do not establish learning quality. A worked exercise and an institutional implementation record answer different questions."
     },
     "takeaways": [
-      "Travel, learning and application are different stages.",
+      "Mobility, learning and application constitute distinct stages of evaluation.",
       "Reciprocity requires shared voice and decision-making.",
-      "Investigate life after return to assess lasting relationships."
+      "Assessment of durable relationships requires follow-up after return."
     ]
   }
 }

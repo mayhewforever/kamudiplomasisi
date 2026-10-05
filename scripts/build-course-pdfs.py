@@ -46,48 +46,48 @@ LABELS = {
     'en': {
         'course': 'PUBLIC DIPLOMACY AND SOFT POWER', 'week': 'WEEK',
         'edition': 'Academic lecture notes', 'language': 'English edition',
-        'contents': 'Reading route', 'beginner': '1. Foundations and guided learning',
-        'deeper': '2. Detailed explanation and analytical practice',
-        'academic': '3. Academic analysis', 'sources': '4. Sources and seminar inquiry',
-        'idea': 'The central idea', 'analogy': 'A concrete analogy',
+        'contents': 'Contents and study guide', 'beginner': '1. Conceptual foundations and guided study',
+        'deeper': '2. Detailed explanation and analytical application',
+        'academic': '3. Academic analysis', 'sources': '4. Sources and seminar research',
+        'idea': 'Central idea', 'analogy': 'Illustrative analogy',
         'objectives': 'Learning objectives', 'concepts': 'Concepts and distinctions',
-        'steps': 'A method to follow', 'example': 'Worked example',
+        'steps': 'Analytical method', 'example': 'Worked example',
         'scenario': 'Scenario', 'conclusion': 'Analytical conclusion',
-        'misconception': 'A common misconception', 'claim': 'The claim',
-        'correction': 'The correction', 'checkpoint': 'Checkpoint', 'answer': 'Reasoned answer',
-        'practice': 'Apply the method', 'hint': 'Guidance', 'takeaways': 'Key takeaways',
-        'why': 'Why this matters', 'model': 'Model answer', 'faqs': 'Questions that need care',
-        'sourceNote': 'Source boundaries', 'seminar': 'Seminar and source criticism',
+        'misconception': 'Common misconception', 'claim': 'Claim',
+        'correction': 'Clarification', 'checkpoint': 'Review question', 'answer': 'Reasoned answer',
+        'practice': 'Analytical exercise', 'hint': 'Guidance', 'takeaways': 'Key points',
+        'why': 'Analytical significance', 'model': 'Model answer', 'faqs': 'Further questions and clarifications',
+        'sourceNote': 'Scope and limitations of the sources', 'seminar': 'Seminar and source criticism',
         'question': 'Research question', 'historiography': 'Historiographical problem',
-        'primaryTask': 'Reading the evidence', 'seminarTask': 'Seminar task',
+        'primaryTask': 'Evidence analysis', 'seminarTask': 'Seminar exercise',
         'discussion': 'Discussion questions', 'references': 'References and assigned reading',
-        'assignment': 'Read', 'summary': 'Analytical use', 'page': 'Page',
-        'figure': 'Figure', 'table': 'Table', 'term': 'Concept', 'meaning': 'Meaning and example',
-        'coverNote': 'Concepts, detailed explanations, visual comparisons, worked cases and source criticism.',
-        'routeNote': 'Begin with the foundations, work through the detailed explanations, then test the academic claims against the assigned sources. Diagrams show analytical relationships, not measured effects.',
+        'assignment': 'Assigned reading', 'summary': 'Analytical relevance', 'page': 'Page',
+        'figure': 'Figure', 'table': 'Table', 'term': 'Concept', 'meaning': 'Definition and example',
+        'coverNote': 'Conceptual foundations, detailed explanations, visual comparisons, worked examples and source criticism.',
+        'routeNote': 'Study the conceptual foundations and detailed explanations before assessing the academic arguments in relation to the assigned sources. Diagrams represent analytical relationships rather than measured effects.',
     },
     'tr': {
         'course': 'KAMU DİPLOMASİSİ VE YUMUŞAK GÜÇ', 'week': 'HAFTA',
         'edition': 'Akademik ders notları', 'language': 'Türkçe baskı',
-        'contents': 'Okuma rotası', 'beginner': '1. Temeller ve rehberli öğrenme',
+        'contents': 'İçindekiler ve çalışma rehberi', 'beginner': '1. Kavramsal temeller ve rehberli çalışma',
         'deeper': '2. Ayrıntılı açıklama ve analitik uygulama',
         'academic': '3. Akademik analiz', 'sources': '4. Kaynaklar ve seminer araştırması',
-        'idea': 'Ana fikir', 'analogy': 'Somut bir benzetme',
+        'idea': 'Ana düşünce', 'analogy': 'Açıklayıcı benzetme',
         'objectives': 'Öğrenme hedefleri', 'concepts': 'Kavramlar ve ayrımlar',
-        'steps': 'İzlenecek yöntem', 'example': 'Çözümlü örnek',
+        'steps': 'Analiz yöntemi', 'example': 'Çözümlü örnek',
         'scenario': 'Vaka', 'conclusion': 'Analitik sonuç',
         'misconception': 'Sık karşılaşılan bir yanılgı', 'claim': 'İddia',
-        'correction': 'Düzeltme', 'checkpoint': 'Kontrol sorusu', 'answer': 'Gerekçeli yanıt',
-        'practice': 'Yöntemi uygulayın', 'hint': 'Yol gösterici ipucu', 'takeaways': 'Temel çıkarımlar',
-        'why': 'Neden önemli?', 'model': 'Örnek yanıt', 'faqs': 'Dikkat gerektiren sorular',
-        'sourceNote': 'Kaynakların sınırları', 'seminar': 'Seminer ve kaynak eleştirisi',
+        'correction': 'Açıklama', 'checkpoint': 'Değerlendirme sorusu', 'answer': 'Gerekçeli yanıt',
+        'practice': 'Analitik uygulama', 'hint': 'Yönlendirme', 'takeaways': 'Temel noktalar',
+        'why': 'Analitik önemi', 'model': 'Örnek yanıt', 'faqs': 'İleri değerlendirme soruları ve açıklamalar',
+        'sourceNote': 'Kaynakların kapsamı ve sınırlılıkları', 'seminar': 'Seminer ve kaynak eleştirisi',
         'question': 'Araştırma sorusu', 'historiography': 'Tarih yazımı sorunu',
-        'primaryTask': 'Kanıtı okuma', 'seminarTask': 'Seminer görevi',
+        'primaryTask': 'Kanıtların analizi', 'seminarTask': 'Seminer çalışması',
         'discussion': 'Tartışma soruları', 'references': 'Kaynakça ve okuma ödevleri',
-        'assignment': 'Okuma', 'summary': 'Analitik kullanım', 'page': 'Sayfa',
-        'figure': 'Şekil', 'table': 'Tablo', 'term': 'Kavram', 'meaning': 'Anlam ve örnek',
-        'coverNote': 'Kavramlar, ayrıntılı açıklamalar, görsel karşılaştırmalar, çözümlü vakalar ve kaynak eleştirisi.',
-        'routeNote': 'Temellerle başlayın, ayrıntılı açıklamaları izleyin ve akademik iddiaları verilen kaynaklarla sınayın. Şemalar ölçülmüş etkileri değil, analitik ilişkileri gösterir.',
+        'assignment': 'Okuma ödevi', 'summary': 'Analitik önemi', 'page': 'Sayfa',
+        'figure': 'Şekil', 'table': 'Tablo', 'term': 'Kavram', 'meaning': 'Tanım ve örnek',
+        'coverNote': 'Kavramsal temeller, ayrıntılı açıklamalar, görsel karşılaştırmalar, çözümlü örnekler ve kaynak eleştirisi.',
+        'routeNote': 'Kavramsal temelleri ve ayrıntılı açıklamaları inceleyerek akademik argümanları okuma için verilen kaynaklar ışığında değerlendirin. Şemalar ölçülmüş etkileri değil, analitik ilişkileri gösterir.',
     },
 }
 
@@ -262,7 +262,9 @@ class Builder:
         paragraphs = [Paragraph(escaped(label), self.s['h3'])]
         for t in text if isinstance(text, list) else [text]:
             paragraphs.append(Paragraph(escaped(t), self.s['body']))
-        table = Table([[paragraphs]], colWidths=[WIDTH], splitByRow=1, splitInRow=1)
+        # Keep enough of a split callout together for its heading and body text;
+        # smaller fragments otherwise render as empty shaded strips at page ends.
+        table = Table([[paragraphs]], colWidths=[WIDTH], splitByRow=1, splitInRow=64)
         table.setStyle(TableStyle([
             ('BACKGROUND', (0, 0), (-1, -1), colour),
             ('LINEBEFORE', (0, 0), (0, -1), 3, TEAL if colour == PALE_TEAL else BURGUNDY),
@@ -397,12 +399,17 @@ class Builder:
         if data.get('book'):
             self.p(data['book'] if isinstance(data['book'], str) else json.dumps(data['book'], ensure_ascii=False))
         for index, ref in enumerate(data.get('references', [])):
+            reference_start = len(self.story)
             self.heading(f'{index + 1}. {ref["title"]}', 3, False)
             self.labeled(self.l['assignment'] + ':', ref.get('assignment', ''))
             self.labeled(self.l['summary'] + ':', ref.get('summary', ''))
             if ref.get('url'):
                 url = html.escape(ref['url'], quote=True)
                 self.story.append(Paragraph(f'<link href="{url}" color="#1b696b">{html.escape(ref["url"])}</link>', self.s['small']))
+            # Keep a source link with its short reference entry, avoiding an
+            # isolated URL on the following page. Long entries can still split.
+            for paragraph in self.story[reference_start:-1]:
+                paragraph.keepWithNext = True
 
 
 def build(root, week, locale, academic, sty):

@@ -1,16 +1,16 @@
 {
   "week": 1,
   "tr": {
-    "orientation": "Bu hafta güç kavramını, sahip olunan şeylerin listesinden çıkarıp insanlar ve kurumlar arasındaki ilişki içinde inceleyeceğiz. Temel soru yalnızca kimin güçlü göründüğü değil, kimin hangi tercihi hangi koşullarda değiştirebildiğidir. Önce kaynak, araç ve sonuç ayrımını kuracağız; ardından sert güç, yumuşak güç ve kamu diplomasisini karşılaştıracağız. Son bölümde bir başarı iddiasını kanıtlarla sınayacağız. Amaç bütün belirsizliği ortadan kaldırmak değil, ne bildiğimizi ve neyi henüz açıklayamadığımızı açıkça gösterebilmektir.",
+    "orientation": "Bu hafta güç, sahip olunan kaynakların envanterinden hareketle değil, kişiler ve kurumlar arasındaki ilişkiler içinde incelenmektedir. Temel araştırma sorusu, hangi aktörün hangi tercihi hangi koşullarda değiştirebildiğidir. Kaynak, araç ve sonuç ayrımının ardından sert güç, yumuşak güç ve kamu diplomasisi karşılaştırılmakta; son bölümde başarı iddiaları kanıtlarla sınanmaktadır. Amaç, belirsizliği bütünüyle ortadan kaldırmak yerine mevcut bilginin kapsamını ve açıklanamayan unsurları açıkça belirlemektir.",
     "sections": [
       {
         "id": "resource-and-relationship",
-        "title": "1. Kaynağa sahip olmak neden sonuç elde etmek değildir?",
-        "why": "Bir ülkenin bütçesi veya itibarı kolayca sayılabilir; bunların başka bir aktörün seçimini değiştirdiğini göstermek daha zor bir araştırma gerektirir.",
+        "title": "1. Kaynaklara sahip olma ile sonuç elde etme arasındaki ayrım",
+        "why": "Bütçe ve itibar bir aktörün kaynaklarını tanımlar; bu kaynakların başka bir aktörün tercihini değiştirdiği iddiası ise ayrı bir ampirik inceleme gerektirir.",
         "paragraphs": [
-          "Kaynak, kullanılabilecek imkândır: para, uzmanlık, askerî kapasite, saygınlık veya ilişki ağı. Araç, bu imkânın belirli bir amaçla kullanıldığı düzenlemedir; burs programı buna örnektir. Sonuç ise hedeflenen kişinin veya kurumun bilgisinde, tercihinde ya da davranışında gözlenen değişimdir. Bu üç düzeyi ayırmak, güzel görünen bir faaliyetin başarısını peşinen kabul etmemizi önler. Kaynak bazen kullanılmaz; kullanılan araç da hedeflenen karşılığı bulmayabilir.",
-          "Varsayımsal bir okul kulübünün iyi bir salonu olduğunu düşünün. Salon kaynak, düzenlenen tanışma toplantısı araç, yeni üyelerin sonraki toplantıya kendi istekleriyle gelmesi olası sonuçtur. Bu benzetme farkı görünür kılar, fakat ülkeler okul kulüpleri kadar basit değildir. Devletlerin birden çok kurumu, hedefi ve zaman ufku vardır. Aynı faaliyet farklı kamularda farklı sonuçlar doğurabilir; bir grubun olumlu tepkisi bütün toplum adına konuşmaz.",
-          "Robert Dahl ile ilişkilendirilen ilişkisel yaklaşım, bir aktörün diğerinin aksi hâlde yapmayacağı bir şeye katkısını sorar. Burada aktör bir kişi, devlet veya kurum olabilir. Dolayısıyla araştırma bir karşılaştırma içerir: Müdahale olmasaydı ne olabilirdi? Bu karşı olgusal durum genellikle doğrudan gözlenemez. Yine de önceki tercihleri ve alternatif nedenleri incelemek, sırf kaynak üstünlüğünden etki sonucu çıkarmaktan daha sağlamdır."
+          "Kaynak, kullanılabilir imkân veya kapasitedir: para, uzmanlık, askerî kapasite, saygınlık veya ilişki ağı. Araç, bu kapasitenin belirli bir amaç doğrultusunda kullanıldığı düzenlemedir; burs programı buna örnektir. Sonuç ise hedeflenen kişi veya kurumun bilgisinde, tercihinde ya da davranışında gözlenen değişimdir. Bu düzeyleri ayırmak, olumlu görünen bir faaliyete önceden başarı atfedilmesini önler. Kaynak kullanılmadan kalabilir; kullanılan araç da amaçlanan karşılığı üretmeyebilir.",
+          "Varsayımsal bir okul kulübünde uygun bir salon kaynak, tanışma toplantısı araç, yeni üyelerin sonraki toplantıya gönüllü katılımı ise olası sonuçtur. Bu benzetme kavramsal ayrımı somutlaştırır; ancak devletlerin yapısı okul kulüplerinden daha karmaşıktır. Devletler birden çok kurum, hedef ve zaman ufku içerir. Aynı faaliyet farklı kamularda farklı sonuçlar doğurabilir; bir grubun olumlu tepkisi bütün toplumu temsil etmez.",
+          "Robert Dahl ile ilişkilendirilen ilişkisel yaklaşım, bir aktörün diğerinin aksi hâlde gerçekleştirmeyeceği bir davranışa katkısını inceler. Aktör bir kişi, devlet veya kurum olabilir. Bu nedenle araştırma, müdahalenin yokluğunda ortaya çıkabilecek durumla karşılaştırma içerir. Karşı olgusal durum genellikle doğrudan gözlenemez. Bununla birlikte önceki tercihlerin ve alternatif nedenlerin incelenmesi, yalnız kaynak üstünlüğünden etki çıkarımı yapmaya göre daha güçlü bir analitik dayanak sağlar."
         ],
         "example": {
           "title": "Varsayımsal örnek: Saygın üniversite",
@@ -23,16 +23,16 @@
       },
       {
         "id": "mechanisms-of-power",
-        "title": "2. Sert, yumuşak ve akıllı gücü mekanizmalarıyla ayırın",
-        "why": "Mekanizma, bir etkinin nasıl ortaya çıkabildiğini açıklayan süreçtir. Aracın adı veya dostça görünmesi, hangi mekanizmanın işlediğini söylemez.",
+        "title": "2. Sert, yumuşak ve akıllı gücün mekanizmalar bakımından ayrılması",
+        "why": "Mekanizma, bir etkinin ortaya çıkmasını sağlayan süreci açıklar. Aracın adı veya dostane niteliği, işleyen mekanizmayı tek başına belirlemez.",
         "paragraphs": [
-          "Sert güç, karşı tarafın beklediği maliyeti veya maddi getiriyi değiştirir. Tehdit uyumsuzluğu pahalılaştırabilir; koşullu ödeme uyumu kazançlı kılabilir. Bu nedenle sert güç yalnız askerî şiddet değildir. Sonuç, kişinin gerçekten ikna olması yerine geçici davranışsal uyum olabilir. Bir ödül kabul edildiğinde, hedefin düşüncesinin de değiştiğini varsaymayın. Ödül ortadan kalktığında aynı davranışın sürüp sürmeyeceği ayrı bir sorudur.",
+          "Sert güç, karşı tarafın beklediği maliyeti veya maddi getiriyi değiştirir. Tehdit, uyumsuzluğun maliyetini artırabilir; koşullu ödeme ise uyumu maddi açıdan kazançlı kılabilir. Bu nedenle sert güç yalnız askerî şiddetten ibaret değildir. Sonuç, ikna yerine geçici davranışsal uyum olabilir. Bir ödülün kabul edilmesi, hedef aktörün düşüncesinin değiştiğini göstermez. Ödül ortadan kalktığında aynı davranışın sürüp sürmeyeceği ayrıca incelenmelidir.",
           "Joseph Nye'ın yumuşak güç kavramı, tercihlerin çekicilik ve algılanan meşruiyetle şekillenmesine odaklanır. Meşruiyet burada bir davranışın haklı veya kabul edilebilir bulunmasıdır. Kültür, değerler ve kurumlar çekicilik sağlayabilir, fakat her yerde aynı anlamı taşımaz. Bir izleyici yabancı bir filmi severken o ülkenin dış politikasına karşı çıkabilir. Bu yüzden belirli bir nesneye hayranlık ile belirli bir politika tercihi arasındaki bağlantıyı ayrıca göstermek gerekir.",
-          "Akıllı güç, sert ve yumuşak gücün yanına eklenen üçüncü bir madde değildir; araçları amaç ve bağlama uygun biçimde birleştirme ilkesidir. Bir araç diğerinin etkisini destekleyebilir veya zayıflatabilir. Kısa vadeli baskı uyum sağlarken uzun vadeli güveni aşındırıyorsa toplam sonuç sorunlu olabilir. Değerlendirme, kullanılan araç sayısına değil, sıralamaya, karşılıklı etkilere, hedefin yorumuna ve makul alternatiflere bakmalıdır."
+          "Akıllı güç, sert ve yumuşak güce eklenen üçüncü bir kaynak kategorisi değildir; araçların amaç ve bağlama uygun biçimde birleştirilmesi ilkesidir. Bir araç diğerinin etkisini destekleyebilir veya zayıflatabilir. Kısa vadeli baskı uyum sağlarken uzun vadeli güveni aşındırıyorsa toplam sonuç sorunlu olabilir. Değerlendirme, kullanılan araç sayısından ziyade sıralamayı, karşılıklı etkileri, hedefin yorumunu ve makul alternatifleri incelemelidir. Araç çeşitliliği tek başına tutarlı bir strateji oluşturmaz."
         ],
         "example": {
           "title": "Varsayımsal örnek: Aynı burs, farklı gerekçeler",
-          "text": "Bir öğrenci maddi destek için, diğeri kuruma hayran olduğu için başvurabilir. İkisi aynı programdadır, fakat karar gerekçeleri farklıdır. Programın kültürel görünümünden hareketle bütün katılımı yumuşak güç diye sınıflandıramayız."
+          "text": "Bir öğrenci maddi destek elde etmek, diğeri kuruma duyduğu hayranlık nedeniyle başvurabilir. Katıldıkları program aynı olsa da karar gerekçeleri farklıdır. Programın kültürel niteliği, bütün katılımın yumuşak güç mekanizmasıyla açıklanmasına yeterli değildir."
         },
         "checkpoint": {
           "question": "Olumlu teşvik neden her zaman yumuşak güç değildir?",
@@ -41,74 +41,74 @@
       },
       {
         "id": "visible-and-hidden-power",
-        "title": "3. Kararlar, gündemler ve tercihler farklı sorular açar",
-        "why": "Yalnız açık oylamalara bakmak bazı güç ilişkilerini kaçırabilir; her sessizliği güç diye açıklamak ise iddiayı sınanamaz hâle getirir.",
+        "title": "3. Kararlar, gündemler ve tercih oluşumu",
+        "why": "Yalnız açık oylamaların incelenmesi bazı güç ilişkilerini gözden kaçırabilir; bütün sessizliklerin güçle açıklanması ise iddiaların sınanabilirliğini ortadan kaldırır.",
         "paragraphs": [
-          "Gücün en görünür yüzünde açık bir anlaşmazlık ve karar vardır. Kim ne istiyordu, hangi seçenekler tartışıldı, sonuç ne oldu? Oylama kayıtları ve müzakere belgeleri bu düzeyde yararlıdır. Ancak kazanan tarafın daha fazla kaynağa sahip olması, sonucu kaynakların yarattığını tek başına göstermez. Diğer taraf aynı seçeneği kendi çıkarı için de tercih etmiş olabilir; karar gerekçelerini izlemek gerekir.",
+          "Gücün en görünür boyutunda açık bir anlaşmazlık ve karar yer alır. İnceleme, aktörlerin amaçlarını, tartışılan seçenekleri ve ortaya çıkan sonucu belirler. Oylama kayıtları ile müzakere belgeleri bu düzeyde yararlıdır. Ancak kararda üstün gelen tarafın daha fazla kaynağa sahip olması, sonucu bu kaynakların yarattığını tek başına göstermez. Diğer taraf aynı seçeneği kendi çıkarları doğrultusunda da tercih etmiş olabilir; karar gerekçeleri ayrıca izlenmelidir.",
           "Steven Lukes'in genişlettiği çerçevede ikinci soru gündem üzerindeki etkidir: Hangi meseleler yetkili tartışmaya hiç giremedi? Burada yalnız bir konunun yokluğu yeterli değildir. Başvuruların reddedilmesi, gündem kurallarının belirli grupları dışlaması veya tekrar eden engelleme örüntüleri araştırılır. Bir konunun bilinmemesi, zaman yetersizliği veya yerleşik idari rutin de yokluğu açıklayabilir. Araştırmacı, rakip açıklamayı dışlamadan denetim iddiasını kesinleştirmemelidir.",
-          "Üçüncü soru, insanların neyi doğal, mümkün veya arzu edilir gördüğünün oluşmasıdır. Eğitim, toplumsal ilişkiler ve anlatılar seçeneklerin anlamını etkileyebilir. Fakat her öğrenmeyi tahakküm saymak hatalıdır; kişi bağımsız değerlendirme sonucunda da fikrini değiştirebilir. İddia, belirli bir tercihin zaman içindeki oluşumuna, etkileşimlerine ve alternatiflerine dayanmalıdır. Bu üç mercek aynı vakada birlikte kullanılabilir, fakat her biri farklı kanıt ister."
+          "Üçüncü soru, insanların neyi doğal, mümkün veya arzu edilir gördüğünün nasıl oluştuğuyla ilgilidir. Eğitim, toplumsal ilişkiler ve anlatılar seçeneklere atfedilen anlamı etkileyebilir. Ancak her öğrenmenin tahakküm olarak değerlendirilmesi hatalıdır; bağımsız değerlendirme de görüş değişimine yol açabilir. İddia, belirli bir tercihin zaman içindeki oluşumuna, ilgili etkileşimlere ve alternatiflere dayanmalıdır. Bu üç yaklaşım aynı vakada birlikte kullanılabilir; her biri farklı kanıt gerektirir."
         ],
         "example": {
           "title": "Varsayımsal örnek: Kulübün toplantı gündemi",
-          "text": "Bir önerinin oylamada reddedilmesi karar düzeyidir. Başvurunun kurallarla gündeme hiç alınmaması farklıdır. Üyelerin öneriyi düşünmeye bile değer bulmaması ise tercih oluşumu sorusu açar. Bu gözlemler aynı açıklama yerine geçmez."
+          "text": "Bir önerinin oylamada reddedilmesi karar düzeyine ilişkindir. Kurallar nedeniyle gündeme hiç alınmaması, gündem üzerindeki etkiye ilişkin ayrı bir gözlemdir. Üyelerin öneriyi değerlendirmeye değer bulmaması ise tercih oluşumunun incelenmesini gerektirir. Bu gözlemler aynı açıklamanın birbirinin yerine kullanılabilir kanıtları değildir."
         },
         "checkpoint": {
           "question": "Tutanakta bir konu yoksa gündem denetimi kanıtlanmış olur mu?",
-          "answer": "Hayır. Konunun nasıl dışarıda kaldığını araştırmalı; bilinmeme, süre kısıtı ve rutin gibi açıklamaları da karşılaştırmalıyız."
+          "answer": "Konunun tutanakta bulunmaması yeterli değildir. Konunun dışarıda kalma süreci araştırılmalı; bilinmeme, süre kısıtı ve idari rutin gibi alternatif açıklamalar karşılaştırılmalıdır."
         }
       },
       {
         "id": "public-diplomacy-practice",
-        "title": "4. Kamu diplomasisi bir faaliyet alanıdır, başarı belgesi değildir",
+        "title": "4. Kamu diplomasisinin faaliyet alanı ve etki değerlendirmesi",
         "why": "Kavramın tanımı ile uygulamanın etkisini ayırmak, her kültürel etkinliğe otomatik başarı atfetmeyi önler.",
         "paragraphs": [
-          "Kamu diplomasisi, dış amaçlarla bağlantılı olarak yabancı kamularla kurulan örgütlü etkileşimdir. Genellikle devletçe yürütülür veya mümkün kılınır; gazeteciler, üniversiteler ve sivil kuruluşlar da sürece katılabilir. Geleneksel diplomasiden tamamen kopmaz, fakat başlıca muhatapları hükümet temsilcileriyle sınırlı değildir. Kamu sözcüğünü tek bir topluluk gibi düşünmeyin: Öğrencilerin, uzmanların ve farklı toplumsal çevrelerin bilgiye erişimi, çıkarları ve karar bağlantıları değişir.",
-          "Nicholas Cull'un işlev ayrımları, dinleme, savunuculuk, kültürel diplomasi, değişim ve uluslararası yayıncılığı ayrı incelemeye yardım eder. İşlev, faaliyetin ne yaptığını anlatır; mekanizma ise neyi nasıl değiştirebileceğini açıklar. Dinleme raporu hazırlanması bilgi toplandığını gösterir. O rapor program tasarımını veya politika tavsiyesini değiştirirse kurumsal öğrenmeden söz edebiliriz. Aynı program birkaç işlev üstlenebilir; her işlevin başarısı aynı göstergeyle ölçülmez.",
+          "Kamu diplomasisi, dış amaçlarla bağlantılı olarak yabancı kamularla kurulan örgütlü etkileşimdir. Genellikle devletçe yürütülür veya mümkün kılınır; gazeteciler, üniversiteler ve sivil kuruluşlar da sürece katılabilir. Geleneksel diplomasiyle bağlantısını korur, ancak başlıca muhatapları hükümet temsilcileriyle sınırlı değildir. Kamu kavramı tek ve homojen bir topluluğu ifade etmez: Öğrencilerin, uzmanların ve farklı toplumsal çevrelerin bilgiye erişimi, çıkarları ve karar süreçleriyle bağlantıları değişir.",
+          "Nicholas Cull’un işlev ayrımları, dinleme, savunuculuk, kültürel diplomasi, değişim ve uluslararası yayıncılığın ayrı incelenmesini sağlar. İşlev, faaliyetin ne yaptığını; mekanizma ise neyi nasıl değiştirebileceğini açıklar. Dinleme raporunun hazırlanması bilgi toplandığını gösterir. Raporun program tasarımını veya politika tavsiyesini değiştirdiğine ilişkin kanıt, kurumsal öğrenme iddiasını destekleyebilir. Aynı program birkaç işlev üstlenebilir; her işlevin başarısı aynı göstergeyle ölçülmez.",
           "Propaganda ile kamu diplomasisi bazen aynı iletişim araçlarını kullanır. Bu nedenle ayrımı yalnız üsluba veya medyaya bağlamak yetersizdir. Kaynağın açıklığı, doğruluk, seçicilik, muhatabın itiraz imkânı ve geri bildirimin dikkate alınması değerlendirilmelidir. Devlet dışı ortağın katılımı da tek başına bağımsızlık kanıtı değildir. Yetkiyi, finansmanı, içeriği kimin belirlediğini ve uygulayıcının takdir alanını ayrı araştırmak gerekir."
         ],
         "example": {
-          "title": "Varsayımsal örnek: Dinlenen ama kullanılmayan görüş",
+          "title": "Varsayımsal örnek: Toplanan görüşlerin kullanılmaması",
           "text": "Bir kültür merkezi ziyaretçilerden öneri toplar, fakat tasarımını hiç değiştirmez. Bu, dinleme faaliyeti bulunduğunu gösterebilir; öğrenme veya karşılıklı uyarlamanın gerçekleştiğini henüz göstermez. Değişiklik kaydı ikinci iddia için daha uygundur."
         },
         "checkpoint": {
-          "question": "Bir faaliyete kamu diplomasisi demek neyi kanıtlamaz?",
-          "answer": "Onun etkili, etik, karşılıklı veya ikna edici olduğunu kanıtlamaz. Bunlar ayrı ölçütlerle değerlendirilmelidir."
+          "question": "Bir faaliyetin kamu diplomasisi olarak sınıflandırılması hangi değerlendirmeleri desteklemeye yetmez?",
+          "answer": "Bu sınıflandırma, faaliyetin etkili, etik, karşılıklı veya ikna edici olduğunu göstermez. Söz konusu nitelikler ayrı ölçütlerle değerlendirilmelidir."
         }
       },
       {
         "id": "evidence-and-inference",
-        "title": "5. Kanıtı, çıkardığınız sonuçtan ayırın",
+        "title": "5. Kanıt ile çıkarım arasındaki ayrım",
         "why": "Bir belge her soruyu cevaplayamaz. Araştırmanın kalitesi, belgenin güçlü olduğu alanla sınırlarını birlikte göstermesine bağlıdır.",
         "paragraphs": [
-          "Kanıt, belirli bir iddiayı değerlendirmek için kullandığımız gözlemdir. Çıkarım ise bu gözlemden vardığımız sonuçtur. Bir etkinlik kaydı toplantının yapıldığını gösterebilir; katılımcıların güven kazandığını doğrudan göstermez. Kaynağı okurken kim tarafından, hangi amaçla, kimin için ve ne zaman üretildiğini sorun. Kurumun başarı raporu değersiz değildir, fakat kendini olumlu sunma eğilimi bulunabilir. Katılımcı anlatısı da bütün katılımcıları temsil etmeyebilir.",
+          "Kanıt, belirli bir iddiayı değerlendirmek için kullanılan gözlemdir. Çıkarım ise bu gözlemden ulaşılan sonuçtur. Bir etkinlik kaydı toplantının yapıldığını gösterebilir; katılımcıların güveninin arttığını doğrudan göstermez. Kaynağın kim tarafından, hangi amaçla, kimin için ve ne zaman üretildiği incelenmelidir. Kurumun başarı raporu kanıt değeri taşır, ancak olumlu öz sunum eğilimi içerebilir. Katılımcı anlatısı da bütün katılımcıları temsil etmeyebilir.",
           "Alımlama, insanların karşılaştıkları mesajı anlamlandırmasıdır. Dağıtım ve görüntülenme erişime ilişkin ipucu verir; yorum, hatırlama ve güven için farklı veri gerekir. Bunların ardından tercih ve davranış gelir. Bu basamaklar birbirinden kopuk değildir, fakat biri diğerini otomatik kanıtlamaz. Araştırmada olumlu yanıtların yanı sıra yanlış anlamaları, reddetmeyi ve beklenmedik kullanımları da aramak, sonuçları yalnız başarı örnekleriyle kurma riskini azaltır.",
-          "Farklı kaynakları karşılaştırmak, aynı iddianın bağımsız izlerini bulmaya yardımcı olur. Ancak üç rapor aynı basın açıklamasını tekrar ediyorsa üç bağımsız kanıt yoktur. Kaynakların birbirinden türeyip türemediğini kontrol edin. Belge bulunmaması da her zaman etki yokluğu anlamına gelmez; kayıt sistemi eksik olabilir. Böyle durumlarda kesin başarı veya başarısızlık hükmü yerine gözlemlenen aşamayı ve belirsizliği açıkça yazın."
+          "Farklı kaynakların karşılaştırılması, aynı iddiaya ilişkin bağımsız izlerin belirlenmesine yardımcı olur. Ancak üç rapor aynı basın açıklamasını tekrarlıyorsa üç bağımsız kanıttan söz edilemez. Kaynakların birbirinden türeyip türemediği kontrol edilmelidir. Belge bulunmaması her zaman etki yokluğunu göstermez; kayıt sistemi eksik olabilir. Böyle durumlarda kesin başarı veya başarısızlık hükmü yerine, gözlenen aşama ve devam eden belirsizlik açıkça belirtilmelidir."
         ],
         "example": {
           "title": "Varsayımsal örnek: Üç haber, tek kaynak",
-          "text": "Üç gazete bir kurumun aynı duyurusunu aynen aktarıyor. Haber sayısı dolaşımı gösterebilir; üç bağımsız olumlu değerlendirme sayılmaz. Muhabirin kendi incelemesiyle kurum açıklamasının tekrarı aynı kanıt ağırlığında değildir."
+          "text": "Üç gazetenin aynı kurumsal duyuruyu yeniden yayımlaması, duyurunun dolaşımına ilişkin kanıt sağlayabilir; üç bağımsız olumlu değerlendirme oluşturmaz. Muhabirin kendi araştırması ile kurumsal açıklamanın tekrarı farklı kanıt ağırlıklarına sahiptir."
         },
         "checkpoint": {
-          "question": "Bir katılımcının olumlu görüşü ne kadar geniş bir iddiayı taşır?",
-          "answer": "Öncelikle o kişinin bildirilen değerlendirmesini. Bütün hedef kitlenin veya hükümetin tercihine genellemek için ek kanıt gerekir."
+          "question": "Bir katılımcının olumlu değerlendirmesi hangi kapsamdaki iddiayı destekleyebilir?",
+          "answer": "Öncelikle söz konusu kişinin bildirdiği değerlendirmeyi destekler. Bütün hedef kitlenin veya hükümetin tercihine yönelik genelleme ek kanıt gerektirir."
         }
       },
       {
         "id": "causal-and-ethical-judgment",
-        "title": "6. Ölçülü bir nedensel ve etik değerlendirme kurun",
-        "why": "İyi sonuç cümlesi, etkinliğin katkısını açıklarken başka nedenleri ve etkileşimin koşullarını görünür tutar.",
+        "title": "6. Kanıtla orantılı nedensel ve etik değerlendirme",
+        "why": "Bir sonuç ifadesi, faaliyetin katkısını açıklarken alternatif nedenleri ve etkileşimin koşullarını da belirtmelidir.",
         "paragraphs": [
-          "Nedensel iddia, bir unsurun diğerinin ortaya çıkmasına katkısını ileri sürer. Bunun için zaman sırası gereklidir ama yeterli değildir. Programdan önceki tutumları, katılımın nasıl seçildiğini ve aynı dönemdeki başka gelişmeleri inceleyin. Zaten ilgili kişiler programa daha çok katılmışsa, sonradan görülen olumlu tutum bütünüyle programdan doğmamış olabilir. Bu seçim sorunu, katılanlarla katılmayanları basitçe karşılaştırmayı da yanıltabilir.",
-          "Değerlendirme amaca uygun ölçü seçmelidir. Bilgi vermeyi amaçlayan kısa bir yayın için doğru hatırlama anlamlı olabilir; uzun süreli ilişki programında güven ve karşılıklı temas daha uygun olabilir. Uzak bir hükümet kararını her küçük faaliyetin zorunlu başarı ölçütü yapmak da haksızdır. Önce amaçlanan katkıyı tanımlayın, ardından kanıtın hangi bölümünü desteklediğini yazın. 'Kolaylaştırdı' veya 'pekiştirdi' gibi fiiller, süreç kanıtı sınırlıysa daha isabetlidir.",
-          "Etik koşullar mekanizmanın dışında değildir. Kaynağın gizlenmesi, kişisel bilgilerin kötü kullanılması veya yerel ortağın bağımsızlığının zedelenmesi güveni değiştirebilir. Buna karşılık açık kaynak, itiraz imkânı ve karşılıklılık güvenilirliği destekleyebilir; yine de başarı garantisi vermez. Başka bir vakaya aktarım yaparken aynı aracı kopyalamak yerine benzer mekanizma ve farklı koşulları belirtin. Tarihsel benzetmenin yararı, farkları silmesinde değil araştırılacak soruları keskinleştirmesindedir."
+          "Nedensel iddia, bir unsurun diğerinin ortaya çıkmasına katkıda bulunduğunu ileri sürer. Zaman sırası bu iddia için gerekli, ancak yetersizdir. Program öncesi tutumlar, katılımcı seçimi ve eşzamanlı gelişmeler incelenmelidir. Zaten ilgili kişiler programa daha fazla katılmışsa, sonradan gözlenen olumlu tutum bütünüyle programdan kaynaklanmayabilir. Bu seçim sorunu, katılanlarla katılmayanların basit karşılaştırmasını da yanıltabilir; gruplar müdahale öncesinde farklılaşmış olabilir.",
+          "Değerlendirmede amaçla uyumlu ölçüler kullanılmalıdır. Bilgi vermeyi amaçlayan kısa bir yayın için doğru hatırlama, uzun süreli ilişki programında ise güven ve sürdürülen temas daha uygun olabilir. Her küçük faaliyetin uzak bir hükümet kararına etkisini zorunlu başarı ölçütü saymak da uygun olmayabilir. Önce amaçlanan katkı tanımlanmalı, ardından kanıtın bu katkının hangi bölümünü desteklediği belirtilmelidir. Süreç kanıtı sınırlıysa “kolaylaştırdı” veya “pekiştirdi” gibi fiiller daha isabetli olabilir.",
+          "Etik koşullar, etki mekanizmasının işleyişiyle ilişkilidir. Kaynağın gizlenmesi, kişisel bilgilerin kötü kullanılması veya yerel ortağın bağımsızlığının zedelenmesi güveni etkileyebilir. Kaynağın açıklığı, itiraz imkânı ve karşılıklılık ise başarıyı garanti etmeksizin güvenilirliği destekleyebilir. Başka bir vakaya aktarımda, aynı aracın kopyalanması yerine benzer mekanizmalar ve farklı koşullar belirtilmelidir. Tarihsel benzetme, durumlar arasındaki farkları ortadan kaldırmadan araştırma sorularının daha kesin kurulmasına katkı sağlar."
         ],
         "example": {
           "title": "Varsayımsal örnek: Eksik başlangıç ölçümü",
-          "text": "Program sonunda olumlu yanıtlar var, fakat başlangıç görüşleri bilinmiyor. 'Program tutumları iyileştirdi' demek yerine, 'Katılımcılar sonunda olumlu değerlendirme bildirdi; değişimin kaynağı henüz belirlenemiyor' yazmak daha savunulabilirdir."
+          "text": "Program sonrasında olumlu yanıtlar bulunmasına rağmen başlangıç görüşleri bilinmiyorsa tutumların iyileştiği sonucuna ulaşılamaz. “Katılımcılar program sonunda olumlu değerlendirme bildirmiştir; değişimin kaynağı henüz belirlenememektedir” ifadesi, mevcut kanıtın sınırlarına daha uygundur."
         },
         "checkpoint": {
-          "question": "Belirsizliği yazmak analizi zayıflatır mı?",
-          "answer": "Hayır. Belirsizliğin nedenini ve hangi kanıtla azaltılabileceğini göstermek, iddianın sınırını ve araştırmanın sonraki adımını açıklar."
+          "question": "Belirsizliğin açıkça belirtilmesi analize nasıl katkıda bulunur?",
+          "answer": "Belirsizliğin kaynağının ve onu azaltabilecek kanıtın açıklanması, iddianın sınırlarını ve araştırmanın sonraki aşamasını belirler."
         }
       }
     ],
@@ -138,7 +138,7 @@
       },
       {
         "kind": "comparison",
-        "title": "Aynı faaliyeti farklı sorularla incelemek",
+        "title": "Aynı faaliyetin farklı analitik sorularla değerlendirilmesi",
         "caption": "Sınıflandırma görünüşe değil, ileri sürülen sürece dayanır.",
         "columns": [
           "Yaklaşım",
@@ -149,29 +149,29 @@
           [
             "Sert güç",
             "Maddi hesap nasıl değişti?",
-            "Uyum, onay değildir."
+            "Davranışsal uyum, tutumsal onayı göstermez."
           ],
           [
             "Yumuşak güç",
             "Çekicilik tercihi değiştirdi mi?",
-            "Hayranlık, politika desteği değildir."
+            "Hayranlık, politika desteğini tek başına göstermez."
           ],
           [
             "Akıllı güç",
             "Araçlar birbirini destekledi mi?",
-            "Çeşitlilik, strateji değildir."
+            "Araç çeşitliliği, stratejik tutarlılığı göstermez."
           ],
           [
             "Kamu diplomasisi",
             "Yabancı kamuyla nasıl etkileşildi?",
-            "Faaliyet, etki değildir."
+            "Faaliyetin gerçekleşmesi, etkiyi kanıtlamaz."
           ]
         ]
       },
       {
         "kind": "matrix",
         "title": "Kaynak ve kanıt sınırı",
-        "caption": "Bir kaynağın sınırı, onu işe yaramaz kılmaz; hangi soruya yanıt verebildiğini belirler.",
+        "caption": "Bir kaynağın sınırları kanıt değerini ortadan kaldırmaz; destekleyebileceği araştırma sorularını belirler.",
         "columns": [
           "Kaynak",
           "Gösterebileceği",
@@ -204,63 +204,63 @@
     "cases": [
       {
         "title": "Varsayımsal vaka: Burs ve dış politika desteği",
-        "scenario": "Bir burs programının mezunları üniversiteyi övüyor. Yönetici bundan ülkenin dış politikasının daha fazla desteklendiği sonucunu çıkarıyor.",
+        "scenario": "Bir burs programının mezunları üniversiteye ilişkin olumlu değerlendirmeler bildirmektedir. Yönetici bu verilerden, ülkenin dış politikasına desteğin arttığı sonucunu çıkarmaktadır.",
         "steps": [
-          "Ölçülen nesneyi belirleyin: Üniversitenin değerlendirilmesi ile dış politikanın değerlendirilmesi farklıdır. Tek bir olumlu tutum başlığı altında birleştirmeyin.",
-          "Başlangıç görüşünü ve seçimi araştırın. Programa zaten ülkeye yakınlık duyanların katılmış olması, sonucun alternatif açıklamasıdır.",
-          "Politika desteği için ayrı sorular ve varsa davranış kayıtları arayın. Bu kanıtlar yoksa mezunların üniversiteye ilişkin olumlu değerlendirmesini raporlayın."
+          "Ölçülen nesneyi belirleyiniz: Üniversite değerlendirmesi ile dış politika değerlendirmesi farklıdır. Bunların genel bir olumlu tutum kategorisinde birleştirilmesi, ölçülen unsurun özgüllüğünü kaybettirir.",
+          "Başlangıç görüşlerini ve katılımcı seçimini araştırınız. Programa önceden ülkeye yakınlık duyanların katılmış olması alternatif bir açıklamadır.",
+          "Politika desteğine ilişkin ayrı sorular ve varsa davranış kayıtları arayınız. Bu kanıtlar bulunmuyorsa mezunların üniversiteye yönelik olumlu değerlendirmelerini raporlayınız."
         ],
         "conclusion": "Veri olumlu bir deneyimi destekleyebilir; daha uzak diplomatik sonuç henüz kanıtlanmış değildir."
       },
       {
-        "title": "Varsayımsal vaka: Başarılı düzeltme mi, yalnız dağıtım mı?",
+        "title": "Varsayımsal vaka: Bilgi düzeltmesinin dağıtımı ve etkisi",
         "scenario": "Bir kurum yanlış bilgiyi düzelten açıklamasının çok sayıda hesapta paylaşıldığını görür ve yanlış inancın giderildiğini ileri sürer.",
         "steps": [
-          "Paylaşımı erişim göstergesi olarak sınıflandırın. Paylaşan kişi destekliyor, eleştiriyor veya alay ediyor olabilir; anlamı metinlerden kontrol edin.",
-          "Hedef kitlenin yanlış bilgiyi başlangıçta bilip bilmediğini araştırın. Mesajın kimlere ulaştığı bilinmeden düzeltmenin kapsamı hesaplanamaz.",
-          "Sonraki hatırlamayı ve gerekçeleri inceleyin. Başka bir haber kaynağı aynı dönemde düzeltme yaptıysa katkıları ayırmaya çalışın."
+          "Paylaşımı erişim göstergesi olarak sınıflandırınız. Paylaşım destek, eleştiri veya alay ifade edebilir; eşlik eden metinlerdeki anlamı inceleyiniz.",
+          "Hedef kitlenin yanlış bilgiyle başlangıçtaki karşılaşmasını araştırınız. Düzeltmenin kimlere ulaştığı bilinmeden kapsamı belirlenemez.",
+          "Sonraki hatırlama ve gerekçelendirmeyi inceleyiniz. Başka bir haber kaynağı aynı dönemde düzeltme yaptıysa katkılarını ayrıştırmaya çalışınız."
         ],
-        "conclusion": "Düzeltmenin yayımlanması, görülmesi ve inanılması üç ayrı iddiadır; her birinin kanıtını ayrı tutun."
+        "conclusion": "Düzeltmenin yayımlanması, görülmesi ve inandırıcı bulunması ayrı iddialardır; her biri ayrı kanıtlarla değerlendirilmelidir."
       }
     ],
     "practice": {
       "title": "Excel ile iddiayı daraltma çalışması",
-      "task": "Öğrenci kanıt matrisinde burs vakasını inceleyin ve savunulabilir bir sonuç oluşturun. Varsayımsal ölçüm laboratuvarındaki sayıların örnek veri olduğunu koruyun; bunları gerçek öğrenci sonucu gibi kullanmayın.",
+      "task": "Öğrenci kanıt matrisinde burs vakasını inceleyerek savunulabilir bir sonuç oluşturunuz. Varsayımsal ölçüm laboratuvarındaki sayıların örnek veri niteliğini koruyunuz; bunları gerçek öğrenci sonuçları olarak sunmayınız.",
       "steps": [
-        "Bir satıra iddiayı ve ölçülmek istenen sonucu yazın. Sonucu üniversite memnuniyeti, güven veya politika desteği olarak açıkça adlandırın.",
-        "Eldeki her gözlem için kaynak türünü ve hangi aşamayı gösterdiğini kaydedin. Eksik bilgiye sıfır vermek yerine bilinmiyor yazın.",
-        "En güçlü alternatif açıklamayı ekleyin: Önceden var olan ilgi, katılımcı seçimi veya başka olaylar aynı bulguyu açıklayabilir mi?",
-        "Son sütunda daha dar bir sonuç ve gerekli sonraki kanıtı belirtin. Renk kullanıyorsanız kanıtın bulunmasıyla iddianın doğrulanmasını aynı renge eşitlemeyin."
+        "Bir satıra iddiayı ve ölçülmesi amaçlanan sonucu kaydediniz. Üniversite memnuniyeti, güven ve politika desteği arasındaki ayrımı açıkça belirtiniz.",
+        "Her gözlem için kaynak türünü ve desteklediği aşamayı kaydediniz. Eksik bilgiyi sıfır yerine “bilinmiyor” olarak işaretleyiniz.",
+        "En güçlü alternatif açıklamayı ekleyiniz: Önceden var olan ilginin, katılımcı seçiminin veya başka olayların aynı bulguyu açıklama ihtimalini değerlendiriniz.",
+        "Son sütunda daha sınırlı bir sonuç ve gerekli ek kanıtı belirtiniz. Renk kullanılması hâlinde, kanıtın varlığı ile iddianın doğrulanmasını aynı kategoriyle göstermeyiniz."
       ],
-      "modelAnswer": "Örnek sonuç: Mezun yanıtları üniversiteye olumlu değerlendirme gösteriyor. Başlangıç görüşleri ve dış politika tercihleri bilinmediği için tutum değişimini programa bağlayamıyoruz. Sonraki adım, aynı kişilerin başlangıç ve bitiş değerlendirmelerini konu bakımından ayırmak ve katılımcı seçimini incelemektir."
+      "modelAnswer": "Örnek sonuç: Mezun yanıtları, üniversiteye ilişkin olumlu değerlendirmeleri göstermektedir. Başlangıç görüşleri ve dış politika tercihleri bilinmediğinden tutum değişimi programa atfedilemez. Sonraki aşamada, aynı katılımcıların başlangıç ve bitiş değerlendirmeleri konuya göre ayrıştırılarak karşılaştırılmalı ve katılımcı seçimi incelenmelidir."
     },
     "faqs": [
       {
         "question": "Bütün kültürel faaliyetler yumuşak güç müdür?",
-        "answer": "Hayır. Kültürel bir araç çekicilik yaratabilir, kayıtsızlıkla karşılanabilir veya maddi fırsat olarak kullanılabilir. Yumuşak güç iddiası için hedefin tercihinde çekiciliğin nasıl rol oynadığını göstermeliyiz."
+        "answer": "Kültürel bir araç çekicilik yaratabilir, kayıtsızlıkla karşılanabilir veya maddi fırsat olarak kullanılabilir. Yumuşak güç iddiası, hedefin tercihinde çekiciliğin oynadığı role ilişkin kanıt gerektirir."
       },
       {
-        "question": "Sonuç görünmüyorsa kamu diplomasisi başarısız mıdır?",
-        "answer": "Mutlaka değil. Amaç bilgi sağlamak olabilir; gözlem süresi kısa veya kayıtlar eksik olabilir. Önce hedefi ve ölçümün yeterliliğini değerlendirin. Kanıt yokluğu ile etkisizlik kanıtını ayırın."
+        "question": "Gözlenebilir sonuç bulunmaması başarısızlık göstergesi midir?",
+        "answer": "Bu sonuç zorunlu değildir. Amaç bilgi sağlamak olabilir; gözlem süresi kısa veya kayıtlar eksik olabilir. Önce hedef ve ölçümün yeterliliği değerlendirilmelidir. Kanıt yokluğu ile etkisizlik kanıtı birbirinden ayrılmalıdır."
       },
       {
-        "question": "Tek bir açıklama seçmek zorunda mıyım?",
-        "answer": "Hayır. Bir sonuç birden çok mekanizmayla oluşabilir. Araştırma, hangi koşulda hangi katkının izlenebildiğini belirlemelidir. Her nedenin adını sıralamak yerine onu destekleyen gözlemi ve açıklayamadığı kısmı yazın."
+        "question": "Bir sonuç tek bir mekanizmayla açıklanmak zorunda mıdır?",
+        "answer": "Birden çok mekanizma aynı sonuca katkıda bulunabilir. Araştırma, hangi katkının hangi koşullarda izlenebildiğini belirlemelidir. Nedenlerin sıralanması yerine, her birini destekleyen gözlemler ve açıklayamadığı unsurlar belirtilmelidir."
       }
     ],
-    "sourceNote": "Bu açıklamalar mevcut birinci hafta ders içeriğindeki Dahl, Lukes, Nye, Cull ve Schindler çerçevelerini anlaşılır biçimde açar. Yeni tarihsel veri veya doğrudan alıntı eklenmemiştir. Varsayımsal örnekler kavram uygulaması içindir; ampirik araştırma bulgusu değildir. Akademik çalışmada ayrıntılı notlardaki kaynak künyelerini ve seçtiğiniz belgenin bağlamını ayrıca kontrol edin."
+    "sourceNote": "Bu açıklamalar mevcut birinci hafta ders içeriğindeki Dahl, Lukes, Nye, Cull ve Schindler çerçevelerini ayrıntılandırmaktadır. Yeni tarihsel veri veya doğrudan alıntı eklenmemiştir. Varsayımsal örnekler kavram uygulamasına yöneliktir; ampirik araştırma bulgusu değildir. Akademik kullanımda ayrıntılı notlardaki kaynak künyeleri ve incelenen belgenin bağlamı ayrıca kontrol edilmelidir."
   },
   "en": {
-    "orientation": "This week examines power through relationships rather than possessions. Who can change which preference, under what conditions? We distinguish resources, instruments and outcomes, compare hard power, soft power and public diplomacy, then test success claims. The aim is to explain both knowledge and uncertainty.",
+    "orientation": "This week examines power within relationships between people and institutions, rather than as an inventory of possessions. The central research question is which actors can change which preferences, and under what conditions. The discussion distinguishes resources, instruments and outcomes, compares hard power, soft power and public diplomacy, and assesses claims of success against evidence. Its purpose is to specify the scope of existing knowledge and unresolved questions rather than to eliminate uncertainty entirely.",
     "sections": [
       {
         "id": "resource-and-relationship",
-        "title": "1. Why possession does not establish achievement",
-        "why": "Budgets and reputations describe resources; showing changed choices requires another investigation.",
+        "title": "1. Distinguishing resource possession from achieved outcomes",
+        "why": "Budgets and reputation describe an actor’s resources; establishing that those resources changed another actor’s choices requires a separate empirical investigation.",
         "paragraphs": [
-          "A resource is available capacity: money, expertise, military capability, reputation or a network. An instrument puts capacity to a purpose; a scholarship programme is one example. An outcome is an observed change in a target's knowledge, preference or behaviour. Separating these levels prevents us from assuming an attractive activity succeeded. Resources may remain unused, and instruments may receive unexpected responses.",
-          "Consider a hypothetical school club with an excellent hall. The hall is a resource, an introductory meeting is an instrument, and members voluntarily returning is a possible outcome. This analogy clarifies distinctions, but countries are more complex than clubs. States contain several institutions, objectives and time horizons. An activity can produce different responses among different publics; one group's favourable reaction cannot represent society.",
-          "Robert Dahl's relational approach asks whether one actor contributed to another doing something they otherwise would not have done. An actor may be a person, institution or state. The investigation therefore involves comparison: what might have happened without intervention? This counterfactual is usually unobservable directly. Nevertheless, examining prior preferences and alternative causes is stronger than inferring influence from superior resources."
+          "A resource is available capacity: money, expertise, military capability, reputation or a network. An instrument deploys that capacity for a particular purpose; a scholarship programme is one example. An outcome is an observed change in a target’s knowledge, preference or behaviour. Distinguishing these levels prevents the attribution of success to an activity merely because it appears favourable. Resources may remain unused, and instruments may fail to generate the intended response.",
+          "In a hypothetical school club, a suitable hall is a resource, an introductory meeting is an instrument, and new members voluntarily returning is a possible outcome. The analogy clarifies these distinctions, although states are more complex than clubs. States contain several institutions, objectives and time horizons. The same activity may generate different responses among different publics; one group’s favourable reaction cannot represent society as a whole.",
+          "The relational approach associated with Robert Dahl examines one actor’s contribution to another’s conduct that would otherwise not have occurred. An actor may be a person, institution or state. Analysis therefore involves comparison with what might have happened in the absence of intervention. This counterfactual is usually not directly observable. Nevertheless, examination of prior preferences and alternative causes provides a stronger analytical basis than inferring influence from superior resources alone."
         ],
         "example": {
           "title": "Hypothetical example: A respected university",
@@ -273,16 +273,16 @@
       },
       {
         "id": "mechanisms-of-power",
-        "title": "2. Distinguish hard, soft and smart power through mechanisms",
-        "why": "A mechanism explains how effects emerge. Names and friendly appearances cannot identify it.",
+        "title": "2. Distinguishing the mechanisms of hard, soft and smart power",
+        "why": "A mechanism explains the process through which an effect emerges. An instrument’s name or friendly presentation cannot alone identify that mechanism.",
         "paragraphs": [
           "Hard power changes another party's expected costs or material returns. Threats can make non-compliance expensive; conditional payments can make compliance rewarding. Hard power therefore extends beyond military violence. The result may be temporary behavioural compliance rather than genuine persuasion. Accepting a reward does not establish changed beliefs. Whether the behaviour continues after the reward disappears is a separate question.",
           "Joseph Nye's soft power concerns preferences shaped through attraction and perceived legitimacy. Legitimacy here means regarding conduct as justified or acceptable. Culture, values and institutions may attract, but their meaning varies across audiences. Someone can enjoy a foreign film while opposing its country's foreign policy. The connection between admiration for a particular object and a particular policy preference therefore needs separate evidence.",
-          "Smart power is not a third substance alongside hard and soft power; it concerns combining instruments appropriately for purposes and conditions. Instruments can reinforce or undermine each other. Short-term pressure may secure compliance while weakening long-term trust. Evaluation should examine sequencing, interactions, audience interpretation and plausible alternatives, rather than counting how many instruments were employed. A mixed package is not automatically a coherent strategy."
+          "Smart power is not a third category of resources alongside hard and soft power; it concerns combining instruments appropriately for particular purposes and conditions. Instruments can reinforce or undermine each other. Short-term pressure may secure compliance while weakening long-term trust, complicating the overall outcome. Evaluation should examine sequencing, interactions, audience interpretation and plausible alternatives rather than the number of instruments employed. A diverse combination does not automatically constitute a coherent strategy."
         ],
         "example": {
           "title": "Hypothetical example: One scholarship, different reasons",
-          "text": "One student applies for financial support, another from admiration for the institution. Their programme is identical, their reasons differ. Its cultural appearance cannot classify all participation as soft power."
+          "text": "One student may apply for financial support, another because of admiration for the institution. Although they join the same programme, their reasons differ. The programme’s cultural character is insufficient to explain all participation through a soft-power mechanism."
         },
         "checkpoint": {
           "question": "Why is a positive incentive not always soft power?",
@@ -291,74 +291,74 @@
       },
       {
         "id": "visible-and-hidden-power",
-        "title": "3. Decisions, agendas and preferences raise different questions",
-        "why": "Open votes can miss power; explaining every silence through power makes claims untestable.",
+        "title": "3. Decisions, agendas and preference formation",
+        "why": "Examining only explicit votes may overlook some power relations; explaining every silence through power renders claims untestable.",
         "paragraphs": [
-          "Power's most visible face involves explicit disagreement and a decision. Who wanted what, which options were discussed, and what happened? Voting records and negotiation documents help here. Yet the winner's greater resources do not establish that those resources produced the outcome. The other party might have preferred the same option for its own reasons. Investigate the reasoning behind the choice.",
+          "The most visible dimension of power involves explicit disagreement and a decision. Analysis identifies actors’ objectives, the options discussed and the resulting outcome. Voting records and negotiation documents are useful at this level. Yet the prevailing actor’s greater resources do not establish that those resources produced the outcome. The other party might have preferred the same option for its own reasons. The reasoning behind the choice therefore requires separate investigation.",
           "The framework expanded by Steven Lukes also asks about influence over agendas: which issues never entered authoritative discussion? An absent item alone is insufficient. Investigate rejected applications, rules excluding particular groups or repeated patterns of obstruction. Ignorance, insufficient time and administrative routines can also explain absence. Researchers should compare these alternatives before making a firm claim about control.",
           "A third question concerns how people come to regard things as natural, possible or desirable. Education, relationships and narratives can shape options' meanings. Treating all learning as domination would nevertheless be mistaken: independent assessment can also change opinions. Claims should trace a particular preference's development, interactions and alternatives over time. These three perspectives may coexist within one case, but require different evidence."
         ],
         "example": {
           "title": "Hypothetical example: A club's meeting agenda",
-          "text": "Rejecting a proposal in a vote concerns a decision. Rules preventing its discussion are different. Members considering it unthinkable raises a preference-formation question. These observations cannot substitute for one explanation."
+          "text": "Rejection of a proposal in a vote concerns the decision level. Rules excluding it from discussion provide a different observation concerning agenda influence. Members regarding the proposal as unworthy of consideration raises a question about preference formation. These observations are not interchangeable evidence for a single explanation."
         },
         "checkpoint": {
           "question": "Does an absent issue in the minutes prove agenda control?",
-          "answer": "No. Investigate how it remained absent, comparing ignorance, time constraints and routine as possible explanations."
+          "answer": "The issue’s absence from the minutes is insufficient. Investigate the process of exclusion and compare lack of awareness, time constraints and administrative routine as alternative explanations."
         }
       },
       {
         "id": "public-diplomacy-practice",
-        "title": "4. Public diplomacy identifies a practice, not proven success",
+        "title": "4. Public diplomacy as a field of practice and a subject of evaluation",
         "why": "Definitions of practice do not establish effects or automatically validate cultural activities.",
         "paragraphs": [
-          "Public diplomacy is organised engagement with foreign publics connected to external purposes. States usually undertake or enable it, while journalists, universities and civic organisations may participate. It remains connected to conventional diplomacy, but its primary interlocutors extend beyond government representatives. Do not imagine a public as one uniform community: students, specialists and social groups differ in access to information, interests and connections to decisions.",
-          "Nicholas Cull's functional distinctions help separate listening, advocacy, cultural diplomacy, exchange and international broadcasting. A function describes what an activity does; a mechanism explains how it might change something. Producing a listening report establishes information collection. If that report changes programme design or policy advice, organisational learning becomes a defensible claim. One programme can fulfil several functions, each requiring appropriate indicators.",
+          "Public diplomacy is organised engagement with foreign publics connected to external purposes. States usually undertake or enable it, while journalists, universities and civic organisations may participate. It remains connected to conventional diplomacy, but its primary interlocutors extend beyond government representatives. A public is not a single homogeneous community: students, specialists and social groups differ in access to information, interests and connections to decision-making processes.",
+          "Nicholas Cull’s functional distinctions support separate examination of listening, advocacy, cultural diplomacy, exchange and international broadcasting. A function describes what an activity does; a mechanism explains how it might produce change. Preparing a listening report establishes information collection. Evidence that the report changed programme design or policy advice may support a claim of organisational learning. One programme can fulfil several functions, each requiring appropriate indicators.",
           "Propaganda and public diplomacy sometimes use identical communication channels. Tone or medium alone therefore cannot settle their boundary. Assess source transparency, truthfulness, selectivity, opportunities to object and attention to feedback. Participation by a non-governmental partner does not itself establish independence. Investigate authority, funding, control over content and the implementer's discretion separately. Naming the practice does not resolve questions about its quality."
         ],
         "example": {
-          "title": "Hypothetical example: Opinions collected but unused",
+          "title": "Hypothetical example: Collected feedback without documented use",
           "text": "A cultural centre collects visitor suggestions but changes nothing. Listening activity may be established; learning or mutual adaptation is not. Records of changes would better support that second claim."
         },
         "checkpoint": {
-          "question": "What does calling something public diplomacy not prove?",
-          "answer": "That it is effective, ethical, reciprocal or persuasive. These require separate assessment."
+          "question": "Which assessments are not established by classifying an activity as public diplomacy?",
+          "answer": "The classification does not establish effectiveness, ethical quality, reciprocity or persuasion. These characteristics require assessment against separate criteria."
         }
       },
       {
         "id": "evidence-and-inference",
-        "title": "5. Separate evidence from the conclusion you draw",
-        "why": "No document answers everything. Identify its strengths and limits.",
+        "title": "5. Distinguishing evidence from inference",
+        "why": "A document’s evidential value depends on the questions it can address. Analysis should specify both its strengths and its limits.",
         "paragraphs": [
-          "Evidence is an observation used to assess a claim; inference is the conclusion drawn from it. An activity record can establish a meeting occurred, without establishing increased trust. Ask who produced a source, for what purpose, for whom and when. An organisation's success report is not worthless, but may favour positive self-presentation. A participant's account may not represent everyone who attended.",
+          "Evidence is an observation used to assess a claim; inference is the conclusion drawn from it. An activity record may establish that a meeting occurred without demonstrating increased participant trust. Source analysis should identify the producer, purpose, intended recipient and date. An organisation’s success report has evidential value but may favour positive self-presentation. A participant’s account may likewise be unrepresentative of the wider group.",
           "Reception means how people interpret messages they encounter. Distribution and views provide clues about reach; interpretation, recall and trust require different evidence. Preferences and behaviour introduce further questions. These stages are connected, but no stage automatically proves the next. Search for misunderstanding, rejection and unexpected uses alongside favourable responses. Otherwise, the analysis risks constructing its explanation entirely from selected success stories.",
-          "Comparing sources can identify independent traces of the same claim. But three reports repeating one press release are not three independent confirmations. Check whether sources derive from each other. Missing documents do not invariably mean missing effects; records may be incomplete. In such situations, identify the observed stage and remaining uncertainty instead of announcing definite success or failure."
+          "Comparison across sources can identify independent traces relevant to the same claim. Three reports repeating a single press release, however, are not three independent confirmations. Source dependence therefore requires examination. Missing documents do not invariably establish absent effects, since records may be incomplete. In such circumstances, analysis should identify the observed stage and remaining uncertainty rather than assert definitive success or failure."
         ],
         "example": {
           "title": "Hypothetical example: Three stories, one source",
           "text": "Three newspapers reproduce the same institutional announcement. Their number can indicate circulation, but not three independent favourable assessments. A reporter's investigation and repetition of a press statement carry different evidential weight."
         },
         "checkpoint": {
-          "question": "How broad a claim can one favourable participant account support?",
-          "answer": "Primarily that person's reported assessment. Generalising to an entire audience or a government's preferences requires additional evidence."
+          "question": "What scope of claim can one participant’s favourable assessment support?",
+          "answer": "It primarily supports a claim concerning that person’s reported assessment. Generalisation to an entire audience or a government’s preferences requires additional evidence."
         }
       },
       {
         "id": "causal-and-ethical-judgment",
-        "title": "6. Build a proportionate causal and ethical assessment",
-        "why": "Explain contributions while retaining other causes and conditions of interaction.",
+        "title": "6. Causal and ethical assessment proportionate to the evidence",
+        "why": "A conclusion should explain an activity’s contribution while specifying alternative causes and the conditions of interaction.",
         "paragraphs": [
-          "A causal claim proposes that something contributed to something else's occurrence. Temporal order is necessary but insufficient. Examine previous attitudes, participant selection and concurrent developments. If already interested people disproportionately joined, favourable attitudes afterwards may not originate entirely in the programme. This selection problem can also distort a simple comparison between participants and non-participants: the groups may have differed before any intervention.",
-          "Evaluation needs measures appropriate to objectives. Accurate recall may suit a short informational broadcast; trust and sustained contact may better suit a relationship programme. Requiring every small activity to demonstrate a distant government decision can also be unfair. Define the intended contribution, then establish which part the evidence supports. Verbs such as 'facilitated' or 'reinforced' may fit limited process evidence more accurately.",
-          "Ethical conditions are not outside the mechanism. Concealed sponsorship, misuse of personal information or damaged partner independence can change trust. Transparency, opportunities to object and reciprocity may support credibility without guaranteeing success. When transferring a lesson, identify comparable mechanisms and different conditions rather than copying an instrument. Historical analogy helps by sharpening research questions, not by erasing differences between situations."
+          "A causal claim proposes that one factor contributed to the occurrence of another. Temporal order is necessary but insufficient. Analysis should examine prior attitudes, participant selection and concurrent developments. If already interested people disproportionately joined, favourable subsequent attitudes may not originate entirely in the programme. This selection problem can also distort a simple comparison between participants and non-participants, since the groups may have differed before intervention.",
+          "Evaluation requires measures appropriate to objectives. Accurate recall may suit a short informational broadcast, whereas trust and sustained contact may be more appropriate for a relationship programme. Requiring every small activity to demonstrate influence on a distant government decision may also be inappropriate. Define the intended contribution, then establish which part the evidence supports. Verbs such as “facilitated” or “reinforced” may express limited process evidence more accurately.",
+          "Ethical conditions affect the operation of mechanisms of influence. Concealed sponsorship, misuse of personal information or impaired partner independence may alter trust. Source transparency, opportunities to object and reciprocity may support credibility without guaranteeing success. Transfer to another case requires specification of comparable mechanisms and different conditions rather than replication of an instrument. Historical analogy contributes to more precise research questions while preserving distinctions between situations."
         ],
         "example": {
           "title": "Hypothetical example: Missing baseline",
-          "text": "Favourable responses exist after a programme, but initial opinions are unknown. Rather than claiming improved attitudes, report favourable final assessments and acknowledge that the source of change remains undetermined."
+          "text": "If favourable responses are recorded after a programme but initial opinions are unknown, improved attitudes cannot be established. Reporting that participants expressed favourable final assessments while the source of any change remains undetermined is more consistent with the evidential limits."
         },
         "checkpoint": {
-          "question": "Does acknowledging uncertainty weaken analysis?",
-          "answer": "No. Explaining its cause and the evidence needed to reduce it defines the claim's limits and the next research step."
+          "question": "How does explicit acknowledgement of uncertainty contribute to analysis?",
+          "answer": "Explaining the source of uncertainty and the evidence needed to reduce it specifies the claim’s limits and the next stage of investigation."
         }
       }
     ],
@@ -388,7 +388,7 @@
       },
       {
         "kind": "comparison",
-        "title": "Different questions about the same activity",
+        "title": "Assessing the same activity through different analytical questions",
         "caption": "Classification follows the proposed process, not appearances.",
         "columns": [
           "Approach",
@@ -399,29 +399,29 @@
           [
             "Hard power",
             "How did material calculations change?",
-            "Compliance is not agreement."
+            "Behavioural compliance does not establish attitudinal agreement."
           ],
           [
             "Soft power",
             "Did attraction change preferences?",
-            "Admiration is not policy support."
+            "Admiration alone does not establish policy support."
           ],
           [
             "Smart power",
             "Did instruments reinforce each other?",
-            "Variety is not strategy."
+            "Instrument diversity does not establish strategic coherence."
           ],
           [
             "Public diplomacy",
             "How were foreign publics engaged?",
-            "Activity is not influence."
+            "Implementation of an activity does not establish influence."
           ]
         ]
       },
       {
         "kind": "matrix",
         "title": "Sources and evidential limits",
-        "caption": "Limits do not make sources useless; they identify which questions a source can answer.",
+        "caption": "A source’s limitations do not eliminate its evidential value; they specify which research questions it can support.",
         "columns": [
           "Source",
           "Can indicate",
@@ -454,50 +454,50 @@
     "cases": [
       {
         "title": "Hypothetical case: Scholarships and foreign-policy support",
-        "scenario": "Graduates praise a university. An administrator infers increased support for its country's foreign policy.",
+        "scenario": "Graduates of a scholarship programme report favourable assessments of the university. An administrator infers from these reports that support for the country’s foreign policy has increased.",
         "steps": [
-          "Separate university and foreign-policy assessments. Combining them as positive attitudes loses what was actually measured.",
-          "Investigate initial views and selection. People already attracted to the country may have joined, providing an alternative explanation.",
-          "Seek separate policy questions and behavioural records. Without them, report university assessments, not broader policy effects."
+          "Identify the object of measurement: university assessments and foreign-policy assessments concern different objects. Combining them within a general category of positive attitudes obscures what was measured.",
+          "Investigate initial views and participant selection. Prior attraction to the country among those joining the programme provides an alternative explanation.",
+          "Seek separate questions concerning policy support and, where available, behavioural records. In their absence, report graduates’ favourable university assessments."
         ],
         "conclusion": "The evidence may support a positive experience; a more distant diplomatic outcome remains unproven."
       },
       {
-        "title": "Hypothetical case: Successful correction or distribution alone?",
+        "title": "Hypothetical case: The distribution and effects of a correction",
         "scenario": "An institution sees its correction shared by many accounts and concludes that the false belief disappeared.",
         "steps": [
           "Classify sharing as an indicator of reach. Sharing may express support, criticism or ridicule; examine the accompanying language.",
           "Investigate initial exposure to false information. Without knowing who received the correction, its scope remains unknown.",
           "Examine later recall and reasoning. If another source corrected the claim simultaneously, attempt to distinguish their contributions."
         ],
-        "conclusion": "Publishing, seeing and believing a correction are three separate claims. Keep their evidence separate."
+        "conclusion": "Publication, exposure and acceptance of a correction are distinct claims; each requires separate evidence."
       }
     ],
     "practice": {
       "title": "Narrowing a claim with Excel",
-      "task": "Use the student evidence matrix to assess the scholarship case. Preserve the hypothetical lab's status as example data; do not present it as real student results.",
+      "task": "Assess the scholarship case in the student evidence matrix and formulate a defensible conclusion. Preserve the hypothetical measurement lab’s status as example data; do not present the figures as actual student results.",
       "steps": [
         "Enter the claim and intended outcome. Explicitly distinguish university satisfaction, trust and policy support.",
-        "For every observation, record its source type and the stage it establishes. Mark missing information unknown, not zero.",
-        "Add the strongest alternative explanation: could prior interest, selection or another event explain the same finding?",
-        "Write a narrower conclusion and the next evidence needed. If using colour, do not equate available evidence with a confirmed claim."
+        "Record each observation’s source type and the stage it supports. Mark missing information as “unknown” rather than zero.",
+        "Add the strongest alternative explanation, assessing whether prior interest, participant selection or another event could explain the same finding.",
+        "Specify a more limited conclusion and the additional evidence required in the final column. If using colour, distinguish the presence of evidence from confirmation of the claim."
       ],
-      "modelAnswer": "Example: Graduates report favourable university assessments. Unknown initial views and policy preferences prevent attributing change to the programme. Next, compare topic-specific initial and final assessments for the same participants and investigate selection."
+      "modelAnswer": "Example conclusion: Graduate responses indicate favourable university assessments. Unknown initial views and foreign-policy preferences prevent attribution of attitude change to the programme. The next stage should compare topic-specific initial and final assessments for the same participants and examine participant selection."
     },
     "faqs": [
       {
         "question": "Is every cultural activity soft power?",
-        "answer": "No. A cultural instrument may attract, encounter indifference or function as a material opportunity. A soft-power claim requires evidence of attraction's role in the target's preferences."
+        "answer": "A cultural instrument may generate attraction, encounter indifference or function as a material opportunity. A soft-power claim requires evidence of attraction’s role in the target’s preferences."
       },
       {
-        "question": "Does no visible outcome mean failure?",
-        "answer": "Not necessarily. The purpose may be informational, observation too brief or records incomplete. Assess the objective and measurement first. Distinguish absence of evidence from evidence of ineffectiveness."
+        "question": "Does the absence of an observable outcome indicate failure?",
+        "answer": "This conclusion does not necessarily follow. The purpose may be informational, the observation period too brief or the records incomplete. Assess the objective and adequacy of measurement first. Distinguish absence of evidence from evidence of ineffectiveness."
       },
       {
-        "question": "Must I choose one explanation?",
-        "answer": "Several mechanisms may contribute. Specify conditions, supporting observations and unexplained elements instead of merely listing causes."
+        "question": "Must an outcome be explained through a single mechanism?",
+        "answer": "Several mechanisms may contribute to the same outcome. Analysis should identify which contribution can be traced under which conditions. Specify the observations supporting each explanation and the elements it leaves unexplained, rather than merely listing causes."
       }
     ],
-    "sourceNote": "Based on existing week-one frameworks: Dahl, Lukes, Nye, Cull and Schindler. No new historical data or quotations. Hypothetical examples are exercises, not findings. Consult detailed references and document contexts for academic use."
+    "sourceNote": "These explanations elaborate the existing week-one frameworks of Dahl, Lukes, Nye, Cull and Schindler. No new historical data or direct quotations have been added. Hypothetical examples support conceptual application and are not empirical findings. For academic use, consult the detailed references and the context of the document under examination."
   }
 }

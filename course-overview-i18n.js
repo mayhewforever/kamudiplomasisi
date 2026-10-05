@@ -120,7 +120,7 @@
 
       syllabus: {
         eyebrow: "Ders izlencesi",
-        title: "Basit, açık ve katılımcı",
+        title: "Kaynağa dayalı lisansüstü seminer",
         outcomesTitle: "Öğrenme çıktıları",
         outcomes: [
           "Sert, yumuşak ve akıllı güç arasındaki farkı açıklamak.",
@@ -130,13 +130,13 @@
           "Devlet ve devlet dışı aktörlerin rollerini karşılaştırmak.",
           "Bir kamu diplomasisi uygulamasını etik ve ölçüm açısından değerlendirmek."
         ],
-        sessionTitle: "Her dersin ritmi",
+        sessionTitle: "Ders oturumunun yapısı",
         sessionFlow: [
           { title: "Çerçeve", description: "kısa kavramsal giriş" },
           { title: "Kaynak laboratuvarı", description: "metin, görsel veya belge" },
           { title: "Video ve tartışma", description: "iddia ve eksik kalan neden" },
           { title: "Atölye", description: "harita, denetim veya mini vaka" },
-          { title: "Çıkış bileti", description: "tek cümlelik temkinli sonuç" },
+          { title: "Oturum sonu değerlendirmesi", description: "tek cümlelik temkinli sonuç" },
           { title: "Haftalık ödev", description: "250–400 kelimelik kanıt notu; 120:00’dan önce yükleme" }
         ],
         assessmentTitle: "Önerilen değerlendirme",
@@ -191,7 +191,7 @@
 
       academicIntegrity: {
         title: "Akademik çalışma ilkesi",
-        paragraph: "Bir belgeyi gördüğümüz için etkisini varsaymayız. İddiaları kaynağın gerçekten gösterdiği düzeyle sınırlarız; niyet, faaliyet, alımlama, karar ve sonuç kanıtlarını birbirinden ayırırız."
+        paragraph: "Bir belgenin varlığı, belgelenen faaliyetin etkisini tek başına göstermez. İddialar, kaynağın desteklediği çıkarımlarla sınırlandırılmalı; niyet, faaliyet, alımlama, karar ve sonuç düzeylerindeki kanıtlar birbirinden ayrılmalıdır."
       },
 
       footer: {
@@ -213,7 +213,7 @@
       noScript: "Haftalık kartları ve video oynatıcıyı görmek için JavaScript’i etkinleştirin.",
 
       weekCard: {
-        goalsTitle: "Bu hafta ne yapacağız?",
+        goalsTitle: "Haftalık öğrenme hedefleri",
         inClassActivity: "Sınıf içi etkinlik",
         shortPreparation: "Kısa hazırlık:",
         videoOverline: "YouTube · İngilizce",
@@ -225,7 +225,7 @@
           tablistAria: "{week}. hafta çalışma alanları",
           lesson: "Ders notu",
           lessonLong: "Ayrıntılı ders notu",
-          cards: "Flashcard",
+          cards: "Kavram kartları",
           cardsLong: "Kavram kartları",
           quiz: "10 soruluk mini test",
           game: "Oyun",
@@ -237,7 +237,7 @@
           fallbackTitle: "Haftanın ayrıntılı konu anlatımı",
           estimatedTime: "Yaklaşık 10–12 dk.",
           takeawaysTitle: "Beş temel çıkarım",
-          discussionTitle: "Derste tartışalım"
+          discussionTitle: "Seminer tartışması"
         },
         flashcards: {
           cardAria: "Kart {index}: {front}. Cevabı görmek için seçin.",
@@ -247,14 +247,14 @@
           answerTag: "Yanıt",
           backHint: "Soruya dönmek için dokunun",
           kicker: "Aktif tekrar",
-          title: "Kavramı düşünün, sonra kartı çevirin",
-          instruction: "Ezberlemekten önce kendi cevabınızı kurmaya çalışın.",
+          title: "Kavramların tanımlanması ve karşılaştırılması",
+          instruction: "Tanımı görüntülemeden önce kavramı açıklayınız; ardından yanıtı verilen açıklamayla karşılaştırınız.",
           progress: "{seen} / {total} kart görüldü",
           reset: "Kartları sıfırla"
         },
         quiz: {
           correctAnswer: "Doğru cevap: {answer}",
-          kicker: "Kendini kontrol et",
+          kicker: "Kavramsal değerlendirme",
           title: "10 soruluk mini test",
           instruction: "Yanıtladıktan sonra gerekçeyi okuyun; puan yalnızca geri bildirimdir.",
           checkAnswers: "Yanıtları kontrol et",
@@ -272,7 +272,7 @@
           definitionsHeading: "Karışık açıklamalar",
           status: "Doğru: {matches} / {total} · Deneme: {attempts}",
           reset: "Oyunu yeniden başlat",
-          complete: "Tebrikler! Dört eşleştirmeyi {attempts} denemede tamamladınız.",
+          complete: "Dört kavram eşleştirmesi {attempts} denemede tamamlandı.",
           correct: "Doğru eşleşme. {matches} / {total} tamamlandı · Deneme: {attempts}",
           incorrect: "Bu eşleşme olmadı; yeniden deneyin. Doğru: {matches} / {total} · Deneme: {attempts}"
         }
@@ -287,7 +287,7 @@
         completionManagedInPortal: "{week}. haftanın süre, ödev ve tamamlanma durumu öğrenci alanında gösterilir.",
         reset: "Çalışma araçlarını sıfırla",
         resetConfirmTitle: "Çalışma araçları sıfırlansın mı?",
-        resetConfirmText: "Flashcard, mini test, oyun ve açık sekme durumunuz bu tarayıcıdan silinecek. Öğrenci hesabı, etkin süre ve ödevler silinmez.",
+        resetConfirmText: "Kavram kartı, mini test, oyun ve açık sekme durumunuz bu tarayıcıdan silinecek. Öğrenci hesabı, etkin süre ve ödevler silinmez.",
         cancel: "Vazgeç",
         confirmReset: "Evet, sıfırla"
       },
@@ -621,7 +621,7 @@
 
       syllabus: {
         eyebrow: "Course syllabus",
-        title: "Simple, clear and participatory",
+        title: "Source-based graduate seminar",
         outcomesTitle: "Learning outcomes",
         outcomes: [
           "Explain the differences between hard, soft and smart power.",
@@ -631,13 +631,13 @@
           "Compare the roles of state and non-state actors.",
           "Assess a public diplomacy practice in ethical and measurement terms."
         ],
-        sessionTitle: "The rhythm of each class",
+        sessionTitle: "Structure of each seminar",
         sessionFlow: [
           { title: "Framework", description: "a short conceptual introduction" },
           { title: "Source laboratory", description: "a text, image or document" },
           { title: "Video and discussion", description: "the claim and the missing cause" },
           { title: "Workshop", description: "a map, audit or mini-case" },
-          { title: "Exit ticket", description: "a cautious one-sentence conclusion" },
+          { title: "Concluding assessment", description: "a cautious one-sentence conclusion" },
           { title: "Weekly assignment", description: "a 250–400-word evidence brief uploaded before 120:00" }
         ],
         assessmentTitle: "Suggested assessment",
@@ -692,7 +692,7 @@
 
       academicIntegrity: {
         title: "Principle of academic inquiry",
-        paragraph: "We do not assume that a document had an effect merely because we have found it. We limit claims to what the source actually demonstrates, distinguishing evidence of intention, activity, reception, decision and outcome."
+        paragraph: "The existence of a document does not establish the influence of the activity it records. Claims should remain proportionate to the evidence, with intention, activity, reception, decision and outcome assessed separately."
       },
 
       footer: {
@@ -714,7 +714,7 @@
       noScript: "Enable JavaScript to view the weekly cards and video player.",
 
       weekCard: {
-        goalsTitle: "What will we do this week?",
+        goalsTitle: "Weekly learning objectives",
         inClassActivity: "In-class activity",
         shortPreparation: "Short preparation:",
         videoOverline: "YouTube · English",
@@ -738,7 +738,7 @@
           fallbackTitle: "Detailed lesson for the week",
           estimatedTime: "Approximately 10–12 min.",
           takeawaysTitle: "Five key takeaways",
-          discussionTitle: "Discuss in class"
+          discussionTitle: "Seminar discussion"
         },
         flashcards: {
           cardAria: "Card {index}: {front}. Select to reveal the answer.",
@@ -748,14 +748,14 @@
           answerTag: "Answer",
           backHint: "Select to return to the question",
           kicker: "Active recall",
-          title: "Think about the concept, then turn over the card",
-          instruction: "Try to formulate your own answer before memorising the definition.",
+          title: "Conceptual definition and comparison",
+          instruction: "Formulate a definition before revealing the answer, then compare it with the explanation provided.",
           progress: "{seen} / {total} cards viewed",
           reset: "Reset cards"
         },
         quiz: {
           correctAnswer: "Correct answer: {answer}",
-          kicker: "Check your understanding",
+          kicker: "Conceptual assessment",
           title: "10-question mini-quiz",
           instruction: "Read the explanation after answering; the score is feedback only.",
           checkAnswers: "Check answers",
@@ -773,7 +773,7 @@
           definitionsHeading: "Shuffled explanations",
           status: "Correct: {matches} / {total} · Attempts: {attempts}",
           reset: "Restart game",
-          complete: "Congratulations! You completed all four matches in {attempts} attempts.",
+          complete: "All four concept matches were completed in {attempts} attempts.",
           correct: "Correct match. {matches} / {total} completed · Attempts: {attempts}",
           incorrect: "That is not a match; try again. Correct: {matches} / {total} · Attempts: {attempts}"
         }

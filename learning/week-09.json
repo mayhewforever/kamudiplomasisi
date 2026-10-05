@@ -1,93 +1,193 @@
 {
   "week": 9,
   "tr": {
-    "title": "Devlet dışında kimler uluslararası ilişki kurar?",
-    "nutshell": "Bir iletişim kurumu kapandığında bütün uluslararası ilişkiler bitmez. Birinci Dünya Savaşı sonrasında Kamuoyu Bilgilendirme Komitesi (CPI) dağıldı; üniversiteler, vakıflar ve meslek örgütleri çalışmayı sürdürdü. Bu hafta bir burs veya araştırma projesini izleyerek parayı, kararları ve bağlantıları birbirinden ayırıyoruz. Özel bir kuruluşun devletle teması, devletçe yönetildiğini tek başına göstermez.",
-    "analogy": "Varsayımsal bir mahalle kitap kulübü düşünün. Bir dükkân kitapları bağışlıyor, okul salonu açıyor, gönüllüler katılımcıları seçiyor. Belediye adres duyurusunu paylaşınca kulüp otomatik olarak belediyenin projesine dönüşmez. Kimin hangi kararı alabildiğine bakmak gerekir.",
+    "title": "Devlet dışı aktörler ve uluslararası ilişkilerin sürekliliği",
+    "nutshell": "Bir iletişim kurumunun kapanması, bütün uluslararası ilişkilerin sona ermesi anlamına gelmez. Birinci Dünya Savaşı sonrasında Kamuoyu Bilgilendirme Komitesi (CPI) dağıtılırken üniversiteler, vakıflar ve meslek örgütleri faaliyetlerini sürdürdü. Bu hafta burs ve araştırma projeleri üzerinden finansman, karar yetkisi ve kurumsal bağlantılar ayrıştırılır. Özel bir kuruluşun devletle teması, devlet tarafından yönetildiğini tek başına göstermez.",
+    "analogy": "Varsayımsal bir mahalle kitap kulübünde bir dükkân kitap bağışlamakta, okul mekân sağlamakta, gönüllüler ise katılımcıları seçmektedir. Belediyenin etkinlik adresini duyurması, kulübü kendiliğinden bir belediye projesine dönüştürmez. Bu örnekte kurumsal ilişkiyi belirleyen soru, hangi aktörün hangi kararlar üzerinde yetki sahibi olduğudur.",
     "objectives": [
       "Kurumsal kapanış ile ilişkilerin devamlılığını ayırmak.",
-      "Paralel çalışma, kolaylaştırıcılık ve ortaklık için farklı kanıt istemek.",
+      "Paralel faaliyet, kolaylaştırıcılık ve ortaklık iddialarının farklı kanıt gerekliliklerini belirlemek.",
       "Bir değişim programında gündemi kimin belirlediğini göstermek."
     ],
     "concepts": [
-      {"term": "Özel diplomasi", "meaning": "Devlet dışındaki kuruluşların örgütlü sınır ötesi ilişkileridir. Özel olmak, tarafsız veya eşitlikçi olmakla aynı değildir.", "example": "Tarihsel örnek: Rockefeller Vakfının bilim ve sağlık bağlantıları."},
-      {"term": "Kolaylaştırıcılık", "meaning": "Başkasının çalışmasına temas veya erişim sağlayarak yardım etmektir; projeyi yönetmek zorunlu değildir.", "example": "Varsayımsal: Bir elçilik, üniversiteyi olası yabancı ortakla tanıştırır."},
-      {"term": "Resmi ortaklık", "meaning": "Tarafların görevleri ve katkıları konusunda belirlenmiş bir anlaşma bulunmasıdır.", "example": "Varsayımsal: Bir sözleşme, burs bütçesini ve seçim sorumluluğunu paylaştırır."},
-      {"term": "Karşılıklılık", "meaning": "Ortakların yalnız katılması değil, programın önceliklerini etkileyebilmesidir.", "example": "Varsayımsal: Ev sahibi kurumun talebi üzerine araştırma konusu değiştirilir."}
+      {
+        "term": "Özel diplomasi",
+        "meaning": "Devlet dışı kuruluşların örgütlü sınır ötesi ilişkilerini ifade eder. Özel statü, siyasal tarafsızlığı veya eşitlikçi ilişkileri tek başına göstermez.",
+        "example": "Tarihsel örnek: Rockefeller Vakfının bilim ve sağlık bağlantıları."
+      },
+      {
+        "term": "Kolaylaştırıcılık",
+        "meaning": "Bir kuruluşun faaliyetine temas veya erişim sağlayarak destek verilmesidir; projeyi yönetme yetkisini zorunlu olarak içermez.",
+        "example": "Varsayımsal: Bir elçilik, üniversiteyi olası yabancı ortakla tanıştırır."
+      },
+      {
+        "term": "Resmî ortaklık",
+        "meaning": "Tarafların görevleri ve katkıları konusunda belirlenmiş bir anlaşma bulunmasıdır.",
+        "example": "Varsayımsal: Bir sözleşme, burs bütçesini ve seçim sorumluluğunu paylaştırır."
+      },
+      {
+        "term": "Karşılıklılık",
+        "meaning": "Ortakların programa katılımın ötesinde programın önceliklerini etkileyebilmesini ifade eder.",
+        "example": "Varsayımsal: Ev sahibi kurumun talebi üzerine araştırma konusu değiştirilir."
+      }
     ],
     "steps": [
-      {"title": "1. Tek proje ve tarih seçin", "text": "Bütün vakfı devletin aracı diye etiketlemek yerine belirli bir bursu inceleyin. Kuruluşların dönemdeki amaçlarını kaydedin. Sonradan devletin bu ağı kullanması, başlangıçta gizli bir devlet planı bulunduğunu kanıtlamaz."},
-      {"title": "2. Karar sahiplerini bulun", "text": "Kim ödüyor, kim aday seçiyor, kim konuyu değiştiriyor ve kim reddedebiliyor? Finansman önemli bir güç kaynağıdır, fakat her kararı tek başına açıklamaz. Sözleşme ile uygulamadaki yazışmaları birlikte okuyun."},
-      {"title": "3. Sonucu daraltın", "text": "Bir bursun verilmesi, işbirliğinin veya politika değişikliğinin kanıtı değildir. Katılımcı ne öğrendi? Dönüşte bu bilgiyi kullandı mı? Seçilmeyen adaylar görünmüyorsa yalnız başarılı mezunlara bakarak genel başarı oranı çıkarmayın."}
+      {
+        "title": "1. Projenin kapsamını ve tarihini belirleyin",
+        "text": "Bir vakfın bütün faaliyetlerini devletin aracı olarak sınıflandırmadan önce belirli bir bursu inceleyin. Kuruluşların ilgili dönemdeki amaçlarını kaydedin. Devletin ağı daha sonra kullanması, başlangıçta gizli bir devlet planı bulunduğunu kanıtlamaz."
+      },
+      {
+        "title": "2. Karar yetkisinin dağılımını belirleyin",
+        "text": "Finansman, aday seçimi, araştırma konusunun değiştirilmesi ve ret yetkilerinin hangi aktörlerde bulunduğunu belirleyin. Finansman önemli bir güç kaynağı olsa da bütün kararları tek başına açıklamaz. Sözleşmeyi uygulamaya ilişkin yazışmalarla birlikte değerlendirin."
+      },
+      {
+        "title": "3. Sonuç iddiasının kapsamını sınırlandırın",
+        "text": "Burs verilmesi, işbirliğinin veya politika değişikliğinin gerçekleştiğini kanıtlamaz. Katılımcıların ne öğrendiğini ve dönüşte bu bilgiyi kullanıp kullanmadığını inceleyin. Reddedilen adaylar hakkında veri bulunmadığında, yalnız başarılı mezunlardan hareketle genel başarı oranı hesaplanamaz."
+      }
     ],
     "diagram": {
-      "title": "Bir bursun yolunu izleyin",
+      "title": "Burs programının aşamaları ve kanıt gereklilikleri",
       "nodes": [
-        {"title": "Amaç", "text": "Vakıf ve yerel ortak neyi çözmek istiyor?"},
-        {"title": "Seçim", "text": "Adayları ve konuyu kim belirliyor?"},
-        {"title": "Karşılaşma", "text": "Katılımcı hangi bilgi ve ilişkilere erişiyor?"},
-        {"title": "Sonraki kullanım", "text": "Dönüşte bilgi veya ilişki kullanılıyor mu?"}
+        {
+          "title": "Amaç",
+          "text": "Vakıf ve yerel ortak neyi çözmek istiyor?"
+        },
+        {
+          "title": "Seçim",
+          "text": "Adayları ve konuyu kim belirliyor?"
+        },
+        {
+          "title": "Karşılaşma",
+          "text": "Katılımcı hangi bilgi ve ilişkilere erişiyor?"
+        },
+        {
+          "title": "Sonraki kullanım",
+          "text": "Dönüşte bilgi veya ilişki kullanılıyor mu?"
+        }
       ],
       "caption": "Her geçiş ayrı kanıt ister. Bursun verilmesi, öğrenmeyi, kalıcı işbirliğini veya dış politika etkisini garanti etmez."
     },
     "workedExample": {
-      "title": "Çözümlü alıştırma: Bursu kim yönetiyor?",
-      "scenario": "Varsayımsal bir vakıf laboratuvar bursunu ödüyor. Üniversite adayları seçiyor. Elçilik yalnızca tanışmayı sağlıyor. Yerel ortak, araştırmanın kendi bölgesindeki su sorununa yönelmesini istiyor.",
+      "title": "Çözümlü alıştırma: Burs programında yetki dağılımı",
+      "scenario": "Varsayımsal bir vakıf laboratuvar bursunu finanse etmekte, üniversite adayları seçmekte, elçilik ise yalnızca kurumlar arasındaki tanışmayı sağlamaktadır. Yerel ortak, araştırmanın kendi bölgesindeki su sorununa yönelmesini talep etmektedir.",
       "steps": [
-        "Vakıf için finansman, üniversite için seçim, elçilik için kolaylaştırıcılık yazın. Aynı rolü herkese vermeyin.",
+        "Vakıf için finansman, üniversite için seçim ve elçilik için kolaylaştırıcılık rollerini ayrı kaydedin. Bu katkıları aynı karar yetkisi olarak değerlendirmeyin.",
         "Yerel isteğin bütçeyi veya araştırma planını değiştirip değiştirmediğini araştırın. Yalnız toplantıya katılım, karar gücünü göstermez.",
-        "Burs sonrasında ortak araştırma kaydı arayın. Burs belgesinden hükümet politikasının değiştiği sonucuna atlamayın."
+        "Burs sonrasındaki ortak araştırmayı belgeleyen kayıt arayın. Burs belgesi tek başına hükümet politikasında değişim gerçekleştiği sonucunu desteklemez."
       ],
-      "lesson": "Elde yalnız verilen bilgiler varsa, ortak katkılar ve bir yerel talep gösterilebilir. Devlet kontrolü, gerçek karşılıklılık ve kalıcı sonuç henüz kanıtlanmış değildir."
+      "lesson": "Yalnız verilen bilgiler temelinde ortak katkılar ve bir yerel talep belgelenebilir. Devlet kontrolü, fiili karşılıklılık ve kalıcı sonuçlar henüz kanıtlanmış değildir."
     },
-    "misconception": {"claim": "Bir kuruluş devletle temas ediyorsa bütün faaliyetleri devlet politikasıdır.", "correction": "Aynı kuruluşun farklı projelerinde bağımsız çalışma, kolaylaştırıcılık veya ortaklık bulunabilir. İlişkiyi proje düzeyinde sınıflandırın."},
-    "quickCheck": {"question": "Elçiliğin tanıştırma mektubu, adayları elçiliğin seçtiğini gösterir mi?", "answer": "Hayır. Tanıştırma erişimi gösterir; seçim yetkisi için başka belge gerekir."},
-    "practice": {"task": "Ortak Excel kitabının öğrenci kanıt matrisine varsayımsal bursu ekleyin. Aktör, para sağlayan, seçimi yapan, yerel talep ve eksik kanıt bilgilerini not alanında ayırın.", "hint": "Aynı satırda 'bilinen' ile 'araştırılacak' bilgiyi açıkça işaretleyin."},
-    "takeaways": ["Merkezi kurum olmadan da ilişkiler sürebilir.", "Para, erişim ve karar yetkisi farklı rollerdir.", "Gerçek karşılıklılık, yerel ortağın neyi değiştirebildiğinde görülür."]
+    "misconception": {
+      "claim": "Bir kuruluş devletle temas ediyorsa bütün faaliyetleri devlet politikasıdır.",
+      "correction": "Aynı kuruluşun farklı projelerinde bağımsız çalışma, kolaylaştırıcılık veya ortaklık bulunabilir. İlişkiyi proje düzeyinde sınıflandırın."
+    },
+    "quickCheck": {
+      "question": "Elçiliğin tanıştırma mektubu, adayları elçiliğin seçtiğini gösterir mi?",
+      "answer": "Tanıştırma mektubu erişim sağlandığını gösterir. Aday seçme yetkisinin elçilikte bulunduğu iddiası ayrı belge gerektirir."
+    },
+    "practice": {
+      "task": "Ortak Excel kitabının öğrenci kanıt matrisine varsayımsal bursu ekleyin. Aktör, para sağlayan, seçimi yapan, yerel talep ve eksik kanıt bilgilerini not alanında ayırın.",
+      "hint": "Aynı satırda 'bilinen' ile 'araştırılacak' bilgiyi açıkça işaretleyin."
+    },
+    "takeaways": [
+      "Uluslararası ilişkiler, merkezi bir kurumun yokluğunda da sürdürülebilir.",
+      "Finansman, erişim sağlama ve karar yetkisi birbirinden ayrı rollerdir.",
+      "Fiili karşılıklılık, yerel ortakların program kararlarını değiştirebilme kapasitesi üzerinden değerlendirilir."
+    ]
   },
   "en": {
-    "title": "Who builds international relationships outside government?",
-    "nutshell": "Closing a communication agency does not end every international relationship. After the First World War, the Committee on Public Information (CPI) dissolved, while universities, foundations and professional associations continued working. This week, we follow a fellowship or research project to separate money, decisions and connections. Contact with government does not by itself establish government control.",
-    "analogy": "Imagine a hypothetical neighbourhood book club. A shop donates books, a school provides space, and volunteers select participants. A municipal office shares the address. That does not automatically make the club a government project. Ask who can make which decisions.",
+    "title": "Non-state actors and the continuity of international relationships",
+    "nutshell": "The closure of a communication agency does not imply the termination of all international relationships. After the First World War, the Committee on Public Information (CPI) was dissolved, while universities, foundations and professional associations continued their activities. This week examines fellowships and research projects to distinguish funding, decision authority and institutional connections. Contact with government does not by itself establish government direction.",
+    "analogy": "In a hypothetical neighbourhood book club, a shop donates books, a school supplies a venue and volunteers select participants. A municipal office’s announcement of the event address does not automatically convert the club into a municipal project. The institutional relationship depends on which actors hold authority over particular decisions.",
     "objectives": [
       "Distinguish institutional closure from continuing relationships.",
-      "Require different evidence for parallel activity, facilitation and partnership.",
+      "Identify the distinct evidential requirements for claims of parallel activity, facilitation and partnership.",
       "Identify who sets an exchange programme's priorities."
     ],
     "concepts": [
-      {"term": "Private diplomacy", "meaning": "Organised cross-border relationships involving non-state organisations. Private does not automatically mean neutral or equal.", "example": "Historical example: The Rockefeller Foundation's scientific and health connections."},
-      {"term": "Facilitation", "meaning": "Helping another organisation through contacts or access, without necessarily directing its project.", "example": "Hypothetical: An embassy introduces a university to a potential foreign partner."},
-      {"term": "Formal partnership", "meaning": "An established agreement about the parties' responsibilities and contributions.", "example": "Hypothetical: A contract allocates fellowship funding and selection responsibilities."},
-      {"term": "Reciprocity", "meaning": "Partners can influence programme priorities, rather than merely participate.", "example": "Hypothetical: Research changes in response to the host institution's request."}
+      {
+        "term": "Private diplomacy",
+        "meaning": "Organised cross-border relationships involving non-state organisations. Private status does not itself establish political neutrality or equality within relationships.",
+        "example": "Historical example: The Rockefeller Foundation's scientific and health connections."
+      },
+      {
+        "term": "Facilitation",
+        "meaning": "Support for another organisation’s activity through contacts or access, without necessarily exercising authority over the project.",
+        "example": "Hypothetical: An embassy introduces a university to a potential foreign partner."
+      },
+      {
+        "term": "Formal partnership",
+        "meaning": "An established agreement about the parties' responsibilities and contributions.",
+        "example": "Hypothetical: A contract allocates fellowship funding and selection responsibilities."
+      },
+      {
+        "term": "Reciprocity",
+        "meaning": "The capacity of partners to influence programme priorities beyond participation in its activities.",
+        "example": "Hypothetical: Research changes in response to the host institution's request."
+      }
     ],
     "steps": [
-      {"title": "1. Choose one project and date", "text": "Examine a particular fellowship instead of labelling an entire foundation a state instrument. Record the organisations' purposes at the time. Later government use of the network does not prove an original secret state plan."},
-      {"title": "2. Find the decision makers", "text": "Who pays, selects candidates, changes the topic and can refuse? Funding is an important source of power, but does not explain every decision. Read the agreement alongside correspondence about implementation."},
-      {"title": "3. Narrow the outcome", "text": "Awarding a fellowship does not prove collaboration or policy change. What did participants learn? Did they use it after returning? If rejected applicants are invisible, successful alumni alone cannot establish an overall success rate."}
+      {
+        "title": "1. Specify the project’s scope and date",
+        "text": "Examine a particular fellowship before classifying an entire foundation as an instrument of the state. Record the organisations’ purposes in the relevant period. Subsequent government use of the network does not establish an original concealed state plan."
+      },
+      {
+        "title": "2. Identify the distribution of decision authority",
+        "text": "Identify authority over funding, candidate selection, changes to research topics and refusal. Funding constitutes an important source of power, but does not independently explain every decision. Assess the agreement alongside correspondence concerning implementation."
+      },
+      {
+        "title": "3. Delimit the outcome claim",
+        "text": "A fellowship award does not establish collaboration or policy change. Examine what participants learned and whether they applied that knowledge after returning. Without evidence about rejected applicants, successful alumni alone cannot establish an overall success rate."
+      }
     ],
     "diagram": {
-      "title": "Follow a fellowship's path",
+      "title": "Stages and evidential requirements in a fellowship programme",
       "nodes": [
-        {"title": "Purpose", "text": "What do the foundation and local partner want to address?"},
-        {"title": "Selection", "text": "Who chooses candidates and topics?"},
-        {"title": "Encounter", "text": "What knowledge and relationships can participants access?"},
-        {"title": "Later use", "text": "Are knowledge or relationships used after return?"}
+        {
+          "title": "Purpose",
+          "text": "What do the foundation and local partner want to address?"
+        },
+        {
+          "title": "Selection",
+          "text": "Who chooses candidates and topics?"
+        },
+        {
+          "title": "Encounter",
+          "text": "What knowledge and relationships can participants access?"
+        },
+        {
+          "title": "Later use",
+          "text": "Are knowledge or relationships used after return?"
+        }
       ],
       "caption": "Each transition needs evidence. A fellowship does not guarantee learning, lasting collaboration or foreign-policy influence."
     },
     "workedExample": {
-      "title": "Worked exercise: Who runs the fellowship?",
+      "title": "Worked exercise: Authority within a fellowship programme",
       "scenario": "A hypothetical foundation funds a laboratory fellowship. A university selects candidates. An embassy only arranges introductions. The local partner wants the research to address its region's water problem.",
       "steps": [
-        "Record funding for the foundation, selection for the university and facilitation for the embassy. Do not assign everyone the same role.",
+        "Record funding, selection and facilitation as the respective roles of the foundation, university and embassy. These contributions do not constitute identical decision authority.",
         "Investigate whether the local request changed the budget or research plan. Attending a meeting alone does not establish decision-making power.",
-        "Seek evidence of joint research after the fellowship. Do not jump from an award certificate to government policy change."
+        "Seek records documenting joint research after the fellowship. The award certificate alone cannot support a claim of government policy change."
       ],
-      "lesson": "The available facts show contributions and a local request. Government control, meaningful reciprocity and lasting outcomes remain unproven."
+      "lesson": "The supplied information establishes institutional contributions and a local request. Government control, substantive reciprocity and durable outcomes remain unproven."
     },
-    "misconception": {"claim": "Contact with government makes every activity state policy.", "correction": "One organisation may operate independently, receive facilitation or enter partnerships in different projects. Classify the relationship project by project."},
-    "quickCheck": {"question": "Does an embassy's introduction letter show it selected candidates?", "answer": "No. An introduction demonstrates access; selection authority needs another record."},
-    "practice": {"task": "Add the hypothetical fellowship to the shared Excel workbook's student evidence matrix. In the notes, separate actors, funder, selector, local request and missing evidence.", "hint": "Clearly distinguish 'known' from 'to investigate' within the entry."},
-    "takeaways": ["Relationships can survive without a central agency.", "Money, access and decision authority are different roles.", "Meaningful reciprocity appears in what local partners can change."]
+    "misconception": {
+      "claim": "Contact with government makes every activity state policy.",
+      "correction": "One organisation may operate independently, receive facilitation or enter partnerships in different projects. Classify the relationship project by project."
+    },
+    "quickCheck": {
+      "question": "Does an embassy's introduction letter show it selected candidates?",
+      "answer": "The introduction letter establishes facilitated access. A claim of embassy authority over candidate selection requires a separate record."
+    },
+    "practice": {
+      "task": "Add the hypothetical fellowship to the shared Excel workbook's student evidence matrix. In the notes, separate actors, funder, selector, local request and missing evidence.",
+      "hint": "Clearly distinguish 'known' from 'to investigate' within the entry."
+    },
+    "takeaways": [
+      "International relationships can persist in the absence of a central agency.",
+      "Funding, facilitated access and decision authority constitute distinct roles.",
+      "Substantive reciprocity is assessed through local partners’ capacity to change programme decisions."
+    ]
   }
 }

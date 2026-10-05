@@ -1,18 +1,18 @@
 {
   "week": 2,
   "tr": {
-    "title": "Franklin: Kapıyı açmak, anlaşmayı imzalamak değildir",
-    "nutshell": "1776'da bağımsızlığını ilan eden Amerikan kolonileri silah, kredi, ticaret ve dış destek arıyordu. Benjamin Franklin Fransa'ya tanınmış bir bilim insanı olarak geldi. İtibarı temas kurmasını kolaylaştırdı; fakat Fransız ittifakını tek başına açıklamaz. Bu hafta kişisel ilişkilerle devlet kararını birbirinden ayıracağız.",
-    "analogy": "Varsayımsal örnek: Güvenilen bir arkadaşınız sizi iş görüşmesine öneriyor. Tavsiye, görüşme kapısını açabilir. İşe alınmanız ise becerilerinize, işverenin ihtiyacına ve bütçesine de bağlıdır. Tavsiyenin katkısını görmek için onu bütün kararın tek nedeni saymanız gerekmez. Franklin'in itibarını da böyle bir başlangıç avantajı olarak düşünün.",
+    "title": "Franklin: Diplomatik erişim ile ittifak arasındaki ayrım",
+    "nutshell": "1776’da bağımsızlığını ilan eden Amerikan kolonileri silah, kredi, ticaret ve dış destek arıyordu. Benjamin Franklin Fransa’ya tanınmış bir bilim insanı olarak geldi. İtibarı temas kurmasını kolaylaştırdı; ancak Fransız ittifakını tek başına açıklamaz. Bu hafta kişisel ilişkiler ile devlet kararları arasındaki ilişki, aralarındaki analitik ayrım korunarak incelenmektedir.",
+    "analogy": "Varsayımsal örnek: Güvenilir bir kişinin tavsiyesi, bir adayın iş görüşmesine davet edilmesini kolaylaştırabilir. İşe alınma kararı ise adayın becerilerine, işverenin ihtiyaçlarına ve bütçesine de bağlıdır. Tavsiyenin katkısını belirlemek, onu kararın tek nedeni olarak değerlendirmeyi gerektirmez. Franklin’in itibarı da benzer biçimde başlangıçtaki bir erişim avantajı olarak ele alınabilir.",
     "objectives": [
-      "Franklin'in bilimsel itibarının hangi tür erişim sağlayabildiğini açıklamak.",
-      "Fransız toplumunu tek bir düşünceye sahip topluluk gibi anlatmamak.",
-      "1778 ittifakını hem ilişkiler hem askerî ve stratejik koşullarla birlikte değerlendirmek."
+      "Franklin’in bilimsel itibarının sağlayabildiği erişim türlerini açıklamak.",
+      "Fransız toplumundaki farklı çevrelerin değerlendirmelerini tek bir ortak görüşe indirgemeden incelemek.",
+      "1778 ittifakını kişisel ilişkiler ile askerî ve stratejik koşulları birlikte değerlendirerek açıklamak."
     ],
     "concepts": [
       {
         "term": "İtibar",
-        "meaning": "Başkalarının bir kişi hakkında önceden oluşturduğu değerlendirmedir. Yeni bir görüşmeye duyulan güveni etkileyebilir.",
+        "meaning": "Başkalarının bir kişi hakkında önceden oluşturduğu değerlendirmedir. Yeni bir etkileşimde duyulan güveni etkileyebilir.",
         "example": "Franklin'in elektrik araştırmaları ve Avrupa'daki yazışmaları, diplomatik görevinden önce tanınırlık yaratmıştı."
       },
       {
@@ -22,31 +22,31 @@
       },
       {
         "term": "Erişim",
-        "meaning": "Bir kişiyle görüşebilme veya bir çevreye ulaşabilme imkânıdır. O kişiyi ikna etmiş olmakla aynı değildir.",
-        "example": "Bir salon daveti temas fırsatıdır; davetlilerin tamamının Amerikan amaçlarını desteklediğinin kanıtı değildir."
+        "meaning": "Bir kişiyle görüşme veya belirli bir çevreye ulaşma imkânıdır. Bu imkânın varlığı, iknanın gerçekleştiğini göstermez.",
+        "example": "Bir salon daveti temas fırsatı sunar; bütün davetlilerin Amerikan amaçlarını desteklediğine ilişkin kanıt oluşturmaz."
       },
       {
         "term": "İttifak",
         "meaning": "Devletler arasında yükümlülükler oluşturan anlaşmadır; genel sempatiye göre daha belirli bir sonuçtur.",
-        "example": "1778 İttifak Antlaşması askerî taahhütler oluşturdu. Franklin'in popülerliği, bu kararın yerine geçen bir ölçü değildir."
+        "example": "1778 İttifak Antlaşması askerî taahhütler oluşturdu. Franklin’in popülerliği, bu devlet kararının kanıtı yerine kullanılamaz."
       }
     ],
     "steps": [
       {
-        "title": "1. İhtiyaçları ayırın",
-        "text": "Amerikalı temsilciler yardım, ticaret, tanınma ve ittifak istiyordu. Bir kredi kaydıyla bir ittifak belgesi aynı hedefi göstermez. Önce hangi sonucu açıklayacağınızı seçin."
+        "title": "1. Diplomatik hedeflerin ayrıştırılması",
+        "text": "Amerikan temsilcileri yardım, ticaret, tanınma ve ittifak arayışındaydı. Bir kredi kaydı ile bir ittifak belgesi farklı hedeflere ilişkindir. Öncelikle açıklanacak sonucu belirleyiniz."
       },
       {
-        "title": "2. Bağlantıları izleyin",
-        "text": "Franklin tek başına çalışmadı. Silas Deane, Arthur Lee, Kongre komiteleri ve yerel aracılar da önemliydi. Her kişi için kiminle görüştüğünü ve hangi yetkiye sahip olduğunu sorun."
+        "title": "2. İlişki ağlarının incelenmesi",
+        "text": "Franklin’in faaliyetleri diğer aktörlerle ilişkiler içinde yürütüldü. Silas Deane, Arthur Lee, Kongre komiteleri ve yerel aracılar da süreçte rol oynadı. Her aktörün temaslarını ve yetki kapsamını ayrı inceleyiniz."
       },
       {
-        "title": "3. Kararın koşullarını ekleyin",
-        "text": "1777 Saratoga’daki Amerikan askerî zaferi Amerika'nın dayanma ihtimaline ilişkin değerlendirmeleri değiştirdi. Fransa'nın Britanya'yı zayıflatma çıkarını ve savaş riskini de hesaba katın. İlişkiler bu koşullar içinde işler."
+        "title": "3. Karar koşullarının değerlendirilmesi",
+        "text": "1777’de Saratoga’daki Amerikan askerî zaferi, Amerikan direnişinin sürdürülebilirliğine ilişkin değerlendirmeleri değiştirdi. Fransa’nın Britanya’yı zayıflatma çıkarını ve savaş riskini de hesaba katınız. İlişkiler bu stratejik koşullar içinde işliyordu."
       }
     ],
     "diagram": {
-      "title": "İtibar ile ittifak arasındaki duraklar",
+      "title": "İtibar ve ittifak ilişkisinin kronolojik bağlamı",
       "nodes": [
         {
           "title": "Önceden kazanılmış itibar",
@@ -65,49 +65,49 @@
           "text": "Tanınma, ticaret ve askerî yükümlülükler somutlaştı."
         }
       ],
-      "caption": "Bu bir zaman çizgisidir; olay sırası tek nedenli bir açıklama değildir. Her geçişte başka aktörlerin kararları ve stratejik koşullar bulunur."
+      "caption": "Bu zaman çizelgesi tek nedenli bir açıklama sunmaz. Her geçiş, diğer aktörlerin kararları ve stratejik koşullarla birlikte değerlendirilmelidir."
     },
     "workedExample": {
-      "title": "Örnek çözüm: Bir talep mektubunu okumak",
+      "title": "Çözümlü örnek: Bir talep mektubunun incelenmesi",
       "scenario": "Tarihsel örnek: Franklin, Deane ve Lee'nin Vergennes'e 23 Aralık 1776 tarihli mektubu, ticaret antlaşması önerisini ve görüşme talebini gösterir.",
       "steps": [
-        "Önce yazanları ve muhatabı kaydedin: Amerikan temsilcileri Fransız dışişleri yöneticisine sesleniyor.",
-        "Mektubun gösterdiği şeyi yazın: Bir talep ve niyet vardır. Fransız tarafının bu talebi kabul ettiği henüz gösterilmez.",
-        "Sonraki adımı belirleyin: Kabul ve sonuç için yanıtları, müzakere kayıtlarını veya antlaşmayı arayın. Bunları mektubun yerine varsaymayın."
+        "Yazarları ve muhatabı kaydediniz: Amerikan temsilcileri Fransız dışişleri yöneticisine hitap etmektedir.",
+        "Belgenin desteklediği iddiayı belirleyiniz: Mektup bir talebi ve niyeti kaydeder; Fransız tarafının kabulünü henüz göstermez.",
+        "Kabul ve sonuç iddiaları için yanıtları, müzakere kayıtlarını veya antlaşmayı araştırınız. Bu aşamalar yalnızca talep mektubundan hareketle varsayılamaz."
       ],
-      "lesson": "Bir belgenin güçlü yanı kadar, cevaplayamadığı soruyu da belirtmek gerekir."
+      "lesson": "Belgenin desteklediği iddialar ile yanıtlayamadığı sorular birlikte belirtilmelidir."
     },
     "misconception": {
-      "claim": "Fransa Franklin'i sevdiği için ittifak yaptı.",
-      "correction": "Bu cümle farklı Fransız çevrelerini birleştirir ve Saratoga, stratejik çıkarlar ile savaş riskini görünmez kılar."
+      "claim": "Fransız ittifakı, Franklin’e duyulan olumlu tutumla açıklanabilir.",
+      "correction": "Bu açıklama farklı Fransız çevrelerini tek bir aktöre indirger; Saratoga’nın, stratejik çıkarların ve savaş riskinin katkısını değerlendirme dışında bırakır."
     },
     "quickCheck": {
-      "question": "Franklin'e gönderilmiş övgü dolu bir mektup bütün Fransa'nın görüşünü gösterir mi?",
-      "answer": "Hayır. Öncelikle yazanın görüşünü gösterir; toplumun tamamına genellemek için yeterli değildir."
+      "question": "Franklin’e gönderilen övgü içerikli bir mektup, Fransız toplumunun tamamının görüşünü temsil eder mi?",
+      "answer": "Mektup öncelikle yazarının değerlendirmesine ilişkin kanıt sağlar. Toplumun tamamına yönelik bir genelleme için yeterli değildir."
     },
     "practice": {
-      "task": "Excel öğrenci kanıt matrisine 23 Aralık mektubu için bir satır ekleyin. Tarihini, gösterdiği talebi ve gösteremediği sonucu yazın. 14 haftalık rehberde ikinci haftanın ana ayrımını kendi sözlerinizle tamamlayın.",
-      "hint": "'Görüşme talep edildi' ile 'ittifak kabul edildi' ifadelerini ayrı tutun."
+      "task": "Excel öğrenci kanıt matrisine 23 Aralık mektubu için bir satır ekleyiniz. Belgenin tarihini, kaydettiği talebi ve ortaya koyamadığı sonucu belirtiniz. 14 haftalık rehberde ikinci haftanın temel ayrımını kendi ifadelerinizle açıklayınız.",
+      "hint": "“Görüşme talep edildi” ve “ittifak kabul edildi” ifadelerini farklı iddialar olarak değerlendiriniz."
     },
     "takeaways": [
-      "İtibar görüşme fırsatı sağlayabilir; sonucu garanti etmez.",
-      "Yerel aracılar mesajları yalnız taşımaz, yorumlar da.",
-      "Franklin'in katkısını kabul etmek, diğer nedenleri dışlamayı gerektirmez."
+      "İtibar görüşme fırsatı sağlayabilir; görüşmenin sonucunu garanti etmez.",
+      "Yerel aracılar mesajların iletimine ve yorumlanmasına katkıda bulunur.",
+      "Franklin’in katkısının kabul edilmesi, diğer nedensel açıklamaların dışlanmasını gerektirmez."
     ]
   },
   "en": {
-    "title": "Franklin: Opening a door is not signing an agreement",
-    "nutshell": "After declaring independence in 1776, the American colonies sought arms, credit, trade and foreign support. Benjamin Franklin arrived in France as a recognised scientist. His reputation facilitated contact, but cannot alone explain the French alliance. This week separates personal relationships from state decisions.",
-    "analogy": "Hypothetical example: A trusted friend recommends you for a job interview. The recommendation may open the door. Getting hired also depends on your skills, the employer's needs and its budget. Recognising the recommendation's contribution does not make it the decision's sole cause. Think of Franklin's reputation as a similar initial advantage.",
+    "title": "Franklin: Distinguishing diplomatic access from alliance",
+    "nutshell": "After declaring independence in 1776, the American colonies sought arms, credit, trade and foreign support. Benjamin Franklin arrived in France as a recognised scientist. His reputation facilitated contact but cannot alone explain the French alliance. This week examines the relationship between personal connections and state decisions while maintaining their analytical distinction.",
+    "analogy": "Hypothetical example: A recommendation from a trusted person may facilitate a candidate’s invitation to a job interview. Appointment also depends on the candidate’s skills, the employer’s needs and its budget. Identifying the recommendation’s contribution does not require treating it as the decision’s sole cause. Franklin’s reputation can similarly be examined as an initial advantage in securing access.",
     "objectives": [
-      "Explain what access Franklin's scientific reputation could provide.",
-      "Avoid treating French society as having one opinion.",
-      "Assess the 1778 alliance through relationships alongside military and strategic conditions."
+      "Explain the types of access that Franklin’s scientific reputation could provide.",
+      "Examine assessments within different French circles without reducing them to a single shared opinion.",
+      "Explain the 1778 alliance by assessing personal relationships alongside military and strategic conditions."
     ],
     "concepts": [
       {
         "term": "Reputation",
-        "meaning": "Others' existing assessment of someone. It can affect trust in a new encounter.",
+        "meaning": "The assessment of a person previously formed by others. It may affect trust in a new interaction.",
         "example": "Franklin's electrical research and European correspondence created recognition before his diplomatic mission."
       },
       {
@@ -117,31 +117,31 @@
       },
       {
         "term": "Access",
-        "meaning": "The opportunity to meet someone or reach a particular circle. It does not mean persuasion succeeded.",
-        "example": "A salon invitation offers contact; it does not prove every guest supported American objectives."
+        "meaning": "The opportunity to meet a person or reach a particular circle. The existence of this opportunity does not establish successful persuasion.",
+        "example": "An invitation to a salon provides an opportunity for contact; it does not establish that every guest supported American objectives."
       },
       {
         "term": "Alliance",
         "meaning": "An agreement creating obligations between states: a more specific outcome than general sympathy.",
-        "example": "The 1778 Treaty of Alliance created military commitments. Franklin's popularity cannot substitute for measuring that decision."
+        "example": "The 1778 Treaty of Alliance created military commitments. Franklin’s popularity cannot substitute for evidence of that state decision."
       }
     ],
     "steps": [
       {
-        "title": "1. Separate the needs",
-        "text": "American representatives sought assistance, trade, recognition and alliance. A credit record and an alliance document concern different objectives. Choose the result you want to explain."
+        "title": "1. Distinguishing diplomatic objectives",
+        "text": "American representatives sought assistance, trade, recognition and alliance. A credit record and an alliance document concern different objectives. First specify the outcome to be explained."
       },
       {
-        "title": "2. Follow the connections",
-        "text": "Franklin did not work alone. Silas Deane, Arthur Lee, congressional committees and local intermediaries also mattered. Ask whom each person met and what authority they held."
+        "title": "2. Examining relationship networks",
+        "text": "Franklin’s activities developed through relationships with other actors. Silas Deane, Arthur Lee, congressional committees and local intermediaries also contributed. Examine each actor’s contacts and scope of authority separately."
       },
       {
-        "title": "3. Add the decision's conditions",
-        "text": "The American military victory at Saratoga in 1777 changed assessments of American endurance. Include France's interest in weakening Britain and the risks of war. Relationships operated within these conditions."
+        "title": "3. Assessing the conditions of decision",
+        "text": "The American military victory at Saratoga in 1777 changed assessments of the sustainability of American resistance. Include France’s interest in weakening Britain and the risk of war. Relationships operated within these strategic conditions."
       }
     ],
     "diagram": {
-      "title": "Stops between reputation and alliance",
+      "title": "The chronological context of reputation and alliance",
       "nodes": [
         {
           "title": "Established reputation",
@@ -160,34 +160,34 @@
           "text": "Recognition, trade and military obligations became concrete."
         }
       ],
-      "caption": "This is a timeline, not a single-cause explanation. Other actors' decisions and strategic conditions matter at every transition."
+      "caption": "This timeline does not provide a single-cause explanation. Each transition requires assessment alongside other actors’ decisions and strategic conditions."
     },
     "workedExample": {
-      "title": "Worked example: Reading a request letter",
+      "title": "Worked example: Examining a letter of request",
       "scenario": "Historical example: Franklin, Deane and Lee's letter to Vergennes of 23 December 1776 records a proposed commercial treaty and a meeting request.",
       "steps": [
-        "Record writers and recipient: American representatives address the French foreign minister.",
-        "Identify what it shows: A request and an intention. French acceptance is not yet established.",
-        "Choose the next step: Seek replies, negotiation records or the treaty to establish acceptance and results. Do not assume them from the letter."
+        "Record the authors and recipient: the American representatives address the French foreign minister.",
+        "Identify the supported claim: the letter records a request and an intention; it does not yet establish French acceptance.",
+        "Investigate replies, negotiation records or the treaty to support claims about acceptance and outcomes. These stages cannot be assumed from the request letter alone."
       ],
-      "lesson": "State a document’s strength and its unanswered question."
+      "lesson": "Specify both the claims a document supports and the questions it cannot answer."
     },
     "misconception": {
-      "claim": "France formed the alliance because it loved Franklin.",
-      "correction": "This combines different French circles and hides Saratoga, strategic interests and war risks."
+      "claim": "The French alliance can be explained by favourable attitudes towards Franklin.",
+      "correction": "This explanation reduces distinct French circles to a single actor and excludes the contributions of Saratoga, strategic interests and war risks."
     },
     "quickCheck": {
-      "question": "Does an admiring letter to Franklin reveal all France's opinion?",
-      "answer": "No. Primarily, it reveals the writer's view; it cannot support generalising to the whole society."
+      "question": "Does an admiring letter addressed to Franklin represent opinion throughout French society?",
+      "answer": "The letter primarily provides evidence of its author’s assessment. It is insufficient for a generalisation about the whole society."
     },
     "practice": {
-      "task": "Add the December 23 letter to the Excel student evidence matrix. Record its date, request and the outcome it cannot establish. Complete week two’s distinction in the 14-week guide in your own words.",
-      "hint": "Keep 'a meeting was requested' separate from 'an alliance was accepted'."
+      "task": "Add a row for the letter of 23 December to the Excel student evidence matrix. Record its date, the request it documents and the outcome it cannot establish. Explain week two’s principal distinction in the 14-week guide in original wording.",
+      "hint": "Treat “a meeting was requested” and “an alliance was accepted” as distinct claims."
     },
     "takeaways": [
-      "Reputation can provide a meeting opportunity, not guarantee its outcome.",
-      "Local intermediaries interpret messages as well as carrying them.",
-      "Recognising Franklin's contribution does not require excluding other causes."
+      "Reputation may provide an opportunity for a meeting without guaranteeing its outcome.",
+      "Local intermediaries contribute to both the transmission and interpretation of messages.",
+      "Recognising Franklin’s contribution does not require excluding other causal explanations."
     ]
   }
 }

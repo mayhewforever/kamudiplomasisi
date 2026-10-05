@@ -1,13 +1,13 @@
 {
   "week": 5,
   "tr": {
-    "title": "Küba’ya yardım: bir paket nasıl siyasi anlam kazanır?",
-    "nutshell": "Küba’nın İspanyol yönetimine karşı bağımsızlık mücadelesi, siviller için ağır bir krize dönüştü. ABD’de yardım çağrıları, gazeteler ve dış politika tartışmaları iç içe geçti. Bu haftanın sorusu basit: Yardım gerçekten kime ulaştı ve bundan hangi sonuçları çıkarabiliriz?",
-    "analogy": "Varsayımsal gündelik benzetme: Bir komşuya yemek götürüyorsun. Açlığını azaltman, seni bütün konularda haklı bulacağı anlamına gelmez. Teşekkür, siyasi destekle aynı değildir. Önce yemeğin ulaştığını, sonra karşı tarafın kendi düşüncesini öğrenmen gerekir.",
+    "title": "Küba’ya insani yardımın siyasi anlamı",
+    "nutshell": "Küba’nın İspanyol yönetimine karşı bağımsızlık mücadelesi, siviller açısından ağır bir krize dönüştü. ABD’de yardım çağrıları, gazeteler ve dış politika tartışmaları birbirleriyle bağlantılı gelişti. Bu hafta, yardımın kimlere ulaştığını ve mevcut kanıtlardan hangi sonuçların çıkarılabileceğini incelemektedir.",
+    "analogy": "Varsayımsal benzetmede bir komşuya yemek ulaştırılması, açlığın azaltılmasına katkı sağlar. Ancak bu yarar, yardım sağlayanın bütün görüşlerinin benimsendiği anlamına gelmez. Minnettarlık ile siyasi destek ayrıştırılmalı; önce teslimat, ardından alıcının kendi değerlendirmesi incelenmelidir.",
     "objectives": [
       "İnsani yararı siyasi destekten ayırmak.",
-      "Yardımın geçtiği kurumları tanımak.",
-      "Kübalıların kendi sözünü değerlendirmeye katmak."
+      "Yardımın örgütlenmesinde görev alan kurumları belirlemek.",
+      "Kübalıların kendi ifadelerini değerlendirmeye dâhil etmek."
     ],
     "concepts": [
       {
@@ -22,31 +22,31 @@
       },
       {
         "term": "Gündem oluşturma",
-        "meaning": "Bir konunun daha çok konuşulmasını ve önemsenmesini sağlamaktır.",
-        "example": "Gazete haberleri Küba’daki acıları görünür kıldı; tek başına savaş kararı vermedi."
+        "meaning": "Bir konunun kamusal tartışmadaki görünürlüğünün ve algılanan öneminin artırılmasıdır.",
+        "example": "Gazete haberleri Küba’daki acıları görünür kıldı; ancak bu faaliyet, savaş kararının kendisiyle özdeş değildi."
       },
       {
         "term": "Temsil",
-        "meaning": "Birinin durumunu veya talebini onun adına anlatmaktır.",
+        "meaning": "Bir kişinin veya topluluğun durumunun ya da taleplerinin onun adına ifade edilmesidir.",
         "example": "Kübalıları yalnız yardıma muhtaç göstermek, bağımsızlık taleplerini görünmez kılabilir."
       }
     ],
     "steps": [
       {
-        "title": "Kim ne yapıyor?",
+        "title": "Aktörlerin görevleri ve amaçları",
         "text": "Hükümet, yardım örgütleri, iş insanları, gazeteler ve Kübalı aktörler aynı amaçlara sahip değildi. Bir örgüt acıyı azaltırken hükümet siyasi gerilimi düşürmek de isteyebilirdi. Birlikte çalışmak, niyetlerin özdeş olduğunu göstermez."
       },
       {
-        "title": "Çağrıdan teslimata ilerle",
-        "text": "1898’deki Amerikan yardım çağrısı, yardım toplama ve taşıma düzenini anlatır. Çağrı yapılması bağışın toplandığını, geminin ayrılması yardımın ailelere ulaştığını kanıtlamaz. Teslimat için sahadaki dağıtım kayıtlarını da aramak gerekir."
+        "title": "Yardım çağrısından teslimata uzanan süreç",
+        "text": "1898’deki Amerikan yardım çağrısı, yardım toplama ve taşıma düzenini açıklamaktadır. Çağrının yapılması bağışların toplandığını, geminin ayrılması ise yardımın ailelere ulaştığını kanıtlamaz. Teslimatın değerlendirilmesi, sahadaki dağıtım kayıtlarını da gerektirir."
       },
       {
-        "title": "Yardımdan siyasi karara atlama",
-        "text": "Yardım alan kişi sağlık hizmetinden memnunken askerî müdahaleye karşı olabilir. Gazetelerin etkisini de diğer nedenlerle birlikte incele: Ticari çıkarlar, güvenlik kaygıları ve hükümetin diplomatik seçenekleri, 1898 savaş kararının ortamına dâhildi."
+        "title": "İnsani yardım ile siyasi kararın ayrıştırılması",
+        "text": "Yardım alan bir kişi sağlık hizmetini olumlu değerlendirirken askerî müdahaleye karşı çıkabilir. Gazetelerin etkisi de rakip açıklamalarla birlikte incelenmelidir: Ticari çıkarlar, güvenlik kaygıları ve hükümetin diplomatik seçenekleri, 1898 savaş kararının bağlamına dâhildi."
       }
     ],
     "diagram": {
-      "title": "Yardımın dört durağı",
+      "title": "Yardım sürecinin dört aşaması",
       "nodes": [
         {
           "title": "Çağrı",
@@ -65,17 +65,17 @@
           "text": "İhtiyaç karşılandı mı; alıcı ne söyledi?"
         }
       ],
-      "caption": "Her durak ayrı kayıt ister. Yardımın ulaşması bile olumlu siyasi tutumu garanti etmez; alıcıların görüşleri ayrıca araştırılır."
+      "caption": "Her aşama ayrı kayıtlarla incelenmelidir. Yardımın teslim edilmesi, olumlu siyasi tutumu kendiliğinden oluşturmaz; alıcıların görüşleri ayrıca araştırılmalıdır."
     },
     "workedExample": {
-      "title": "Yüz paket demek yüz destekçi demek mi?",
-      "scenario": "Varsayımsal ölçüm alıştırması: 100 paket yardım toplanıyor, 80’i yola çıkıyor ve 60’ının teslimi belgeleniyor. Bunlar tarihsel Küba verileri değildir.",
+      "title": "Paket sayıları ve siyasi destek çıkarımının sınırları",
+      "scenario": "Varsayımsal ölçüm alıştırmasında 100 paket yardım toplanmakta, 80’i sevk edilmekte ve 60’ının teslimatı belgelenmektedir. Bu sayılar tarihsel Küba verileri değildir.",
       "steps": [
-        "Toplanan, gönderilen ve belgelenen teslimatı ayrı yaz: 100, 80 ve 60.",
-        "Gönderilenler içindeki belgelenmiş teslim oranını hesapla: 60 ÷ 80 = yüzde 75. Kalanların akıbeti bu veride bilinmiyor.",
-        "Siyasi desteği boş bırak: Paket sayıları, alıcıların Amerikan politikasını desteklediğini göstermez."
+        "Toplanan, gönderilen ve teslimatı belgelenen paket sayılarını ayrı kaydediniz: sırasıyla 100, 80 ve 60.",
+        "Gönderilen paketler içindeki belgelenmiş teslimat oranını hesaplayınız: 60 ÷ 80 = yüzde 75. Kalan paketlerin akıbeti bu veri setinde bilinmemektedir.",
+        "Siyasi desteği bilinmeyen olarak kaydediniz: Paket sayıları, alıcıların Amerikan politikasını desteklediğini göstermez."
       ],
-      "lesson": "Doğru payda doğru soruyu yanıtlar; yardım başarısıyla siyasi destek aynı ölçü değildir."
+      "lesson": "Paydanın seçimi, ölçümün yanıtladığı soruyu belirler; yardımın uygulanması ile siyasi destek farklı göstergeler gerektirir."
     },
     "misconception": {
       "claim": "“Sarı basın, yani sansasyonel gazetecilik, savaşı tek başına başlattı.”",
@@ -83,26 +83,26 @@
     },
     "quickCheck": {
       "question": "Bir yardım çağrısı, ihtiyaç sahiplerine teslimatın yapıldığını gösterir mi?",
-      "answer": "Hayır. Çağrı bir girişimi gösterir; teslimat için uygulama kaydı gerekir."
+      "answer": "Yardım çağrısı bir girişimi belgelemektedir; ihtiyaç sahiplerine teslimatın gerçekleştiği ise uygulama kayıtlarıyla gösterilmelidir."
     },
     "practice": {
-      "task": "Excel’deki varsayımsal ölçüm laboratuvarına 100, 80 ve 60 paket değerlerini ayrı aşamalar olarak gir. Belgelenmiş teslim oranını hesapla ve siyasi destek hakkında neden sonuç çıkaramadığını yaz.",
-      "hint": "Paydanı “gönderilen paketler” olarak etiketle. Bilinmeyen teslimat, mutlaka teslim edilmemiş demek değildir."
+      "task": "Excel’deki varsayımsal ölçüm laboratuvarına 100, 80 ve 60 paket değerlerini ayrı aşamalar olarak giriniz. Belgelenmiş teslimat oranını hesaplayınız ve bu sayılardan siyasi destek sonucunun neden çıkarılamadığını açıklayınız.",
+      "hint": "Paydayı “gönderilen paketler” olarak etiketleyiniz. Teslimatı bilinmeyen paketler, teslim edilmediği belirlenen paketlerle eşitlenmemelidir."
     },
     "takeaways": [
-      "İyi niyet ile gerçekleşen yardım farklıdır.",
-      "Yardım alan insanlar kendi siyasi tercihlerine sahiptir.",
-      "Maddi yarar, siyasi desteğin yerine ölçülemez."
+      "İnsani niyet ile tamamlanmış yardım faaliyeti analitik olarak ayrılmalıdır.",
+      "Yardım alıcıları bağımsız siyasi tercihlere sahip aktörlerdir.",
+      "Maddi yarar, siyasi desteğin göstergesi olarak kullanılamaz."
     ]
   },
   "en": {
-    "title": "Aid to Cuba: how does a parcel acquire political meaning?",
-    "nutshell": "Cuba’s independence struggle against Spanish rule became a severe civilian crisis. In the United States, relief appeals, newspapers and foreign-policy debates became intertwined. This week asks a simple question: Who actually received help, and what conclusions can we draw?",
-    "analogy": "Hypothetical everyday analogy: You bring a neighbour a meal. Reducing their hunger does not mean they agree with you about everything. Gratitude differs from political support. First establish that the meal arrived, then learn what the recipient thinks.",
+    "title": "The political significance of humanitarian relief to Cuba",
+    "nutshell": "Cuba’s independence struggle against Spanish rule developed into a severe civilian crisis. In the United States, relief appeals, newspapers and foreign-policy debates became interconnected. This week examines who received assistance and which conclusions the available evidence can support.",
+    "analogy": "In a hypothetical analogy, providing a meal to a neighbour contributes to reducing hunger. This benefit does not establish agreement with all the provider’s views. Gratitude and political support must be distinguished: delivery requires verification, followed by examination of the recipient’s own assessment.",
     "objectives": [
       "Separate humanitarian benefit from political support.",
-      "Identify the institutions handling relief.",
-      "Include Cubans’ own voices in the assessment."
+      "Identify the institutions involved in organising relief.",
+      "Incorporate Cubans’ own accounts into the assessment."
     ],
     "concepts": [
       {
@@ -117,31 +117,31 @@
       },
       {
         "term": "Agenda-setting",
-        "meaning": "Making an issue more widely discussed and considered important.",
-        "example": "Newspapers made Cuban suffering visible; they did not themselves decide on war."
+        "meaning": "Increasing an issue’s visibility and perceived importance in public debate.",
+        "example": "Newspaper coverage increased the visibility of Cuban suffering; this activity was distinct from the decision to enter war."
       },
       {
         "term": "Representation",
-        "meaning": "Describing someone’s situation or demands on their behalf.",
+        "meaning": "The expression of an individual’s or community’s circumstances or demands on their behalf.",
         "example": "Presenting Cubans only as needy victims can hide their independence demands."
       }
     ],
     "steps": [
       {
-        "title": "Who does what?",
+        "title": "Actors’ responsibilities and objectives",
         "text": "Government, relief organisations, businesspeople, newspapers and Cuban actors had different goals. An organisation might reduce suffering while government also sought to ease political tensions. Working together does not establish identical intentions."
       },
       {
-        "title": "Follow the appeal through to delivery",
-        "text": "The American relief appeal of 1898 describes arrangements for collecting and transporting assistance. An appeal does not prove donations arrived; a ship’s departure does not prove families received supplies. Seek distribution records from the field."
+        "title": "The process from relief appeal to delivery",
+        "text": "The American relief appeal of 1898 describes arrangements for collecting and transporting assistance. Issuing an appeal does not establish that donations were collected; a ship’s departure does not establish receipt by families. Assessment of delivery also requires distribution records from the field."
       },
       {
-        "title": "Do not jump from relief to political decisions",
-        "text": "A recipient could appreciate healthcare while opposing military intervention. Examine newspapers alongside other explanations: commercial interests, security concerns and government’s diplomatic alternatives also shaped the setting of the 1898 war decision."
+        "title": "Distinguishing humanitarian relief from political decisions",
+        "text": "A recipient could value healthcare while opposing military intervention. Newspaper influence also requires examination alongside competing explanations: commercial interests, security concerns and government’s diplomatic alternatives formed part of the context of the 1898 war decision."
       }
     ],
     "diagram": {
-      "title": "Four stages of relief",
+      "title": "Four stages of the relief process",
       "nodes": [
         {
           "title": "Appeal",
@@ -160,17 +160,17 @@
           "text": "Was the need met? What did recipients say?"
         }
       ],
-      "caption": "Each stage needs separate records. Delivery does not guarantee favourable political attitudes; recipients’ views need additional investigation."
+      "caption": "Each stage requires separate records. Delivery does not automatically generate favourable political attitudes; recipients’ views require additional investigation."
     },
     "workedExample": {
-      "title": "Do one hundred parcels mean one hundred supporters?",
-      "scenario": "Hypothetical measurement exercise: 100 parcels are collected, 80 depart and 60 have documented delivery. These are not historical Cuban figures.",
+      "title": "Parcel counts and the limits of inferring political support",
+      "scenario": "In a hypothetical measurement exercise, 100 relief parcels are collected, 80 are dispatched and 60 have documented delivery. These figures are not historical Cuban data.",
       "steps": [
-        "Record collection, shipment and documented delivery separately: 100, 80 and 60.",
-        "Calculate documented deliveries among shipments: 60 ÷ 80 = 75 percent. These data leave the remaining parcels’ fate unknown.",
-        "Leave political support unknown: Parcel counts do not show recipients supported American policy."
+        "Record collected, dispatched and documented delivered parcels separately: 100, 80 and 60 respectively.",
+        "Calculate documented deliveries as a proportion of shipments: 60 ÷ 80 = 75 per cent. The remaining parcels’ outcomes are unknown within this dataset.",
+        "Record political support as unknown: parcel counts do not establish recipients’ support for American policy."
       ],
-      "lesson": "The correct denominator answers the correct question; relief success and political support require different measures."
+      "lesson": "The choice of denominator determines the question a measure addresses; relief implementation and political support require distinct indicators."
     },
     "misconception": {
       "claim": "“The yellow press, meaning sensational journalism, single-handedly started the war.”",
@@ -178,16 +178,16 @@
     },
     "quickCheck": {
       "question": "Does a relief appeal establish delivery to people in need?",
-      "answer": "No. An appeal shows an initiative; delivery needs implementation records."
+      "answer": "A relief appeal documents an initiative; delivery to those in need must be established through implementation records."
     },
     "practice": {
-      "task": "In the workbook’s hypothetical measurement lab, enter 100, 80 and 60 parcels as separate stages. Calculate documented delivery and explain why these figures cannot establish political support.",
-      "hint": "Label your denominator “parcels shipped”. An unknown delivery is not necessarily a failed delivery."
+      "task": "Enter 100, 80 and 60 parcels as separate stages in the workbook’s hypothetical measurement lab. Calculate the documented delivery rate and explain why these figures cannot establish political support.",
+      "hint": "Label the denominator “parcels shipped”. Parcels with unknown delivery outcomes must not be equated with those known to be undelivered."
     },
     "takeaways": [
-      "Good intentions and completed relief differ.",
-      "Recipients retain their own political preferences.",
-      "Material benefit cannot stand in for political support."
+      "Humanitarian intention and completed relief operations require analytical distinction.",
+      "Relief recipients are actors with their own political preferences.",
+      "Material benefit cannot serve as a measure of political support."
     ]
   }
 }

@@ -1,52 +1,52 @@
 {
   "week": 4,
   "tr": {
-    "title": "Pamuk güçlüydü; peki neden siyasi destek getirmedi?",
-    "nutshell": "Amerikan İç Savaşı sırasında Birlikten ayrılan Güney eyaletlerinin oluşturduğu Konfederasyon, Avrupa’nın pamuğa ihtiyacından yararlanmak istedi. Beklenti şuydu: Pamuk azalırsa fabrikalar sıkışır, hükümetler de Konfederasyona destek verir. Fakat ekonomik sıkıntı ile siyasi karar arasında aşılması gereken birkaç ayrı basamak vardı.",
-    "analogy": "Varsayımsal bir benzetme: Mahallenin un satıcısı, fırının kendisine destek vermesi için un satışını durduruyor. Fırın zorlanabilir; ama stok kullanabilir veya başka satıcı bulabilir. Birini zor durumda bırakmak, istediğini yaptırmakla aynı şey değildir.",
+    "title": "Pamuk bağımlılığı ve siyasi desteğin sınırları",
+    "nutshell": "Amerikan İç Savaşı sırasında Birlikten ayrılan Güney eyaletlerinin oluşturduğu Konfederasyon, Avrupa’nın pamuk ihtiyacını siyasi desteğe dönüştürmeyi amaçladı. Beklenen mekanizma, arz daralmasının fabrikalarda yarattığı ekonomik baskının hükümetleri Konfederasyonu desteklemeye yöneltmesiydi. Ancak ekonomik sıkıntının siyasi karara dönüşmesi, ayrı ayrı incelenmesi gereken ara süreçlere bağlıydı.",
+    "analogy": "Varsayımsal benzetmede bir un tedarikçisi, mahalledeki fırının desteğini kazanmak amacıyla satışları durdurur. Fırın ekonomik güçlük yaşayabilir; ancak stoklarını kullanabilir veya alternatif tedarikçilere yönelebilir. Maliyet yaratma kapasitesi ile talep edilen davranış değişikliğini sağlama kapasitesi bu nedenle ayrıştırılmalıdır.",
     "objectives": [
-      "Kaynak ile siyasi sonucu ayırmak.",
-      "Pamuk kısıtlamasıyla ablukayı karıştırmamak.",
-      "Bir sonuca birden fazla açıklama aramak."
+      "Ekonomik kaynaklar ile siyasi sonuçları analitik olarak ayırmak.",
+      "Gönüllü pamuk ihracatı kısıtlaması ile askerî ablukayı ayrıştırmak.",
+      "Aynı sonuç için rakip nedensel açıklamaları değerlendirmek."
     ],
     "concepts": [
       {
         "term": "Ekonomik bağımlılık",
-        "meaning": "Bir malı başka kaynaktan edinmekte zorlanma durumudur. Zamanla değişebilir.",
-        "example": "Güney pamuğu, Avrupa tekstil üretimi için önemliydi."
+        "meaning": "Bir malın alternatif kaynaklardan temin edilmesindeki güçlüğü ifade eder; bu güçlüğün derecesi zaman içinde değişebilir.",
+        "example": "Güney pamuğu, Avrupa tekstil üretimi açısından önemli bir girdiydi."
       },
       {
         "term": "Ekonomik zorlama",
-        "meaning": "Karşı tarafın kararını değiştirmek için ona maddi maliyet yüklemektir.",
-        "example": "Pamuk arzını kısarak siyasi destek beklemek."
+        "meaning": "Başka bir aktörün kararını değiştirmek amacıyla maddi maliyet yüklenmesidir.",
+        "example": "Pamuk arzını kısıtlayarak siyasi destek sağlama beklentisi."
       },
       {
         "term": "Diplomatik tanınma",
-        "meaning": "Bir siyasi yapının devlet olarak kabul edilmesidir.",
+        "meaning": "Bir siyasi yapının devlet statüsünün kabul edilmesidir.",
         "example": "Konfederasyon, Avrupa hükümetlerinden tanınma bekliyordu; gazete desteği bunun yerine geçmezdi."
       },
       {
         "term": "Meşruiyet",
-        "meaning": "Bir davranışın veya düzenin haklı ve kabul edilebilir görülmesidir.",
+        "meaning": "Bir davranışın veya siyasi düzenin haklı ve kabul edilebilir olarak değerlendirilmesidir.",
         "example": "Köleliği koruyan Konfederasyon, kölelik karşıtı çevrelerde güvenilirlik sorunu yaşıyordu."
       }
     ],
     "steps": [
       {
-        "title": "Önce iki kesintiyi ayır",
-        "text": "Güneyli üreticilerin pamuk satışını gönüllü olarak kısması ile Birliğin askerî ablukası farklı eylemlerdi. İkisi de arzı azaltabilirdi; ama yapan aktör ve amaç aynı değildi. Sonraki kıtlığı yalnız birine bağlama."
+        "title": "Arz kesintilerinin aktör ve amaç bakımından ayrıştırılması",
+        "text": "Güneyli üreticilerin gönüllü pamuk ihracatı kısıtlaması ile Birliğin askerî ablukası farklı eylemlerdi. Her ikisi de arzı azaltabilirdi; ancak uygulayıcı aktörleri ve amaçları farklıydı. Sonraki kıtlığın yalnızca bir sürece atfedilmesi bu nedenle ek kanıt gerektirir."
       },
       {
-        "title": "Sonra hedefin seçeneklerini bul",
-        "text": "Avrupa’daki stoklar zaman kazandırdı; başka bölgelerden tedarik arandı. İşsiz kalan herkes de aynı siyasi çözümü istemiyordu. Geçim sıkıntısı yaşayan bir işçi köleliğe karşı çıkmayı sürdürebilirdi."
+        "title": "Hedef aktörlerin alternatifleri",
+        "text": "Avrupa’daki stoklar uyum için zaman sağladı; başka bölgelerden tedarik imkânları araştırıldı. İşsiz kalan çalışanların siyasi tercihleri de homojen değildi. Geçim sıkıntısı yaşayan bir işçi, köleliğe karşı tutumunu sürdürebilirdi."
       },
       {
-        "title": "En son karara bak",
-        "text": "Hükümetler pamuk maliyetinin yanında Birlikle savaş riskini ve Konfederasyonun geleceğini tarttı. Fiyat artışı ekonomik etkiyi gösterir. Tanınma kararını açıklamak için hükümetin seçenekleri nasıl değerlendirdiğini gösteren ayrı belgeler gerekir."
+        "title": "Hükümet kararlarının değerlendirilmesi",
+        "text": "Hükümetler pamuk maliyetinin yanı sıra Birlikle savaş riskini ve Konfederasyonun geleceğine ilişkin beklentileri değerlendirdi. Fiyat artışı ekonomik etkiye ilişkin kanıt sağlar. Tanınma kararını açıklamak ise hükümetin alternatifleri nasıl değerlendirdiğini gösteren ayrı belgeler gerektirir."
       }
     ],
     "diagram": {
-      "title": "Pamuktan karara: dört ayrı soru",
+      "title": "Pamuk arzından siyasi karara: analitik aşamalar",
       "nodes": [
         {
           "title": "Arz",
@@ -65,83 +65,83 @@
           "text": "Hükümet hangi seçeneği neden tercih etti?"
         }
       ],
-      "caption": "Oklar garanti edilmiş sonuçları değil, ayrıca kanıtlanması gereken bağlantıları gösterir. Stoklar ve alternatif tedarik zinciri kesebilir."
+      "caption": "Oklar, gerçekleşmesi zorunlu sonuçları değil, ayrıca kanıtlanması gereken nedensel bağlantıları gösterir. Stoklar ve alternatif tedarik, bu bağlantıları kesintiye uğratabilir."
     },
     "workedExample": {
-      "title": "Bir fiyat haberi neyi kanıtlar?",
-      "scenario": "Varsayımsal alıştırma: Bir gazete, pamuk fiyatının yüzde 30 arttığını yazıyor. Bir yorumcu bundan “Hükümet Konfederasyonu tanıyacak” sonucunu çıkarıyor.",
+      "title": "Fiyat haberlerinin kanıt değeri",
+      "scenario": "Varsayımsal alıştırmada bir gazete, pamuk fiyatının yüzde 30 arttığını bildirmektedir. Bir yorumcu bu haberden “Hükümet Konfederasyonu tanıyacak” sonucunu çıkarmaktadır.",
       "steps": [
-        "İlk bulguyu sınırlı yaz: Gazete bir fiyat artışı bildiriyor; önce tarihini ve veri kaynağını kontrol et.",
-        "Eksik bağlantıyı bul: Fabrika sahiplerinin talebini ve hükümete ulaşıp ulaşmadığını bilmiyoruz.",
-        "Rakip seçeneği ekle: Hükümet tanınma yerine alternatif tedariki veya yardım önlemlerini tercih edebilir."
+        "Bulguyu kaynağın kapsamıyla sınırlandırınız: Gazete bir fiyat artışı bildirmektedir; haberin tarihi ve veri kaynağı öncelikle kontrol edilmelidir.",
+        "Eksik bağlantıyı belirleyiniz: Fabrika sahiplerinin talepleri ve bu taleplerin hükümete ulaşıp ulaşmadığı bilinmemektedir.",
+        "Alternatif kararı değerlendiriniz: Hükümet, tanınma yerine alternatif tedariki veya yardım önlemlerini tercih edebilir."
       ],
       "lesson": "Ekonomik baskının varlığı, istenen siyasi tavizin gerçekleştiğini göstermez."
     },
     "misconception": {
       "claim": "“Pamuk kıtlığı varsa Avrupa tek sesle Konfederasyonu destekler.”",
-      "correction": "İşçiler, işverenler ve hükümetler farklı çıkar ve değerlere sahipti. Bir grubun sözü, hepsinin görüşü değildir."
+      "correction": "İşçiler, işverenler ve hükümetlerin çıkarları ve değerleri farklılaşmaktaydı. Bir grubun açıklaması, bütün aktörlerin görüşlerini temsil etmez."
     },
     "quickCheck": {
       "question": "Pamuk fiyatları hükümetin tanınma kararını tek başına kanıtlar mı?",
-      "answer": "Hayır. Fiyatlar ekonomik durumu gösterir; siyasi karar için ayrıca karar belgeleri gerekir."
+      "answer": "Pamuk fiyatları ekonomik koşullara ilişkin kanıt sağlar; hükümetin tanınma kararı ise ayrı karar kayıtlarıyla incelenmelidir."
     },
     "practice": {
-      "task": "Excel çalışma kitabının öğrenci kanıt matrisine iki satır ekle: pamuk fiyatı kaydı ve hükümet kararı. Her biri için “neyi gösterir?” ve “neyi göstermez?” sorularını yanıtla.",
-      "hint": "Varsayımsal veri kullanırsan açıkça etiketle. Eksik siyasi kanıtı sıfır etki olarak kaydetme."
+      "task": "Excel çalışma kitabının öğrenci kanıt matrisine pamuk fiyatı kaydı ve hükümet kararı için iki satır ekleyiniz. Her kaynak için hangi iddiaları desteklediğini ve hangi iddiaları tek başına desteklemediğini belirtiniz.",
+      "hint": "Varsayımsal verileri açıkça etiketleyiniz. Siyasi etkiye ilişkin eksik kanıtı sıfır etki olarak kaydetmeyiniz."
     },
     "takeaways": [
-      "Kaynak sahibi olmak, karşı tarafı yönetmek değildir.",
-      "Aynı zarar farklı tepkiler doğurabilir.",
-      "Tanınma ile ekonomik sıkıntı ayrı kanıt gerektirir."
+      "Ekonomik kaynak sahipliği, diğer aktörlerin siyasi kararlarını belirleme kapasitesiyle özdeş değildir.",
+      "Aynı ekonomik güçlük, farklı siyasi tepkilere yol açabilir.",
+      "Diplomatik tanınma ile ekonomik sıkıntı, ayrı kanıtlarla değerlendirilmelidir."
     ]
   },
   "en": {
-    "title": "Cotton was powerful. Why did political support not follow?",
-    "nutshell": "During the American Civil War, the Confederacy, formed by Southern states that left the Union, hoped to use Europe’s need for cotton. The expectation was simple: shortages would hurt factories, encouraging governments to support the Confederacy. Several separate steps, however, lay between economic hardship and political decisions.",
-    "analogy": "Hypothetical everyday analogy: A flour supplier stops selling to a neighbourhood bakery to win its support. The bakery may struggle, but it can use stocks or find another supplier. Creating difficulty is different from securing compliance.",
+    "title": "Cotton dependence and the limits of political support",
+    "nutshell": "During the American Civil War, the Confederacy, formed by Southern states that seceded from the Union, sought to translate Europe’s demand for cotton into political support. The anticipated mechanism linked supply shortages and pressure on factories to government support for the Confederacy. Translating economic hardship into political decisions, however, depended on intermediate processes requiring separate examination.",
+    "analogy": "In a hypothetical analogy, a flour supplier suspends sales to secure the support of a neighbourhood bakery. The bakery may experience economic difficulty, but can draw on stocks or obtain alternative supplies. The capacity to impose costs must therefore be distinguished from the capacity to secure the requested behavioural change.",
     "objectives": [
-      "Separate resources from political results.",
-      "Distinguish cotton withholding from blockade.",
-      "Seek competing explanations for an outcome."
+      "Distinguish analytically between economic resources and political outcomes.",
+      "Distinguish voluntary cotton export restrictions from military blockade.",
+      "Evaluate competing causal explanations for the same outcome."
     ],
     "concepts": [
       {
         "term": "Economic dependence",
-        "meaning": "Difficulty obtaining a product elsewhere. This can change over time.",
-        "example": "Southern cotton mattered to European textile production."
+        "meaning": "The difficulty of obtaining a commodity from alternative sources; the degree of dependence can change over time.",
+        "example": "Southern cotton was an important input into European textile production."
       },
       {
         "term": "Economic coercion",
-        "meaning": "Imposing material costs to change someone’s decision.",
-        "example": "Restricting cotton supplies while expecting political support."
+        "meaning": "The imposition of material costs intended to change another actor’s decision.",
+        "example": "Restricting cotton supplies in the expectation of securing political support."
       },
       {
         "term": "Diplomatic recognition",
-        "meaning": "Accepting a political entity as a state.",
+        "meaning": "The acceptance of a political entity’s status as a state.",
         "example": "The Confederacy wanted recognition from European governments; newspaper support could not substitute for it."
       },
       {
         "term": "Legitimacy",
-        "meaning": "Being regarded as justified and acceptable.",
+        "meaning": "The perceived justification and acceptability of conduct or a political order.",
         "example": "By protecting slavery, the Confederacy faced credibility problems among anti-slavery groups."
       }
     ],
     "steps": [
       {
-        "title": "Separate the two disruptions",
-        "text": "Voluntary cotton withholding by Southern producers differed from the Union’s military blockade. Both could reduce supplies, but their actors and purposes differed. Do not attribute the later shortage to only one."
+        "title": "Distinguishing supply disruptions by actor and purpose",
+        "text": "Voluntary cotton withholding by Southern producers and the Union’s military blockade were distinct actions. Both could reduce supplies, but their actors and purposes differed. Attributing subsequent shortages exclusively to either process therefore requires additional evidence."
       },
       {
-        "title": "Find the target’s alternatives",
-        "text": "European stocks bought time; supplies were sought elsewhere. Unemployed workers did not all want the same political solution. A worker facing hardship could continue opposing slavery."
+        "title": "Alternatives available to target actors",
+        "text": "European stocks provided time for adjustment, while alternative regional supplies were sought. Unemployed workers’ political preferences were also heterogeneous. A worker experiencing economic hardship could continue to oppose slavery."
       },
       {
-        "title": "Examine the decision last",
-        "text": "Alongside cotton costs, governments considered war with the Union and the Confederacy’s prospects. Rising prices show economic effects. Explaining recognition requires separate documents showing how governments assessed their alternatives."
+        "title": "Assessment of government decisions",
+        "text": "Alongside cotton costs, governments assessed the risk of war with the Union and the Confederacy’s prospects. Rising prices provide evidence of economic effects. Explaining recognition requires separate records showing how governments evaluated their alternatives."
       }
     ],
     "diagram": {
-      "title": "From cotton to decisions: four questions",
+      "title": "From cotton supply to political decision: analytical stages",
       "nodes": [
         {
           "title": "Supply",
@@ -160,34 +160,34 @@
           "text": "Which option did the government choose, and why?"
         }
       ],
-      "caption": "Arrows indicate links requiring evidence, not guaranteed results. Stocks and alternative supplies can interrupt the chain."
+      "caption": "Arrows represent causal connections requiring separate evidence, rather than inevitable outcomes. Stocks and alternative supplies can interrupt these connections."
     },
     "workedExample": {
-      "title": "What can a price report prove?",
-      "scenario": "Hypothetical exercise: A newspaper reports a 30 percent cotton price increase. A commentator concludes: “The government will recognise the Confederacy.”",
+      "title": "The evidential value of price reports",
+      "scenario": "In a hypothetical exercise, a newspaper reports a 30 per cent increase in cotton prices. A commentator infers that “The government will recognise the Confederacy.”",
       "steps": [
-        "Limit the finding: A newspaper reports rising prices; first check its date and data source.",
-        "Identify the missing link: We do not know what factory owners demanded or whether their demand reached government.",
-        "Add an alternative: Government might favour new suppliers or relief measures instead of recognition."
+        "Specify the finding within the source’s scope: the newspaper reports rising prices, while its date and data source require initial verification.",
+        "Identify the evidential gap: factory owners’ demands and their transmission to government remain unknown.",
+        "Assess an alternative decision: government might favour alternative supplies or relief measures instead of recognition."
       ],
       "lesson": "Economic pressure does not demonstrate that the desired political concession occurred."
     },
     "misconception": {
       "claim": "“A cotton shortage makes Europe unanimously support the Confederacy.”",
-      "correction": "Workers, employers and governments had different interests and values. One group’s statement cannot represent them all."
+      "correction": "Workers, employers and governments held differing interests and values. One group’s statement cannot be treated as representative of all actors."
     },
     "quickCheck": {
       "question": "Do cotton prices alone establish a government’s recognition decision?",
-      "answer": "No. Prices show economic conditions; a political decision needs separate decision records."
+      "answer": "Cotton prices provide evidence of economic conditions; a government’s recognition decision requires separate decision records."
     },
     "practice": {
-      "task": "Add two rows to the workbook’s student evidence matrix: a cotton price record and a government decision. For each, answer “What does this show?” and “What does it not show?”",
-      "hint": "Label hypothetical data clearly. Do not record missing political evidence as zero effect."
+      "task": "Add two rows to the workbook’s student evidence matrix, covering a cotton price record and a government decision. Specify which claims each source supports and which it cannot establish independently.",
+      "hint": "Label hypothetical data explicitly. Missing evidence of political influence must not be recorded as zero effect."
     },
     "takeaways": [
-      "Owning a resource does not mean controlling others.",
-      "The same hardship can generate different responses.",
-      "Recognition and economic hardship require separate evidence."
+      "Possession of economic resources is distinct from the capacity to determine other actors’ political decisions.",
+      "The same economic hardship can generate divergent political responses.",
+      "Diplomatic recognition and economic hardship require distinct bodies of evidence."
     ]
   }
 }

@@ -1,56 +1,56 @@
 {
   "week": 14,
   "tr": {
-    "orientation": "Son hafta, iyi görünen bir program anlatısını sınanabilir değerlendirmeye dönüştürür. Temel soru yalnız faaliyetin ardından değişim olup olmadığı değil, programın hangi mekanizmayla bu değişime katkı verdiğidir. Bunun için doğru kavramı ölçmek, karşılaştırmanın varsayımlarını açıklamak ve insanların deneyimlerini korumak gerekir. Değerlendirme, kesinlik üretme gösterisi değildir; eldeki kanıtların hangi kararı desteklediğini ve hangi belirsizliğin kararı değiştirebileceğini gerekçelendirme işidir. Bu bölüm, nihai kanıt dosyanızı adım adım kurmanız için tasarlanmıştır.",
+    "orientation": "Son hafta, olumlu program anlatılarını sınanabilir değerlendirme sorularına dönüştürmektedir. İnceleme, faaliyetin ardından değişim gözlenip gözlenmediğinin yanı sıra programın hangi mekanizmayla bu değişime katkıda bulunduğunu araştırır. Bu amaçla kavrama uygun ölçüm, karşılaştırma varsayımlarının açıklanması ve katılımcıların korunması gerekir. Değerlendirme, mevcut kanıtın hangi kararları desteklediğini ve hangi belirsizliklerin bu kararları değiştirebileceğini gerekçelendirir. Bu bölüm, nihai kanıt dosyasının aşamalı olarak hazırlanmasını desteklemektedir.",
     "sections": [
       {
         "id": "logic",
         "title": "Mantık modeli ile değişim kuramı arasındaki fark",
-        "why": "Bir şemadaki ok, ilişkinin kanıtı değil, açıklanması gereken iddiadır.",
+        "why": "Şemadaki ok, bağlantının kanıtını sunmaz; açıklanması ve sınanması gereken ilişki iddiasını gösterir.",
         "paragraphs": [
-          "Mantık modeli, programın kaynaklarını, faaliyetlerini ve beklenen değişimlerini düzenler. Para ve personel girdidir; seminer yürütmek faaliyettir; tamamlanan seminer doğrudan çıktıdır. Teknik erişilebilirlik, karşılaşma imkânını; doğrulanmış maruz kalma, insanların içerikle gerçekten karşılaştığını anlatır. Bu kategorileri ayırmak, bir etkinliğin yapılmasından insanların değiştiği sonucuna hemen geçmeyi engeller.",
-          "Değişim kuramı, bağlantının neden işlemesi gerektiğini açıklar. Varsayımsal bir mesleki atölyede ortak sorun çözmenin yeni bilgi sağlayacağı, bilginin işe uyarlanacağı ve kurumun kullanıma izin vereceği düşünülebilir. Her bağlantının koşulu vardır. Katılımcı öğrenmiş olsa bile iş yerinde gerekli yetkisi yoksa uygulama gerçekleşmeyebilir. Sorun otomatik olarak eğitimin kalitesinde aranmaz.",
-          "Modeli istenen sonuçtan geriye doğru kurmak gizli varsayımları açığa çıkarır. Ortak proje isteniyorsa tamamlayıcı uzmanlık, zaman, kurumsal onay ve devam eden temas gerekebilir. Bunların hangisi programın kontrolünde, hangisi dış koşuldur? İyi model çok kutulu olan değil, sınanacak bağlantıları, olası kopuşları ve istenmeyen sonuçları görünür kılan modeldir."
+          "Mantık modeli; programın kaynaklarını, faaliyetlerini ve beklenen değişimlerini düzenler. Finansman ve personel girdileri, seminer yürütmek faaliyeti, tamamlanan seminer ise doğrudan çıktıyı oluşturur. Teknik erişilebilirlik karşılaşma imkânını, doğrulanmış maruz kalma ise insanların içerikle fiilen karşılaştığını ifade eder. Bu kategorilerin ayrılması, tamamlanan etkinlikten doğrudan alıcılarda değişim oluştuğu sonucuna geçilmesini önler.",
+          "Değişim kuramı, önerilen bağlantıların neden işlemesinin beklendiğini açıklar. Varsayımsal mesleki atölyede ortak sorun çözmenin yeni bilgi sağlayacağı, bu bilginin işe uyarlanacağı ve kurumun kullanıma izin vereceği öngörülebilir. Her bağlantı belirli koşullara bağlıdır. Öğrenme gerçekleşse bile katılımcının iş yerindeki yetkisi yetersizse uygulama gerçekleşmeyebilir. Bu durumda uygulama eksikliği doğrudan eğitim kalitesine atfedilmemelidir.",
+          "Modelin beklenen sonuçtan geriye doğru kurulması, örtük varsayımları açığa çıkarır. Ortak proje; tamamlayıcı uzmanlık, zaman, kurumsal onay ve devam eden temas gerektirebilir. Programın denetleyebildiği koşullar ile dış koşullar ayrıştırılmalıdır. Modelin analitik değeri, içerdiği öğelerin sayısından ziyade sınanacak bağlantıları, olası kesintileri ve istenmeyen sonuçları belirginleştirmesine bağlıdır."
         ],
         "example": {
-          "title": "Varsayımsal kırılan bağlantı",
-          "text": "Katılımcılar bir yöntemi öğreniyor, fakat kurumları gerekli yazılımı sağlamıyor. Bilgi ölçümündeki iyileşme ile uygulama eksikliği çelişmez; farklı halkaları gösterir. Öneri daha fazla ders vermek yerine kaynak veya onay sorununu incelemek olabilir. Önce kırılan halkayı belirlemek, çözümü doğru yere yöneltir."
+          "title": "Varsayımsal uygulama bağlantısının kesintiye uğraması",
+          "text": "Varsayımsal örnekte katılımcılar bir yöntemi öğrenmekte, ancak kurumları gerekli yazılımı sağlamamaktadır. Bilgi ölçümündeki iyileşme ile uygulama eksikliği, sürecin farklı aşamalarına ilişkin uyumlu bulgulardır. Ek eğitim yerine kaynak veya onay sorununun incelenmesi önerilebilir. Öncelikle kesintinin hangi bağlantıda oluştuğunun belirlenmesi, müdahalenin ilgili soruna yöneltilmesini sağlar."
         },
         "checkpoint": {
-          "question": "Bir ok için hangi üç şeyi yazmak gerekir?",
+          "question": "Modeldeki her bağlantı için hangi üç unsur belirtilmelidir?",
           "answer": "Beklenen mekanizmayı, işlemesi için gerekli koşulu ve bağlantıyı destekleyecek ya da zayıflatacak gözlemi."
         }
       },
       {
         "id": "indicators",
-        "title": "Gösterge, kavramın yerine geçmemelidir",
-        "why": "Kolay sayılan şey, araştırma sorusu için önemli olan şeyi temsil etmeyebilir.",
+        "title": "Kavram ile gösterge arasındaki ilişkinin değerlendirilmesi",
+        "why": "Kolayca sayılabilen bir gözlem, araştırma sorusunun temel kavramını temsil etmeyebilir.",
         "paragraphs": [
-          "Gösterge, doğrudan gözleyemediğimiz veya özetlemek istediğimiz kavram için seçtiğimiz gözlemlenebilir işarettir. Güven bir kavramdır; belirli kuruma yöneltilmiş ve anlamı sınanmış anket sorusu olası göstergedir. Beğeni sayısı ise farklı bir davranışı kaydeder. Çok sayıda beğeniyi güven diye adlandırmak, ölçümle çözülmesi gereken sorunu yalnız isim değiştirerek gizler.",
-          "Geçerlik, göstergenin hedef kavramı temsil etmesi; güvenirlik, ölçümün benzer koşullarda tutarlı işlemesidir. Sürekli aynı şeyi yanlış ölçmek mümkündür. Bu nedenle yalnız tekrar edilebilirliğe bakmayın. Sorunun hangi kurumu kastettiğini, katılımcıların ifadeyi nasıl anladığını ve çevirinin anlamı koruyup korumadığını araştırın. Aynı sözcük farklı gruplarda farklı beklentileri çağrıştırabilir.",
-          "Her sayı için sayılan birimi, toplam grubu, dönemi ve üretim kuralını açıklayın. Oranın paydası, “kimlerin arasından?” sorusunun cevabıdır. Yanıt verenler ile bütün katılımcılar aynı grup olmayabilir. Ortalama da dağılımı gizleyebilir: bazı gruplar yarar görürken diğerleri dışlanmış olabilir. Eksik yanıtları sıfır kabul etmeyin; neden eksik olduklarını araştırın."
+          "Gösterge, doğrudan gözlenemeyen veya özetlenmesi amaçlanan bir kavramı temsil etmek üzere seçilen gözlenebilir işarettir. Güven bir kavramdır; belirli kuruma yöneltilmiş ve anlamı sınanmış anket sorusu olası bir göstergedir. Beğeni sayısı ise farklı bir davranışı kaydeder. Çok sayıda beğeniyi güven olarak adlandırmak, ölçüm sorununu çözmez; yalnızca kavramsal uyumsuzluğu görünmez kılar.",
+          "Geçerlik, göstergenin hedef kavramı temsil etmesini; güvenirlik ise ölçümün benzer koşullarda tutarlı işlemesini ifade eder. Tutarlı sonuçlar, yanlış kavramın ölçülmesini dışlamaz. Bu nedenle tekrar edilebilirliğin yanı sıra sorunun hangi kurumu hedeflediği, katılımcıların ifadeyi nasıl anladığı ve çevirinin anlamı koruyup korumadığı incelenmelidir. Aynı sözcük, farklı gruplarda farklı beklentilerle ilişkilendirilebilir.",
+          "Her sayısal sonuç için gözlem birimi, kapsanan grup, dönem ve üretim kuralı açıklanmalıdır. Payda, oranın hangi grup içinde hesaplandığını belirler; yanıt verenler ile bütün katılımcılar aynı grup olmayabilir. Ortalamalar dağılımı da gizleyebilir: bazı gruplar yarar görürken diğerleri dışlanabilir. Eksik yanıtlar sıfır olarak değerlendirilmemeli; eksikliğin nedenleri ve yoruma olası etkileri araştırılmalıdır."
         ],
         "example": {
           "title": "Varsayımsal gösterge düzeltmesi",
-          "text": "Bir ekip “güven arttı” başlığı altında etkinlik memnuniyetini raporluyor. Memnuniyet sorusu mekân veya sunucuya verilen tepkiyi ölçmüş olabilir. Önce kavramı daraltın, sorunun kime yönelik olduğunu kontrol edin ve güven iddiasını desteklemeyen veriyi uygun başlık altında koruyun. Ölçütü değiştirmek veriyi silmeyi gerektirmez."
+          "text": "Varsayımsal ekip, etkinlik memnuniyetini “güven arttı” başlığı altında raporlamaktadır. Memnuniyet sorusu mekâna veya sunucuya yönelik tepkiyi ölçmüş olabilir. Önce kavram daraltılmalı ve sorunun hedefi belirlenmelidir. Güven iddiasını desteklemeyen veri, uygun kavramsal başlık altında korunabilir; ölçümün düzeltilmesi yararlı gözlemlerin silinmesini gerektirmez."
         },
         "checkpoint": {
           "question": "Güvenilir ölçüm her zaman geçerli midir?",
-          "answer": "Hayır. Bir soru tutarlı yanıt üretebilir, fakat araştırmak istediğiniz güven yerine başka bir şeyi ölçebilir."
+          "answer": "Güvenirlik tek başına geçerliği sağlamaz. Tutarlı yanıtlar, incelenmek istenen güven yerine başka bir kavramı ölçebilir."
         }
       },
       {
         "id": "causality",
-        "title": "Program olmasaydı ne olurdu?",
+        "title": "Nedensel çıkarımda karşıolgusal karşılaştırma",
         "why": "Zaman sırası gereklidir; tek başına nedensellik kurmaz.",
         "paragraphs": [
-          "Nedensel çıkarım, gözlenen değişimi programın yokluğunda makul olarak beklenen durumla karşılaştırır. Bu gözlenemeyen alternatif, karşıolgusal durumdur. Aynı insanların aynı dönemi hem programa katılarak hem katılmadan yaşaması mümkün değildir. Bu yüzden tasarım, eldeki karşılaştırmanın bu alternatifi ne ölçüde temsil edebildiğini açıkça savunmalıdır. “Sonrasında oldu” ifadesi bu işi yapmaz.",
-          "Seçilim, katılımcıların başlangıçta farklı olmasıdır; önceden yüksek ilgi, sonraki olumlu tutumu açıklayabilir. Başlangıç ölçümü bu farkı görünür kılar, fakat bütün farkları kaldırmaz. Bir karşılaştırma grubu da yalnız var olduğu için uygun sayılmaz. Gruplar farklı krizlere, politikalara veya bilgi kaynaklarına maruz kalıyorsa değişimlerini programa bağlamak yanıltıcı olabilir.",
-          "Yöntemi veriye ve soruna göre seçin. Rastgele atama bazı ortamlarda yararlı olabilir; etik veya uygulama koşulları bunu sınırlayabilir. Benzer özelliklere göre eşleştirme, gözlenmeyen farkları otomatik çözmez. İki grubun zaman içindeki değişimini karşılaştırmak ise program yokken benzer eğilim izlemeleri varsayımını gerektirir. Yöntem adı, varsayımların açıklanması ve sınanmasının yerine geçmez."
+          "Nedensel çıkarım, gözlenen değişimi programın yokluğunda makul olarak beklenen durumla karşılaştırır. Gözlenemeyen bu alternatif, karşıolgusal durumdur. Aynı kişilerin aynı dönemi hem programa katılarak hem katılmadan deneyimlemesi mümkün değildir. Dolayısıyla araştırma tasarımı, mevcut karşılaştırmanın bu alternatifi ne ölçüde temsil edebildiğini gerekçelendirmelidir. Yalnızca olayın programdan sonra gerçekleştiğinin belirtilmesi bu gerekçeyi sağlamaz.",
+          "Seçilim, katılımcıların başlangıçtaki farklılıklarıyla ilişkilidir; önceden mevcut ilgi, sonraki olumlu tutumları açıklayabilir. Başlangıç ölçümü bazı farkları görünür kılar, ancak bütün farkları ortadan kaldırmaz. Karşılaştırma grubunun varlığı tek başına uygunluğunu göstermez. Gruplar farklı krizlere, politikalara veya bilgi kaynaklarına maruz kalıyorsa gözlenen değişimin programa atfedilmesi yanıltıcı olabilir.",
+          "Yöntem seçimi, araştırma sorusuna ve mevcut veriye dayanmalıdır. Rastgele atama bazı ortamlarda yararlı olabilir; etik veya uygulamaya ilişkin koşullar kullanımını sınırlandırabilir. Gözlenen özelliklere göre eşleştirme, gözlenmeyen farkları kendiliğinden gidermez. İki grubun zaman içindeki değişiminin karşılaştırılması ise müdahale yokken benzer eğilimler izleyeceklerine ilişkin savunulabilir varsayım gerektirir. Yöntemin adı, varsayımların açıklanmasının ve sınanmasının yerine geçmez."
         ],
         "example": {
           "title": "Varsayımsal zaman sırası yanılgısı",
-          "text": "Bir değişim programından sonra iki kurum anlaşma imzalıyor. Önceki yazışmalar, müzakerenin programdan önce başladığını gösteriyor. Bu bulgu programın hiçbir katkısı olmadığını kanıtlamaz; fakat başlangıcın nedeni olduğu iddiasını zayıflatır. Araştırma artık ilişkinin hangi sonraki adımı kolaylaştırmış olabileceğini sormalıdır."
+          "text": "Varsayımsal örnekte iki kurum değişim programından sonra anlaşma imzalamaktadır; ancak önceki yazışmalar müzakerelerin programdan önce başladığını göstermektedir. Bu bulgu programın katkısını bütünüyle dışlamaz, fakat iş birliğinin başlangıcına neden olduğu iddiasını zayıflatır. Araştırma, kurulan ilişkinin sonraki hangi aşamayı kolaylaştırmış olabileceğini incelemelidir."
         },
         "checkpoint": {
           "question": "Başlangıç ve izleme ölçümü neden tek başına yeterli değildir?",
@@ -59,55 +59,55 @@
       },
       {
         "id": "mixed-methods",
-        "title": "Farklı kaynaklar nasıl birlikte akıl yürütür?",
-        "why": "Karma yöntem, sayıların yanına birkaç alıntı eklemek değildir.",
+        "title": "Farklı kaynakların açıklayıcı değerlendirmede bütünleştirilmesi",
+        "why": "Karma yöntem yaklaşımı, nicel bulguların alıntılarla desteklenmesinin ötesinde analitik bütünleştirme gerektirir.",
         "paragraphs": [
-          "Anket, tanımlanmış grupta bir yanıtın dağılımını araştırabilir; görüşme o yanıtın anlamını ve oluşma sürecini açabilir. Gözlem, söylenenle yapılan arasındaki farkı gösterebilir. İdari kayıtlar ne teslim edildiğini, karar belgeleri hangi bilginin kullanıldığını izlemeye yardım eder. Yöntemleri birlikte kullanmanın değeri, farklı sorulara verdikleri cevapları açıklayıcı bir bütün içinde sınamaktır.",
-          "Süreç izleme, faaliyetten karara giden beklenen ara adımları araştırır. Bir görüşmenin iş birliğini kolaylaştırdığı öne sürülüyorsa, tanışma kaydı, sonraki iletişim, paylaşılan bilgi ve karar gerekçesi aranabilir. Her belge eşit ayırt edici değildir. Birçok açıklamayla uyumlu genel memnuniyet ifadesi, kararda belirli bilginin kullanıldığını gösteren tarihlenmiş kayıttan daha zayıf olabilir.",
-          "Kaynaklar uyuşmazsa birini otomatik olarak elemek yerine zaman, örneklem ve soru farkını inceleyin. Anket ortalama iyileşme, görüşmeler belirli bir grubun dışlanmasını gösterebilir. İki bulgu aynı anda doğru olabilir. Kaynakları tek sonuca zorlamak yerine farklı deneyimleri görünür kılın. Bağımsızlık da önemlidir: aynı yönetici raporunu tekrar eden belgeler yeni doğrulama sağlamayabilir."
+          "Anketler, tanımlanmış grupta yanıtların dağılımını; görüşmeler ise yanıtların anlamını ve oluşma süreçlerini araştırabilir. Gözlem, beyanlar ile davranışlar arasındaki farklılıkları ortaya koyabilir. İdari kayıtlar uygulamayı, karar belgeleri ise hangi bilginin kullanıldığını izlemeyi sağlar. Yöntemlerin birleştirilmesinin analitik değeri, farklı sorulara verilen yanıtların bütünleşik bir açıklamayı sınamasına bağlıdır.",
+          "Süreç izleme, faaliyetten karara uzanan beklenen ara aşamaları araştırır. Bir karşılaşmanın iş birliğini kolaylaştırdığı ileri sürülüyorsa tanışma kaydı, sonraki iletişim, paylaşılan bilgi ve karar gerekçeleri incelenebilir. Belgelerin açıklamalar arasında ayırt etme gücü farklıdır. Çok sayıda açıklamayla uyumlu genel memnuniyet ifadesi, belirli bilginin kararda kullanıldığını gösteren tarihli kayda göre daha sınırlı kanıt sağlayabilir.",
+          "Kaynaklar uyuşmadığında, herhangi biri elenmeden önce zamanlama, örneklem ve soru farklılıkları incelenmelidir. Anketler ortalama iyileşme, görüşmeler ise belirli bir grubun dışlanmasını gösterebilir; iki bulgu aynı anda geçerli olabilir. Analiz, kaynakları zorunlu olarak tek sonuca indirgemeden farklı deneyimleri açıklamalıdır. Kaynak bağımsızlığı da önemlidir: aynı yönetici raporunu tekrarlayan belgeler ek doğrulama sağlamayabilir."
         ],
         "example": {
           "title": "Varsayımsal çelişki çözümü",
-          "text": "Anketler yararlı öğrenme bildiriyor, gözlem ise bazı katılımcıların tartışmaya giremediğini gösteriyor. Önce öğrenme ile söz hakkının aynı kavram olmadığını kabul edin. Sonra kimin öğrenebildiğini, kimin dışlandığını ve hangi program düzeninin bunu ürettiğini araştırın. İki veri türü birlikte daha somut bir tasarım önerisine yol açabilir."
+          "text": "Varsayımsal örnekte anketler yararlı öğrenme deneyimleri bildirirken gözlem, bazı katılımcıların tartışmaya katılamadığını göstermektedir. Öğrenme ile söz hakkı ayrı kavramlar olarak ele alınmalıdır. Ardından kimlerin öğrendiği, kimlerin dışlandığı ve hangi program düzeninin bu örüntüyü oluşturduğu araştırılabilir. Bulguların birlikte değerlendirilmesi daha belirli bir tasarım önerisini destekleyebilir."
         },
         "checkpoint": {
-          "question": "Daha fazla yöntem her zaman daha güçlü kanıt mı sağlar?",
-          "answer": "Hayır. Yöntemlerin hangi soruyu yanıtladığı, veri kalitesi ve birbirlerinin açıklamasını nasıl sınadığı belirtilmelidir."
+          "question": "Yöntem sayısının artması hangi koşullarda kanıt gücünü artırır?",
+          "answer": "Yöntem sayısı tek başına belirleyici değildir. Her yöntemin yanıtladığı soru, veri kalitesi ve diğer kaynakların sunduğu açıklamaları nasıl sınadığı gösterilmelidir."
         }
       },
       {
         "id": "ethics",
-        "title": "Etik, programın ve araştırmanın içindedir",
+        "title": "Program ve araştırma tasarımının etik boyutları",
         "why": "Doğru bilgi kullanmak, bütün etik soruları cevaplamaz.",
         "paragraphs": [
-          "İkna, kişinin kaynağı tanımasına, iddiayı sınamasına, itiraz etmesine ve reddetmesine alan bırakır. Manipülasyon, önemli bilgiyi gizleyerek veya savunmasızlığı kullanarak bu yargı alanını daraltır. Doğru içerik, kaynağı saklanan veya katılımcının reddedemediği bir süreçte sunulabilir. Bu nedenle etik değerlendirme yalnız cümlenin doğruluğuna değil, ilişkinin koşullarına da bakar.",
-          "Araştırma kendi risklerini üretir. İsim silmek her zaman kimliği gizlemez; küçük ağlarda meslek, kurum ve konum birleşimi kişiyi tanınabilir kılabilir. Veri minimizasyonu, belirtilen amaç için gerekmeyen bilgiyi toplamamak veya saklamamaktır. “Sonra işe yarar” gerekçesi sınırsız veri toplamayı haklı kılmaz. Katılımcı neyin, neden, kimlerle ve ne kadar süre paylaşılacağını anlayabilmelidir.",
-          "Karşılıklılık, yerel ortakların yalnız veri kaynağı olmamasını gerektirir. Soruyu değiştirebilmeleri, riskleri dile getirebilmeleri ve bulguları kullanabilecekleri biçimde alabilmeleri önemlidir. Şikâyet yolu, erişim sınırlaması ve silme takvimi araştırma tasarımının parçasıdır. Burs veya mesleki fırsat ilişkisi varken rızanın ne kadar özgür olduğu ayrıca incelenmelidir; imzalı form tek başına bu soruyu çözmez."
+          "İkna, kişinin kaynağı tanımasına, iddiayı sınamasına, itiraz etmesine ve reddetmesine imkân tanır. Manipülasyon ise önemli bilgileri gizleyerek veya savunmasızlığı kullanarak bağımsız yargı alanını daraltır. Doğru içerik, kaynağın saklandığı veya anlamlı reddetme imkânının bulunmadığı süreçlerde de sunulabilir. Etik değerlendirme bu nedenle ifadelerin doğruluğuyla birlikte ilişkinin koşullarını inceler.",
+          "Araştırma süreçleri kendilerine özgü riskler oluşturur. Adların silinmesi kimliğin korunmasını her zaman sağlamaz; küçük ağlarda meslek, kurum ve konum bilgilerinin birleşimi kişiyi tanınabilir kılabilir. Veri minimizasyonu, belirtilen amaç için gerekmeyen bilgilerin toplanmamasını veya saklanmamasını ifade eder. Olası gelecekteki yarar, sınırsız veri toplamayı gerekçelendirmez. Katılımcılar hangi bilgilerin, neden, kimlerle ve ne kadar süre paylaşılacağını anlayabilmelidir.",
+          "Karşılıklılık, yerel ortakların veri sağlamanın ötesinde araştırma sürecine katılabilmesini gerektirir. Araştırma sorularına itiraz edebilmeleri, riskleri belirtebilmeleri ve bulguları kullanabilecekleri biçimde alabilmeleri önemlidir. Şikâyet kanalları, erişim sınırlamaları ve silme takvimi araştırma tasarımına dâhildir. Burs veya mesleki fırsat ilişkilerinin bulunduğu durumlarda rızanın gönüllülüğü ayrıca incelenmelidir; imzalı form tek başına bu değerlendirmeyi karşılamaz."
         ],
         "example": {
           "title": "Varsayımsal görünürlük riski",
-          "text": "Bir değerlendirme ekibi başarı öyküsünde katılımcının adını siliyor, fakat tek kişinin sahip olduğu görev ve kurum bilgisini yayımlıyor. Kişi yine tanınabilir. Çözüm yalnız adı kaldırmak değil, ayrıntıların birlikte neyi açığa çıkardığını değerlendirmek ve araştırma amacı için gereksiz olanları rapordan çıkarmaktır."
+          "text": "Varsayımsal değerlendirme ekibi, başarı anlatısından katılımcının adını çıkarmış, ancak kişiye özgü görev ve kurum bilgisini yayımlamıştır. Bu bilgiler kişiyi tanınabilir kılmaya devam edebilir. Değerlendirme, ayrıntıların birlikte açığa çıkardığı bilgiyi incelemeli ve araştırma amacı için gereksiz olanları rapordan çıkarmalıdır. Yalnızca adın silinmesi anonimliği güvence altına almaz."
         },
         "checkpoint": {
-          "question": "Herkese açık paylaşım neden otomatik olarak risksiz veri değildir?",
+          "question": "Herkese açık paylaşımların araştırmada kullanımı neden ayrıca risk değerlendirmesi gerektirir?",
           "answer": "Yeniden toplama ve alıntılama görünürlüğü artırabilir; kişinin beklemediği tanınma veya zarar riskleri doğabilir."
         }
       },
       {
         "id": "judgement",
-        "title": "Kanıttan uygulanabilir öneriye geçmek",
-        "why": "Değerlendirmenin sonunda bir başarı etiketi değil, gerekçeli karar gerekir.",
+        "title": "Kanıta dayalı ve uygulanabilir öneri geliştirme",
+        "why": "Değerlendirme, genel bir başarı sınıflamasıyla sınırlanmamalı; gerekçelendirilmiş karara ulaşmalıdır.",
         "paragraphs": [
-          "Bulguları belgeyle doğrulanmış olgu, farklı kaynakların desteklediği sonuç, makul çıkarım ve açık soru olarak ayırın. Bu sınıflama kesinlik gösterisi değildir; okurun hangi noktada yorum yaptığınızı görmesini sağlar. Güven düzeyi, veri kalitesi, doğrudanlık, kaynakların bağımsızlığı ve rakip açıklamaların ne kadar sınandığıyla birlikte gerekçelendirilmelidir. Güzel anlatı, eksik bağlantının yerini doldurmaz.",
-          "Etki bulunmaması birden fazla anlama gelebilir. Program işe yaramamış, yanlış kavram ölçülmüş, süre yetersiz kalmış veya araştırma değişimi ayırt edememiş olabilir. Bunları sınırsız mazeret listesine çevirmeyin. Her alternatif için beklenen gözlemi ve hangi yeni kanıtın kararı değiştireceğini yazın. Olumsuz veya eşitsiz sonuçları saklamak, hem öğrenmeyi hem hesap verebilirliği zayıflatır.",
-          "Öneri, eylemi ve gerekçeyi eşleştirmelidir: sürdürmek, değiştirmek, sınırlı biçimde büyütmek, duraklatmak veya sonlandırmak. Kim yapacak, ne zaman, hangi kaynakla ve hangi erken işareti izleyerek? Kanıt zayıfsa daha iyi ölçülen sınırlı uygulama uygun olabilir. Ciddi zarar bulgusu varsa görünür çıktıların çokluğu tek başına sürdürme gerekçesi olamaz."
+          "Belgeyle doğrulanan olgular, farklı kaynaklarla desteklenen bulgular, makul çıkarımlar ve açık sorular birbirinden ayrılmalıdır. Bu sınıflama, yorumun hangi aşamada devreye girdiğini gösterir. Güven düzeyi; veri kalitesi, kanıtın doğrudanlığı, kaynak bağımsızlığı ve rakip açıklamaların sınanma derecesiyle gerekçelendirilmelidir. Anlatının tutarlılığı eksik nedensel bağlantıyı tamamlamaz; iddianın dayanakları ve sınırları birlikte görünür olmalıdır.",
+          "Etkinin saptanamaması farklı açıklamalara açık olabilir: program etkisiz kalmış, yanlış kavram ölçülmüş, gözlem süresi yetersiz olmuş veya araştırma değişimi ayırt edememiş olabilir. Bu alternatifler, sınanabilir öngörülere dönüştürülmelidir. Her biri için beklenen gözlem ve kararı değiştirebilecek yeni kanıt belirtilmelidir. Olumsuz veya eşitsiz sonuçların saklanması, kurumsal öğrenmeyi ve hesap verebilirliği zayıflatır.",
+          "Öneriler, sürdürme, değiştirme, sınırlı genişletme, duraklatma veya sonlandırma eylemlerini gerekçeleriyle ilişkilendirmelidir. Sorumlu aktör, takvim, kaynaklar ve izlenecek erken göstergeler belirtilmelidir. Zayıf kanıt, ölçümü güçlendirilmiş sınırlı uygulamayı gerekçelendirebilir. Ciddi zarar bulguları karşısında görünür çıktıların çokluğu, tek başına devam gerekçesi oluşturmaz; önerinin öncelikleri açıkça ifade edilmelidir."
         ],
         "example": {
           "title": "Varsayımsal ölçülü öneri",
-          "text": "Bir program düzenli yürütülüyor, fakat yalnız memnun katılımcılar izleme anketine yanıt veriyor. Hemen genişleme önermek yerine eksik yanıtların nedenini araştıran ve başlangıç ölçümünü güçlendiren sınırlı devam önerilebilir. Öneri, hangi bulgunun genişleme veya değişiklik kararını tetikleyeceğini önceden belirtirse sınanabilir olur."
+          "text": "Varsayımsal program düzenli yürütülmekte, ancak izleme anketine yalnız memnun katılımcılar yanıt vermektedir. Genişleme öncesinde, eksik yanıtların nedenlerini araştıran ve başlangıç ölçümünü güçlendiren sınırlı devam önerilebilir. Genişleme veya tasarım değişikliğini gerektirecek bulguların önceden belirtilmesi, önerinin sınanabilirliğini artırır."
         },
         "checkpoint": {
-          "question": "Sorumlu sonuç neden belirsizliği açık bırakabilir?",
+          "question": "Gerekçeli bir değerlendirme sonucunda belirsizliğin korunması hangi işlevi görür?",
           "answer": "Karar için önemli eksikleri gösterir, iddianın gücünü kanıtla eşler ve sonraki araştırmayı somut bir soruya yöneltir."
         }
       }
@@ -115,30 +115,30 @@
     "visuals": [
       {
         "kind": "flow",
-        "title": "Değişim iddiasından karara",
+        "title": "Değişim iddiasının karar sürecinde değerlendirilmesi",
         "caption": "Oklar değerlendirme işlemlerini gösterir. Programın etkili olduğu varsayılmaz; etik sorun veya eksik kanıt önceki adımları değiştirebilir.",
         "nodes": [
           {
-            "title": "Soruyu sınırla",
-            "text": "Kimde, neyin, hangi sürede değişmesi bekleniyor?"
+            "title": "Sorunun sınırlandırılması",
+            "text": "Hangi grupta, hangi değişimin, hangi sürede gerçekleşmesi beklenmektedir?"
           },
           {
-            "title": "Kanıtı eşleştir",
-            "text": "Kavram, gösterge, kaynak ve dönemi bağla."
+            "title": "Kanıtların eşleştirilmesi",
+            "text": "Kavram, gösterge, kaynak ve dönem ilişkilendirilir."
           },
           {
-            "title": "Açıklamayı sına",
-            "text": "Mekanizma ve rakip nedenler için iz ara."
+            "title": "Açıklamaların sınanması",
+            "text": "Mekanizma ve rakip nedenlere ilişkin kanıtlar araştırılır."
           },
           {
             "title": "Koşullu karar",
-            "text": "Eylemi, sınırı ve kararı değiştirecek bilgiyi yaz."
+            "text": "Eylem, sınırlar ve kararı değiştirebilecek bilgi belirtilir."
           }
         ]
       },
       {
         "kind": "comparison",
-        "title": "Benzer görünen, farklı kavramlar",
+        "title": "Yakın ilişkili kavramlar arasındaki analitik ayrımlar",
         "caption": "Her ayrım farklı ölçüm ve yorum gerektirir.",
         "columns": [
           "İlk kavram",
@@ -149,22 +149,22 @@
           [
             "Çıktı",
             "Sonuç",
-            "Tamamlanan iş, insanlardaki değişim değildir."
+            "Tamamlanan faaliyet, katılımcılarda değişim gerçekleştiğini göstermez."
           ],
           [
             "Erişilebilirlik",
             "Maruz kalma",
-            "Görülebilmek, gerçekten görülmek değildir."
+            "İçeriğe erişim imkânı, fiilî karşılaşmayı göstermez."
           ],
           [
             "Memnuniyet",
             "Güven",
-            "Etkinliği beğenmek, kuruma inanmak değildir."
+            "Etkinlik memnuniyeti, kuruma duyulan güveni göstermez."
           ],
           [
             "Katkı",
             "Tek neden",
-            "Bir rol oynamak, bütün sonucu açıklamak değildir."
+            "Sonuca katkı sağlamak, sonucun tamamını açıklamak anlamına gelmez."
           ]
         ]
       },
@@ -181,7 +181,7 @@
           [
             "Program yapıldı mı?",
             "İdari kayıt",
-            "Teslim edilen kalite bilinmeyebilir."
+            "Uygulamanın niteliği belirsiz kalabilir."
           ],
           [
             "Bilgi değişti mi?",
@@ -189,7 +189,7 @@
             "Başka öğrenme kaynakları olabilir."
           ],
           [
-            "İlişki karara girdi mi?",
+            "İlişki karar sürecine katkıda bulundu mu?",
             "Karar izi ve görüşme",
             "Geriye dönük anlatı seçici olabilir."
           ],
@@ -204,105 +204,105 @@
     "cases": [
       {
         "title": "Varsayımsal vaka: Yüzdenin kapsadığı grup",
-        "scenario": "Önceki başlangıç rehberindeki tamamen varsayımsal örnekte 40 katılımcının 20’si ankete yanıt vermiş, 12’si yöntemi kullandığını söylemiştir. Şimdi yorumun sınırlarını inceleyin.",
+        "scenario": "Başlangıç rehberindeki tamamen varsayımsal örnekte, 40 katılımcının 20’si ankete yanıt vermiş ve 12’si yöntemi kullandığını bildirmiştir. Bu vaka, söz konusu orandan yapılabilecek çıkarımların sınırlarını incelemektedir.",
         "steps": [
           "12’nin 20 yanıtlayan içindeki oran olduğunu belirtin; bütün katılımcılara aynı oranı yüklemeyin.",
           "Yanıt vermeyenlerin neden görünmediğini araştırın. Kullanmadıkları için kaçınmaları ile iletişim bilgisinin kaybolması farklı sorunlardır.",
           "Kullanımın program öncesinde bulunup bulunmadığını ve başka eğitimlerin etkisini sorgulayın.",
           "Beyanı kişiyi riske atmayan uygulama izleriyle karşılaştırma olanağını değerlendirin."
         ],
-        "conclusion": "Doğrulanan bulgu, yanıtlayanların kullanım beyanıdır. Genel kullanım ve nedensel etki daha geniş kanıt gerektirir."
+        "conclusion": "Desteklenen bulgu, yanıt verenlerin kullanım beyanıdır. Bütün katılımcılardaki kullanım düzeyi ve nedensel etki daha kapsamlı kanıt gerektirir."
       },
       {
-        "title": "Varsayımsal vaka: Ortak proje neyi gösterir?",
-        "scenario": "Bir değişim programından sonra ortak araştırma başlıyor. Katılımcılar tanışmanın yararlı olduğunu söylüyor; kurumların daha önce iş birliği planladığı da biliniyor.",
+        "title": "Varsayımsal vaka: Ortak projenin kanıt kapsamı",
+        "scenario": "Varsayımsal değişim programının ardından ortak araştırma başlamaktadır. Katılımcılar tanışmayı yararlı bulduklarını belirtirken kurumların program öncesinde de iş birliği planladığı bilinmektedir.",
         "steps": [
           "Önceki planın tarihini, programdaki karşılaşmayı ve yeni projenin karar tarihini sıralayın.",
           "Tanışmanın hangi eksik bilgiyi veya güven sorununu çözmüş olabileceğini belirleyin.",
           "Karar kayıtlarında bu katkının izini arayın; yalnız olumlu hatıraya dayanmayın.",
           "Önceki kurumsal planı rakip veya tamamlayıcı açıklama olarak değerlendirin."
         ],
-        "conclusion": "Program, sonucu tek başına yaratmadan belirli bir ara adımı kolaylaştırmış olabilir. Katkı iddiası bu adımla sınırlanmalıdır."
+        "conclusion": "Program, sonucu tek başına üretmeden belirli bir ara aşamayı kolaylaştırmış olabilir. Katkı iddiası, kanıtın desteklediği bu aşamayla sınırlandırılmalıdır."
       }
     ],
     "practice": {
-      "title": "Son kanıt dosyanızı kurun",
-      "task": "Ortak Excel dosyasındaki öğrenci kanıt matrisi ve varsayımsal ölçüm laboratuvarını birlikte kullanarak tek program için sınırlı bir değerlendirme hazırlayın. Gerçek öğrenci verisi girmeyin.",
+      "title": "Nihai kanıt dosyasının hazırlanması",
+      "task": "Ortak Excel dosyasındaki öğrenci kanıt matrisi ile varsayımsal ölçüm laboratuvarını birlikte kullanarak tek bir program için kapsamı sınırlı değerlendirme hazırlayınız. Gerçek öğrenci verisi girmeyiniz.",
       "steps": [
         "İddiayı belirli kamu, dönem ve değişimle sınırlandırın; varsayımsal senaryoyu açıkça işaretleyin.",
         "Her basamak için gözlem, kaynak, eksik bilgi ve etik risk ekleyin.",
         "En güçlü rakip açıklamayı ve onu sınayacak bir kanıtı yazın.",
         "14 haftalık rehbere eylem, gerekçe ve kararı değiştirecek bilgi içeren öneri ekleyin."
       ],
-      "modelAnswer": "Varsayımsal sonuç: Faaliyet doğrulanmıştır; belirli katılımcılar yeni bilgi kullandığını bildirmiştir. Başlangıç farkları ve eksik yanıtlar nedeniyle genel etki henüz gösterilmemiştir. Program sınırlı biçimde sürdürülürken karşılaştırma güçlendirilmeli, gereksiz kişisel veri toplanmamalı ve olumsuz deneyimler güvenli biçimde araştırılmalıdır."
+      "modelAnswer": "Varsayımsal sonuç: Faaliyetin gerçekleştiği doğrulanmış; bazı katılımcılar yeni bilgiyi kullandıklarını bildirmiştir. Başlangıç farkları ve eksik yanıtlar nedeniyle genel etki henüz gösterilememektedir. Program sınırlı biçimde sürdürülürken karşılaştırma güçlendirilmeli, gereksiz kişisel veri toplanmamalı ve olumsuz deneyimler güvenli biçimde araştırılmalıdır."
     },
     "faqs": [
       {
-        "question": "Kesin nedensellik kuramazsam değerlendirme değersiz mi?",
-        "answer": "Hayır. İyi gerekçelendirilmiş katkı analizi, hangi mekanizmanın desteklendiğini ve hangi rakiplerin kaldığını gösterebilir. İddianın kapsamı kanıtın gücüyle uyumlu olmalıdır."
+        "question": "Kesin nedensel atıf yapılamadığında değerlendirme hangi katkıyı sağlayabilir?",
+        "answer": "Gerekçelendirilmiş katkı analizi, desteklenen mekanizmaları ve geçerliliğini koruyan rakip açıklamaları belirleyebilir. İddianın kapsamı, kanıtın gücüyle uyumlu olmalıdır."
       },
       {
-        "question": "Olumsuz bulgu programı hemen bitirmeyi gerektirir mi?",
-        "answer": "Her zaman değil. Bulguyu ölçüm, uygulama ve zarar düzeylerinde inceleyin. Öneri, sorunun ciddiyeti ve düzeltilebilirliğiyle birlikte gerekçelendirilmelidir."
+        "question": "Olumsuz bulgu, programın hemen sonlandırılmasını gerektirir mi?",
+        "answer": "Bu karar otomatik değildir. Bulgu; ölçüm, uygulama ve zarar boyutlarında incelenmeli, öneri sorunun ciddiyeti ve düzeltilebilirliğiyle birlikte gerekçelendirilmelidir."
       },
       {
-        "question": "Neden bütün veriyi toplamayalım?",
-        "answer": "Gereksiz veri, katılımcı riskini ve yanlış kullanım olasılığını artırır. Araştırma sorusuna gerekli bilgi seçilmeli; saklama, erişim ve silme koşulları önceden belirlenmelidir."
+        "question": "Veri toplamanın araştırma amacıyla sınırlandırılması neden gereklidir?",
+        "answer": "Gereksiz veri, katılımcı riskini ve kötüye kullanım olasılığını artırır. Araştırma sorusu için gerekli bilgi seçilmeli; saklama, erişim ve silme koşulları önceden tanımlanmalıdır."
       }
     ],
     "sourceNote": "Bu ek, 14. hafta ders içeriğindeki mantık modeli, değerlendirme yöntemleri ve etik çerçevesini açıklar. Yöntemler belirli varsayımlarla kullanılabilecek araştırma araçlarıdır; başarı garantisi değildir. Sayısal örnek başlangıç rehberindeki varsayımsal alıştırmayı kullanır; gerçek öğrenci veya program verisi sunulmamaktadır."
   },
   "en": {
-    "orientation": "The final week turns an appealing programme narrative into a testable evaluation. The question is not only whether change followed activity, but how the programme contributed through a specified mechanism. This requires appropriate measurement, explicit comparison assumptions and protection of participants. Evaluation does not manufacture certainty: it explains which decisions evidence supports and which uncertainties could change them. This supplement helps construct a final evidence file step by step.",
+    "orientation": "The final week translates favourable programme narratives into testable evaluation questions. It examines whether change followed an activity and the mechanism through which the programme may have contributed. This requires conceptually appropriate measurement, explicit comparison assumptions and participant protection. Evaluation justifies the decisions supported by available evidence and identifies uncertainties that could alter them. This supplement supports the staged preparation of a final evidence file.",
     "sections": [
       {
         "id": "logic",
         "title": "Logic models and theories of change",
-        "why": "An arrow in a diagram is a claim requiring explanation, not evidence of a connection.",
+        "why": "A diagrammatic arrow identifies a relationship claim requiring explanation and testing; it is not evidence of that relationship.",
         "paragraphs": [
-          "A logic model organises resources, activities and expected changes. Money and staff are inputs; conducting a seminar is an activity; the completed seminar is a direct output. Technical availability concerns possible access, while verified exposure establishes that people actually encountered content. Separating these categories prevents movement directly from holding an event to claiming changed people.",
-          "A theory of change explains why connections should operate. In a hypothetical professional workshop, solving a shared problem might provide knowledge that participants adapt and their institutions permit them to use. Every connection has conditions. Participants may learn but lack workplace authority to apply it. Failure of application should not automatically be attributed to teaching quality.",
-          "Working backwards from the desired result exposes hidden assumptions. A joint project may require complementary expertise, time, institutional approval and continued contact. Which conditions can the programme control, and which are external? A useful model reveals testable connections, possible breaks and unintended consequences rather than simply displaying many boxes."
+          "A logic model organises programme resources, activities and expected changes. Funding and personnel are inputs; conducting a seminar is an activity; the completed seminar is a direct output. Technical availability concerns opportunities for encounter, whereas verified exposure establishes actual contact with content. Distinguishing these categories prevents the inference of recipient change directly from activity completion.",
+          "A theory of change explains why the proposed connections are expected to operate. In a hypothetical professional workshop, joint problem-solving may generate knowledge that participants adapt to their work and institutions permit them to apply. Each connection depends on specified conditions. Learning may occur without application if participants lack the necessary workplace authority. In that situation, absent application should not be attributed directly to teaching quality.",
+          "Developing the model backwards from the expected outcome makes implicit assumptions explicit. A joint project may require complementary expertise, time, institutional approval and continuing contact. Conditions within programme control must be distinguished from external conditions. The model’s analytical value depends on identifying testable connections, potential interruptions and unintended consequences, rather than the number of components it contains."
         ],
         "example": {
-          "title": "Hypothetical broken connection",
-          "text": "Participants learn a method, but their institutions lack the required software. Improved knowledge and absent application are compatible findings about different links. Investigating resources or approval may be more useful than providing additional teaching. Identify the broken connection before prescribing a solution."
+          "title": "Hypothetical interruption of the implementation mechanism",
+          "text": "In the hypothetical example, participants learn a method but their institutions do not provide the required software. Improved knowledge and absent application are compatible findings about different stages. Investigation of resources or approval may be warranted before additional teaching. Identifying the interrupted connection allows the proposed intervention to address the relevant problem."
         },
         "checkpoint": {
-          "question": "What should accompany each arrow?",
+          "question": "Which three elements should be specified for each connection in the model?",
           "answer": "The proposed mechanism, a necessary condition and an observation that would support or weaken the connection."
         }
       },
       {
         "id": "indicators",
-        "title": "Indicators must not replace their concepts",
-        "why": "What is easy to count may not represent what matters for the question.",
+        "title": "Assessing the relationship between concepts and indicators",
+        "why": "An easily counted observation may not represent the central concept in the research question.",
         "paragraphs": [
-          "An indicator is an observable sign chosen to represent a concept we cannot directly observe or want to summarise. Trust is a concept; a clearly understood question about a specified institution can be an indicator. Likes record another behaviour. Relabelling many likes as trust hides the measurement problem instead of solving it.",
-          "Validity concerns representing the intended concept; reliability concerns consistent measurement under similar conditions. It is possible to measure the wrong thing consistently. Examine which institution a question concerns, how participants understand it and whether translation preserves its meaning. The same word may evoke different expectations across groups, so repeatability alone is insufficient.",
-          "Specify the unit counted, total group, period and production rule for every number. A denominator answers “among whom?” Respondents may differ from all participants. Averages can also conceal distributions: some groups benefit while others feel excluded. Do not treat missing responses as zero; investigate why they are missing and how that could change interpretation."
+          "An indicator is an observable sign selected to represent a concept that cannot be observed directly or requires summarisation. Trust is a concept; a question concerning a specified institution, whose meaning has been assessed, is a possible indicator. A count of likes records a different behaviour. Describing numerous likes as trust does not resolve the measurement problem; it obscures the conceptual mismatch.",
+          "Validity concerns representation of the intended concept; reliability concerns consistency of measurement under similar conditions. Consistent results do not exclude measurement of the wrong concept. Assessment should therefore examine the institution targeted by a question, participants’ interpretation of its wording and whether translation preserves its meaning, alongside repeatability. The same word may be associated with different expectations across groups.",
+          "Every numerical result requires specification of the observation unit, population covered, period and production rule. The denominator defines the group within which a proportion is calculated; respondents and all participants may differ. Averages may also conceal distributions, including benefits for some groups alongside exclusion of others. Missing responses should not be treated as zero; their causes and possible implications for interpretation require investigation."
         ],
         "example": {
           "title": "Hypothetical indicator correction",
-          "text": "A team reports event satisfaction under “increased trust.” Its question may concern the venue or presenter. Narrow the concept, identify the question’s target and retain the data under an appropriate heading. Correcting the measure does not require deleting useful observations that cannot support the original trust claim."
+          "text": "A hypothetical team reports event satisfaction under the heading “increased trust.” The question may have measured responses to the venue or presenter. The concept should first be narrowed and the question’s target specified. Data that do not support the trust claim can be retained under an appropriate conceptual heading; correcting measurement does not require deleting useful observations."
         },
         "checkpoint": {
           "question": "Is reliable measurement necessarily valid?",
-          "answer": "No. Consistent answers can measure something other than the trust you intended to investigate."
+          "answer": "Reliability alone does not establish validity. Consistent responses may measure a concept other than the trust under investigation."
         }
       },
       {
         "id": "causality",
-        "title": "What would have happened without the programme?",
+        "title": "Counterfactual comparison in causal inference",
         "why": "Temporal order is necessary but does not independently establish causality.",
         "paragraphs": [
-          "Causal inference compares observed change with a plausible alternative without the programme. This unobserved alternative is the counterfactual. The same people cannot experience the same period both with and without participation. Research design must therefore justify how well an available comparison represents that alternative. Saying an event happened afterwards does not provide that justification.",
-          "Selection means participants differed initially; prior interest may explain favourable later attitudes. A baseline reveals some differences but does not remove them all. A comparison group is not suitable merely because it exists. Different crises, policies or information sources can affect groups differently, making attribution to the programme misleading.",
-          "Choose methods for the evidence and problem. Random assignment can help in some settings, but ethical or practical conditions may constrain it. Matching observed characteristics does not automatically resolve unobserved differences. Comparing changes across two groups requires a defensible assumption about similar trends without intervention. A method’s name never replaces explanation and testing of its assumptions."
+          "Causal inference compares observed change with a plausible situation in the absence of the programme. This unobserved alternative is the counterfactual. The same individuals cannot experience the same period both participating and not participating. Research design must therefore justify how adequately the available comparison represents that alternative. Stating only that an event occurred after the programme does not provide this justification.",
+          "Selection concerns initial differences among participants; prior interest may account for subsequent favourable attitudes. A baseline makes some differences observable but does not eliminate them all. The existence of a comparison group does not independently establish its suitability. Exposure to different crises, policies or information sources may make attribution of observed change to the programme misleading.",
+          "Method selection should follow the research question and available evidence. Random assignment may be useful in some settings, although ethical or practical conditions can constrain its application. Matching on observed characteristics does not automatically eliminate unobserved differences. Comparing changes across two groups requires a defensible assumption of similar trends without the intervention. Naming a method does not replace explanation and testing of its assumptions."
         ],
         "example": {
           "title": "Hypothetical temporal-order error",
-          "text": "Two institutions sign an agreement after an exchange, but correspondence shows negotiations began beforehand. This does not prove the exchange contributed nothing; it weakens the claim that the programme initiated cooperation. Investigate which subsequent step the relationship may have facilitated instead."
+          "text": "In the hypothetical example, two institutions sign an agreement after an exchange programme, but earlier correspondence shows that negotiations began beforehand. This does not exclude a programme contribution, but weakens the claim that it initiated cooperation. Research should examine which subsequent stage the relationship may have facilitated."
         },
         "checkpoint": {
           "question": "Why are baseline and follow-up measurements insufficient alone?",
@@ -311,55 +311,55 @@
       },
       {
         "id": "mixed-methods",
-        "title": "How can different sources reason together?",
-        "why": "Mixed methods means more than decorating numbers with quotations.",
+        "title": "Integrating different sources within an explanatory assessment",
+        "why": "Mixed methods requires analytical integration beyond supplementing numerical findings with quotations.",
         "paragraphs": [
-          "Surveys can investigate response distributions in a defined population; interviews explore meaning and how responses developed. Observation can expose differences between statements and actions. Administrative records track delivery, while decision documents reveal information use. Combining methods adds value when their different answers test an integrated explanation rather than simply accumulate information.",
-          "Process tracing investigates expected intermediate steps from activity to decision. If an encounter supposedly facilitated cooperation, seek meeting records, subsequent contact, shared information and decision reasons. Evidence varies in diagnostic value. General satisfaction fits many explanations; a dated record showing specific information used in a decision may discriminate more effectively among them.",
-          "When sources disagree, investigate timing, samples and question differences before discarding one. A survey can show average improvement while interviews describe exclusion within a particular group. Both may be correct. Preserve different experiences rather than forcing agreement. Independence also matters: documents repeating one manager’s report may add no new corroboration."
+          "Surveys can investigate response distributions within a defined population, while interviews examine meanings and the processes through which responses develop. Observation can identify differences between reported and actual behaviour. Administrative records document implementation, while decision records indicate the use of information. Combining methods adds analytical value when answers to different questions jointly test an integrated explanation.",
+          "Process tracing investigates the expected intermediate stages connecting activity to decisions. A claim that an encounter facilitated cooperation may be examined through meeting records, subsequent communication, shared information and decision rationales. Documents differ in their ability to discriminate among explanations. A general expression of satisfaction compatible with several explanations may provide weaker evidence than a dated record demonstrating the use of specific information in a decision.",
+          "Disagreement among sources requires examination of timing, samples and question differences before any source is excluded. Surveys may indicate average improvement while interviews document exclusion within a particular group; both findings may be valid. Analysis should explain differing experiences without requiring convergence on a single conclusion. Source independence also matters: documents reproducing one manager’s report may provide no additional corroboration."
         ],
         "example": {
           "title": "Hypothetical resolution of disagreement",
-          "text": "Surveys indicate useful learning while observation shows some participants could not join discussion. First recognise that learning and voice are different concepts. Investigate who learned, who was excluded and which programme arrangement produced this pattern. Together, the findings can support a more specific design recommendation."
+          "text": "In the hypothetical example, surveys report useful learning experiences while observation shows that some participants could not enter the discussion. Learning and opportunities to contribute should be treated as separate concepts. Research can then examine who learned, who was excluded and which programme arrangements generated this pattern. Integrating the findings may support a more specific design recommendation."
         },
         "checkpoint": {
-          "question": "Do more methods always strengthen evidence?",
-          "answer": "No. Explain each method’s question, data quality and how it tests the explanations offered by others."
+          "question": "Under which conditions can additional methods strengthen the evidence?",
+          "answer": "The number of methods is not independently decisive. Each method’s question, data quality and contribution to testing explanations from other sources must be specified."
         }
       },
       {
         "id": "ethics",
-        "title": "Ethics belongs inside programmes and research",
+        "title": "Ethical dimensions of programme and research design",
         "why": "Accurate information does not answer every ethical question.",
         "paragraphs": [
-          "Persuasion leaves room to identify sources, check claims, disagree and refuse. Manipulation narrows independent judgement by concealing important information or exploiting vulnerability. Accurate content can appear within a process that hides its source or denies meaningful refusal. Ethical assessment must therefore examine the relationship’s conditions as well as the truth of statements.",
-          "Research creates risks of its own. Removing names may not protect identities: occupation, institution and location can identify people in small networks. Data minimisation means avoiding collection or retention unnecessary for the specified purpose. Possible future usefulness does not justify unlimited collection. Participants should understand what is shared, why, with whom and for how long.",
-          "Reciprocity requires local partners to be more than data sources. They should be able to challenge questions, identify risks and receive usable findings. Complaint routes, access limits and deletion schedules belong to design. Where scholarships or professional opportunities are involved, examine how voluntary consent really is. A signed form cannot settle that question by itself."
+          "Persuasion preserves opportunities to identify the source, test a claim, express disagreement and refuse. Manipulation restricts independent judgement by concealing material information or exploiting vulnerability. Accurate content can also be presented through processes that conceal the source or prevent meaningful refusal. Ethical assessment therefore examines the conditions of the relationship alongside the accuracy of statements.",
+          "Research processes generate specific risks. Removing names does not necessarily protect identity: combined information about occupation, institution and location can identify individuals within small networks. Data minimisation means avoiding collection or retention unnecessary for the specified purpose. Possible future usefulness does not justify unrestricted data collection. Participants should understand which information is shared, why, with whom and for how long.",
+          "Reciprocity requires opportunities for local partners to participate beyond providing data. They should be able to challenge research questions, identify risks and receive findings in a usable form. Complaint procedures, access restrictions and deletion schedules are components of research design. Where scholarships or professional opportunities are involved, the voluntariness of consent requires specific examination; a signed form alone does not establish it."
         ],
         "example": {
           "title": "Hypothetical visibility risk",
-          "text": "An evaluation removes a participant’s name but publishes a unique role and institution in its success story. The person remains identifiable. Assess what details reveal together and remove information unnecessary for the research purpose, instead of assuming that deleting a name creates anonymity."
+          "text": "A hypothetical evaluation team removes a participant’s name from a success account but publishes a unique role and institutional affiliation. The combined information may continue to identify the person. Assessment must consider what the details reveal together and remove information unnecessary for the research purpose. Removing the name alone does not guarantee anonymity."
         },
         "checkpoint": {
-          "question": "Why are public posts not automatically risk-free data?",
+          "question": "Why does research use of public posts require a separate risk assessment?",
           "answer": "Collecting and quoting public posts can increase visibility and create identification or harm that the person did not anticipate."
         }
       },
       {
         "id": "judgement",
-        "title": "From evidence to an actionable recommendation",
-        "why": "Evaluation should end with a reasoned decision, not merely a success label.",
+        "title": "Developing an evidence-based, actionable recommendation",
+        "why": "Evaluation should produce a reasoned decision rather than remain limited to a general success classification.",
         "paragraphs": [
-          "Separate documented facts, findings supported by different sources, plausible inferences and unresolved questions. This classification shows where interpretation enters. Justify confidence through data quality, directness, source independence and testing of rivals. A polished narrative cannot repair a missing connection. Readers need to see both the support for a claim and its practical limits.",
-          "An absent effect has several possible meanings: the programme did not work, the wrong concept was measured, observation was too early, or research could not distinguish change. Avoid turning these alternatives into unlimited excuses. Specify each prediction and the evidence that would change the decision. Concealing adverse or unequal results weakens learning and accountability.",
-          "Match actions to reasons: continue, modify, expand cautiously, pause or end. Specify who acts, when, with which resources and which early signal to monitor. Weak evidence may justify a limited programme with stronger measurement. Serious harm cannot be outweighed automatically by many visible outputs. Recommendations should explain their priorities rather than hide them in a single score."
+          "Documented facts, findings supported by different sources, plausible inferences and unresolved questions should be distinguished. This classification identifies where interpretation enters the analysis. Confidence requires justification through data quality, evidentiary directness, source independence and the extent of testing rival explanations. Narrative coherence cannot establish a missing causal connection; the support for a claim and its limitations must both remain explicit.",
+          "Failure to detect an effect has several possible explanations: the programme may have been ineffective, the wrong concept may have been measured, the observation period may have been insufficient, or the research may have lacked the capacity to distinguish change. These alternatives should be expressed as testable predictions, each with an expected observation and evidence that could change the decision. Concealing adverse or unequal outcomes weakens institutional learning and accountability.",
+          "Recommendations should relate continuation, modification, limited expansion, suspension or termination to explicit reasons. They should specify the responsible actor, timetable, resources and early indicators to monitor. Weak evidence may justify limited implementation with stronger measurement. Numerous visible outputs cannot independently justify continuation in the presence of serious harm; the recommendation’s priorities should be explicit."
         ],
         "example": {
           "title": "Hypothetical cautious recommendation",
-          "text": "A programme runs regularly, but only satisfied participants answer follow-up surveys. Recommend limited continuation with investigation of nonresponse and a stronger baseline before expansion. State in advance which finding would trigger growth or redesign. This makes the recommendation testable rather than merely optimistic."
+          "text": "A hypothetical programme operates regularly, but only satisfied participants respond to follow-up surveys. Limited continuation with investigation of missing responses and a stronger baseline may be recommended before expansion. Specifying in advance which findings would warrant expansion or redesign makes the recommendation more readily testable."
         },
         "checkpoint": {
-          "question": "Why can a responsible conclusion retain uncertainty?",
+          "question": "What purpose does retaining uncertainty serve in a reasoned evaluation conclusion?",
           "answer": "It identifies decision-relevant gaps, matches claims to evidence and directs further research towards a concrete question."
         }
       }
@@ -367,30 +367,30 @@
     "visuals": [
       {
         "kind": "flow",
-        "title": "From a change claim to a decision",
+        "title": "Assessing change claims within a decision process",
         "caption": "Arrows represent evaluation tasks, not assumed impact. Ethical concerns or missing evidence can require changes to earlier stages.",
         "nodes": [
           {
-            "title": "Bound the question",
-            "text": "What should change, for whom and when?"
+            "title": "Question specification",
+            "text": "Which change is expected, in which population and over which period?"
           },
           {
-            "title": "Match evidence",
-            "text": "Connect concept, indicator, source and period."
+            "title": "Evidence alignment",
+            "text": "Relate the concept, indicator, source and observation period."
           },
           {
-            "title": "Test explanations",
-            "text": "Seek traces of the mechanism and alternative causes."
+            "title": "Testing explanations",
+            "text": "Investigate evidence of the mechanism and rival causes."
           },
           {
             "title": "Conditional decision",
-            "text": "State action, limits and information that would change it."
+            "text": "Specify the action, limitations and evidence that could change the decision."
           }
         ]
       },
       {
         "kind": "comparison",
-        "title": "Similar-looking but different concepts",
+        "title": "Analytical distinctions between related concepts",
         "caption": "Each distinction requires different measurement and interpretation.",
         "columns": [
           "First concept",
@@ -401,22 +401,22 @@
           [
             "Output",
             "Outcome",
-            "Completed work is not changed people."
+            "Completed activity does not establish change among participants."
           ],
           [
             "Availability",
             "Exposure",
-            "Possible access is not actual encounter."
+            "Potential access does not establish actual encounter."
           ],
           [
             "Satisfaction",
             "Trust",
-            "Enjoying an event is not believing an institution."
+            "Satisfaction with an event does not establish trust in an institution."
           ],
           [
             "Contribution",
             "Sole cause",
-            "Playing a role is not explaining the entire result."
+            "Contributing to an outcome does not explain the outcome entirely."
           ]
         ]
       },
@@ -433,7 +433,7 @@
           [
             "Was the programme delivered?",
             "Administrative records",
-            "Delivery quality may remain unknown."
+            "The quality of implementation may remain unknown."
           ],
           [
             "Did knowledge change?",
@@ -441,7 +441,7 @@
             "Other learning sources may matter."
           ],
           [
-            "Did a relationship enter a decision?",
+            "Did the relationship contribute to a decision?",
             "Decision trail and interviews",
             "Retrospective accounts may be selective."
           ],
@@ -456,50 +456,50 @@
     "cases": [
       {
         "title": "Hypothetical case: The group behind a percentage",
-        "scenario": "In the introductory guide’s entirely hypothetical example, 20 of 40 participants answered a survey and 12 reported using a method. Now examine the interpretation’s limits.",
+        "scenario": "In the introductory guide’s entirely hypothetical example, 20 of 40 participants responded to a survey and 12 reported using a method. This case examines the limits of inference from that proportion.",
         "steps": [
           "State that the proportion concerns 12 among 20 respondents; do not apply it to all participants.",
           "Investigate missing responses. Avoidance by nonusers and lost contact information pose different problems.",
           "Ask about prior usage and other training that could explain it.",
           "Consider comparing reports with practical traces that do not expose participants to risk."
         ],
-        "conclusion": "The supported finding is reported use among respondents. Overall use and causal influence require further evidence."
+        "conclusion": "The supported finding concerns reported use among respondents. Use across all participants and causal influence require more extensive evidence."
       },
       {
-        "title": "Hypothetical case: What does a joint project show?",
-        "scenario": "Joint research follows an exchange. Participants describe the meeting as helpful, but the institutions had already planned cooperation.",
+        "title": "Hypothetical case: The evidentiary scope of a joint project",
+        "scenario": "Joint research begins after a hypothetical exchange programme. Participants report that the encounter was useful, while the institutions are known to have planned cooperation before the programme.",
         "steps": [
           "Order the earlier plan, programme encounter and project decision chronologically.",
           "Identify which information gap or trust problem the encounter might have addressed.",
           "Seek that contribution in decision records rather than relying only on positive recollection.",
           "Treat the earlier institutional plan as a competing or complementary explanation."
         ],
-        "conclusion": "The programme may have facilitated an intermediate step without independently creating the result. Limit the contribution claim to that step."
+        "conclusion": "The programme may have facilitated a particular intermediate stage without independently producing the outcome. The contribution claim should be limited to the stage supported by evidence."
       }
     ],
     "practice": {
-      "title": "Construct the final evidence file",
-      "task": "Combine the shared workbook’s student evidence matrix and hypothetical measurement lab for a bounded programme evaluation. Enter no real student data.",
+      "title": "Preparing the final evidence file",
+      "task": "Use the shared workbook’s student evidence matrix and hypothetical measurement lab together to prepare a bounded evaluation of one programme. Do not enter actual student data.",
       "steps": [
         "Specify a public, period and change, and label the scenario hypothetical.",
         "Record observations, sources, missing information and ethical risks at each stage.",
         "State the strongest rival explanation and one item of evidence that could test it.",
         "Add a recommendation to the 14-week guide specifying action, justification and information that would change the decision."
       ],
-      "modelAnswer": "Hypothetical conclusion: delivery is established and some participants report using new knowledge. Initial differences and missing responses prevent a general impact claim. Continue on a limited basis while improving comparison, avoiding unnecessary personal data and safely investigating adverse experiences."
+      "modelAnswer": "Hypothetical conclusion: programme activity is established, and some participants report applying new knowledge. Initial differences and missing responses prevent a general impact claim. Limited continuation should be accompanied by stronger comparison, avoidance of unnecessary personal data collection and safe investigation of adverse experiences."
     },
     "faqs": [
       {
-        "question": "Is evaluation worthless without definitive causality?",
-        "answer": "No. Well-reasoned contribution analysis can show supported mechanisms and remaining rivals. Match the scope of the claim to the strength of evidence."
+        "question": "What can evaluation contribute when definitive causal attribution is unavailable?",
+        "answer": "Reasoned contribution analysis can identify supported mechanisms and rival explanations that remain plausible. The scope of the claim should correspond to the strength of the evidence."
       },
       {
-        "question": "Must an adverse finding immediately end a programme?",
-        "answer": "Not always. Examine measurement, delivery and harm. Justify the recommendation in relation to severity and whether the problem can be corrected."
+        "question": "Does an adverse finding require immediate programme termination?",
+        "answer": "Termination does not follow automatically. The finding requires examination in relation to measurement, implementation and harm, and the recommendation should address severity and the possibility of correction."
       },
       {
-        "question": "Why not collect everything?",
-        "answer": "Unnecessary data increases participant risk and opportunities for misuse. Select information needed for the question and establish retention, access and deletion arrangements beforehand."
+        "question": "Why should data collection be limited by the research purpose?",
+        "answer": "Unnecessary data increases participant risk and the possibility of misuse. Information should be selected for its relevance to the research question, with retention, access and deletion arrangements defined in advance."
       }
     ],
     "sourceNote": "This supplement explains the logic models, evaluation methods and ethical framework in the week 14 course material. Methods are research tools with assumptions, not guarantees of success. The numerical example reuses the introductory guide’s hypothetical exercise; no actual student or programme data is presented."

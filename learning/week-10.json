@@ -1,9 +1,9 @@
 {
   "week": 10,
   "tr": {
-    "title": "Üç kurum, üç farklı iş: DCR, CIAA ve OWI",
-    "nutshell": "Savaş sırasında hızlı haber vermek, kültürel ilişki kurmak ve bölgesel ortaklarla çalışmak aynı iş değildir. Bu hafta üç Amerikan kurumunu görev, bölge ve beklenen süre bakımından ayırıyoruz. Kurum adlarını ezberlemek yerine şu soruyla başlayın: 'Bu sorunu hangi kurum, hangi yetkiyle ve hangi araçla çözmeye çalışabilir?'",
-    "analogy": "Varsayımsal bir okul gezisinde öğretmen öğrenme planını, ulaşım sorumlusu otobüsü, duyuru sorumlusu saat değişikliklerini yönetiyor. Hepsi aynı geziye katkı sağlıyor; birbirlerinin işini tamamen üstlenmiyor. Bir duyuru gecikince önce kararın hangi aşamada beklediğini bulmak gerekir.",
+    "title": "DCR, CIAA ve OWI: Görev, yetki ve işlev ayrımları",
+    "nutshell": "Savaş haberlerinin hızla iletilmesi, kültürel ilişkilerin geliştirilmesi ve bölgesel ortaklarla çalışma, farklı kurumsal işlevlerdir. Bu hafta üç Amerikan kurumu görev alanı, coğrafya ve zaman ufku bakımından karşılaştırılır. Temel analitik soru, belirli bir sorunun hangi kurum tarafından, hangi yetki ve araçlarla ele alınabileceğidir.",
+    "analogy": "Varsayımsal bir okul gezisinde öğretmen öğrenme programını, ulaşım sorumlusu otobüs düzenlemesini, duyuru sorumlusu ise saat değişikliklerinin bildirilmesini üstlenmektedir. Ortak bir faaliyete katkı sağlanması, görevlerin birbirinin yerine geçmesini gerektirmez. Duyuru gecikmesinin açıklanabilmesi için karar sürecinin hangi aşamasında bekleme oluştuğu belirlenmelidir.",
     "objectives": [
       "DCR, CIAA ve OWI'nin temel görevlerini ve coğrafi sınırlarını ayırmak.",
       "Acil haber ile uzun vadeli kültürel ilişki için farklı başarı ölçüsü seçmek.",
@@ -27,78 +27,78 @@
       },
       {
         "term": "Koordinasyon",
-        "meaning": "Farklı görevleri, yetkileri ve bilgileri belirli bir karar için uyumlu hâle getirmektir.",
+        "meaning": "Farklı görevlerin, yetkilerin ve bilgilerin belirli bir kararın alınabilmesi için uyumlu biçimde bir araya getirilmesidir.",
         "example": "Varsayımsal: Haber metni, bölge uzmanının düzeltmesi ve yetkili onayı sonrasında yayımlanır."
       }
     ],
     "steps": [
       {
         "title": "1. Sorunu ve süreyi belirtin",
-        "text": "Bir söylentiye bugün yanıt vermekle üniversiteler arasında yıllarca sürecek ilişki kurmak farklı araçlar ister. Önce hedef kitleyi, beklenen değişimi ve zamanı yazın. Hızlı üretimi uzun vadeli güvenle eşitlemeyin."
+        "text": "Bir söylentiye aynı gün yanıt vermek ile üniversiteler arasında uzun süreli ilişkiler geliştirmek farklı araçlar gerektirir. Hedef kitleyi, beklenen değişimi ve zaman aralığını belirtin. Üretim hızını uzun vadeli güvenin göstergesi olarak değerlendirmeyin."
       },
       {
         "title": "2. Yetkiyi bölgeyle eşleştirin",
-        "text": "Kurumun adı yeterli değildir; belirli tarihte nerede çalışabildiğini kontrol edin. Latin Amerika'da bilgi dağıtımı OCIAA'nın sorumluluğundaydı. OWI'nin içerik üretme kapasitesini bölgede doğrudan dağıtım yetkisiyle karıştırmayın. Yerel ortakların rolünü ayrıca yazın."
+        "text": "Kurumun adının yanı sıra ilgili tarihteki coğrafi yetki alanını inceleyin. Latin Amerika'da bilgi dağıtımı OCIAA'nın sorumluluğundaydı. OWI'nin içerik üretme kapasitesini doğrudan bölgesel dağıtım yetkisinden ayırın. Yerel ortakların rollerini ayrıca kaydedin."
       },
       {
         "title": "3. Kararın izini sürün",
-        "text": "Kim taslak hazırladı, kim onayladı ve kim değiştirdi? Ortak toplantının yapılması tek başına koordinasyon başarısı değildir. Kayıtlar, yanlışın düzeltildiğini veya gerekli bilginin zamanında ilgili kişiye ulaştığını göstermelidir. Gecikmenin nedenini de araştırın."
+        "text": "Taslak hazırlama, onaylama ve değiştirme yetkilerinin hangi aktörlerde bulunduğunu belirleyin. Ortak toplantı yapılması, koordinasyonun başarılı olduğunu tek başına göstermez. Kayıtlar, hatanın düzeltildiğini veya gerekli bilginin ilgili aktöre zamanında ulaştığını göstermelidir. Gecikmelerin nedenlerini de araştırın."
       }
     ],
     "diagram": {
-      "title": "Bir görev nasıl paylaştırılır?",
+      "title": "Görev dağılımında karar süreci",
       "nodes": [
         {
-          "title": "Sorunu tanımla",
+          "title": "Sorunun tanımlanması",
           "text": "Hangi kitle, hangi ihtiyaç, ne kadar süre?"
         },
         {
-          "title": "Yetkiyi kontrol et",
+          "title": "Yetkinin incelenmesi",
           "text": "Bu bölgede hangi kurum sorumlu?"
         },
         {
-          "title": "Kararı birleştir",
-          "text": "İçerik, yerel bilgi ve onay kimden geliyor?"
+          "title": "Karar bileşenlerinin eşgüdümü",
+          "text": "İçeriği, yerel bilgiyi ve onayı hangi aktörler sağlar?"
         },
         {
-          "title": "Yanıtı gözden geçir",
+          "title": "Yanıtın değerlendirilmesi",
           "text": "Hata, gecikme veya yerel itiraz ne gösteriyor?"
         }
       ],
       "caption": "Bu bir karar sürecidir. Görevleri paylaşmak, hedef kitlenin mesaja ulaşacağını veya inanacağını garanti etmez."
     },
     "workedExample": {
-      "title": "Çözümlü alıştırma: Söylenti mi, ilişki sorunu mu?",
-      "scenario": "Varsayımsal bir Latin Amerika kentinde savaşla ilgili yanlış haber dolaşıyor. Bir üniversite de uzun vadeli akademik temas istiyor. Ekipten tek bir araçla iki sorunu çözmesi bekleniyor.",
+      "title": "Çözümlü alıştırma: Acil bilgilendirme ve uzun vadeli ilişki",
+      "scenario": "Varsayımsal bir Latin Amerika kentinde yanlış savaş haberleri dolaşımdadır. Aynı zamanda bir üniversite uzun vadeli akademik temas talep etmektedir. Ekibin her iki ihtiyacı tek araçla karşılaması beklenmektedir.",
       "steps": [
         "İhtiyaçları ayırın: Yanlış habere hızlı yanıt ve üniversiteyle tekrarlanan temas.",
-        "Bölgesel bilgi dağıtımı için OCIAA'nın rolünü, kültürel ilişki için DCR'nin rolünü değerlendirin. OWI'yi bölgenin doğrudan dağıtım sorumlusu yapmayın.",
+        "Bölgesel bilgi dağıtımında OCIAA'nın, kültürel ilişkilerde DCR'nin rolünü değerlendirin. OWI'ye bölgenin doğrudan dağıtım sorumluluğunu atfetmeyin.",
         "İlk işte doğru bilginin ulaşıp ulaşmadığını; ikinci işte temasın sürüp sürmediğini araştırın. Aynı başarı göstergesini kullanmayın."
       ],
-      "lesson": "Birden fazla kuruma ihtiyaç duymak başarısızlık değildir. Esas mesele görevlerin, onayların ve beklenen sonuçların açıkça belirlenmesidir."
+      "lesson": "Birden fazla kurumun katılımı, tek başına başarısızlık göstergesi değildir. Değerlendirme, görevlerin, onay yetkilerinin ve beklenen sonuçların açıklığına dayanmalıdır."
     },
     "misconception": {
-      "claim": "Üçü de propaganda yaptığı için görevleri aynıdır.",
-      "correction": "Geniş etiket; araç, coğrafya, karar süresi ve yetki farklarını gizler. Karşılaştırmayı bu farklarla kurun."
+      "claim": "Üç kurumun da propaganda faaliyeti yürütmesi, görevlerinin aynı olduğunu gösterir.",
+      "correction": "Bu genel sınıflandırma; araç, coğrafya, zaman ufku ve yetki farklılıklarını açıklamaz. Kurumsal karşılaştırmayı bu boyutlar üzerinden yapın."
     },
     "quickCheck": {
       "question": "OWI'nin bir film üretmesi Latin Amerika'da dağıtım yetkisini kanıtlar mı?",
-      "answer": "Hayır. Üretim kapasitesi ile bölgesel dağıtım yetkisi ayrıdır; bu bölgede OCIAA'nın rolü korunmalıdır."
+      "answer": "Film üretimi bu yetkiyi kanıtlamaz. Üretim kapasitesi ile bölgesel dağıtım yetkisi ayrı boyutlardır; Latin Amerika'da OCIAA'nın rolü dikkate alınmalıdır."
     },
     "practice": {
       "task": "Ortak Excel kitabındaki 14 haftalık rehberin 10. hafta notuna üç kurum için görev, bölge, süre ve uygun başarı göstergesi yazın.",
-      "hint": "DCR için yalnız yayın sayısı seçerseniz uzun vadeli ilişkiyi ölçmemiş olursunuz."
+      "hint": "Yalnız yayın sayısına dayanan bir gösterge, DCR'nin uzun vadeli ilişkilerini ölçmez."
     },
     "takeaways": [
-      "Aynı genel amaç, aynı görev demek değildir.",
-      "Üretim yeteneği, her yerde yetki sağlamaz.",
-      "Koordinasyonu toplantı sayısıyla değil kararın nasıl iyileştiğiyle inceleyin."
+      "Genel amaçların ortaklığı, görevlerin aynı olduğu anlamına gelmez.",
+      "Üretim kapasitesi, bütün coğrafyalarda faaliyet yetkisi sağlamaz.",
+      "Koordinasyonun değerlendirilmesi, toplantı sayısının yanı sıra karar sürecindeki iyileşmenin belgelenmesini gerektirir."
     ]
   },
   "en": {
-    "title": "Three institutions, three jobs: DCR, CIAA and OWI",
-    "nutshell": "Delivering wartime news, building cultural relationships and working with regional partners are different jobs. Compare three American institutions by mandate, region and timescale. Ask: 'Which institution could address this problem, with what authority and instrument?'",
-    "analogy": "On a hypothetical school trip, a teacher plans learning, a transport organiser arranges the bus, and another person announces schedule changes. All contribute without replacing each other. For a late announcement, find where the decision stalled.",
+    "title": "DCR, CIAA and OWI: Distinctions in mandate, authority and function",
+    "nutshell": "Rapid wartime reporting, the development of cultural relationships and cooperation with regional partners constitute different institutional functions. This week compares three American institutions by mandate, geographical scope and time horizon. The central analytical question concerns which institution could address a particular problem, under what authority and through which instruments.",
+    "analogy": "On a hypothetical school trip, a teacher organises learning, a transport coordinator arranges the bus and a communications coordinator announces schedule changes. Contributions to a shared activity do not make these responsibilities interchangeable. Explaining a delayed announcement requires identifying the stage at which the decision process was interrupted.",
     "objectives": [
       "Distinguish the DCR, CIAA and OWI's principal tasks and geographical limits.",
       "Choose different success measures for urgent news and lasting cultural relationships.",
@@ -122,72 +122,72 @@
       },
       {
         "term": "Coordination",
-        "meaning": "Bringing different responsibilities, powers and information together for a specific decision.",
+        "meaning": "The alignment of distinct responsibilities, authorities and information required for a particular decision.",
         "example": "Hypothetical: A report is published after a regional specialist's correction and authorised approval."
       }
     ],
     "steps": [
       {
         "title": "1. Specify the problem and timescale",
-        "text": "Answering a rumour today and building years of university cooperation require different instruments. State the audience, expected change and timeframe first. Do not equate rapid production with lasting trust."
+        "text": "Responding to a rumour on the same day and developing lasting university relationships require different instruments. Specify the target audience, expected change and timeframe. Production speed should not be treated as evidence of enduring trust."
       },
       {
         "title": "2. Match authority to the region",
-        "text": "An institution's name is insufficient: check where it could operate at that date. OCIAA handled information distribution in Latin America. Do not confuse OWI's production capacity with direct regional distribution authority. Record local partners' roles separately."
+        "text": "Examine the institution’s geographical jurisdiction at the relevant date alongside its name. OCIAA held responsibility for information distribution in Latin America. Distinguish OWI’s content production capacity from direct regional distribution authority. Record local partners’ roles separately."
       },
       {
         "title": "3. Trace the decision",
-        "text": "Who drafted, approved and revised? A joint meeting alone does not prove successful coordination. Records should show a correction or necessary information reaching the right person in time. Investigate reasons for delay too."
+        "text": "Identify the actors responsible for drafting, approval and revision. A joint meeting alone does not establish successful coordination. Records should demonstrate the correction of an error or the timely arrival of necessary information with the relevant actor. Investigate the causes of delays as well."
       }
     ],
     "diagram": {
-      "title": "How should a task be allocated?",
+      "title": "Decision processes in the allocation of responsibilities",
       "nodes": [
         {
-          "title": "Define the problem",
+          "title": "Problem definition",
           "text": "Which audience, need and timescale?"
         },
         {
-          "title": "Check authority",
+          "title": "Jurisdictional assessment",
           "text": "Which institution is responsible here?"
         },
         {
-          "title": "Connect the decision",
-          "text": "Who provides content, local knowledge and approval?"
+          "title": "Coordination of decision inputs",
+          "text": "Which actors provide content, local knowledge and approval?"
         },
         {
-          "title": "Review the response",
+          "title": "Response evaluation",
           "text": "What do errors, delays or local objections show?"
         }
       ],
       "caption": "This is a decision process. Allocating tasks does not guarantee that audiences encounter or believe the message."
     },
     "workedExample": {
-      "title": "Worked exercise: Rumour or relationship problem?",
-      "scenario": "In a hypothetical Latin American city, false war news circulates. A university also seeks lasting academic contact. A team is asked to solve both problems with one instrument.",
+      "title": "Worked exercise: Urgent information and enduring relationships",
+      "scenario": "In a hypothetical Latin American city, false war news is circulating while a university seeks lasting academic contact. The team is expected to address both needs through a single instrument.",
       "steps": [
         "Separate the needs: a prompt news correction and repeated university contact.",
-        "Consider OCIAA's regional distribution role and DCR's cultural relationship role. Do not make OWI the region's direct distributor.",
+        "Assess OCIAA’s role in regional information distribution and DCR’s role in cultural relationships. Direct distribution responsibility in this region should not be attributed to OWI.",
         "For the first task, investigate whether accurate information arrived; for the second, whether contact continued. Use different success indicators."
       ],
-      "lesson": "Needing several institutions is not failure. The issue is clearly specifying tasks, approvals and expected results."
+      "lesson": "Participation by several institutions does not itself indicate failure. Assessment should address the clarity of responsibilities, approval powers and expected outcomes."
     },
     "misconception": {
-      "claim": "All three did propaganda, so their jobs were identical.",
-      "correction": "That broad label hides differences in instruments, geography, timescale and authority. Build your comparison around those differences."
+      "claim": "All three institutions conducted propaganda, which establishes that their responsibilities were identical.",
+      "correction": "This broad classification does not explain differences in instruments, geography, time horizon and authority. Institutional comparison requires attention to these dimensions."
     },
     "quickCheck": {
       "question": "Does OWI producing a film prove its distribution authority in Latin America?",
-      "answer": "No. Production capacity and regional distribution authority differ; OCIAA's regional role must be preserved."
+      "answer": "Film production does not establish this authority. Production capacity and regional distribution authority are distinct dimensions; OCIAA’s responsibility in Latin America must be taken into account."
     },
     "practice": {
-      "task": "In the shared Excel workbook's 14-week guide, add each institution's task, region, timescale and suitable success indicator to your Week 10 notes.",
-      "hint": "Counting publications alone would miss the DCR's longer-term relationships."
+      "task": "In the shared Excel workbook’s 14-week guide, record each institution’s task, region, time horizon and suitable success indicator in the Week 10 notes.",
+      "hint": "Publication counts alone do not measure the DCR’s longer-term relationships."
     },
     "takeaways": [
-      "A shared broad purpose does not mean identical tasks.",
-      "Production capacity does not grant authority everywhere.",
-      "Study coordination through improved decisions, not meeting totals."
+      "Shared general objectives do not imply identical responsibilities.",
+      "Production capacity does not confer jurisdiction in every geographical setting.",
+      "Assessment of coordination requires evidence of improved decision processes beyond the number of meetings held."
     ]
   }
 }

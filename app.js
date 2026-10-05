@@ -170,9 +170,9 @@
 
   var weeklyStudyI18n = {
     tr: {
-      kicker: "HAFTALIK ÇALIŞMA ROTASI", title: "Oku · karşılaştır · izle · dinle",
-      intro: "Ders notu ve birincil metinleri çekirdek okuma olarak ele alın. Video ve podcast kavramları pekiştirir; tarihsel iddiayı kaynaklarla sınayın.",
-      notes: "ADIM ADIM DERS NOTU", notesTitle: "Sıfırdan öğren, örnekle pekiştir", notesDescription: "Açıklamalı kavramlar, kuramsal tartışmalar, kaynak eleştirisi, görsel şemalar, çözülmüş vakalar ve Excel araştırma uygulamaları. Web notları ve PDF Türkçedir.", notesRead: "Web'de oku", notesOpen: "Ayrıntılı PDF", notesDownload: "Ayrıntılı PDF indir",
+      kicker: "HAFTALIK ÇALIŞMA PLANI", title: "Okuma, karşılaştırma ve çoklu ortam kaynakları",
+      intro: "Ders notları ve birincil metinler temel okuma çerçevesini oluşturur. Video ve sesli dersler kavramsal açıklamaları tamamlar; tarihsel iddiaların değerlendirilmesi kaynak eleştirisini gerektirir.",
+      notes: "AKADEMİK DERS NOTLARI", notesTitle: "Kavramsal temeller, kanıtlar ve uygulamalı çözümleme", notesDescription: "Ayrıntılı kavram açıklamaları, kuramsal tartışmalar, kaynak eleştirisi, görsel modeller, vaka analizleri ve Excel araştırma uygulamaları. Çevrim içi notlar ve PDF Türkçedir.", notesRead: "Çevrim içi oku", notesOpen: "Akademik PDF", notesDownload: "Akademik PDF indir",
       youtube: "01 / YOUTUBE VİDEOSU", watch: "Videoyu aç", podcast: "02 / PODCAST",
       audioNote: "Bu İngilizce ses bölümü, haftanın yapay zekâ anlatımlı ders videosunun podcast sürümüdür. Gerçek bir kişinin sesi taklit edilmemiştir.",
       download: "Podcast'i indir", transcript: "Tam Türkçe metin video ders penceresinde bulunur.",
@@ -180,9 +180,9 @@
       open: "Açık erişimli metin", read: "İlgili bölümü aç", task: "Kısa çalışma sorusu"
     },
     en: {
-      kicker: "WEEKLY STUDY ROUTE", title: "Read · compare · watch · listen",
-      intro: "Treat the notes and primary texts as core reading. The video and podcast reinforce concepts; test historical claims against sources.",
-      notes: "STEP-BY-STEP LECTURE NOTES", notesTitle: "Start with the basics, learn through examples", notesDescription: "Explore clear explanations, theoretical debates, source criticism, visual diagrams, worked cases and Excel research exercises. The online notes and PDF are entirely in English.", notesRead: "Read online", notesOpen: "Academic PDF", notesDownload: "Download academic PDF",
+      kicker: "WEEKLY STUDY PLAN", title: "Reading, comparison and multimedia resources",
+      intro: "The lecture notes and primary texts constitute the core reading. Video and audio lectures complement the conceptual explanations; the assessment of historical claims requires source criticism.",
+      notes: "ACADEMIC LECTURE NOTES", notesTitle: "Conceptual foundations, evidence and applied analysis", notesDescription: "Detailed conceptual explanations, theoretical debates, source criticism, visual models, case analyses and Excel research exercises. The online notes and PDF are entirely in English.", notesRead: "Read online", notesOpen: "Academic PDF", notesDownload: "Download academic PDF",
       youtube: "01 / YOUTUBE VIDEO", watch: "Watch video", podcast: "02 / PODCAST",
       audioNote: "This English audio episode is the podcast edition of the week's AI-narrated lecture. It does not imitate a real person's voice.",
       download: "Download podcast", transcript: "The full English transcript is available in the lecture video window.",

@@ -1,138 +1,138 @@
 {
   "week": 13,
   "tr": {
-    "orientation": "Karşılaştırmalı kamu diplomasisi, kurumları görünürlük veya bütçe sırasına koymaktan daha fazlasıdır. Aynı görünen faaliyetin farklı koşullarda nasıl farklı anlam ve sonuç üretebildiğini araştırır. Bu hafta tarihsel örüntülerden sınanabilir sorular çıkaracak; kültür enstitüsü, yayıncı, değişim programı ve dijital ağları farklı çalışma düzenleri olarak inceleyeceğiz. Amaç tek bir ülkeyi model ilan etmek değil, hangi mekanizmanın hangi koşullarda aktarılabileceğini açıklamaktır. Ortak sorular kullanırken yerel tarihlerin ve alıcıların farklılığını korumak temel yöntemimizdir.",
+    "orientation": "Karşılaştırmalı kamu diplomasisi, kurumların görünürlüğe veya bütçeye göre sıralanmasının ötesinde, benzer görünen faaliyetlerin farklı koşullarda kazandığı anlamları ve ürettiği sonuçları araştırır. Bu hafta tarihsel örüntüler sınanabilir sorulara dönüştürülmekte; kültür enstitüleri, yayıncılar, değişim programları ve dijital ağlar farklı çalışma düzenleri olarak incelenmektedir. Amaç, herhangi bir ülkeyi genel model olarak belirlemek yerine mekanizmaların hangi koşullarda aktarılabileceğini açıklamaktır. Ortak araştırma soruları kullanılırken yerel tarihlerin ve alıcı deneyimlerinin farklılıkları korunmalıdır.",
     "sections": [
       {
         "id": "patterns",
         "title": "Tarihsel örüntüden araştırma sorusuna",
-        "why": "Yinelenen bir uygulama, değişmez bir başarı yasası değildir.",
+        "why": "Yinelenen uygulamalar, değişmez başarı yasaları olarak yorumlanamaz.",
         "paragraphs": [
-          "Schindler’in uzun dönemli yaklaşımı, modern adlandırmadan önce yabancı kamularla etkileşim bulunduğunu gösterir. Bu süreklilik kitabın genel bulgusudur; sonuç sentezindeki beş örüntüden biri diye sayılmamalıdır. Beş örüntü iletişim, etkileşim yöntemleri, insanlar ve örgütler, kamu-özel ortaklıkları ve kamuların uluslararası ilişkilerdeki rolüdür. Bunlar araştırmayı düzenler; herhangi bir faaliyetin başarılı olduğunu önceden söylemez.",
-          "Örüntüyü açıklayıcı önermeye çevirmek için mekanizma, koşul ve karşı kanıtı birlikte yazın. Mekanizma, bir etkinin hangi ara işlemlerle doğabileceğini anlatır. Örneğin yerel ortağın dil ve ilişki bilgisi, içeriğin anlaşılmasını kolaylaştırabilir. Bunun işlemesi, ortağın gerçekten karar alanına sahip olmasına bağlı olabilir. Yerel önerilerin sürekli reddedildiği belgeler ise bu mekanizmayı zayıflatır.",
-          "İki rakip okuma üzerinde durun. Süreklilik yorumu, aynı yöntemlerin yeni kurumlarda tekrarını vurgular. Bağlamsal değişim yorumu, benzer yöntemin farklı amaçlara ve kamulara hizmet ettiğini hatırlatır. İkisini birlikte değerlendirmek gerekir: aynı araç devam ederken anlamı değişebilir. Karşılaştırma bu değişikliği açıklamalı, benzer etiketleri değişmeyen sonuçların kanıtı gibi kullanmamalıdır."
+          "Schindler’in uzun dönemli yaklaşımı, modern terimlerin ortaya çıkışından önce yabancı kamularla etkileşim bulunduğunu gösterir. Bu süreklilik, kitabın genel bulgusudur; sonuç sentezindeki beş örüntüden biri olarak sınıflandırılmamalıdır. Beş örüntü; iletişim, etkileşim yöntemleri, insanlar ve örgütler, kamu-özel ortaklıkları ve kamuların uluslararası ilişkilerdeki rolüdür. Bu kategoriler araştırmayı düzenler; belirli bir faaliyetin başarısını önceden belirlemez.",
+          "Bir örüntünün açıklayıcı önermeye dönüştürülmesi, mekanizmanın, koşulun ve olası karşı kanıtın birlikte belirtilmesini gerektirir. Mekanizma, etkinin ortaya çıkabileceği ara süreçleri tanımlar. Örneğin yerel ortağın dil ve ilişki bilgisi, içeriğin anlaşılmasını kolaylaştırabilir. Bu işleyiş, ortağın fiilî karar alanına sahip olmasına bağlı olabilir. Yerel önerilerin sürekli reddedildiğini gösteren belgeler ise önerilen mekanizmayı zayıflatır.",
+          "İki yorum birlikte değerlendirilmelidir. Süreklilik yorumu, aynı yöntemlerin yeni kurumsal düzenlemelerde tekrarını vurgular. Bağlamsal değişim yorumu ise benzer yöntemlerin farklı amaçlara ve kamulara hizmet edebildiğini belirtir. Araç sürerken anlamı değişebilir. Karşılaştırmanın görevi, benzer adlandırmaları değişmeyen sonuçların kanıtı saymak yerine bu dönüşümü açıklamaktır."
         ],
         "example": {
           "title": "Varsayımsal örüntü sınaması",
-          "text": "İki programda da yerel derneklerle ortaklık olduğunu varsayın. Birinde dernek gündemi değiştirebiliyor, diğerinde yalnız katılımcı buluyor. “Her ikisi de kamu-özel ortaklığıdır” doğru bir sınıflama olabilir; fakat aynı mekanizmanın işlediğini söylemez. Ortaklığın karar hakkı ve kaynak paylaşımı üzerinden nasıl kurulduğunu incelemek gerekir."
+          "text": "Varsayımsal iki programda da yerel derneklerle ortaklık bulunmaktadır. Birinde dernek gündemi değiştirebilmekte, diğerinde yalnızca katılımcı temin etmektedir. Her ikisinin kamu-özel ortaklığı olarak sınıflandırılması, aynı mekanizmanın işlediğini göstermez. Eşdeğerlik iddiası, ortaklığın karar yetkisi ve kaynak paylaşımı açısından nasıl düzenlendiğinin incelenmesini gerektirir."
         },
         "checkpoint": {
-          "question": "Bir örüntüyü başarı puanından ayıran nedir?",
+          "question": "Tarihsel örüntü ile başarı ölçütü arasında hangi ayrım vardır?",
           "answer": "Örüntü hangi soruların ve bağlantıların araştırılacağını önerir; etkinin varlığını veya büyüklüğünü önceden belirlemez."
         }
       },
       {
         "id": "equivalence",
-        "title": "Karşılaştırılabilirlik sayılardan önce gelir",
-        "why": "Aynı başlık altında farklı şeyleri saymak, çok hassas görünen fakat yanıltıcı sonuç üretir.",
+        "title": "Nicel karşılaştırmanın ön koşulu olarak kavramsal eşdeğerlik",
+        "why": "Farklı faaliyetleri aynı kategori altında saymak, sayısal kesinlik izlenimine rağmen yanıltıcı sonuçlar üretebilir.",
         "paragraphs": [
-          "Kavramsal eşdeğerlik, karşılaştırılan gözlemlerin aynı soruya cevap verecek kadar benzer anlam taşımasıdır. İki ülkenin kamu diplomasisi bütçesi, farklı faaliyetleri kapsıyorsa doğrudan karşılaştırılamaz. Bir toplam bursları ve yayıncılığı içerirken diğeri yalnız iletişim birimini kapsayabilir. Para birimini dönüştürmek bu kapsam farkını düzeltmez; önce hangi işlerin ve hangi dönemin sayıldığını açıklamak gerekir.",
-          "Yapılandırılmış karşılaştırma her vakaya aynı temel soruları yöneltir: amacı kim belirler, hangi kamuya seslenilir, kimler dışarıda kalır, kaynak ve yetki kimdedir, yerel aracı ne yapabilir? Ortak soru listesi, araştırmacının sevdiği vakaya daha uygun ölçüt seçmesini sınırlar. Ancak ortak sorular, yerel kavram ve deneyimlerin tamamen aynı olduğu varsayımına dönüşmemelidir.",
-          "Ülke, kurum, program ve kişi farklı analiz düzeyleridir. Tek bir enstitüden edinilen bulguyu bütün ulusal modele taşımak düzey atlamasıdır. Benzer biçimde ülke düzeyindeki popülerlik, belirli bir kursun etkisini göstermez. Sonucun birimini baştan yazın: hangi kurumun hangi programı, hangi şehirde, hangi katılımcılar ve hangi süre için değerlendiriliyor?"
+          "Kavramsal eşdeğerlik, karşılaştırılan gözlemlerin ortak bir soruya cevap verebilecek ölçüde benzer anlam taşımasıdır. Farklı faaliyetleri kapsayan ulusal kamu diplomasisi bütçeleri doğrudan karşılaştırılamaz. Bir toplam bursları ve yayıncılığı içerirken diğeri yalnız iletişim birimini kapsayabilir. Para biriminin dönüştürülmesi kapsam farkını gidermez; önce toplamların hangi işlevleri ve dönemi temsil ettiği açıklanmalıdır.",
+          "Yapılandırılmış karşılaştırma her vakaya ortak temel sorular yöneltir: amacı kim belirlemektedir, hangi kamuya hitap edilmektedir, kimler dışarıda kalmaktadır, kaynak ve yetki kimdedir, yerel aracılar neyi değiştirebilmektedir? Bu yaklaşım, tercih edilen vakaya avantaj sağlayan ölçütlerin seçilmesini sınırlar. Bununla birlikte ortak sorular, yerel kavramların ve deneyimlerin her bağlamda aynı anlamı taşıdığı varsayımına dönüştürülmemelidir.",
+          "Ülke, kurum, program ve kişi farklı analiz düzeyleridir. Bir enstitüden elde edilen bulguyu ulusal modelin tamamına genellemek, gerekçelendirilmemiş bir düzey geçişidir. Ülke düzeyindeki popülerlik de belirli bir kursun etkisini göstermez. Çıkarımın birimi başlangıçta tanımlanmalıdır: hangi kurumun hangi programının, nerede, hangi katılımcılar arasında ve hangi dönemde değerlendirildiği açıkça belirtilmelidir."
         ],
         "example": {
           "title": "Varsayımsal bütçe karşılaştırması",
-          "text": "A ülkesinin toplamı burs, kültür merkezi ve haber yayınını; B ülkesinin toplamı yalnız dışişleri iletişim giderini içersin. A’nın toplamı daha yüksek olsa bile “daha fazla çaba” veya “daha etkili model” sonucu çıkarılamaz. Önce ortak işlevleri ayırmak, sonra yerel ortak katkılarını ve hesaplama dönemlerini açıklamak gerekir."
+          "text": "Varsayımsal karşılaştırmada A ülkesinin bütçesi burs, kültür merkezi ve haber yayıncılığını; B ülkesinin bütçesi ise yalnız dışişleri iletişim giderlerini içermektedir. A’nın daha yüksek toplamı, daha fazla çaba veya daha etkili model sonucunu desteklemez. Öncelikle ortak işlevler ayrıştırılmalı; ardından yerel ortak katkıları ve hesaplama dönemleri açıklanmalıdır."
         },
         "checkpoint": {
-          "question": "Neden ortak para birimi yeterli değildir?",
+          "question": "Ortak para biriminin kullanılması neden karşılaştırılabilirliği tek başına sağlamaz?",
           "answer": "Ölçülen faaliyetlerin kapsamını eşitlemez; aynı birimle farklı içerikler sayılmaya devam edebilir."
         }
       },
       {
         "id": "institutes",
-        "title": "Kültür enstitüsü bir ilişkiler altyapısı olabilir",
+        "title": "İlişki altyapısı olarak kültür enstitüleri",
         "why": "Etkinliğin varlığı görünürdür; ilişkinin niteliği ve sürekliliği ayrıca araştırılmalıdır.",
         "paragraphs": [
-          "Kültür enstitüleri dil öğretimi, sanat ve eğitim yoluyla ulusal varlığı yerel karşılaşmalara çevirebilir. British Council ile Goethe-Institut gibi kurumları aynı sınıfa yerleştirmek, aynı yönetişime sahip oldukları anlamına gelmez. Hukuki konum, finansman, atama ve program tercihleri farklı olabilir. Bir kurumun özerk diye tanıtılması yerine, hangi kararı kimin değiştirebildiğini inceleyin.",
+          "Kültür enstitüleri, dil öğretimi, sanat ve eğitim yoluyla ulusal varlığı yerel karşılaşmalara dönüştürebilir. British Council ve Goethe-Institut gibi kurumların aynı sınıfa yerleştirilmesi, yönetişimlerinin özdeş olduğu anlamına gelmez. Hukuki konumları, finansmanları, atama süreçleri ve program tercihleri farklılaşabilir. Özerklik değerlendirmesi, kurumsal öz tanım yerine hangi kararı hangi aktörün değiştirebildiğini incelemelidir.",
           "Dil öğrenimi gelecekte iletişim kurma maliyetini azaltabilir; ortak sanat çalışması anlaşmazlığa rağmen iş birliği alanı yaratabilir. Bunlar koşullu mekanizmalardır. Yerel öğretmenler ve katılımcılar içeriği etkileyebiliyorsa program karşılıklı hâle gelebilir. Yalnız merkezde hazırlanmış içeriğin dağıtılması ise görünürlük sağlarken yerel ihtiyaçları karşılamayabilir. Aynı etkinlik sayısı, bu iki çalışma biçimini birbirinden ayırmaz.",
-          "İlişkiyi izlemek için kimlerin geri döndüğüne, ortaklıkların personel değişimine dayanıp dayanmadığına ve eleştirinin kararı etkileyip etkilemediğine bakın. Devamlılık olumlu bir işaret olabilir; fakat fiyat, konum veya dil nedeniyle dışlananlar görünmez kalabilir. Bu nedenle hem içerideki deneyimi hem katılım sınırlarını inceleyin. Popüler kültürel faaliyeti dış politika desteğiyle eşitlemeyin."
+          "İlişkilerin sürekliliği; yeniden katılım, ortaklıkların personel değişiminden sonra sürmesi ve eleştirinin kararlara etkisi üzerinden incelenebilir. Süreklilik olumlu bir işaret olsa da fiyat, konum veya dil nedeniyle dışlananlar kayıtlarda görünmeyebilir. Dolayısıyla katılımcı deneyimleriyle birlikte katılımın sınırları da araştırılmalıdır. Kültürel faaliyetin popülerliği, destekçi ülkenin dış politikasının onaylandığını göstermez."
         ],
         "example": {
           "title": "Varsayımsal kurs değerlendirmesi",
-          "text": "Bir dil merkezinin kursiyerleri derslerden memnun, fakat yerel öğretmenler program değişikliği öneremiyor olsun. Memnuniyet bulgusunu saklamak gerekmez; yalnız bunun karşılıklı gündem belirleme veya kurumsal özerklik kanıtı olmadığını belirtmek gerekir. Öğretmenlerin karar alanı, öğrenci deneyiminden ayrı bir değerlendirme sorusudur."
+          "text": "Varsayımsal dil merkezinde kursiyerler derslerden memnundur; ancak yerel öğretmenlerin program değişikliği önerme yetkisi bulunmamaktadır. Memnuniyet bulgusu korunmalı, fakat karşılıklı gündem belirleme veya kurumsal özerklik kanıtı olarak yorumlanmamalıdır. Öğretmenlerin karar alanı ile öğrenci deneyimi ayrı değerlendirme konularıdır."
         },
         "checkpoint": {
-          "question": "Kursun dolu olması hangi sonucu kanıtlamaz?",
+          "question": "Bir kursun kapasitesinin dolması hangi sonuçları tek başına göstermez?",
           "answer": "Karşılıklılığı, eleştiriye açıklığı veya destekçi devletin dış politikasının benimsendiğini tek başına göstermez."
         }
       },
       {
         "id": "broadcasting",
-        "title": "Yayıncının güvenilirliği nasıl incelenir?",
+        "title": "Uluslararası yayıncılıkta güvenilirliğin incelenmesi",
         "why": "Geniş erişim, güven ve siyasi destek arasında ayrı kanıt gerektiren basamaklar vardır.",
         "paragraphs": [
           "Uluslararası yayıncılar haber ve analiz yoluyla geniş kitlelerle sık temas kurabilir. BBC World Service ve Deutsche Welle gibi örnekler, kültür enstitülerinin yüz yüze ilişkilerinden farklı bir düzen gösterir. Yayıncının devlet açısından değeri ulusal görünürlük olabilir; izleyici açısından değeri başka yerde bulunmayan veya daha güvenilir görülen bilgi olabilir. Bu çıkarlar örtüşebilir, fakat özdeş değildir.",
-          "Editoryal mesafe, haber kararlarının siyasi talimatlardan ne ölçüde ayrılabildiğini anlatır. Kaynak gösterme, haber ile yorumu ayırma, hatayı düzeltme ve destekçiyi rahatsız eden gelişmeleri haberleştirme gözlemlenebilir işaretlerdir. Bunları tek bir olumlu örnekle değil, zorlayıcı durumlarda tekrarlanan uygulamalarla değerlendirin. Kurumun kendi bağımsızlık beyanı, uygulanmış kararların yerine geçmez.",
+          "Editoryal mesafe, haber kararlarının siyasi talimatlardan ne ölçüde ayrılabildiğini ifade eder. Kaynak belirtme, haber ile yorumu ayırma, hataları düzeltme ve finansman sağlayıcısını rahatsız eden gelişmeleri haberleştirme gözlenebilir göstergelerdir. Değerlendirme, tek bir olumlu örneğe değil, zorlayıcı koşullarda tekrarlanan uygulamalara dayanmalıdır. Kurumun bağımsızlık beyanı, fiilî karar süreçlerine ilişkin kanıtın yerine geçmez.",
           "Teknik sinyalin ulaşması erişilebilirliği, dinleme kaydı maruz kalmayı, alıcı anlatısı ise belirli bir yorumu gösterebilir. Düzenli dinleyici güven duyduğu için dinleyebilir; fakat rakibini izlemek, dil öğrenmek veya eğlenmek için de dinleyebilir. Bu alternatifler, kullanım ile güvenin ayrı ölçülmesini gerektirir. Yerel dağıtıcılar ve dijital platformlar da içeriğin hangi bağlamda görüldüğünü etkiler."
         ],
         "example": {
-          "title": "Varsayımsal kullanım bilmecesi",
-          "text": "Bir görüşmeci düzenli izlediği yabancı yayını “ne söyleyeceklerini görmek için” takip ettiğini söylüyor. Kayıt kullanımın varlığını destekler, güveni değil. İkinci soruda hangi haberleri doğru bulduğu ve bilgiyi başka kaynaklarla nasıl sınadığı araştırılmalıdır. İzlenme sıklığı, bu yorum farkını tek başına yakalayamaz."
+          "title": "Varsayımsal yayın kullanımının yorumlanması",
+          "text": "Varsayımsal görüşmede bir katılımcı, yabancı yayını düzenli olarak “ne söyleyeceklerini görmek için” izlediğini belirtmektedir. Kayıt, kullanımın varlığını destekler; güveni göstermez. Hangi haberlerin doğru bulunduğu ve bilginin başka kaynaklarla nasıl sınandığı ayrı sorularla araştırılmalıdır. İzleme sıklığı tek başına bu yorum farklılıklarını ayırt edemez."
         },
         "checkpoint": {
-          "question": "Editoryal mesafe neden yalnız kurum adına bakılarak ölçülemez?",
+          "question": "Editoryal mesafe neden yalnızca kurumun adı veya statüsünden çıkarılamaz?",
           "answer": "Ad veya statü, gerçek karar süreçlerini göstermez; atama, içerik seçimi, düzeltme ve müdahaleye verilen yanıtlar incelenmelidir."
         }
       },
       {
         "id": "networks",
-        "title": "Değişimler ve ağlarda ilişkiyi kim kurar?",
+        "title": "Değişim programları ve ağlarda ilişkilerin oluşumu",
         "why": "Katılımcılar, gönderilen mesajın pasif taşıyıcıları değildir.",
         "paragraphs": [
-          "Değişim programı kişiyi bir mesajın önüne değil, ilişki içine yerleştirir. Öğrenme; seçim, hazırlık, ev sahibi deneyimi, tartışma özgürlüğü ve temasın devamına bağlıdır. Erasmus+ gibi çok taraflı örneklerde oluşan ilişkiyi tek bir devletin etkisine indirgemek özellikle sorunludur. Katılımcı birden fazla kurum ve kişiyle karşılaşır; her temas farklı biçimde değerlendirilebilir.",
-          "Katılımcı seçimi önemli bir rakip açıklama üretir. Programa zaten uluslararası ilişkilere açık kişiler katılıyorsa, sonraki olumlu tutum bütünüyle programın sonucu sayılamaz. Başlangıçtaki yönelimleri ve önceki ağları kaydedin. Mezunun önemli göreve gelmesi de tek başına etki değildir; programda kurulan ilişkinin gerçek bir karar veya ortak çalışmada kullanıldığını gösteren iz aranmalıdır.",
+          "Değişim programları, katılımcıları yalnızca mesaj alıcısı olarak konumlandırmaz; ilişkiler içinde deneyim kazanmalarını sağlar. Öğrenme; seçim, hazırlık, ev sahibi deneyimi, tartışma özgürlüğü ve temasın sürekliliğiyle ilişkilidir. Erasmus+ gibi çok taraflı programlarda oluşan ilişkileri tek bir devletin etkisine indirgemek özellikle sorunludur. Katılımcılar birden fazla kurum ve kişiyle karşılaşır; her temas farklı biçimde değerlendirilebilir.",
+          "Katılımcı seçimi önemli bir rakip açıklama oluşturur. Uluslararası ilişkilere başlangıçta açık kişilerin programa katılması durumunda, sonraki olumlu tutum bütünüyle programa atfedilemez. Başlangıç yönelimleri ve önceki ağlar kaydedilmelidir. Mezunların etkili görevlere gelmesi de program etkisini tek başına göstermez; programda kurulan ilişkinin somut bir karar veya ortak çalışmada kullanıldığına ilişkin kanıt gerekir.",
           "Dijital ağlar uzaktaki kişileri buluşturabilir; ancak bağlantı sayısı ilişkinin niteliğini göstermez. Ağ analizi, kimin ayrı grupları bağladığını haritalayabilir. Bu bağın güvenli, karşılıklı veya yararlı olduğunu anlamak için başka kaynaklar gerekir. Platformların sıralama kuralları, veri toplama biçimleri ve taciz riskleri, ilişkiye yeni aracılar ekler. Ağın büyümesi, katılımcıların karar gücünün büyümesiyle aynı şey değildir."
         ],
         "example": {
           "title": "Varsayımsal mezun ağı",
-          "text": "Bir mezun listesinde çok sayıda kayıt bulunuyor, fakat ortak projeler yalnız eski bir arkadaş grubunda sürüyor olsun. Listeyi ilişki başarısı saymak, bağlantıların önceki kökenini gizler. Yeni ilişkileri eski bağlardan ayırmak ve dışarıda kalanların deneyimini araştırmak gerekir; verinin varlığı ağın kapsayıcı olduğunu kanıtlamaz."
+          "text": "Varsayımsal mezun listesi çok sayıda kayıt içermekte, ancak ortak projeler yalnızca eski bir arkadaş grubu içinde sürmektedir. Listenin ilişki başarısı olarak yorumlanması, bağlantıların program öncesindeki kökenini görünmez kılar. Yeni ilişkiler ile önceki bağlar ayrılmalı ve dışarıda kalanların deneyimleri araştırılmalıdır. Veri kümesinin varlığı, ağın kapsayıcı olduğunu göstermez."
         },
         "checkpoint": {
-          "question": "Katılımcının sponsor ülkeyi eleştirmesi başarısızlık mı?",
-          "answer": "Mutlaka değil. Amaç bilgi ve karşılıklı anlayışsa, daha bilgili eleştiri öğrenmeyle uyumlu olabilir; değerlendirme açıklanmış amaca dayanmalıdır."
+          "question": "Destekçi ülkeye yönelik katılımcı eleştirisi hangi koşullarda öğrenmeyle uyumlu olabilir?",
+          "answer": "Programın amacı bilgi ve karşılıklı anlayışsa, daha bilgili eleştiri öğrenmeyle uyumlu olabilir. Bu nedenle eleştiri otomatik başarısızlık sayılmamalı; değerlendirme açıklanmış amaçlara dayanmalıdır."
         }
       },
       {
         "id": "transfer",
-        "title": "Bir mekanizma başka ülkeye nasıl taşınır?",
-        "why": "Başka yerde işe yarayan örgütsel biçimi kopyalamak, aynı sonucu üretmez.",
+        "title": "Mekanizmaların farklı ulusal bağlamlara aktarılması",
+        "why": "Örgütsel biçimin başka bağlama aktarılması, önceki sonuçların tekrarlanacağını garanti etmez.",
         "paragraphs": [
-          "Aktarılabilecek şeyleri ayırın: araç, örgütsel biçim ve mekanizma. Dil kursu bir araçtır; belli karar haklarına sahip enstitü örgütsel biçimdir; tekrarlanan temasın belirsizliği azaltması ise mekanizma iddiasıdır. Sonuncusu neden işlemesi beklendiğini açıkladığı için daha esnek aktarılabilir. Yine de güvenlik, dil, kaynak ve ortakların karar alanı gibi koşullara ihtiyaç duyar.",
-          "Karşılaştırma bağlamı “kültür farklı” cümlesiyle kapatmamalıdır. Hangi farkın hangi bağlantıyı değiştirdiğini belirtin. Vize sorunu temasın sürekliliğini, siyasi baskı eleştiri özgürlüğünü, yerel dil bilgisi içeriğin anlaşılmasını etkileyebilir. Bu şekilde bağlam, açıklamanın sonuna eklenmiş bir uyarı olmaktan çıkar; mekanizmanın işleyişini değiştiren gözlemlenebilir unsur hâline gelir.",
-          "Sonuç koşullu ve çift yönlü olmalıdır. Belirli düzenlemenin hangi kamular için yararlı göründüğünü ve kimlerin risk taşıdığını yazın. Katılımcıların öneriye itiraz edebilmesi, ortakların hedefleri değiştirebilmesi ve verilerin gereksiz biçimde toplanmaması aktarım tasarımının parçasıdır. Hızlı büyüme önerisi yerine küçük uygulama ve yeniden değerlendirme, belirsizliğin yüksek olduğu durumda daha savunulabilir olabilir."
+          "Aktarım incelemesi araçları, örgütsel biçimleri ve mekanizmaları ayırmalıdır. Dil kursu bir araç; belirli karar yetkilerine sahip enstitü bir örgütsel biçim; tekrarlanan temasın belirsizliği azaltması ise mekanizma iddiasıdır. Mekanizma, beklenen işleyişi açıkladığından daha esnek aktarılabilir. Bununla birlikte güvenlik, dil, kaynak ve ortakların karar alanı gibi koşullara bağlı kalır.",
+          "Bağlamsal açıklama, kültürlerin farklı olduğu yönündeki genel ifadeyle sınırlanmamalıdır. Hangi farklılığın hangi bağlantıyı değiştirdiği belirtilmelidir. Vize güçlükleri temasın sürekliliğini, siyasi baskı eleştiri özgürlüğünü, yerel dil bilgisi ise içeriğin anlaşılmasını etkileyebilir. Böylece bağlam, açıklamaya sonradan eklenen bir çekince yerine mekanizmanın işleyişini etkileyen gözlenebilir bir unsur olarak ele alınır.",
+          "Sonuç, faydaları ve riskleri birlikte belirten koşullu bir değerlendirme olmalıdır. Hangi kamuların yarar gördüğü ve kimlerin zarar riski taşıdığı açıklanmalıdır. Katılımcıların itiraz edebilmesi, ortakların amaçları değiştirebilmesi ve gereksiz veri toplanmaması aktarım tasarımının parçalarıdır. Yüksek belirsizlik altında, sınırlı uygulama ve yeniden değerlendirme, hızlı genişlemeye göre daha savunulabilir olabilir."
         ],
         "example": {
           "title": "Varsayımsal aktarım kararı",
-          "text": "Bir kurum başarılı görünen ortak atölyeyi başka ülkeye taşımak istiyor. İlk yerde yerel ortak gündemi belirlerken ikinci yerde buna izin verilmiyorsa, yalnız etkinlik biçimini kopyalamak aynı ilişki mekanizmasını korumaz. Tasarım önce karar hakkını açıklığa kavuşturmalı; sonuç iddiası bu koşula bağlanmalıdır."
+          "text": "Varsayımsal kurum, olumlu sonuç verdiği düşünülen ortak atölyeyi başka ülkeye aktarmayı planlamaktadır. İlk bağlamda yerel ortak gündemi belirlerken ikinci bağlamda bu yetkiye sahip değilse, etkinlik biçiminin aktarılması aynı ilişki mekanizmasını korumaz. Tasarım öncelikle karar yetkilerini açıklığa kavuşturmalı; beklenen sonuç bu koşula bağlanmalıdır."
         },
         "checkpoint": {
-          "question": "“Bu model en iyisidir” yerine hangi sonuç daha güçlüdür?",
-          "answer": "Belirli bir düzenin, tanımlanmış kamu ve koşullarda, hangi mekanizmayla hangi sonuca katkı verebildiğini kanıt sınırlarıyla açıklayan sonuç."
+          "question": "Genel bir üstünlük iddiasına göre hangi tür karşılaştırmalı sonuç daha güçlüdür?",
+          "answer": "Daha güçlü sonuç, belirli bir düzenlemenin tanımlanmış kamu ve koşullarda hangi mekanizmayla hangi sonuca katkıda bulunabildiğini kanıt sınırlarıyla birlikte açıklar."
         }
       }
     ],
     "visuals": [
       {
         "kind": "flow",
-        "title": "Yapılandırılmış karşılaştırmanın yolu",
+        "title": "Yapılandırılmış karşılaştırmanın aşamaları",
         "caption": "Bu araştırma sırası, bütün ülkelerin aynı gelişim yolunu izleyeceğini söylemez. Her aşamada açıklamayı değiştiren yerel bulgular korunur.",
         "nodes": [
           {
             "title": "Ortak soru",
-            "text": "Aynı amaç, dönem ve analiz düzeyini belirle."
+            "text": "Ortak amaç, dönem ve analiz düzeyi belirlenir."
           },
           {
             "title": "Çalışma düzeni",
-            "text": "Kaynak, karar hakkı ve yerel aracıyı incele."
+            "text": "Kaynaklar, karar yetkisi ve yerel aracılık incelenir."
           },
           {
             "title": "Alıcı deneyimi",
-            "text": "Temas, yorum ve devam eden ilişkiyi ayır."
+            "text": "Temas, yorum ve ilişkinin sürekliliği ayrıştırılır."
           },
           {
             "title": "Koşullu aktarım",
-            "text": "Ne, kimin için, hangi sınırlarla taşınabilir?"
+            "text": "Hangi unsur, hangi kamu için ve hangi sınırlarda aktarılabilir?"
           }
         ]
       },
@@ -149,7 +149,7 @@
           [
             "Yayıncılık",
             "Sık ve aracılı bilgi",
-            "Kullanım neden güven anlamına gelsin?"
+            "Kullanım hangi kanıtla güven olarak yorumlanabilir?"
           ],
           [
             "Kültür enstitüsü",
@@ -170,7 +170,7 @@
       },
       {
         "kind": "matrix",
-        "title": "İddia ile kanıtı eşleştirmek",
+        "title": "İddia ile kanıt arasındaki uygunluk",
         "caption": "Aynı kaynağın bir iddiada güçlü, başka bir iddiada zayıf olması beklenir.",
         "columns": [
           "İddia",
@@ -203,19 +203,19 @@
     ],
     "cases": [
       {
-        "title": "Varsayımsal vaka: Büyük bütçe, iyi model mi?",
-        "scenario": "İki kurumun yıllık raporları karşılaştırılıyor. Biri merkez binası ve burs giderlerini, diğeri yalnız yerel etkinlik giderlerini açıklıyor. Öğrenci büyük toplamı daha güçlü kamu diplomasisi sayıyor.",
+        "title": "Varsayımsal vaka: Bütçe büyüklüğü ve model değerlendirmesi",
+        "scenario": "Varsayımsal iki kurumun yıllık raporlarından biri merkez binası ve burs giderlerini, diğeri yalnızca yerel etkinlik giderlerini açıklamaktadır. Öğrenci, daha yüksek toplamı daha güçlü kamu diplomasisinin göstergesi olarak yorumlamaktadır.",
         "steps": [
           "Hesap kapsamlarını ayırın; hangi faaliyetlerin her iki kayıtta bulunduğunu belirleyin.",
           "Değerlendirme amacını seçin: yerel ilişki sürekliliği ise toplam gider tek başına uygun sonuç ölçüsü değildir.",
           "Katılım, geri dönüş ve ortak karar kayıtlarını aynı dönem için arayın; bulunmayan veriyi sıfır saymayın.",
           "Sonucu karşılaştırılabilen işlevlerle sınırlayın; kurumun tamamına veya ulusal modele genellemeyin."
         ],
-        "conclusion": "Önce kavramsal eşdeğerlik kurulur. Daha kesin hesap, uyumsuz kapsamı düzeltemez."
+        "conclusion": "Sayısal değerlendirmeden önce kavramsal eşdeğerlik kurulmalıdır. Hesaplamanın kesinliğini artırmak, kapsam uyumsuzluğunu gidermez."
       },
       {
         "title": "Varsayımsal vaka: Kültürel ilgi, siyasi eleştiri",
-        "scenario": "Bir kültür atölyesinin katılımcıları yeniden gelmek istiyor, fakat destekçi ülkenin dış politikasını eleştiriyor. Yönetici bunu çelişkili sonuç sayıyor.",
+        "scenario": "Varsayımsal kültür atölyesinde katılımcılar yeniden katılmak istediklerini belirtmekte, ancak destekçi ülkenin dış politikasını eleştirmektedir. Yönetici bu bulguları çelişkili olarak değerlendirmektedir.",
         "steps": [
           "Açıklanan amacı bulun: kültürel öğrenme, mesleki ilişki veya siyasi destek farklı hedeflerdir.",
           "Yeniden katılma isteğini gerçek sonraki katılımdan ayırın; ikisi için farklı kayıt gerekir.",
@@ -226,165 +226,165 @@
       }
     ],
     "practice": {
-      "title": "İki kuruma aynı soruları yöneltin",
-      "task": "Ortak Excel dosyasının öğrenci kanıt matrisinde bir yayıncı ve bir kültür enstitüsü için yapılandırılmış karşılaştırma kurun. Kaynak okumadıysanız kurumları varsayımsal olarak adlandırın.",
+      "title": "İki kurumun ortak sorularla karşılaştırılması",
+      "task": "Ortak Excel dosyasındaki öğrenci kanıt matrisini kullanarak bir yayıncı ile bir kültür enstitüsü için yapılandırılmış karşılaştırma hazırlayınız. Gerçek kaynaklar incelenmediyse kurumları açıkça varsayımsal olarak tanımlayınız.",
       "steps": [
         "Ortak soruyu ve karşılaştırmanın zaman aralığını yazın; farklı amaçların tek ölçüye sıkışmadığını kontrol edin.",
         "Karar yetkisi, yerel aracı, geri bildirim ve beklenen sonuç için ayrı satırlar oluşturun.",
         "Her satıra kaynak türü, mevcut gözlem ve çıkarım sınırı ekleyin.",
         "14 haftalık rehbere, bir uygulamanın başka bağlama aktarılması için gerekli iki koşulu yazın."
       ],
-      "modelAnswer": "Varsayımsal sonuç: Yayıncı bilgiye düzenli erişim, enstitü tekrarlanan kişiler arası temas sunuyor. Karşılıklı güven iddiası her ikisinde de alıcı araştırması gerektirir. Yerel karar alanı ve eleştiri güvenliği korunmadan enstitü modelinin aynı sonucu vereceği söylenemez."
+      "modelAnswer": "Varsayımsal sonuç: Yayıncı bilgiye düzenli erişim, enstitü ise tekrarlanan kişiler arası temas sağlamaktadır. Her iki durumda da karşılıklı güven iddiası alıcı araştırması gerektirir. Yerel karar alanı ve güvenli eleştiri imkânı korunmadıkça enstitü modelinin aynı sonuçları üreteceği varsayılamaz."
     },
     "faqs": [
       {
-        "question": "Tek bir ulusal modelden söz etmek yanlış mı?",
-        "answer": "Bir başlangıç sınıflaması olabilir. Fakat kurumlar arasındaki karar, finansman ve temas farklarını gizlememelidir; açıklama mümkün olduğunca belirli program düzeyine inmelidir."
+        "question": "Ulusal model kavramı hangi sınırlılıklar içinde kullanılabilir?",
+        "answer": "Ulusal model başlangıç sınıflaması sağlayabilir; ancak kurumlar arasındaki karar, finansman ve temas farklılıklarını gizlememelidir. Açıklama, mümkün olduğunca belirli program düzeyinde geliştirilmelidir."
       },
       {
-        "question": "Sayısal veriler karşılaştırmada işe yaramaz mı?",
-        "answer": "Yarar; ancak aynı kapsam, dönem ve tanımlarla üretildiklerinde. Sayılar karşılaştırılabilirliği kurmaz, önceden kurulmuş karşılaştırmaya bilgi sağlar."
+        "question": "Sayısal veriler karşılaştırmaya hangi koşullarda katkı sağlar?",
+        "answer": "Kapsam, dönem ve tanımlar uyumlu olduğunda katkı sağlar. Sayısal veriler, önceden kurulmuş karşılaştırılabilirliği değerlendirir; kavramsal eşdeğerliği kendiliğinden oluşturmaz."
       },
       {
         "question": "Alıcıların eylem kapasitesi ne demektir?",
-        "answer": "İçeriği yorumlama, reddetme, yeniden kullanma ve programı değiştirmeye çalışma imkânıdır. Alıcılar yalnız göndericinin niyetini taşıyan son durak değildir."
+        "answer": "Alıcıların eylem kapasitesi, içeriği yorumlama, reddetme, yeniden kullanma ve programı değiştirmeye çalışma imkânını ifade eder. Alıcılar, göndericinin niyetini değişmeden aktaran pasif unsurlar olarak değerlendirilemez."
       }
     ],
     "sourceNote": "Bu ek, 13. hafta ders içeriği ve başlangıç rehberindeki karşılaştırma çerçevesini genişletir. Kurum adları farklı çalışma biçimlerini açıklamak içindir; güncel performans sıralaması yapılmamaktadır. Varsayımsal vakalar gerçek kurumlara atfedilen bulgular değildir. Schindler’in örüntüleri sınanabilir soruların kaynağı olarak kullanılır."
   },
   "en": {
-    "orientation": "Comparative public diplomacy does more than rank institutions by visibility or budgets. It investigates how apparently similar activities acquire different meanings and consequences under different conditions. This week turns historical patterns into testable questions and examines cultural institutes, broadcasters, exchanges and digital networks as different operating arrangements. The aim is to explain which mechanisms can travel under which conditions, not nominate a universally superior country. Common questions must preserve differences in local history and recipient experience.",
+    "orientation": "Comparative public diplomacy examines how apparently similar activities acquire different meanings and consequences under different conditions, beyond ranking institutions by visibility or budgets. This week develops testable questions from historical patterns and examines cultural institutes, broadcasters, exchange programmes and digital networks as distinct operating arrangements. The aim is to explain the conditions under which mechanisms may be transferred, rather than identify a universally applicable national model. Common research questions must preserve differences in local histories and recipient experiences.",
     "sections": [
       {
         "id": "patterns",
         "title": "From historical patterns to research questions",
-        "why": "A recurring practice is not an unchanging law of success.",
+        "why": "Recurring practices cannot be treated as invariant principles of success.",
         "paragraphs": [
-          "Schindler’s historical approach identifies foreign public engagement before modern terminology. That continuity is the book’s overall finding, not one of its five concluding patterns. Those patterns concern communication, engagement methods, people and organisations, public-private partnerships, and publics in international relations. They organise inquiry without establishing in advance that an activity worked.",
-          "Convert a pattern into an explanatory proposition by specifying a mechanism, condition and possible counterevidence. A mechanism describes the intermediate processes through which an effect might arise. Local partners’ linguistic and relational knowledge may improve understanding, provided they have genuine decision space. Records repeatedly rejecting local advice would weaken this proposed explanation.",
-          "Consider two readings together. A continuity interpretation emphasises methods recurring under new institutional arrangements. A contextual interpretation emphasises similar methods serving different purposes and publics. The same instrument can persist while its meaning changes. Comparison should explain that change instead of using similar labels as evidence of unchanged outcomes."
+          "Schindler’s long-term approach identifies engagement with foreign publics before the emergence of modern terminology. This continuity is the book’s overarching finding; it should not be classified as one of the five patterns in its concluding synthesis. Those patterns concern communication, engagement methods, people and organisations, public-private partnerships, and the role of publics in international relations. They organise inquiry without predetermining the success of a particular activity.",
+          "Translating a pattern into an explanatory proposition requires specification of a mechanism, a condition and possible counterevidence. A mechanism identifies the intermediate processes through which an effect might arise. For example, local partners’ linguistic and relational knowledge may facilitate comprehension, conditional on their effective decision authority. Documents showing repeated rejection of local recommendations would weaken the proposed mechanism.",
+          "Two interpretations should be assessed together. A continuity interpretation emphasises the recurrence of methods under new institutional arrangements. A contextual interpretation emphasises that similar methods may serve different purposes and publics. An instrument can persist while its meaning changes. Comparative analysis should explain this transformation rather than treat similar terminology as evidence of unchanged outcomes."
         ],
         "example": {
           "title": "Hypothetical pattern test",
-          "text": "Suppose both programmes work with local associations. In one, the association can change the agenda; in the other, it only recruits participants. Both may qualify as public-private partnerships without sharing the same mechanism. Investigate decision rights and resource sharing before claiming equivalence."
+          "text": "Both hypothetical programmes involve partnerships with local associations. In one, the association can modify the agenda; in the other, it only recruits participants. Classifying both as public-private partnerships does not establish a common mechanism. An equivalence claim requires examination of the allocation of decision rights and the sharing of resources."
         },
         "checkpoint": {
-          "question": "How does a pattern differ from a success score?",
+          "question": "How should a historical pattern be distinguished from a measure of success?",
           "answer": "It proposes questions and connections to investigate; it does not establish an effect or its size beforehand."
         }
       },
       {
         "id": "equivalence",
-        "title": "Comparability comes before numbers",
-        "why": "Counting different things under one heading creates precise-looking but misleading results.",
+        "title": "Conceptual equivalence as a condition of quantitative comparison",
+        "why": "Counting different activities within one category may produce misleading results despite apparent numerical precision.",
         "paragraphs": [
-          "Conceptual equivalence means observations carry sufficiently similar meanings to answer a common question. Public diplomacy budgets covering different activities are not directly comparable. One may include scholarships and broadcasting while another covers only a communications unit. Currency conversion does not fix coverage differences; first establish which functions and periods the totals represent.",
-          "Structured comparison asks common questions: who defines the purpose, which public is addressed, who is absent, who controls resources, and what can local intermediaries change? Common questions constrain choosing measures favourable to a preferred case. They should not become an assumption that local concepts and experiences mean exactly the same thing everywhere.",
-          "Countries, institutions, programmes and individuals are different levels of analysis. Extending findings from one institute to a whole national model changes the level without justification. National popularity likewise does not establish a course’s effect. Specify the unit of the conclusion: which institutional programme, in which location, among which participants and over which period?"
+          "Conceptual equivalence requires observations to carry sufficiently similar meanings to address a common question. National public diplomacy budgets covering different activities are not directly comparable. One total may include scholarships and broadcasting while another covers only a communications unit. Currency conversion does not resolve this difference in scope; the functions and periods represented by each total must first be specified.",
+          "Structured comparison applies common questions to each case: who defines the purpose, which public is addressed, who is excluded, who controls resources and authority, and what can local intermediaries change? This approach constrains the selection of measures favouring a preferred case. Common questions should nevertheless not imply that local concepts and experiences have identical meanings in every context.",
+          "Countries, institutions, programmes and individuals constitute different levels of analysis. Generalising from one institute to an entire national model requires justification for the change in analytical level. National popularity likewise does not establish a specific course’s effect. The unit of inference should be defined at the outset: which institutional programme is being assessed, in which location, among which participants and over which period."
         ],
         "example": {
           "title": "Hypothetical budget comparison",
-          "text": "Country A reports scholarships, cultural centres and broadcasting; country B reports only foreign-ministry communication costs. A larger total does not establish greater effort or a more effective model. Isolate common functions, then explain local partner contributions and accounting periods before interpreting differences."
+          "text": "In the hypothetical comparison, country A’s budget covers scholarships, cultural centres and broadcasting, while country B’s covers only foreign-ministry communication expenditure. A larger total for A does not establish greater effort or a more effective model. Common functions must first be isolated, followed by clarification of local partner contributions and accounting periods."
         },
         "checkpoint": {
-          "question": "Why is a common currency insufficient?",
+          "question": "Why does a common currency not independently establish comparability?",
           "answer": "It does not align the activities covered; different contents can still be counted in the same monetary unit."
         }
       },
       {
         "id": "institutes",
-        "title": "Cultural institutes as relationship infrastructure",
+        "title": "Cultural institutes as infrastructure for relationships",
         "why": "Visible events do not establish relationship quality or continuity.",
         "paragraphs": [
-          "Cultural institutes can translate national presence into local encounters through language, arts and education. Classifying the British Council and Goethe-Institut together does not imply identical governance. Legal position, funding, appointments and programme choices can differ. Investigate who can change which decisions instead of relying on an institution’s description of itself as autonomous.",
+          "Cultural institutes may translate national presence into local encounters through language teaching, arts and education. Classifying the British Council and Goethe-Institut together does not imply identical governance. Their legal positions, funding, appointments and programme choices may differ. Autonomy should be assessed through the authority of particular actors to change decisions, rather than institutional self-description alone.",
           "Language learning may reduce the cost of future communication; artistic collaboration may sustain cooperation despite disagreement. These are conditional mechanisms. Local teachers and participants can make a programme reciprocal when they influence content. Distributing centrally prepared material may generate visibility while missing local needs. Equal event totals cannot distinguish these operating arrangements.",
-          "Follow who returns, whether partnerships survive staff turnover and whether criticism affects decisions. Continuity can be encouraging, yet people excluded by cost, location or language remain invisible. Investigate participation boundaries alongside the experiences of those inside. A popular cultural activity should not be equated with support for the sponsoring country’s foreign policy."
+          "Relationship continuity can be examined through return participation, the persistence of partnerships after staff turnover and the influence of criticism on decisions. Continuity may be a favourable indication, yet those excluded by cost, location or language may remain absent from the record. Participation boundaries therefore require investigation alongside participant experiences. Cultural popularity does not establish endorsement of the sponsoring country’s foreign policy."
         ],
         "example": {
           "title": "Hypothetical course evaluation",
-          "text": "Students enjoy a language course, but local teachers cannot propose programme changes. Preserve the satisfaction finding while recognising that it does not establish reciprocal agenda-setting or institutional autonomy. Teachers’ decision space is a separate evaluation question from student experience."
+          "text": "In the hypothetical language centre, students report satisfaction with classes, while local teachers lack authority to propose programme changes. The satisfaction finding should be retained without treating it as evidence of reciprocal agenda-setting or institutional autonomy. Teachers’ decision authority and student experience are separate dimensions of evaluation."
         },
         "checkpoint": {
-          "question": "What does a full course not prove?",
+          "question": "Which outcomes cannot be established solely by a course reaching capacity?",
           "answer": "Reciprocity, openness to criticism or endorsement of the sponsoring state’s foreign policy."
         }
       },
       {
         "id": "broadcasting",
-        "title": "Investigating broadcaster credibility",
+        "title": "Assessing credibility in international broadcasting",
         "why": "Reach, trust and political support require distinct evidence.",
         "paragraphs": [
           "International broadcasters can maintain frequent contact at scale through news and analysis. BBC World Service and Deutsche Welle illustrate an arrangement different from cultural institutes’ interpersonal relationships. A government may value national visibility while an audience values otherwise unavailable or more reliable information. These interests can overlap without being identical.",
-          "Editorial distance concerns how far news decisions can be separated from political instruction. Source attribution, distinguishing news from commentary, correcting errors and reporting inconvenient developments are observable signs. Assess repeated practice under difficult conditions rather than one favourable example. An institutional independence statement cannot replace evidence of actual decisions.",
+          "Editorial distance concerns the extent to which news decisions can be separated from political instructions. Source attribution, distinctions between news and commentary, corrections and reporting developments uncomfortable for the funder are observable indicators. Evaluation should examine repeated practice under challenging conditions rather than rely on a single favourable instance. A declaration of independence cannot replace evidence of actual decision processes.",
           "Signal availability, verified listening and recipient interpretation are different stages. Regular audiences may listen because they trust a service, but also to monitor an opponent, learn a language or find entertainment. These alternatives require separate measures of use and trust. Local distributors and platforms also shape the context in which content is encountered."
         ],
         "example": {
-          "title": "Hypothetical puzzle about use",
-          "text": "An interviewee regularly watches a foreign service “to see what they will say.” This establishes use, not trust. Ask separately which reports the person considers accurate and how they check information elsewhere. Viewing frequency alone cannot identify these different interpretations."
+          "title": "Hypothetical interpretation of broadcasting use",
+          "text": "In the hypothetical interview, a participant reports watching a foreign service regularly “to see what they will say.” The account supports use without establishing trust. Separate questions should investigate which reports the participant considers accurate and how information is checked against other sources. Viewing frequency alone cannot distinguish these interpretations."
         },
         "checkpoint": {
-          "question": "Why can editorial distance not be read from an institution’s name?",
+          "question": "Why can editorial distance not be inferred solely from an institution’s name or status?",
           "answer": "Names and status do not reveal decisions. Examine appointments, content choices, corrections and responses to intervention."
         }
       },
       {
         "id": "networks",
-        "title": "Who makes relationships in exchanges and networks?",
+        "title": "Relationship formation in exchanges and networks",
         "why": "Participants are not passive carriers of a sender’s message.",
         "paragraphs": [
-          "Exchange places people inside relationships rather than simply before messages. Learning depends on selection, preparation, host experience, discussion freedom and continuing contact. Attributing relationships in multilateral programmes such as Erasmus+ to one state is especially difficult. Participants encounter multiple institutions and individuals and may interpret each connection differently.",
-          "Selection produces an important rival explanation. If internationally oriented people join a programme, favourable later attitudes cannot be attributed entirely to it. Record earlier orientations and networks. Alumni attaining influential positions also does not establish programme influence: seek evidence that a programme relationship entered an actual decision or collaborative activity.",
+          "Exchange programmes situate participants within relationships as well as exposing them to messages. Learning depends on selection, preparation, host experience, freedom of discussion and continuing contact. Reducing relationships in multilateral programmes such as Erasmus+ to the influence of one state is particularly problematic. Participants encounter multiple institutions and individuals, and may assess each connection differently.",
+          "Participant selection creates an important rival explanation. Where participants already have international orientations, subsequent favourable attitudes cannot be attributed entirely to the programme. Initial orientations and prior networks should be recorded. Alumni attaining influential positions also does not independently establish programme influence; evidence is needed that relationships formed through the programme contributed to an actual decision or collaborative activity.",
           "Digital networks can connect distant participants, but connection counts do not establish quality. Network analysis maps who bridges separate groups; other evidence is needed to determine whether those ties are safe, reciprocal or useful. Platform ranking, data collection and harassment introduce additional intermediaries and risks. Network growth is not equivalent to increased participant decision power."
         ],
         "example": {
           "title": "Hypothetical alumni network",
-          "text": "An alumni list has many records, but joint projects continue only within an old friendship group. Treating the list as relationship success hides earlier origins. Separate new relationships from existing ties and investigate excluded participants’ experiences. Having a dataset does not establish an inclusive network."
+          "text": "The hypothetical alumni register contains numerous records, but joint projects continue only within an established friendship group. Interpreting the register as evidence of relational success obscures the pre-programme origins of these connections. New relationships must be distinguished from prior ties, and the experiences of excluded participants investigated. The existence of a dataset does not establish network inclusiveness."
         },
         "checkpoint": {
-          "question": "Does criticism of the sponsoring country mean failure?",
-          "answer": "Not necessarily. If the purpose is learning and mutual understanding, better-informed criticism may fit it. Evaluate against the stated purpose."
+          "question": "Under which conditions can participant criticism of the sponsoring country be compatible with learning?",
+          "answer": "If the programme aims to develop knowledge and mutual understanding, better-informed criticism may be compatible with learning. Criticism should therefore not automatically be classified as failure; assessment must refer to stated purposes."
         }
       },
       {
         "id": "transfer",
-        "title": "How can a mechanism travel to another country?",
-        "why": "Copying an organisational form does not reproduce its results.",
+        "title": "Transferring mechanisms across national contexts",
+        "why": "Transferring an organisational form does not guarantee reproduction of its previous outcomes.",
         "paragraphs": [
-          "Distinguish instruments, organisational forms and mechanisms. A language course is an instrument; an institute with specified decision rights is an organisational form; repeated contact reducing uncertainty is a mechanism claim. The mechanism can travel more flexibly because it explains why something might work. It still requires conditions such as safety, language, resources and partner decision space.",
-          "Do not conclude with the vague statement that cultures differ. Specify which difference changes which connection. Visa difficulties can interrupt contact, political pressure can restrict criticism, and language knowledge can affect comprehension. Context then becomes an observable part of the explanation rather than a warning attached after the argument is complete.",
-          "Conclusions should identify both benefits and risks. Specify which publics appear to benefit and who bears possible harm. Participants’ ability to object, partners’ ability to reshape objectives and avoiding unnecessary data collection belong inside transfer design. Under substantial uncertainty, a limited application followed by reassessment may be more defensible than rapid expansion."
+          "Transfer analysis should distinguish instruments, organisational forms and mechanisms. A language course is an instrument; an institute with specified decision rights is an organisational form; repeated contact reducing uncertainty is a mechanism claim. Mechanisms may be transferred more flexibly because they explain the expected process. They nevertheless remain conditional on factors such as safety, language, resources and partners’ decision authority.",
+          "Contextual explanation should extend beyond the general assertion that cultures differ. Analysis must specify which difference alters which connection. Visa difficulties may interrupt contact, political pressure may restrict criticism, and local language knowledge may influence comprehension. Context can then be examined as an observable determinant of the mechanism’s operation, rather than a qualification appended after the explanation.",
+          "Conclusions should provide a conditional assessment of benefits and risks, specifying which publics appear to benefit and who may experience harm. Participants’ ability to object, partners’ authority to revise purposes and the avoidance of unnecessary data collection are components of transfer design. Under substantial uncertainty, limited implementation followed by reassessment may be more defensible than rapid expansion."
         ],
         "example": {
           "title": "Hypothetical transfer decision",
-          "text": "An institution wants to reproduce a promising joint workshop abroad. Local partners set its original agenda but cannot do so in the new location. Copying the event format does not preserve the relationship mechanism. Clarify decision rights first and make the expected result conditional on that arrangement."
+          "text": "A hypothetical institution plans to transfer a joint workshop associated with favourable results to another country. Local partners determine the agenda in the original setting but lack that authority in the second. Transferring the event format does not preserve the same relationship mechanism. Decision rights must first be clarified, and the expected result made conditional on that arrangement."
         },
         "checkpoint": {
-          "question": "What is stronger than declaring one model best?",
-          "answer": "Explain which arrangement contributes to which result, for a specified public and conditions, while stating evidentiary limits."
+          "question": "What form of comparative conclusion is stronger than a general claim of superiority?",
+          "answer": "A stronger conclusion explains how a specified arrangement may contribute to an outcome through a particular mechanism, for a defined public and under stated conditions, with explicit evidentiary limits."
         }
       }
     ],
     "visuals": [
       {
         "kind": "flow",
-        "title": "The path of structured comparison",
+        "title": "Stages of structured comparison",
         "caption": "This research sequence does not assume countries share one development path. Preserve local findings that change the explanation at every stage.",
         "nodes": [
           {
             "title": "Common question",
-            "text": "Specify purpose, period and level of analysis."
+            "text": "Establish a common purpose, period and level of analysis."
           },
           {
             "title": "Operating arrangement",
-            "text": "Examine resources, decision rights and mediation."
+            "text": "Examine resources, decision rights and local mediation."
           },
           {
             "title": "Recipient experience",
-            "text": "Separate contact, interpretation and continuing relationships."
+            "text": "Distinguish contact, interpretation and relationship continuity."
           },
           {
             "title": "Conditional transfer",
-            "text": "What can travel, for whom and within which limits?"
+            "text": "Which component can be transferred, for which public and within which limits?"
           }
         ]
       },
@@ -401,7 +401,7 @@
           [
             "Broadcasting",
             "Frequent mediated information",
-            "Why should use imply trust?"
+            "Which evidence permits use to be interpreted as trust?"
           ],
           [
             "Cultural institute",
@@ -422,7 +422,7 @@
       },
       {
         "kind": "matrix",
-        "title": "Match claims with evidence",
+        "title": "Correspondence between claims and evidence",
         "caption": "A source can be strong for one claim and weak for another.",
         "columns": [
           "Claim",
@@ -455,19 +455,19 @@
     ],
     "cases": [
       {
-        "title": "Hypothetical case: A large budget, a better model?",
-        "scenario": "One annual report includes headquarters and scholarships; another covers only local events. A student treats the larger total as stronger public diplomacy.",
+        "title": "Hypothetical case: Budget size and model evaluation",
+        "scenario": "Of two hypothetical institutions’ annual reports, one includes headquarters and scholarship expenditure while the other covers only local events. A student interprets the larger total as an indicator of stronger public diplomacy.",
         "steps": [
           "Separate accounting coverage and identify functions present in both records.",
           "Specify the evaluation purpose. If it concerns local relationships, total expenditure alone is an unsuitable outcome measure.",
           "Seek attendance, return participation and joint decision records for a common period. Do not treat missing data as zero.",
           "Limit conclusions to comparable functions rather than the whole institution or national model."
         ],
-        "conclusion": "Establish conceptual equivalence first. More precise arithmetic cannot repair incompatible coverage."
+        "conclusion": "Conceptual equivalence must precede numerical assessment. Increasing arithmetic precision does not resolve incompatible scope."
       },
       {
         "title": "Hypothetical case: Cultural interest and political criticism",
-        "scenario": "Workshop participants want to return but criticise the sponsoring country’s foreign policy. A manager sees contradictory findings.",
+        "scenario": "Participants in a hypothetical cultural workshop express an intention to return while criticising the sponsoring country’s foreign policy. A manager interprets these findings as contradictory.",
         "steps": [
           "Identify the stated purpose: cultural learning, professional relationships and political support are different objectives.",
           "Distinguish intentions to return from actual subsequent attendance; each needs different records.",
@@ -478,28 +478,28 @@
       }
     ],
     "practice": {
-      "title": "Ask two institutions the same questions",
-      "task": "Use the shared workbook’s student evidence matrix to compare a broadcaster and a cultural institute. Label them hypothetical unless you have consulted actual sources.",
+      "title": "Comparing two institutions through common questions",
+      "task": "Use the shared workbook’s student evidence matrix to prepare a structured comparison of a broadcaster and a cultural institute. Explicitly label the institutions hypothetical where actual sources have not been consulted.",
       "steps": [
         "Write a common question and period. Check that different purposes are not compressed into one measure.",
         "Create separate entries for decision authority, local mediation, feedback and expected outcomes.",
         "Add source type, available observation and inference limits to each entry.",
         "In the 14-week guide, state two conditions required to transfer one practice elsewhere."
       ],
-      "modelAnswer": "Hypothetical conclusion: the broadcaster offers regular information access while the institute provides repeated interpersonal contact. Mutual trust claims require recipient research in both cases. Similar results from the institute model cannot be assumed without local decision space and safe criticism."
+      "modelAnswer": "Hypothetical conclusion: the broadcaster provides regular access to information, while the institute enables repeated interpersonal contact. Claims about mutual trust require recipient research in both cases. Similar outcomes from the institute model cannot be assumed unless local decision authority and opportunities for safe criticism are maintained."
     },
     "faqs": [
       {
-        "question": "Is speaking of a national model wrong?",
-        "answer": "It can be an initial classification, but should not conceal differences in decisions, funding and contact among institutions. Explanations should reach the specified programme where possible."
+        "question": "Within which limitations can the concept of a national model be used?",
+        "answer": "A national model may provide an initial classification, but must not conceal differences in decisions, funding and contact among institutions. Explanations should be developed at the level of specified programmes wherever possible."
       },
       {
-        "question": "Are numbers unhelpful in comparison?",
-        "answer": "They help when scope, period and definitions align. Numbers inform a comparison whose equivalence has already been established; they do not create equivalence themselves."
+        "question": "Under which conditions do numerical data contribute to comparison?",
+        "answer": "They contribute when scope, periods and definitions are aligned. Numerical data inform a comparison whose comparability has already been established; they do not independently produce conceptual equivalence."
       },
       {
         "question": "What does recipient agency mean?",
-        "answer": "The ability to interpret, reject, reuse content and try to change a programme. Recipients are not merely the final destination carrying a sender’s intentions."
+        "answer": "Recipient agency refers to the capacity to interpret, reject and reuse content, and to seek changes in a programme. Recipients cannot be treated as passive elements transmitting the sender’s intentions without alteration."
       }
     ],
     "sourceNote": "This supplement extends the comparison framework in the week 13 course material and introductory guide. Institutional names illustrate operating differences rather than current performance rankings. Hypothetical cases are not findings about real institutions. Schindler’s patterns supply questions that remain open to testing."

@@ -1,52 +1,52 @@
 {
   "week": 1,
   "tr": {
-    "title": "Güç: Elinizde olanla değiştirdiğiniz şeyi ayırın",
-    "nutshell": "Bir ülkenin parası, ordusu veya sevilen filmleri olabilir. Bunlar kaynaklardır. Gücü anlamak için bir adım daha gerekir: Bu kaynaklar başka birinin düşüncesini veya davranışını nasıl değiştirdi? Bu hafta, 'çok şeyi var' ile 'bir sonuç elde etti' arasındaki yolu inceleyeceğiz.",
-    "analogy": "Varsayımsal bir okul kulübü düşünün. İyi bir salonunuz olması kaynak, film gecesi düzenlemek faaliyet, insanların gelmesi katılımdır. Gelenlerin kulübe güvenmesi ve daha sonra üye olması farklı sonuçlardır. Kalabalık bir salon, herkesin fikrinin değiştiğini göstermez. Aynı ayrım ülkelerin iletişiminde de işe yarar.",
+    "title": "Güç: Kaynaklar ile sonuçlar arasındaki ayrım",
+    "nutshell": "Bir ülkenin mali imkânları, ordusu ve uluslararası ilgi gören filmleri güç kaynakları olarak değerlendirilebilir. Güç analizi, bu kaynakların başka aktörlerin düşünce veya davranışlarında hangi süreçlerle değişim yarattığını da açıklamalıdır. Bu hafta, kaynaklara sahip olma ile belirli sonuçlara ulaşma arasındaki ilişki incelenmektedir.",
+    "analogy": "Varsayımsal bir okul kulübünde uygun bir salon kaynak, film gecesi düzenlenmesi faaliyet, etkinliğe gelenlerin sayısı ise katılım göstergesidir. Katılımcıların kulübe güven duyması ve daha sonra üye olması birbirinden farklı sonuçlardır. Salonun dolu olması, katılımcıların görüşlerinin değiştiğini kanıtlamaz. Bu ayrım, devletlerin iletişim faaliyetlerinin değerlendirilmesine de uygulanabilir.",
     "objectives": [
-      "Kaynağı, yapılan faaliyeti ve elde edilen sonucu ayrı cümlelerle anlatmak.",
-      "Bir kişinin ödül, baskı veya çekicilik nedeniyle mi karşılık verdiğini sorgulamak.",
-      "Bir başarı iddiasında eksik olan kanıtı bulmak ve daha ölçülü bir sonuç yazmak."
+      "Kaynak, faaliyet ve sonucu ayrı analitik düzeyler olarak tanımlamak.",
+      "Bir aktörün tepkisini ödül, baskı veya çekicilik mekanizmaları bakımından değerlendirmek.",
+      "Bir başarı iddiasının kanıt eksikliklerini belirlemek ve kanıtın kapsamına uygun bir sonuç oluşturmak."
     ],
     "concepts": [
       {
         "term": "Kaynak",
-        "meaning": "Bir aktörün kullanabileceği imkândır. Aktör, burada bir kişi, kurum veya devlet demektir.",
+        "meaning": "Bir aktörün kullanabileceği imkân veya kapasitedir. Aktör kavramı burada kişi, kurum veya devleti ifade eder.",
         "example": "Bütçe ve saygın bir üniversite kaynak olabilir; bunlara sahip olmak tek başına etki kanıtı değildir."
       },
       {
         "term": "Sert güç",
         "meaning": "Karşı tarafın beklediği maddi kazancı veya kaybı değiştirerek davranışını etkilemektir.",
-        "example": "Varsayımsal olarak, belirli bir karara bağlanan ödeme maddi teşviktir; dostça görünmesi onu kendiliğinden yumuşak güç yapmaz."
+        "example": "Varsayımsal olarak, belirli bir karara bağlanan ödeme maddi teşvik oluşturur; ilişkinin dostane niteliği bu teşviki kendiliğinden yumuşak güç hâline getirmez."
       },
       {
         "term": "Yumuşak güç",
-        "meaning": "Çekicilik ve davranışlarının haklı, kabul edilebilir bulunması yoluyla tercihleri şekillendirme kapasitesidir.",
+        "meaning": "Tercihleri çekicilik ve aktörün davranışlarına atfedilen meşruiyet yoluyla şekillendirme kapasitesidir. Meşruiyet, davranışların haklı veya kabul edilebilir bulunmasını ifade eder.",
         "example": "Bir üniversiteye duyulan hayranlık olası bir kaynak olabilir; ülkenin bütün politikalarının desteklendiğini göstermez."
       },
       {
         "term": "Kamu diplomasisi",
-        "meaning": "Dış amaçlarla bağlantılı olarak başka ülkelerdeki insanlarla örgütlü etkileşim kurmaktır. Devlet dışındaki ortaklar da katılabilir.",
-        "example": "Bir eğitim değişimi bilgi ve ilişki sağlayabilir; katılanların olumlu düşünmesini veya aynı politikayı desteklemesini garanti etmez."
+        "meaning": "Dış amaçlarla bağlantılı olarak yabancı kamularla kurulan örgütlü etkileşimdir. Devlet dışı ortaklar da bu sürece katılabilir.",
+        "example": "Eğitim değişimi bilgi ve ilişki sağlayabilir; katılımcıların olumlu değerlendirmelerini veya belirli bir politikaya destek vermelerini garanti etmez."
       }
     ],
     "steps": [
       {
-        "title": "1. İstenen değişimi söyleyin",
-        "text": "Kim, kimin, hangi konuda değişmesini istiyor? 'Ülke daha sevilsin' yerine belirli bir hedef seçin. Bilgi artışı mı, güven mi, bir karar mı arandığını açıklayın."
+        "title": "1. Amaçlanan değişimin tanımlanması",
+        "text": "Değişimi amaçlayan aktörü, hedef aktörü ve ilgili meseleyi belirleyiniz. Ülkenin genel popülerliğini artırmak gibi geniş bir hedefi, bilgi artışı, güven veya belirli bir karar bakımından tanımlayınız."
       },
       {
-        "title": "2. Aradaki yolu bulun",
-        "text": "Ne yapıldı ve insanlar bunu nasıl yorumladı? Bu yorumlama aşamasına alımlama denir. Katılım sayısı ile katılımcının ne anladığını ayrı kaydedin; dinleyiciler aynı mesajı farklı okuyabilir."
+        "title": "2. Etki sürecinin incelenmesi",
+        "text": "Gerçekleştirilen faaliyeti ve muhatapların bunu nasıl yorumladığını inceleyiniz. Bu anlamlandırma süreci alımlama olarak adlandırılır. Katılım sayısını katılımcıların yorumlarından ayrı kaydediniz; farklı kamular aynı mesajı farklı biçimlerde anlamlandırabilir."
       },
       {
-        "title": "3. Başka nedenleri düşünün",
-        "text": "Gözlenen değişim program olmadan da yaşanabilir miydi? Önceden var olan ilgi veya ortak çıkar da etkili olabilir. Yalnızca iki olayın art arda gelmesi, ilkinin ikincisine neden olduğunu kanıtlamaz."
+        "title": "3. Alternatif nedenlerin değerlendirilmesi",
+        "text": "Gözlenen değişimin program olmadan da gerçekleşip gerçekleşemeyeceğini değerlendiriniz. Önceden var olan ilgi veya ortak çıkarlar da etkili olabilir. İki olayın zamansal olarak birbirini izlemesi, ilk olayın ikincisine neden olduğunu kanıtlamaz."
       }
     ],
     "diagram": {
-      "title": "İddianın dört kontrol noktası",
+      "title": "Bir iddianın değerlendirilmesinde dört aşama",
       "nodes": [
         {
           "title": "Kaynak",
@@ -54,94 +54,94 @@
         },
         {
           "title": "Faaliyet",
-          "text": "Bu imkânla ne yapıldı?"
+          "text": "Kapasite hangi faaliyette kullanıldı?"
         },
         {
           "title": "Alımlama",
-          "text": "İnsanlar ne anladı veya hissetti?"
+          "text": "Muhatapların yorumları veya duygusal tepkileri nelerdi?"
         },
         {
           "title": "Sonuç",
           "text": "Hangi tercih ya da davranış değişti?"
         }
       ],
-      "caption": "Oklar başarı garantisi değildir. Her geçiş ayrı kanıt ister; süreç herhangi bir noktada durabilir veya beklenmeyen tepki doğurabilir."
+      "caption": "Oklar, gerçekleşmesi ayrıca sınanması gereken bağlantıları gösterir. Her geçiş ayrı kanıt gerektirir; süreç herhangi bir aşamada kesintiye uğrayabilir veya beklenmedik tepkiler üretebilir."
     },
     "workedExample": {
-      "title": "Örnek çözüm: Bir bursun etkisi",
-      "scenario": "Varsayımsal örnek: Bir ülke on öğrenciye burs verir. Program sonunda sekiz öğrenci üniversiteyi beğendiğini söyler. Yönetici, bunun ülkenin dış politikasına destek yarattığını ileri sürer.",
+      "title": "Çözümlü örnek: Bir burs programının etkisi",
+      "scenario": "Varsayımsal örnek: Bir ülke on öğrenciye burs sağlar. Program sonunda sekiz öğrenci üniversiteye ilişkin olumlu değerlendirme bildirir. Bir yönetici, programın ülkenin dış politikasına destek yarattığını ileri sürer.",
       "steps": [
-        "Bursları faaliyet, sekiz olumlu yanıtı üniversiteye ilişkin değerlendirme olarak ayırın. Bunlar aynı ölçüm değildir.",
-        "Öğrencilerin başlangıçtaki görüşlerini ve dış politika hakkındaki ayrı yanıtlarını arayın. Üniversiteyi beğenmek o politikayı onaylamak demek değildir.",
-        "Sonucu daraltın: Bu yanıtlar üniversiteye yönelik olumlu değerlendirmeyi gösterir; dış politika desteğindeki değişimi henüz göstermez."
+        "Bursların sağlanmasını faaliyet, sekiz olumlu yanıtı ise üniversiteye ilişkin değerlendirme olarak sınıflandırınız. Bu gözlemler farklı analitik düzeylere ilişkindir.",
+        "Öğrencilerin başlangıçtaki görüşlerini ve dış politikaya ilişkin ayrı yanıtlarını araştırınız. Üniversitenin olumlu değerlendirilmesi, söz konusu politikanın onaylandığını göstermez.",
+        "Sonucu kanıtın kapsamıyla sınırlayınız: Yanıtlar üniversiteye yönelik olumlu değerlendirmeleri gösterir; dış politika desteğindeki değişimi henüz ortaya koymaz."
       ],
-      "lesson": "İyi analiz, verinin anlattığından daha büyük bir başarı öyküsü kurmaz."
+      "lesson": "Analitik sonuç, mevcut kanıtın desteklediği kapsamı aşmamalıdır."
     },
     "misconception": {
-      "claim": "Çok görüntülenme, çok yumuşak güç demektir.",
-      "correction": "Görüntülenme olası erişimi gösterir. İzleyicinin yorumu, güveni ve tercihi için başka kanıt gerekir."
+      "claim": "Yüksek görüntülenme sayısı, yüksek düzeyde yumuşak güç etkisi gösterir.",
+      "correction": "Görüntülenme sayısı olası erişime ilişkin bir göstergedir. İzleyicilerin yorumları, güven düzeyleri ve tercihleri ayrı kanıtlarla değerlendirilmelidir."
     },
     "quickCheck": {
-      "question": "Bir toplantıya yüz kişinin gelmesi, yüz kişinin ikna olduğunu gösterir mi?",
-      "answer": "Hayır. Katılımı gösterir; ikna için görüşlerin değiştiğini gösteren kanıt aranmalıdır."
+      "question": "Bir toplantıda yüz kişinin bulunması, yüz kişinin ikna edildiğine ilişkin yeterli kanıt mıdır?",
+      "answer": "Katılım kaydı bu sonucu desteklemez. İkna iddiası, görüşlerde değişim gerçekleştiğini gösteren ek kanıt gerektirir."
     },
     "practice": {
-      "task": "Excel dosyasındaki varsayımsal ölçüm laboratuvarında verilen ölçümlerin neyi gösterdiğini inceleyin. Burs örneği için öğrenci kanıt matrisine bir iddia, eldeki kanıt ve henüz bilmediğiniz bir şeyi yazın.",
-      "hint": "Görüntülenme, beğeni ve politika desteğini aynı ölçü saymayın. Eksik bilgiye sıfır vermek yerine 'bilinmiyor' yazın."
+      "task": "Excel dosyasındaki varsayımsal ölçüm laboratuvarında yer alan göstergelerin neyi ölçtüğünü inceleyiniz. Burs örneği için öğrenci kanıt matrisine bir iddia, mevcut kanıt ve henüz belirlenemeyen bir unsur kaydediniz.",
+      "hint": "Görüntülenme, olumlu değerlendirme ve politika desteğini ayrı ölçümler olarak ele alınız. Eksik bilgiyi sıfır olarak kodlamak yerine “bilinmiyor” ifadesiyle belirtiniz."
     },
     "takeaways": [
-      "Kaynak, kullanılabilecek imkândır; sonuç ayrıca gösterilir.",
-      "Aynı araç farklı insanlarda farklı tepkiler doğurabilir.",
-      "Bir sonuç iddiası, onu destekleyen kanıttan daha geniş olmamalıdır."
+      "Kaynak, kullanılabilir kapasiteyi ifade eder; elde edilen sonuç ayrıca kanıtlanmalıdır.",
+      "Aynı araç farklı kamularda farklı tepkiler üretebilir.",
+      "Sonuç iddialarının kapsamı, destekleyici kanıtın kapsamıyla sınırlı olmalıdır."
     ]
   },
   "en": {
-    "title": "Power: Separate what you have from what you change",
-    "nutshell": "Countries may have money, armies or popular films: resources. Understanding power requires another question: How did these resources change someone else’s thinking or behaviour? This week follows the path from possessing resources to achieving results.",
-    "analogy": "Imagine a hypothetical school club. A good hall is a resource; organising a film night is an activity; people showing up is attendance. Trusting the club and later joining are different results. A crowded hall does not prove changed minds. This distinction also helps explain countries’ communication.",
+    "title": "Power: Distinguishing resources from outcomes",
+    "nutshell": "A country’s financial means, armed forces and internationally popular films may constitute resources. Analysing power also requires explaining the processes through which these resources change other actors’ thinking or behaviour. This week examines the relationship between possessing resources and achieving specific outcomes.",
+    "analogy": "In a hypothetical school club, a suitable hall constitutes a resource, organising a film evening constitutes an activity, and the number of attendees measures participation. Participants developing trust in the club and subsequently joining it are distinct outcomes. A full hall does not establish that participants’ views changed. This distinction also applies to the evaluation of states’ communication activities.",
     "objectives": [
-      "Describe the resource, activity and result in separate sentences.",
-      "Ask whether someone responded because of a reward, pressure or attraction.",
-      "Find missing evidence in a success claim and write a careful conclusion."
+      "Define resources, activities and outcomes as distinct analytical levels.",
+      "Assess an actor’s response in terms of reward, pressure or attraction.",
+      "Identify evidential gaps in a claim of success and formulate a conclusion proportionate to the evidence."
     ],
     "concepts": [
       {
         "term": "Resource",
-        "meaning": "Something an actor—a person, organisation or state—can use.",
+        "meaning": "A capacity or means available to an actor. An actor here denotes a person, organisation or state.",
         "example": "A budget or respected university can be a resource; possessing it alone does not prove influence."
       },
       {
         "term": "Hard power",
         "meaning": "Influencing behaviour by changing another party's expected material gain or loss.",
-        "example": "Hypothetically, payment conditional on a decision is a material incentive; friendliness does not automatically make it soft power."
+        "example": "Hypothetically, a payment conditional on a decision constitutes a material incentive; a friendly relationship does not automatically make that incentive soft power."
       },
       {
         "term": "Soft power",
-        "meaning": "The capacity to shape preferences through attraction and being seen as justified and acceptable.",
+        "meaning": "The capacity to shape preferences through attraction and the perceived legitimacy of an actor’s conduct. Legitimacy denotes the judgement that conduct is justified or acceptable.",
         "example": "Admiration for a university may be a resource; it does not show support for all its country's policies."
       },
       {
         "term": "Public diplomacy",
-        "meaning": "Organised engagement with people in other countries, connected to external purposes. Partners outside government can participate.",
-        "example": "Educational exchanges may provide knowledge and relationships, without guaranteeing favourable opinions or shared policy support."
+        "meaning": "Organised engagement with foreign publics connected to external purposes. Non-governmental partners may also participate.",
+        "example": "Educational exchange may provide knowledge and relationships; it does not guarantee favourable assessments or support for a particular policy."
       }
     ],
     "steps": [
       {
-        "title": "1. Name the intended change",
-        "text": "Who wants whom to change, on which issue? Choose a specific target instead of “make the country more popular”. Is the aim greater knowledge, trust or a decision?"
+        "title": "1. Defining the intended change",
+        "text": "Identify the actor seeking change, the target actor and the issue concerned. Specify a broad objective, such as increasing a country’s popularity, in terms of greater knowledge, trust or a particular decision."
       },
       {
-        "title": "2. Follow the path between them",
-        "text": "What happened, and how did people interpret it? This interpretation is called reception. Record attendance separately from what participants understood; audiences can interpret the same message differently."
+        "title": "2. Examining the process of influence",
+        "text": "Examine the activity undertaken and how recipients interpreted it. This process of interpretation is termed reception. Record attendance separately from participants’ interpretations; different publics may understand the same message differently."
       },
       {
-        "title": "3. Consider other causes",
-        "text": "Could the observed change have happened without the programme? Previous interest or shared interests might also matter. Two events happening in sequence does not prove the first caused the second."
+        "title": "3. Assessing alternative causes",
+        "text": "Assess whether the observed change could have occurred without the programme. Prior interest or shared interests may also have contributed. Temporal succession between two events does not establish that the first caused the second."
       }
     ],
     "diagram": {
-      "title": "Four checkpoints for a claim",
+      "title": "Four stages in assessing a claim",
       "nodes": [
         {
           "title": "Resource",
@@ -149,45 +149,45 @@
         },
         {
           "title": "Activity",
-          "text": "What was done with it?"
+          "text": "In which activity was the capacity used?"
         },
         {
           "title": "Reception",
-          "text": "What did people understand or feel?"
+          "text": "What interpretations or emotional responses did recipients report?"
         },
         {
           "title": "Result",
           "text": "Which preference or behaviour changed?"
         }
       ],
-      "caption": "Arrows do not guarantee success. Each transition needs evidence; the process may stop anywhere or produce an unexpected response."
+      "caption": "The arrows indicate connections that require investigation. Each transition needs separate evidence; the process may be interrupted at any stage or produce unexpected responses."
     },
     "workedExample": {
-      "title": "Worked example: A scholarship's effect",
-      "scenario": "Hypothetical example: A country funds ten scholarships. Afterwards, eight students say they like the university. An administrator claims this created support for the country's foreign policy.",
+      "title": "Worked example: The effect of a scholarship programme",
+      "scenario": "Hypothetical example: A country provides ten scholarships. At the programme’s conclusion, eight students report favourable assessments of the university. An administrator claims that the programme generated support for the country’s foreign policy.",
       "steps": [
-        "Separate scholarships, an activity, from eight favourable university assessments. These measure different things.",
-        "Look for students' initial views and separate answers about foreign policy. Liking a university does not mean approving that policy.",
-        "Narrow the conclusion: These answers show a favourable assessment of the university; they do not yet show changed foreign-policy support."
+        "Classify the provision of scholarships as an activity and the eight favourable responses as assessments of the university. These observations concern distinct analytical levels.",
+        "Investigate students’ initial views and their separate responses concerning foreign policy. A favourable assessment of the university does not establish approval of that policy.",
+        "Restrict the conclusion to the evidence: the responses indicate favourable university assessments but do not yet establish a change in foreign-policy support."
       ],
-      "lesson": "Good analysis builds no success story bigger than its evidence."
+      "lesson": "The analytical conclusion should remain within the scope supported by the available evidence."
     },
     "misconception": {
-      "claim": "More views mean more soft power.",
-      "correction": "Views indicate potential reach. Audience interpretation, trust and preferences need other evidence."
+      "claim": "A high number of views demonstrates a high level of soft-power influence.",
+      "correction": "Viewing figures indicate potential reach. Audience interpretation, trust and preferences require separate evidence."
     },
     "quickCheck": {
-      "question": "Does a hundred people attending a meeting mean a hundred were persuaded?",
-      "answer": "No. It shows attendance; persuasion requires evidence that views changed."
+      "question": "Does the attendance of one hundred people at a meeting provide sufficient evidence that one hundred people were persuaded?",
+      "answer": "Attendance records do not support this conclusion. A claim of persuasion requires additional evidence demonstrating changed views."
     },
     "practice": {
-      "task": "Examine what the Excel workbook’s hypothetical lab measures. For the scholarship example, add a claim, available evidence and one unknown to the student evidence matrix.",
-      "hint": "Do not treat views, liking and policy support as one measure. Write 'unknown' for missing information, rather than zero."
+      "task": "Examine what the indicators in the Excel workbook’s hypothetical measurement lab measure. For the scholarship example, enter a claim, the available evidence and one unresolved element in the student evidence matrix.",
+      "hint": "Treat views, favourable assessments and policy support as separate measures. Record missing information as “unknown”, rather than coding it as zero."
     },
     "takeaways": [
-      "Resources are available capacity; results need evidence.",
-      "The same instrument can produce different responses in different people.",
-      "A claim about results should not exceed its supporting evidence."
+      "Resources denote available capacity; achieved outcomes require separate evidence.",
+      "The same instrument may generate different responses among different publics.",
+      "The scope of outcome claims should remain proportionate to their supporting evidence."
     ]
   }
 }

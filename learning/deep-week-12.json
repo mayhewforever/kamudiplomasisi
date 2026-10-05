@@ -1,122 +1,122 @@
 {
   "week": 12,
   "tr": {
-    "orientation": "Bu haftanın araştırma sorusu, geçici bir savaş kapasitesinin hangi koşullarda kalıcı kamu kurumuna dönüşebileceğidir. Smith–Mundt Yasası’nı tek bir kuruluş tarihi olarak ezberlemek yerine yetki, kaynak, örgütlenme, uygulama ve alıcı deneyimini ayıracağız. Böylece tarihsel açıklama ile hukuki yorumun farklı görevleri görünür olacak. Kurumsal süreklilik, demokratik denetim ve iletişimde güvenilirlik arasındaki ilişkileri inceleyeceğiz. Başarıyı varsaymak yerine hangi bağlantının hangi belgeyle desteklenebildiğini soracağız.",
+    "orientation": "Bu haftanın araştırma sorusu, geçici savaş kapasitesinin hangi koşullarda kalıcı bir kamu kurumuna dönüşebileceğidir. Smith–Mundt Yasası’nın tarihsel konumu; yetki, kaynak, örgütlenme, uygulama ve alıcı deneyimi ayrımı üzerinden incelenmektedir. Bu ayrım, tarihsel açıklama ile hukuki yorumun farklı analitik görevlerini ortaya koyar. Kurumsal süreklilik, demokratik denetim ve iletişimde güvenilirlik arasındaki ilişkiler, başarı varsayılmadan ve her bağlantının dayandığı belge belirlenerek değerlendirilmektedir.",
     "sections": [
       {
         "id": "transition",
-        "title": "Savaş biterken işlevler neden devam eder?",
-        "why": "Kurumun kapanışı ile yaptığı işin ortadan kalkması farklı tarihsel olaylardır.",
+        "title": "Savaş sonrası işlev sürekliliği",
+        "why": "Örgütsel kapanış ile işlevlerin sona ermesi, birbirinden ayrılması gereken tarihsel gelişmelerdir.",
         "paragraphs": [
-          "1945 sonrasında ABD’nin karşılaştığı mesele, savaş sırasında geliştirdiği dış bilgilendirme kapasitesini ne yapacağıydı. Office of War Information’ın, yani Savaş Enformasyon Ofisinin kapanması bir örgütsel sınır çizdi. Fakat yayın yapmak, yabancı basınla çalışmak ve dış kamuoyuna politika açıklamak ihtiyacı bütünüyle ortadan kalkmadı. Bazı görevler ve kapasite, Dışişleri Bakanlığı içindeki düzenlemelerle sürdü.",
-          "Bu geçiş için iki yorum mümkündür. Güvenlik merkezli yorum, artan uluslararası gerilimin kalıcı kapasite talebini güçlendirdiğini vurgular. Kurumsal yorum ise mevcut personeli, altyapıyı ve örgütler arası pazarlığı öne çıkarır. Bunlar zorunlu rakipler değildir: dış baskı ihtiyacı artırırken, mevcut kurumlar verilecek cevabın biçimini sınırlayabilir. Açıklamanın görevi, bu etkenlerin birlikte nasıl işlediğini göstermektir.",
-          "Sürekliliği sınamak için personel, teknik altyapı ve çalışma usulünü ayrı izleyin. Aynı görevlinin yeni kurumda bulunması bilgi taşıma olanağı yaratır; o bilginin kararı değiştirdiğini kanıtlamaz. Kurumsal öğrenme daha güçlü bir iddiadır: önceki deneyimin değerlendirilmesi, yeni bir talimat veya bütçe tercihi ve bunları bağlayan karar kaydı gerekir."
+          "1945 sonrasında ABD’nin karşılaştığı mesele, savaş sırasında geliştirdiği dış bilgilendirme kapasitesinin geleceğiydi. Office of War Information’ın, yani Savaş Enformasyon Ofisinin kapanması örgütsel bir dönüm noktası oluşturdu. Bununla birlikte yayıncılık, yabancı basınla çalışma ve dış kamuoyuna politika açıklama ihtiyacı bütünüyle ortadan kalkmadı. Bazı görevler ve kapasiteler, Dışişleri Bakanlığı bünyesindeki düzenlemeler aracılığıyla sürdürüldü.",
+          "Bu geçiş iki yorumla incelenebilir. Güvenlik merkezli yorum, artan uluslararası gerilimin kalıcı kapasite talebini güçlendirdiğini vurgular. Kurumsal yorum ise mevcut personeli, altyapıyı ve örgütler arası pazarlığı öne çıkarır. Yorumlar zorunlu olarak rakip değildir: dış baskı ihtiyacı artırırken mevcut kurumlar karşılığın biçimini sınırlandırabilir. Açıklama, bu etkenleri sıralamanın ötesinde birlikte nasıl işlediklerini göstermelidir.",
+          "Sürekliliğin incelenmesinde personel, teknik altyapı ve çalışma usulleri ayrı izlenmelidir. Aynı görevlinin yeni kurumda bulunması, bilgi aktarımı için bir imkân oluşturur; bu bilginin kararları etkilediğini göstermez. Kurumsal öğrenme iddiası daha kapsamlı kanıt gerektirir: önceki deneyimin değerlendirilmesi, bunu izleyen talimat veya bütçe tercihi ve aralarındaki bağlantıyı gösteren karar kaydı."
         ],
         "example": {
           "title": "Varsayımsal dosya okuması",
-          "text": "Bir araştırmacı aynı tercümanın iki farklı kurumun personel listesinde bulunduğunu saptıyor. Bu kayıt, personel sürekliliğini destekler. Yeni programın eski deneyimden öğrendiği sonucuna ulaşmak için tercümanın önerisi, değerlendirilen sorun ve değişen uygulama arasında ek belge bağlantıları aranmalıdır."
+          "text": "Varsayımsal dosyada aynı tercüman, iki farklı kurumun personel listesinde yer almaktadır. Bu kayıt, personel sürekliliğini destekler. Yeni programın önceki deneyimden yararlandığı sonucuna ulaşmak için tercümanın önerisi, ele alınan sorun ve değişen uygulama arasındaki bağlantıların ek belgelerle gösterilmesi gerekir."
         },
         "checkpoint": {
-          "question": "Aynı personelin görevde kalması neyi kanıtlamaz?",
+          "question": "Personel sürekliliği hangi kurumsal iddiaları tek başına desteklemez?",
           "answer": "Aynı hedefin, aynı kitlenin veya aynı uygulamanın değişmeden sürdüğünü; ayrıca kurumsal öğrenmenin gerçekleştiğini tek başına kanıtlamaz."
         }
       },
       {
         "id": "authority",
-        "title": "Yasal yetki bir sonuç değil, imkândır",
-        "why": "Yasayı doğru okumak, izin ile gerçekleşmiş faaliyet arasındaki atlamayı önler.",
+        "title": "Hukuki yetki ile gerçekleşmiş sonuç arasındaki ayrım",
+        "why": "Hukuki yorum, yetkilendirme ile gerçekleşmiş faaliyetin kanıtını birbirinden ayırmayı gerektirir.",
         "paragraphs": [
-          "27 Ocak 1948 tarihli United States Information and Educational Exchange Act, yaygın adıyla Smith–Mundt, dış bilgilendirme ve eğitim-kültür değişimi faaliyetleri için barış dönemi hukuki dayanağı sağladı. Önceki uygulamaları yoktan yaratmadı. Tarihsel önemi, belirli faaliyetleri Kongre’nin tanımladığı yetki ve sınırlar içinde sürdürme çabasındadır. Yetkilendirme, aynı anda kaynak veya başarı garantisi değildir.",
-          "Bir hükmü okurken özneyi, eylemi, muhatabı ve koşulu ayırın. Hangi kurum ne yapabilir, kime yönelik yapabilir ve hangi gözetim altında çalışır? Amaç bildiren cümle, uygulama raporundan farklıdır. Karşılıklı anlayışın geliştirilmesi bir amaç olabilir; insanlar arasında gerçekten böyle bir değişim olduğunu göstermek için hedef kamuya ilişkin ayrı kanıt gerekir.",
-          "Yasa ayrıca devlet kapasitesine duyulan güvensizliği de görünür kılar. Dış iletişimi desteklemek ile yürütmenin gücünü sınırlamak aynı tasarımda bulunabilir. Bu nedenle tartışmayı yalnız iletişim yanlıları ve karşıtları diye bölmeyin. Bütçe denetimi, özel basınla ilişki ve iç siyasi etkiler hakkındaki kaygılar, yetkinin nasıl düzenlendiğini açıklayan ayrı boyutlardır."
+          "27 Ocak 1948 tarihli United States Information and Educational Exchange Act, yaygın adıyla Smith–Mundt, dış bilgilendirme ve eğitim-kültür değişimi faaliyetleri için barış dönemi hukuki dayanağı sağladı. Önceden mevcut uygulamaların başlangıcını oluşturmadı. Tarihsel önemi, belirli faaliyetleri Kongre’nin tanımladığı yetki ve sınırlar içinde sürdürme çabasıyla ilişkilidir. Yetkilendirme; kaynak tahsisini, uygulamayı veya başarıyı aynı anda güvence altına almaz.",
+          "Hukuki hüküm incelemesinde yetkili aktör, eylem, muhatap ve koşul ayrıştırılmalıdır: hangi kurumun, hangi faaliyeti, hangi kamuya yönelik ve hangi denetim altında yürütebileceği belirlenir. Amaç bildiren ifade, uygulama kaydından farklıdır. Karşılıklı anlayışın geliştirilmesi bir hedef olabilir; böyle bir değişimin gerçekleştiğini göstermek ise ilgili kamuya ilişkin ayrı kanıt gerektirir.",
+          "Yasa, devlet kapasitesine yönelik güvensizliği de görünür kılar. Dış iletişimin desteklenmesi ile yürütme gücünün sınırlandırılması aynı kurumsal tasarımda bir arada bulunabilir. Dolayısıyla tartışmanın yalnızca iletişimi destekleyenler ve ona karşı çıkanlar üzerinden sınıflandırılması yetersizdir. Bütçe denetimi, özel basınla ilişkiler ve iç siyasi etkiler hakkındaki kaygılar, yetkinin düzenlenmesini açıklayan ayrı boyutlardır."
         ],
         "example": {
           "title": "Varsayımsal yetki zinciri",
-          "text": "Bir hüküm, bir kurumun yabancı katılımcılarla seminer düzenlemesine izin versin. Hükmün bulunması, seminer yapıldığı iddiasının yalnız ilk basamağını karşılar. Ödenek, organizasyon kaydı ve katılımcı deneyimi farklı soruları yanıtlar. Aynı belgeyi zincirin tamamının kanıtı gibi kullanmak açıklamayı yapay biçimde güçlendirir."
+          "text": "Varsayımsal bir hüküm, bir kurumun yabancı katılımcılarla seminer düzenlemesini yetkilendirmektedir. Hüküm, seminerin gerçekleştiği iddiasına ilişkin kanıt dizisinin yalnızca ilk aşamasını karşılar. Ödenek, organizasyon kayıtları ve katılımcı deneyimleri farklı soruları yanıtlar. Tek bir belgenin bütün aşamaları desteklediğinin varsayılması, açıklamanın kanıt gücünü olduğundan yüksek gösterir."
         },
         "checkpoint": {
-          "question": "“Yapabilir” ifadesi neden “etkili oldu” anlamına gelmez?",
-          "answer": "İzin, faaliyetin hukuki imkânını gösterir; uygulama, karşılaşma ve değişim ayrıca belgelenmelidir."
+          "question": "Hukuki yetkilendirme neden etkililik kanıtı olarak değerlendirilemez?",
+          "answer": "Yetkilendirme faaliyetin hukuki imkânını gösterir; uygulama, alıcılarla karşılaşma ve değişim ayrıca belgelenmelidir."
         }
       },
       {
         "id": "source-version",
         "title": "Belgenin tarihi, türü ve üreticisi",
-        "why": "Kaynak eleştirisi, belgenin güvenilmez sayılması değil, hangi soruya cevap verebildiğinin belirlenmesidir.",
+        "why": "Kaynak eleştirisi, belgenin kanıt kapasitesini hangi sorulara cevap verebildiği üzerinden değerlendirir.",
         "paragraphs": [
-          "Özgün yasa, daha sonraki değişiklikleri içeren metin ve kurumun açıklayıcı internet sayfası aynı kaynak değildir. 1948’de geçerli bir düzenlemeyi tartışırken sonraki bir açıklamayı geçmişe taşımak anakronizm üretir: daha sonraki koşulları önceki dönemin özelliğiymiş gibi sunar. Her notta belge tarihini, metin sürümünü ve iddianın kapsadığı dönemi birlikte kaydedin.",
-          "Belgenin yazılma amacı da önemlidir. Yasa neye yetki verildiğini, komite tartışması farklı gerekçelerin nasıl savunulduğunu, yıllık rapor kurumun kendini nasıl sunduğunu gösterebilir. Bir raporun seçici olması onu bütünüyle değersiz yapmaz. Ancak başarı anlatısının hangi kayıtları dışarıda bırakabileceğini araştırmayı gerektirir. Resmî üreticiye yakınlık, uygulama bilgisi sağlarken öz değerlendirme çıkarı da yaratabilir.",
-          "Bağımsız görünen kaynaklar da sınırsız değildir. Yabancı gazetede çıkan bir yorum, belirli bir yazarın veya editoryal çevrenin alımlamasını gösterir; bütün ülkenin düşüncesini temsil etmez. Kaynakları çoğaltmak ancak farklı üretim süreçleri ve farklı sorular arasında karşılaştırma yapılıyorsa yararlıdır. Aynı basın açıklamasını tekrarlayan üç gazete, üç bağımsız doğrulama sayılmaz."
+          "Özgün yasa, sonraki değişiklikleri içeren derlenmiş metin ve kurumun açıklayıcı internet sayfası ayrı kaynaklardır. 1948’de geçerli düzenlemeyi daha sonraki açıklamalarla tanımlamak, sonraki koşulları önceki döneme atfederek anakronizme yol açabilir. Belge tarihi, metin sürümü ve iddianın kapsadığı dönem birlikte kaydedilmelidir. Bu bilgiler, karşılaştırmanın tarihsel uygunluğunu değerlendirmeyi sağlar.",
+          "Belgenin üretim amacı, kanıt kapsamını etkiler. Yasa yetkilendirmeyi, komite tartışması farklı gerekçelerin savunulmasını, yıllık rapor ise kurumsal öz sunumu gösterebilir. Raporun seçici olması analitik değerini ortadan kaldırmaz; ancak başarı anlatısında dışarıda bırakılan kayıtların araştırılmasını gerektirir. Kuruma yakınlık uygulama bilgisine erişim sağlarken olumlu öz değerlendirmeye yönelik çıkar da oluşturabilir.",
+          "Görünürde bağımsız kaynakların da temsil sınırları vardır. Yabancı gazetede yayımlanan yorum, belirli bir yazarın veya editoryal çevrenin alımlamasını gösterebilir; bütün ülkenin görüşünü temsil etmez. Kaynak sayısının artması, farklı üretim süreçleri ve sorular arasında karşılaştırma yapılabildiğinde yararlıdır. Aynı basın açıklamasını tekrarlayan üç gazete, üç bağımsız doğrulama sağlamaz; uyumun doğrulama olarak yorumlanmasından önce bilginin kökeni izlenmelidir."
         ],
         "example": {
           "title": "Varsayımsal kaynak karşılaştırması",
-          "text": "Bir kurum raporu ile yabancı gazetede aynı başarı cümlesini buldunuz. Gazetenin kurumsal açıklamayı aynen kullandığı anlaşılırsa, iki metnin varlığı bağımsız gözlemi artırmaz. Buna karşılık yerel katılımcının farklı deneyimini anlatan mektup, genellenebilir olmasa da yeni bir yorum kaynağı sunabilir."
+          "text": "Varsayımsal karşılaştırmada bir kurum raporu ile yabancı gazetede aynı başarı iddiası yer almaktadır. Gazete kurumsal açıklamayı aynen kullanmışsa iki metnin varlığı bağımsız gözlem sayısını artırmaz. Buna karşılık yerel bir katılımcının farklı deneyimini aktaran mektup, bütün kitleye genellenemese de ek bir yorum kaynağı sağlayabilir."
         },
         "checkpoint": {
-          "question": "Kaynağın tarihini kaydetmek hangi hatayı azaltır?",
+          "question": "Belge tarihinin kaydedilmesi hangi yorum hatasının önlenmesine katkı sağlar?",
           "answer": "Daha sonraki düzenlemeyi veya yorumu, önceki dönemin özgün hükmü ve amacı olarak okuma hatasını azaltır."
         }
       },
       {
         "id": "implementation",
-        "title": "Yetki sahada nasıl programa dönüşür?",
-        "why": "Uygulama, merkezde alınan kararın basit bir kopyası değildir.",
+        "title": "Hukuki yetkinin yerel uygulamaya dönüşümü",
+        "why": "Yerel uygulama, merkezî kararların doğrudan aktarımına indirgenemez.",
         "paragraphs": [
-          "Kurumsallaşma, bir işin tekrar üretilebilir kaynaklara, görevlere ve usullere bağlanmasıdır. Yasa sonrasında bütçe, uzman personel, dil bilgisi, teknik kapasite ve sahadaki ortaklar gerekir. Her unsur diğerinin yerine geçmez. Büyük bir teknik kapasite yerel dili anlamadan kullanılabilir; iyi yetişmiş personel ise düzenli kaynak olmadan devamlı program üretemeyebilir.",
+          "Kurumsallaşma, faaliyetlerin yeniden üretilebilir kaynaklara, görevlere ve usullere bağlanmasıdır. Hukuki düzenlemenin ardından bütçe, uzman personel, dil bilgisi, teknik kapasite ve yerel ortaklıklar gerekir. Bu unsurlar birbirinin yerine geçmez. Geniş teknik kapasite, yerel dil anlaşılmadan kullanılabilir; uzman personel ise düzenli kaynak olmadan program sürekliliği sağlayamayabilir.",
           "Merkez ile saha arasında bir tasarım gerilimi vardır. Merkez tutarlı politika dili isteyebilir; yerel görevliler mesajın başka bir bağlamda yanlış anlaşılacağını görebilir. Merkezileşme eşgüdümü kolaylaştırırken uyarlamayı zayıflatabilir. Geniş yerel takdir yetkisi ise anlamlı temas sağlarken amaçların dağılmasına yol açabilir. Hangi seçimin daha uygun olduğu, programın amacı ve geri bildirim düzeniyle birlikte incelenmelidir.",
-          "Geri bildirim, yalnız rapor toplamak değildir. Yerel gözlemin karar yetkisi bulunan kişiye ulaşması, değerlendirilmesi ve gerektiğinde uygulamayı değiştirmesi gerekir. Şikâyet arşivinin varlığı dinleme kapasitesini; şikâyet üzerine değiştirilen karar ise öğrenme sürecini destekler. Hiç değişiklik yapılmaması her zaman başarısızlık değildir; fakat neden değişiklik gerekmediğinin kaydı olmadan öğrenme iddiası belirsiz kalır."
+          "Geri bildirim süreci, raporların toplanmasının ötesinde yerel gözlemin karar yetkisine sahip kişilere ulaşmasını, değerlendirilmesini ve gerektiğinde uygulamayı değiştirmesini içerir. Şikâyet arşivi bilgi toplama kapasitesini; şikâyet üzerine değiştirilen karar ise öğrenme sürecini destekler. Kararın değişmemesi zorunlu olarak başarısızlık anlamına gelmez. Bununla birlikte mevcut yaklaşımın sürdürülme gerekçesi belgelenmedikçe öğrenme iddiası belirsiz kalır."
         ],
         "example": {
           "title": "Varsayımsal uyarlama sorunu",
-          "text": "Merkez bir metnin her yerde aynı kullanılmasını isterken yerel ortak bir ifadenin aşağılayıcı çağrışım taşıdığını bildiriyor. Araştırmacı yalnız düzeltilmiş metni değil, uyarının kimden geldiğini, kimin değerlendirdiğini ve kararın hangi gerekçeyle verildiğini izler. Böylece yerel uyarlama kişisel başarı öyküsü olmaktan çıkar, gözlenebilir kurumsal sürece dönüşür."
+          "text": "Varsayımsal örnekte merkez, metnin bütün yerlerde aynı kullanılmasını istemekte; yerel ortak ise bir ifadenin aşağılayıcı çağrışım taşıdığını bildirmektedir. Araştırma, düzeltilmiş metnin yanı sıra uyarının kaynağını, değerlendirmeyi yapan aktörü ve karar gerekçesini izlemelidir. Böylece yerel uyarlama, bireysel başarı anlatısı yerine gözlenebilir bir kurumsal süreç olarak incelenebilir."
         },
         "checkpoint": {
-          "question": "Bir şikâyet kutusu neden öğrenmeyi kanıtlamaz?",
+          "question": "Şikâyet toplama düzenlemesi neden kurumsal öğrenmeyi tek başına göstermez?",
           "answer": "Bilginin toplandığını gösterebilir; karar vericilere ulaştığını veya uygulamanın değerlendirilerek değiştirildiğini göstermez."
         }
       },
       {
         "id": "clocks",
-        "title": "Yayın ve değişim neden farklı saatlerle işler?",
-        "why": "Aynı hukuki çerçeve, aynı etki yolu veya aynı değerlendirme takvimi demek değildir.",
+        "title": "Yayıncılık ve değişim programlarında farklı zaman ölçekleri",
+        "why": "Ortak hukuki çerçeve, ortak etki mekanizması veya değerlendirme takvimi anlamına gelmez.",
         "paragraphs": [
           "Uluslararası yayıncılık sık, aracılı ve geniş ölçekli temas sağlayabilir. Eğitim değişimi daha az kişiyle yoğun ve uzun süreli ilişki kurabilir. Bu ayrım mutlak değildir; ancak beklenen sonucun nerede aranacağını değiştirir. Yayında erişilebilirlik ve haberin kullanılması; değişimde ev sahibi deneyimi, öğrenme ve temasın sürmesi farklı araştırma soruları oluşturur.",
           "Yayın kaydı, içeriğin üretildiğini gösterebilir; dinlendiğini göstermez. Dinlendiği doğrulansa bile güven veya davranış değişimi otomatik olarak çıkarılamaz. Benzer biçimde burs verilmesi katılım imkânını, mezun listesi ise kayıtlı geçmiş katılımı gösterir. İlişkinin devam ettiğini söylemek için ortak faaliyet, karşılıklı yardım veya süren mesleki temas gibi sonraki gözlemler gerekir.",
-          "Değerlendirme zamanını mekanizmaya göre seçin. Hızlı bilgi ihtiyacı için kısa süreli kullanım gözlemi anlamlı olabilir; mesleki ağların gelişmesi daha uzun izlem ister. Uzun izlem de kendiliğinden daha güçlü değildir: başka olaylar devreye girer, katılımcılara ulaşılamaz ve başlangıçtaki ilişkiler unutulabilir. Zaman uzadıkça alternatif açıklamaları ve kayıp gözlemleri ayrıca kaydetmek gerekir."
+          "Değerlendirme zamanlaması, önerilen mekanizmayla uyumlu olmalıdır. Acil bilgi ihtiyacı için kısa süreli kullanım gözlemleri anlamlı olabilir; mesleki ağların gelişimi ise daha uzun izlem gerektirebilir. Uzun izlem kendiliğinden daha güçlü kanıt sağlamaz: başka olaylar araya girebilir, katılımcılara ulaşılamayabilir ve başlangıçtaki ilişkiler unutulabilir. İzlem süresi uzadıkça alternatif açıklamalar ve eksik gözlemler ayrıca kaydedilmelidir."
         ],
         "example": {
-          "title": "Varsayımsal adaletsiz karşılaştırma",
-          "text": "Bir yönetici, haber yayınını ve burs programını aynı ay içindeki kişi sayısıyla sıralıyor. Bu sayılar ölçeği gösterebilir, fakat farklı amaçların başarısını ortak ölçmez. Önce haberin kullanımını ve bursun beklenen ilişki sonucunu ayrı tanımlamak, ardından her biri için uygun süre ve kanıt seçmek gerekir."
+          "title": "Varsayımsal ölçüt uyumsuzluğu",
+          "text": "Varsayımsal örnekte bir yönetici, haber yayınını ve burs programını bir ay içinde ulaşılan kişi sayısına göre sıralamaktadır. Bu toplamlar ölçeği gösterebilir; farklı amaçların gerçekleşmesini ortak bir ölçütle değerlendiremez. Önce haberin kullanımı ve burs programından beklenen ilişki sonucu ayrı tanımlanmalı, ardından her biri için uygun süre ve kanıt seçilmelidir."
         },
         "checkpoint": {
-          "question": "Değişim programında neden hemen anket yapmak yetmeyebilir?",
+          "question": "Değişim programının hemen ardından yapılan anket hangi açılardan yetersiz kalabilir?",
           "answer": "Etkinlik deneyimini gösterebilir; bilginin korunması veya ilişkinin ileride kullanılması daha sonraki gözlemler gerektirir."
         }
       },
       {
         "id": "accountability",
-        "title": "Demokratik denetim ile etkililik nasıl ayrılır?",
+        "title": "Demokratik denetim ve etkililiğin ayrı değerlendirilmesi",
         "why": "Hukuka uygunluk, güvenilirlik ve etki ilişkili olabilir; birbirlerinin kanıtı değildir.",
         "paragraphs": [
-          "Denetim, karar ve kaynak kullanımının incelemeye açık olmasını; hesap verebilirlik, bulgular karşısında açıklama ve düzeltme sorumluluğunu anlatır. Bir danışma kurulunun kurulması biçimsel bir düzenlemedir. Kurulun bilgiye erişimi, eleştiriyi kayda geçirebilmesi ve önerilerinin karar sürecine girmesi uygulamadaki niteliği gösterir. Kuruluş belgesiyle işleyiş kanıtını ayırmak bu yüzden önemlidir.",
-          "Güvenilirlik, kurumun kendine verdiği bir unvan değil, alıcıların zaman içinde oluşturduğu yargıdır. Doğru bilgi, açık kaynak, düzeltme usulü ve eleştiriye yer verme bu yargıyı destekleyebilir. Ancak geçmiş deneyimler ve dış politikadaki çelişkiler de etkili olabilir. Devlet finansmanı her içeriği yanlış yapmaz; resmî doğruluk iddiası da içeriğin güvenilir kabul edildiğini göstermez.",
-          "Son değerlendirmeyi iki ayrı soru üzerine kurun: kurum açıklanmış kuralları içinde çalıştı mı, önerilen iletişim mekanizması gözlenebilir bir değişime katkı verdi mi? İlkinde güçlü, ikincisinde zayıf kanıt bulunabilir. Böyle bir sonuç başarısız araştırma değildir. Hangi alanda daha fazla bilgi gerektiğini göstererek hukuk, etik ve etkiyi tek başarı puanına sıkıştırmayı önler."
+          "Denetim, kararların ve kaynak kullanımının incelemeye açık olmasını; hesap verebilirlik ise bulgular karşısında açıklama ve düzeltme sorumluluğunu ifade eder. Danışma kurulunun oluşturulması biçimsel bir düzenlemedir. Kurulun bilgiye erişimi, eleştiriyi kaydetmesi ve önerilerini karar süreçlerine taşıması, işleyişinin niteliğine ilişkin kanıt sağlar. Bu nedenle kuruluş belgesi, fiilen işleyen denetimin kanıtından ayrılmalıdır.",
+          "Güvenilirlik, alıcıların zaman içinde oluşturduğu bir yargıdır; kurumsal öz tanımlamayla belirlenmez. Bilginin doğruluğu, kaynak açıklığı, düzeltme usulleri ve eleştiriye yer verilmesi bu yargıyı destekleyebilir. Önceki deneyimler ve dış politikadaki çelişkiler de etkili olabilir. Devlet finansmanı her içeriği yanlış kılmaz; resmî doğruluk iddiası da içeriğin alıcılarca güvenilir bulunduğunu göstermez.",
+          "Son değerlendirme iki soruyu ayrı ele almalıdır: kurumun açıklanmış kurallarına uygun çalışıp çalışmadığı ve önerilen iletişim mekanizmasının gözlenebilir değişime katkıda bulunup bulunmadığı. İlk soru için güçlü, ikincisi için zayıf kanıt bulunabilir. Bu ayrım, ek bilgi ihtiyacını belirleyen anlamlı bir araştırma sonucudur; hukuk, etik ve etki boyutlarının tek bir başarı puanına indirgenmesini önler."
         ],
         "example": {
           "title": "Varsayımsal çift değerlendirme",
-          "text": "Bir denetim raporu harcamaların usule uygun olduğunu, dinleyici araştırması ise hedef kitlenin yayına seyrek ulaştığını gösteriyor. Birinci bulgu ikincisini geçersiz kılmaz. Program mali açıdan kurallara uygun yürütülmüş olabilir; erişim tasarımı yine de değiştirilmelidir. Öneri, doğrulanan güçlü yan ile çözülmemiş sorunu birlikte belirtmelidir."
+          "text": "Varsayımsal değerlendirmede denetim raporu harcamaların usule uygunluğunu, dinleyici araştırması ise hedef kitlenin yayına sınırlı erişimini göstermektedir. Bulgular birbirini geçersiz kılmaz. Program mali açıdan usule uygun yürütülürken dağıtım düzeninin yeniden tasarlanması gerekebilir. Öneri, belgelenen güçlü yönü ve çözülmemiş erişim sorununu birlikte belirtmelidir."
         },
         "checkpoint": {
-          "question": "Usule uygun bir program etkisiz olabilir mi?",
-          "answer": "Evet. Kurallara uyma ile hedef kitleye ulaşma ve beklenen değişime katkı sağlama ayrı değerlendirme boyutlarıdır."
+          "question": "Usule uygunluk ile etkililik arasında hangi ayrım yapılmalıdır?",
+          "answer": "Kurallara uygunluk, hedef kitleye erişim ve beklenen değişime katkı ayrı değerlendirme boyutlarıdır; usule uygun bir program etkisiz kalabilir."
         }
       }
     ],
     "visuals": [
       {
         "kind": "flow",
-        "title": "Yetkiden öğrenmeye inceleme yolu",
-        "caption": "Oklar garanti edilmiş sonuçları değil, ayrı belgeler gerektiren geçişleri gösterir. Sonuç bulunmadığında önce hangi geçişin bilinmediğini belirleyin.",
+        "title": "Yetkiden kurumsal öğrenmeye kanıt incelemesi",
+        "caption": "Oklar, her biri ayrı belge gerektiren geçişleri gösterir; sonuçları garanti etmez. Sonucun gözlenmediği durumlarda, önce hangi geçişe ilişkin bilginin eksik olduğu belirlenmelidir.",
         "nodes": [
           {
             "title": "Yetki",
@@ -138,7 +138,7 @@
       },
       {
         "kind": "comparison",
-        "title": "Aynı dosyada farklı sorular",
+        "title": "Aynı belge dosyasında farklı inceleme boyutları",
         "caption": "Her belgeye kendi kanıt sınırı içinde soru yöneltilir.",
         "columns": [
           "Boyut",
@@ -148,29 +148,29 @@
         "rows": [
           [
             "Yetki",
-            "İzin var mı?",
+            "Hukuki yetkilendirme mevcut mudur?",
             "Dönemine uygun hüküm"
           ],
           [
             "Kaynak",
-            "Yapabilme kapasitesi var mı?",
+            "Uygulama kapasitesi mevcut mudur?",
             "Ödenek ve personel kaydı"
           ],
           [
             "Uygulama",
-            "Ne gerçekleşti?",
+            "Hangi faaliyet gerçekleşmiştir?",
             "Tarihli faaliyet kaydı"
           ],
           [
             "Alımlama",
-            "Nasıl yorumlandı?",
+            "Faaliyet alıcılarca nasıl yorumlanmıştır?",
             "Belirli alıcıların anlatısı"
           ]
         ]
       },
       {
         "kind": "matrix",
-        "title": "Kaynak gücü ve sınırı",
+        "title": "Kaynakların kanıt kapasitesi ve sınırları",
         "caption": "Belge sayısı kadar bağımsızlık, kapsam ve üretim amacı da önemlidir.",
         "columns": [
           "Kaynak",
@@ -203,19 +203,19 @@
     ],
     "cases": [
       {
-        "title": "Varsayımsal vaka: Yeni isim, aynı kurum mu?",
-        "scenario": "Bir araştırmacının dosyasında kapanış emri, yeni birime atanan görevliler ve sonraki yayın çizelgesi vardır. Araştırmacı bütün programın değişmeden sürdüğünü ileri sürüyor.",
+        "title": "Varsayımsal vaka: Örgütsel değişim ve süreklilik",
+        "scenario": "Varsayımsal dosya; kapanış emri, yeni birime atanan görevlilerin kayıtları ve sonraki yayın çizelgesini içermektedir. Araştırmacı bu belgelerden hareketle bütün programın değişmeden sürdüğünü ileri sürmektedir.",
         "steps": [
           "Kapanış emrini örgütsel değişimin kanıtı olarak kaydedin; faaliyet yokluğu olarak okumayın.",
           "Personel ve yayın kayıtlarını ayrı süreklilik boyutlarına ayırın. Hedef kamu ve siyasi amaç hakkında hangi bilginin bulunmadığını belirtin.",
           "Yeni görev tanımlarını ve içerik kararlarını arayın. Aynı teknik kapasitenin farklı amaçla kullanılabileceğini rakip yorum olarak koruyun.",
           "Sonucu, belgelenen işlevlerle sınırlayın; öğrenme veya değişmeyen etki iddiasını ek kanıt gelene kadar açık bırakın."
         ],
-        "conclusion": "Dosya kısmi sürekliliği destekler. Tam kurumsal özdeşlik veya aynı alıcı etkisi daha geniş iddialardır."
+        "conclusion": "Dosya kısmi işlev sürekliliğini destekler. Tam kurumsal özdeşlik ve alıcılarda değişmeyen etki iddiaları daha geniş kanıt gerektirir."
       },
       {
-        "title": "Varsayımsal vaka: Başarı raporunu sınamak",
-        "scenario": "Bir yıllık rapor, yeni yetki sonrasında düzenlenen eğitim toplantılarını diplomatik başarı olarak sunuyor. Yerel mektuplar ise hem yararlı öğrenme hem ulaşım güçlüğü anlatıyor.",
+        "title": "Varsayımsal vaka: Kurumsal başarı iddiasının sınanması",
+        "scenario": "Varsayımsal yıllık rapor, yeni yetkilendirmenin ardından düzenlenen eğitim toplantılarını diplomatik başarı olarak sunmaktadır. Yerel mektuplar ise hem yararlı öğrenme deneyimlerini hem ulaşım güçlüklerini aktarmaktadır.",
         "steps": [
           "Faaliyet listesinin doğruladığı olayları, raporun ileri sürdüğü etki yorumundan ayırın.",
           "Mektupların kimlerden geldiğini araştırın; katılmayanların deneyiminin dosyada bulunmayabileceğini kaydedin.",
@@ -226,149 +226,149 @@
       }
     ],
     "practice": {
-      "title": "Bir iddiayı dört belge sorusuna çevirin",
-      "task": "Ortak Excel dosyasındaki öğrenci kanıt matrisinde, 1948 sonrasındaki bir program için yetki, kaynak, uygulama ve alımlama ayrımı kurun. Gerçek belge kullanmıyorsanız çalışmayı açıkça varsayımsal etiketleyin.",
+      "title": "Bir iddianın dört belge sorusuyla incelenmesi",
+      "task": "Ortak Excel dosyasındaki öğrenci kanıt matrisinde, 1948 sonrasındaki bir programı yetki, kaynak, uygulama ve alımlama boyutlarıyla inceleyiniz. Gerçek belge kullanılmıyorsa çalışmayı açıkça varsayımsal olarak etiketleyiniz.",
       "steps": [
         "Tek cümlelik ve dönemi belirtilmiş bir iddia yazın; “başarılı oldu” yerine hangi değişimin kastedildiğini açıklayın.",
         "Her boyuta uygun kaynak türünü, tarihini ve mevcut ya da eksik olduğunu kaydedin.",
         "Bir kurum raporu ile alıcı kaynağının neden farklı soruları yanıtladığını birer cümleyle açıklayın.",
         "14 haftalık rehbere, eksik kanıt tamamlanmadan hangi sonuca varılamayacağını yazın."
       ],
-      "modelAnswer": "Varsayımsal örnek sonuç: Programın hukuki dayanağı ve faaliyetleri belgelenmiştir. Katılımcıların bazıları yararlı deneyim bildirmiştir; yanıt vermeyenler ve sonraki kullanım bilinmediği için genel güven artışı ileri sürülmemektedir. Sonraki araştırma, belirli alıcı deneyimleri ile devam eden ilişkiyi incelemelidir."
+      "modelAnswer": "Varsayımsal örnek sonuç: Programın hukuki dayanağı ve faaliyetleri belgelenmiştir. Bazı katılımcılar yararlı deneyimler bildirmiştir. Yanıt vermeyenlerin deneyimleri ve sonraki kullanım bilinmediğinden genel güven artışı çıkarımı yapılamamaktadır. Sonraki araştırma, belirli alıcıların deneyimlerini ve devam eden ilişkileri incelemelidir."
     },
     "faqs": [
       {
-        "question": "Smith–Mundt neden yalnız bir yasak olarak anlatılmamalı?",
-        "answer": "Çünkü aynı düzenleme yetkilendirme, sınırlandırma ve denetim ilişkilerini içerir. Tek bir slogan, döneme göre değişen hükümlerin kapsamını ve uygulamadaki farklılıkları gizleyebilir."
+        "question": "Smith–Mundt’un yalnızca bir yasak olarak tanımlanması neden yetersizdir?",
+        "answer": "Düzenleme yetkilendirme, sınırlandırma ve denetim ilişkilerini birlikte içerir. Tek boyutlu bir tanımlama, dönemlere göre değişen hüküm kapsamlarını ve uygulama farklılıklarını görünmez kılabilir."
       },
       {
-        "question": "Çok sayıda resmî kayıt kesin sonuca yeter mi?",
-        "answer": "Sayı tek başına yetmez. Aynı idari bakışı çoğaltabilirler. Alıcı deneyimi ve karar üzerindeki etki için farklı üretim koşullarına sahip kaynaklar gerekir."
+        "question": "Resmî kayıt sayısı, kesin bir çıkarım için yeterli midir?",
+        "answer": "Kayıt sayısı tek başına yeterli değildir; belgeler aynı idari bakış açısını yeniden üretebilir. Alıcı deneyimi ve kararlar üzerindeki etki, farklı üretim koşullarına sahip kaynaklarla incelenmelidir."
       },
       {
-        "question": "Bugünkü kurumlara hangi ders taşınabilir?",
-        "answer": "Yeni birim veya strateji belgesini etkili programla eşitlememek. Önce yetkinin kapasiteye ve uygulamaya nasıl çevrildiği, sonra alıcıların deneyimi incelenebilir."
+        "question": "Bu incelemeden güncel kurumlara ilişkin hangi analitik çıkarım yapılabilir?",
+        "answer": "Yeni bir birimin veya strateji belgesinin varlığı, etkili programın kanıtı değildir. Önce yetkinin kapasiteye ve uygulamaya dönüşümü, ardından alıcı deneyimi incelenmelidir."
       }
     ],
     "sourceNote": "Bu ek, dersin 12. hafta içeriği ve başlangıç rehberindeki tarihsel çerçeveyi açıklar. Smith–Mundt’un özgün metni, sonraki değişiklikler ve kurum yorumları ayrı kaynak türleri olarak ele alınmalıdır. Varsayımsal örnekler öğretim içindir; arşiv bulgusu veya gerçek program değerlendirmesi değildir."
   },
   "en": {
-    "orientation": "This week asks how a temporary wartime capability becomes a lasting public institution. Instead of treating Smith–Mundt as a single founding date, distinguish authority, resources, organisation, delivery and recipient experience. Historical explanation and legal interpretation then have visible, different jobs. We will examine institutional continuity, democratic oversight and communication credibility by asking which records support each proposed connection, rather than assuming success.",
+    "orientation": "This week examines the conditions under which temporary wartime capacity may become a durable public institution. Smith–Mundt is situated historically through distinctions among authority, resources, organisation, implementation and recipient experience. These distinctions clarify the different analytical functions of historical explanation and legal interpretation. Institutional continuity, democratic oversight and communication credibility are assessed by identifying the documents supporting each proposed connection, without assuming programme success.",
     "sections": [
       {
         "id": "transition",
-        "title": "Why can functions survive the end of war?",
-        "why": "Closing an organisation and ending its work are different historical events.",
+        "title": "The continuity of functions after war",
+        "why": "Organisational closure and the termination of functions are distinct historical developments.",
         "paragraphs": [
-          "After 1945, the United States faced a choice about its wartime overseas information capacity. Closing the Office of War Information marked an organisational boundary. It did not eliminate broadcasting, foreign press work or the need to explain policy abroad. Some responsibilities and capabilities continued through arrangements within the Department of State.",
-          "Two interpretations help explain this transition. A security interpretation emphasises international tension and demand for durable capacity. An institutional interpretation emphasises existing personnel, infrastructure and organisational bargaining. They need not compete: external pressure can increase demand while inherited institutions shape the available response. Explanation must show how these factors interacted rather than simply list them.",
-          "Trace personnel, infrastructure and procedures separately. Finding the same official in a new organisation establishes an opportunity to carry knowledge; it does not show that knowledge changed a decision. Institutional learning is a stronger claim. It requires an assessment of earlier experience, a subsequent instruction or resource decision, and evidence connecting the two."
+          "After 1945, the United States faced decisions about the future of its wartime overseas information capacity. Closure of the Office of War Information marked an organisational transition. The requirements for broadcasting, working with foreign media and explaining policy abroad nevertheless persisted. Some responsibilities and capabilities continued through arrangements within the Department of State.",
+          "The transition can be examined through two interpretations. A security interpretation emphasises international tension and demand for durable capacity. An institutional interpretation emphasises existing personnel, infrastructure and inter-organisational bargaining. These interpretations need not be rivals: external pressure may increase demand while inherited institutions constrain the form of the response. Explanation must establish how the factors interact, beyond identifying their presence.",
+          "Personnel, infrastructure and procedures require separate examination when assessing continuity. The presence of the same official in a new organisation establishes an opportunity for knowledge transfer; it does not establish an influence on decisions. Institutional learning requires a stronger evidentiary basis: assessment of prior experience, a subsequent instruction or resource decision, and records connecting those stages."
         ],
         "example": {
           "title": "Hypothetical document exercise",
-          "text": "A researcher finds the same translator on two institutional staff lists. This supports personnel continuity. To establish learning, seek the translator’s recommendation, the problem it addressed and the resulting change. The person’s continued employment cannot substitute for that decision trail."
+          "text": "In the hypothetical file, the same translator appears on the staff lists of two institutions. This supports personnel continuity. Establishing that the new programme drew on earlier experience requires additional records linking the translator’s recommendation, the problem addressed and the resulting change in practice. Continued employment alone does not establish that decision process."
         },
         "checkpoint": {
-          "question": "What does staff retention not establish?",
+          "question": "Which institutional claims cannot be supported by staff continuity alone?",
           "answer": "Unchanged purposes, audiences or practices, and institutional learning, cannot be established from retention alone."
         }
       },
       {
         "id": "authority",
-        "title": "Legal authority is a possibility, not an outcome",
-        "why": "Careful reading prevents permission from becoming an unsupported claim of delivery.",
+        "title": "The distinction between legal authority and realised outcomes",
+        "why": "Legal interpretation requires a distinction between authorisation and evidence of completed activity.",
         "paragraphs": [
-          "The United States Information and Educational Exchange Act of 27 January 1948, commonly called Smith–Mundt, provided peacetime authority for overseas information and educational-cultural exchanges. It did not invent earlier practices. Its significance concerns continuing specified activities within congressional authority and constraints. Authorisation did not guarantee resources, implementation or success.",
-          "Separate the actor, action, audience and condition within a provision. Which institution may do what, for whom and under which oversight? A purpose statement differs from an implementation record. Fostering mutual understanding can be an objective; showing that understanding changed requires additional evidence about the public concerned.",
-          "The law also reveals suspicion of state capacity. Supporting overseas communication and limiting executive power can coexist within one design. Do not divide the debate solely into supporters and opponents of communication. Budget control, relations with private media and concerns about domestic political effects are distinct dimensions explaining how authority was organised."
+          "The United States Information and Educational Exchange Act of 27 January 1948, commonly known as Smith–Mundt, provided peacetime authority for overseas information and educational-cultural exchanges. It did not originate practices that already existed. Its historical significance concerns the continuation of specified activities within congressional authority and constraints. Authorisation did not simultaneously guarantee resources, implementation or success.",
+          "Analysis of a provision should distinguish the authorised actor, activity, audience and conditions: which institution may undertake which activity, for which public and under which oversight arrangements. A statement of purpose differs from an implementation record. Promoting mutual understanding may be an objective; demonstrating a change in understanding requires separate evidence concerning the public involved.",
+          "The law also makes distrust of state capacity visible. Support for overseas communication and constraints on executive power can coexist within the same institutional design. Classifying the debate solely through support for or opposition to communication is therefore insufficient. Budgetary oversight, relations with private media and concerns about domestic political effects are distinct dimensions of the organisation of authority."
         ],
         "example": {
           "title": "Hypothetical authority chain",
-          "text": "Suppose a provision permits seminars with foreign participants. That provision establishes only the first step of a claim about a completed seminar. Funding, organisational records and participant experience answer different questions. Treating one document as evidence for the whole chain artificially strengthens the explanation."
+          "text": "A hypothetical provision authorises an institution to conduct seminars with foreign participants. The provision supports only the first stage in the evidentiary sequence for a claim about a completed seminar. Appropriations, organisational records and participant experiences answer different questions. Using a single document to support the entire sequence overstates the evidentiary strength of the explanation."
         },
         "checkpoint": {
-          "question": "Why does “may do” not mean “worked”?",
-          "answer": "Permission establishes a legal possibility; delivery, encounter and change each require evidence."
+          "question": "Why is legal authorisation insufficient as evidence of effectiveness?",
+          "answer": "Authorisation establishes legal permission; implementation, recipient encounter and change each require additional evidence."
         }
       },
       {
         "id": "source-version",
         "title": "The date, type and producer of a source",
-        "why": "Source criticism identifies what a record can answer, rather than simply dismissing it.",
+        "why": "Source criticism assesses a document’s evidentiary capacity through the questions it can answer.",
         "paragraphs": [
-          "The original statute, an amended compilation and an institutional explanatory webpage are different sources. Importing a later explanation into an account of 1948 creates anachronism: later conditions appear as features of the earlier period. Record the document date, version and period of the claim together. These details determine whether a comparison is historically appropriate.",
-          "Production purposes matter. A law establishes authority; committee discussion reveals competing justifications; an annual report shows institutional self-presentation. Selectivity does not make a report worthless, but requires investigation of what its success narrative excludes. Proximity to the institution can provide operational knowledge while also creating an interest in a favourable evaluation.",
-          "Apparently independent sources also have limits. A foreign newspaper comment reveals a writer’s or editorial group’s interpretation, not an entire country’s opinion. More sources help when their production processes or questions differ. Three newspapers repeating one press release do not constitute three independent confirmations. Trace information origins before counting agreement as corroboration."
+          "The original statute, a compilation incorporating subsequent amendments and an institutional explanatory webpage are distinct sources. Applying a later explanation to the rules in force in 1948 can produce anachronism by attributing subsequent conditions to an earlier period. The document date, textual version and period covered by the claim should be recorded together to assess the historical appropriateness of the comparison.",
+          "The purpose of production shapes a document’s evidentiary scope. Statutes establish authorisation, committee debates disclose competing justifications, and annual reports indicate institutional self-presentation. Selectivity does not eliminate a report’s analytical value, but requires examination of records excluded from its success narrative. Institutional proximity can provide access to operational knowledge while creating an interest in favourable self-evaluation.",
+          "Apparently independent sources also have limits of representation. A foreign newspaper commentary may indicate a writer’s or editorial group’s reception; it does not represent opinion across an entire country. Additional sources are useful where comparisons involve different production processes and questions. Three newspapers reproducing one press release do not provide three independent confirmations; the origins of information must be traced before agreement is interpreted as corroboration."
         ],
         "example": {
           "title": "Hypothetical source comparison",
-          "text": "An institutional report and a foreign newspaper contain the same success claim. If the newspaper reproduced the official release, this is no additional independent observation. A local participant’s letter describing a different experience can add an interpretation, although it cannot represent the whole audience."
+          "text": "In the hypothetical comparison, an institutional report and a foreign newspaper contain the same success claim. If the newspaper reproduces the institutional release, the two texts do not increase the number of independent observations. A local participant’s letter describing a different experience may provide an additional interpretation, although it cannot be generalised to the entire audience."
         },
         "checkpoint": {
-          "question": "Which error does recording dates reduce?",
+          "question": "Which interpretive error can recording document dates help prevent?",
           "answer": "Reading a later provision or interpretation as the earlier period’s original rule or purpose."
         }
       },
       {
         "id": "implementation",
-        "title": "How does authority become practice?",
-        "why": "Local implementation is more than a copy of a headquarters decision.",
+        "title": "The translation of legal authority into local implementation",
+        "why": "Local implementation cannot be reduced to the direct reproduction of central decisions.",
         "paragraphs": [
-          "Institutionalisation connects work to repeatable resources, responsibilities and procedures. Legislation must be followed by funding, specialist staff, language knowledge, technical capacity and local partnerships. These elements are not substitutes. Extensive infrastructure can operate without understanding local language, while skilled staff may struggle to sustain programmes without recurring resources.",
+          "Institutionalisation connects activities to reproducible resources, responsibilities and procedures. Legal authorisation must be followed by funding, specialist personnel, language knowledge, technical capacity and local partnerships. These elements are not interchangeable. Extensive infrastructure may operate without understanding local language, while specialist staff may be unable to sustain programmes without recurring resources.",
           "Headquarters may seek a consistent policy message while field staff recognise that it will be misunderstood locally. Centralisation can aid coordination but weaken adaptation. Wide local discretion can improve relevance while allowing purposes to diverge. Neither design is universally superior: assess the trade-off against programme purposes and the procedures through which feedback reaches decision-makers.",
-          "Feedback means more than collecting reports. Local observations must reach people with authority, receive consideration and, where warranted, change practice. A complaints archive supports a claim about collection; a revised decision supports learning. No revision is not necessarily failure, but without reasons for retaining the existing approach, an institutional learning claim remains uncertain."
+          "Feedback involves more than collecting reports: local observations must reach authorised decision-makers, receive consideration and, where warranted, inform changes in practice. A complaints archive supports a claim about information collection; a decision revised in response supports a claim about learning. Retaining a decision does not necessarily indicate failure. However, without documented reasons for maintaining the existing approach, an institutional learning claim remains uncertain."
         ],
         "example": {
           "title": "Hypothetical adaptation problem",
-          "text": "Headquarters wants identical wording everywhere, but a partner reports an insulting local association. Trace who raised the concern, who assessed it and why the decision changed. The revised text alone is insufficient. This turns adaptation from a personal success story into an observable institutional process."
+          "text": "In the hypothetical example, headquarters requires identical wording across locations, while a local partner reports that an expression has insulting connotations. Research should trace the source of the concern, the actor assessing it and the decision rationale alongside the revised text. Adaptation can then be examined as an observable institutional process rather than an individual success narrative."
         },
         "checkpoint": {
-          "question": "Why does a complaint box not prove learning?",
+          "question": "Why does a complaints collection procedure not independently establish institutional learning?",
           "answer": "It can show collection, but not that decision-makers received the information or reconsidered practice."
         }
       },
       {
         "id": "clocks",
-        "title": "Why do broadcasting and exchanges run on different clocks?",
-        "why": "A common legal framework does not create a common mechanism or evaluation timetable.",
+        "title": "Different time horizons in broadcasting and exchange programmes",
+        "why": "A shared legal framework does not imply a shared causal mechanism or evaluation timetable.",
         "paragraphs": [
           "International broadcasting can provide frequent, mediated contact at scale. Educational exchange can provide intensive, prolonged contact among fewer people. The distinction is not absolute, but changes where outcomes should be sought. Availability and information use matter for broadcasting; host experience, learning and continued contact raise different questions for exchanges.",
           "A broadcast record establishes production, not listening. Verified listening still does not automatically establish trust or behaviour change. Similarly, a scholarship provides an opportunity and an alumni list records past participation. Continuing relationships require later observations of joint activity, reciprocal assistance or professional contact. Each additional claim moves beyond what the original administrative record establishes.",
-          "Match observation timing to the mechanism. Short-term use may answer an immediate information question; professional networks require longer follow-up. Longer observation is not automatically stronger: other events intervene, participants become unreachable and earlier relationships may be forgotten. As the period expands, document alternative explanations and missing observations instead of treating elapsed time as proof of durability."
+          "Evaluation timing should correspond to the proposed mechanism. Short-term observations of use may address immediate information needs; the development of professional networks may require longer follow-up. Longer observation does not inherently strengthen evidence: other events may intervene, participants may become unreachable and initial relationships may be forgotten. Extended follow-up therefore requires explicit documentation of alternative explanations and missing observations."
         ],
         "example": {
-          "title": "Hypothetical unfair comparison",
-          "text": "A manager ranks a news service and a scholarship programme by people contacted in one month. These totals may describe scale but do not measure different purposes fairly. Define information use and the expected relationship outcome separately, then choose suitable periods and evidence for each."
+          "title": "Hypothetical mismatch between evaluation measures",
+          "text": "A hypothetical manager ranks a news service and a scholarship programme by the number of people reached in one month. These totals may indicate scale but cannot provide a common measure of different objectives. Information use and the expected relationship outcome should first be defined separately, followed by appropriate observation periods and evidence for each."
         },
         "checkpoint": {
-          "question": "Why might an immediate exchange survey be insufficient?",
+          "question": "In which respects might an immediate post-exchange survey be insufficient?",
           "answer": "It can describe the experience; retained knowledge and later relationship use need subsequent observations."
         }
       },
       {
         "id": "accountability",
-        "title": "How do oversight and effectiveness differ?",
+        "title": "Separate assessment of democratic oversight and effectiveness",
         "why": "Lawfulness, credibility and influence may interact without proving one another.",
         "paragraphs": [
-          "Oversight makes decisions and resource use available for scrutiny. Accountability adds responsibility to explain and correct problems. Establishing an advisory board creates a formal arrangement. Access to information, recording criticism and bringing recommendations into decisions show its operational quality. Separate the founding document from evidence of functioning oversight.",
-          "Credibility is a recipient judgement developed over time, not a title awarded by an institution. Accuracy, disclosed sources, correction and room for criticism may support it. Earlier experiences and foreign-policy contradictions also matter. State funding does not make every statement false; an official claim of accuracy does not establish that recipients find it credible.",
-          "Conclude through two questions: did the institution respect its stated rules, and did the proposed communication mechanism contribute to observable change? Evidence can be strong for one and weak for the other. That is a useful research result: it identifies missing knowledge and avoids compressing law, ethics and influence into one success score."
+          "Oversight concerns the availability of decisions and resource use for scrutiny; accountability concerns responsibility to explain and remedy identified problems. Establishing an advisory board is a formal arrangement. Its access to information, documentation of criticism and incorporation of recommendations into decisions provide evidence of operational quality. The founding document must therefore be distinguished from evidence that oversight functions in practice.",
+          "Credibility is a judgement developed by recipients over time; it is not determined by institutional self-description. Accurate information, disclosed sources, correction procedures and opportunities for criticism may support that judgement. Earlier experiences and foreign-policy contradictions may also contribute. State funding does not make all content false, while an official claim of accuracy does not establish that recipients consider it credible.",
+          "The final assessment should distinguish two questions: whether the institution operated within its stated rules, and whether the proposed communication mechanism contributed to observable change. Evidence may be strong for the former and weak for the latter. This distinction provides a substantive research finding by identifying where further information is required and avoiding the reduction of legal compliance, ethics and influence to a single success score."
         ],
         "example": {
           "title": "Hypothetical two-part assessment",
-          "text": "An audit establishes proper spending while listener research finds limited audience access. The first finding does not invalidate the second. Financial procedures may work while distribution needs redesign. The recommendation should preserve the documented strength and identify the unresolved problem."
+          "text": "In the hypothetical assessment, an audit establishes compliance with expenditure procedures while listener research identifies limited audience access. These findings are compatible. Financial administration may comply with the rules while distribution requires redesign. The recommendation should identify both the documented strength and the unresolved access problem."
         },
         "checkpoint": {
-          "question": "Can a compliant programme be ineffective?",
-          "answer": "Yes. Compliance, audience access and contribution to expected change are different evaluation dimensions."
+          "question": "How should procedural compliance be distinguished from effectiveness?",
+          "answer": "Compliance, audience access and contribution to expected change are separate evaluation dimensions; a procedurally compliant programme may remain ineffective."
         }
       }
     ],
     "visuals": [
       {
         "kind": "flow",
-        "title": "Investigating authority through to learning",
-        "caption": "Arrows mark transitions requiring separate records, not guaranteed results. Identify which transition remains unknown before explaining an absent outcome.",
+        "title": "Evidence assessment from authority to institutional learning",
+        "caption": "Arrows identify transitions requiring separate records rather than guaranteed outcomes. When an outcome is not observed, the initial task is to identify which transition remains undocumented.",
         "nodes": [
           {
             "title": "Authority",
@@ -390,7 +390,7 @@
       },
       {
         "kind": "comparison",
-        "title": "Different questions within one file",
+        "title": "Different analytical dimensions within one documentary file",
         "caption": "Ask each document questions within its evidentiary scope.",
         "columns": [
           "Dimension",
@@ -400,29 +400,29 @@
         "rows": [
           [
             "Authority",
-            "Was it permitted?",
+            "Was legal authorisation established?",
             "Period-appropriate provision"
           ],
           [
             "Resources",
-            "Could it be delivered?",
+            "Was implementation capacity available?",
             "Budget and staffing records"
           ],
           [
             "Delivery",
-            "What happened?",
+            "Which activity occurred?",
             "Dated activity record"
           ],
           [
             "Reception",
-            "How was it interpreted?",
+            "How did recipients interpret the activity?",
             "Specified recipients’ accounts"
           ]
         ]
       },
       {
         "kind": "matrix",
-        "title": "Source strengths and limits",
+        "title": "Sources’ evidentiary capacities and limitations",
         "caption": "Independence, scope and production purposes matter alongside document numbers.",
         "columns": [
           "Source",
@@ -455,19 +455,19 @@
     ],
     "cases": [
       {
-        "title": "Hypothetical case: A new name, the same institution?",
-        "scenario": "A researcher has a closure order, staff transfers and a later broadcast schedule, and claims that the whole programme continued unchanged.",
+        "title": "Hypothetical case: Organisational change and continuity",
+        "scenario": "The hypothetical file contains a closure order, records of staff assigned to a new unit and a subsequent broadcast schedule. The researcher infers that the entire programme continued unchanged.",
         "steps": [
           "Record the closure as organisational change rather than absence of activity.",
           "Separate staffing and broadcasting continuity. Identify missing information about audiences and political purposes.",
           "Seek revised responsibilities and content decisions. Retain the possibility that the same technical capacity served different purposes.",
           "Limit the conclusion to documented functions. Leave claims about learning or unchanged influence open pending further evidence."
         ],
-        "conclusion": "The file supports partial continuity. Complete institutional identity and unchanged recipient effects are broader claims."
+        "conclusion": "The file supports partial functional continuity. Claims of complete institutional identity and unchanged recipient effects require broader evidence."
       },
       {
-        "title": "Hypothetical case: Testing a success report",
-        "scenario": "An annual report presents educational meetings following new authority as diplomatic success. Local letters describe useful learning and transport difficulties.",
+        "title": "Hypothetical case: Testing an institutional success claim",
+        "scenario": "A hypothetical annual report presents educational meetings conducted under new authority as diplomatic success. Local letters describe both useful learning experiences and transport difficulties.",
         "steps": [
           "Separate documented events from the report’s interpretation of influence.",
           "Identify letter writers and note that nonparticipants may be absent from the record.",
@@ -478,28 +478,28 @@
       }
     ],
     "practice": {
-      "title": "Turn one claim into four document questions",
-      "task": "Use the shared workbook’s student evidence matrix to distinguish authority, resources, delivery and reception for a post-1948 programme. Explicitly label work hypothetical when no actual documents are used.",
+      "title": "Examining one claim through four documentary questions",
+      "task": "Use the shared workbook’s student evidence matrix to examine authority, resources, implementation and reception in a post-1948 programme. Where no actual documents are used, explicitly label the exercise hypothetical.",
       "steps": [
         "Write a dated, single-sentence claim specifying the change intended by “success.”",
         "Record a suitable source type, date and whether evidence exists or is missing for each dimension.",
         "Explain why an institutional report and a recipient source answer different questions.",
         "Use the 14-week guide to identify conclusions unavailable until missing evidence is supplied."
       ],
-      "modelAnswer": "Hypothetical conclusion: authority and activities are documented. Some participants describe useful experiences. Nonrespondents and subsequent use remain unknown, so no general increase in trust is claimed. Further research should investigate specified recipient experiences and continuing relationships."
+      "modelAnswer": "Hypothetical conclusion: the programme’s legal basis and activities are documented. Some participants report useful experiences. Nonrespondents’ experiences and subsequent use remain unknown, preventing a general inference of increased trust. Further research should examine specified recipients’ experiences and continuing relationships."
     },
     "faqs": [
       {
-        "question": "Why should Smith–Mundt not be described solely as a ban?",
-        "answer": "It combines authorisation, limitation and oversight. A slogan can hide the scope of provisions in different periods and variations in implementation."
+        "question": "Why is describing Smith–Mundt solely as a prohibition analytically insufficient?",
+        "answer": "The legislation combines authorisation, limitation and oversight. A single-dimensional description can obscure variations in the scope of provisions across periods and differences in implementation."
       },
       {
-        "question": "Are many official records enough for certainty?",
-        "answer": "Numbers alone are insufficient. Records may reproduce one administrative perspective. Recipient experience and influence on decisions need sources produced through different processes."
+        "question": "Is the number of official records sufficient for a definitive inference?",
+        "answer": "Record numbers alone are insufficient; documents may reproduce the same administrative perspective. Recipient experience and influence on decisions require sources produced under different conditions."
       },
       {
-        "question": "What lesson transfers to current institutions?",
-        "answer": "Do not equate a new office or strategy document with an effective programme. Investigate how authority becomes capacity and delivery, then examine recipient experience."
+        "question": "Which analytical implication can be applied to contemporary institutions?",
+        "answer": "The existence of a new unit or strategy document does not establish programme effectiveness. Analysis should examine the conversion of authority into capacity and implementation, followed by recipient experience."
       }
     ],
     "sourceNote": "This supplement explains the historical framework in the week 12 course material and introductory guide. The original Smith–Mundt text, subsequent amendments and institutional interpretations require separate treatment. Hypothetical examples are teaching exercises, not archival findings or evaluations of real programmes."

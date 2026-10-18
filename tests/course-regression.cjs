@@ -5,7 +5,7 @@ const fs=require('node:fs');
 const path=require('node:path');
 const assert=require('node:assert/strict');
 const root=path.resolve(__dirname,'..');
-const scripts=['i18n.js','course-overview-i18n.js','content_weeks_1_5.js','content_weeks_6_10.js','content_weeks_11_14.js','video-scripts-en.js','weekly-study-guide.js','seminar-frames.js','learning-content.js','learning-guide.js','depth-guide.js','caption-transcripts-tr.js','app.js','study-ui.js','student-portal.js'];
+const scripts=[...new JSDOM(fs.readFileSync(path.join(root,'index.html'),'utf8')).window.document.querySelectorAll('script[src]')].map(s=>s.getAttribute('src').split('?')[0]);
 const pause=()=>new Promise(resolve=>setTimeout(resolve,20));
 async function boot({denied=false,query='?lang=en&week=1&tab=lesson',origin='https://mayhewforever.github.io/kamudiplomasisi/'}={}) {
  const errors=[];const vc=new VirtualConsole();vc.on('jsdomError',e=>errors.push(e));
@@ -22,6 +22,25 @@ async function boot({denied=false,query='?lang=en&week=1&tab=lesson',origin='htt
  const {dom,w,d,errors}=await boot();
  assert.equal(d.querySelectorAll('.week-card').length,14);
  assert.equal(d.querySelectorAll('.study-workspace').length,14);
+ function checkSyllabus(lang) {
+  assert.equal(d.querySelectorAll('.outcomes-panel li').length,5);
+  const data=w.COURSE_SYLLABUS[lang];
+  assert.deepEqual([...d.querySelectorAll('.outcomes-panel li')].map(x=>x.textContent),JSON.parse(JSON.stringify(data.outcomes)));
+  for(let week=1;week<=14;week++) {
+   const record=data.weeks[week-1],card=d.querySelector('#week-'+String(week).padStart(2,'0'));
+   assert.equal(card.querySelector('.week-title').textContent,record.title);
+   assert.ok(card.querySelector('.resources-panel').textContent.includes(record.activity));
+   assert.ok(card.querySelector('.resources-panel').textContent.includes(record.prep));
+   assert.equal(card.querySelectorAll('.lesson-fold[open]').length,0);
+   assert.equal(card.querySelector('.optional-media').open,false);
+   assert.ok(card.querySelector('.assignment-actions a').href.endsWith('/student?week='+week));
+   for(const n of record.outcomes) assert.ok(n>=1&&n<=5);
+  }
+ }
+ checkSyllabus('en');
+ d.querySelector('#week-1-lesson [data-study-link]').click();
+ assert.equal(d.querySelector('#week-1-resources').hidden,false);
+
  assert.match(d.querySelector('#ogrenci-alani').textContent,/Open course materials/);
  assert.equal(d.querySelector('#progressPercent').textContent,'—');
  assert.equal(d.querySelector('#courseProgress').hidden,true);
@@ -31,6 +50,7 @@ async function boot({denied=false,query='?lang=en&week=1&tab=lesson',origin='htt
  assert.equal(d.querySelector('#week-01').hidden,false);
  assert.equal(d.querySelector('[data-filter="all"]').getAttribute('aria-pressed'),'true');
  d.querySelector('[data-language="tr"]').click();await pause();
+ checkSyllabus('tr');
  assert.match(d.querySelector('#ogrenci-alani').textContent,/Öğrenci alanı/);
  assert.doesNotMatch(d.querySelector('#ogrenci-alani').textContent,/Student workspace/);
  assert.equal(d.querySelector('[data-home-link]').getAttribute('aria-label'),'Ders portalı ana sayfa');

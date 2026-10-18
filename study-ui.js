@@ -48,8 +48,9 @@
     }).join("");
     return [
       "<section class=\"study-panel lesson-panel\" id=\"week-" + week + "-lesson\" role=\"tabpanel\" aria-labelledby=\"week-" + week + "-lesson-tab\">",
-      beginner ? window.CourseLearning.render(beginner, app.state.language, "") : "",
-      window.CourseDepth && window.COURSE_DEPTH ? window.CourseDepth.render(window.COURSE_DEPTH[week], app.state.language) : "",
+      window.CourseSimple.lessonStart(week),
+      beginner ? "<details class=\"lesson-fold\"><summary>" + escapeHtml(app.t("readExamples")) + "</summary>" + window.CourseLearning.render(beginner, app.state.language, "") + "</details>" : "",
+      window.CourseDepth && window.COURSE_DEPTH ? "<details class=\"lesson-fold\"><summary>" + escapeHtml(app.t("readDepth")) + "</summary>" + window.CourseDepth.render(window.COURSE_DEPTH[week], app.state.language) + "</details>" : "",
       beginner ? "<details class=\"lg-deep\"><summary>" + escapeHtml(learningLabels.deeper) + "</summary><p class=\"lg-deep-intro\">" + escapeHtml(learningLabels.deeperHelp) + "</p><div class=\"lg-deep-content\">" : "",
       "<div class=\"lesson-intro\"><div><p class=\"study-kicker\">" + escapeHtml(app.t("week") + " " + week + " · " + app.t("lessonNarrative")) + "</p><h3>" + escapeHtml(study.lead || app.t("detailedTopic")) + "</h3></div><span class=\"study-time\">" + escapeHtml(app.t("readingTime")) + "</span></div>",
       "<div class=\"lesson-sections\">" + sections + "</div>",
@@ -117,15 +118,10 @@
   }
 
   function tabMarkup(week) {
-    return [
-      "<div class=\"study-tabs\" role=\"tablist\" aria-label=\"" + escapeHtml(app.t("tabListLabel", { week: week })) + "\">",
-      "<button type=\"button\" role=\"tab\" id=\"week-" + week + "-lesson-tab\" aria-controls=\"week-" + week + "-lesson\" aria-selected=\"false\" data-panel=\"lesson\"><span aria-hidden=\"true\">01</span>" + escapeHtml(app.t("lessonTab")) + "</button>",
-      "<button type=\"button\" role=\"tab\" id=\"week-" + week + "-flashcards-tab\" aria-controls=\"week-" + week + "-flashcards\" aria-selected=\"false\" tabindex=\"-1\" data-panel=\"flashcards\"><span aria-hidden=\"true\">02</span>" + escapeHtml(app.t("flashcardsTab")) + "</button>",
-      "<button type=\"button\" role=\"tab\" id=\"week-" + week + "-quiz-tab\" aria-controls=\"week-" + week + "-quiz\" aria-selected=\"false\" tabindex=\"-1\" data-panel=\"quiz\"><span aria-hidden=\"true\">03</span>" + escapeHtml(app.t("quizTab")) + "</button>",
-      "<button type=\"button\" role=\"tab\" id=\"week-" + week + "-game-tab\" aria-controls=\"week-" + week + "-game\" aria-selected=\"false\" tabindex=\"-1\" data-panel=\"game\"><span aria-hidden=\"true\">04</span>" + escapeHtml(app.t("gameTab")) + "</button>",
-      "<button type=\"button\" role=\"tab\" id=\"week-" + week + "-resources-tab\" aria-controls=\"week-" + week + "-resources\" aria-selected=\"false\" tabindex=\"-1\" data-panel=\"resources\"><span aria-hidden=\"true\">05</span>" + escapeHtml(app.t("resourcesTab")) + "</button>",
-      "</div>"
-    ].join("");
+    var tabs = [["lesson","lessonTab"],["resources","resourcesTab"],["flashcards","flashcardsTab"],["quiz","quizTab"],["game","gameTab"]];
+    return '<div class="study-tabs" role="tablist" aria-label="' + escapeHtml(app.t("tabListLabel",{week:week})) + '">' + tabs.map(function(tab,index) {
+      return '<button type="button" role="tab" id="week-' + week + '-' + tab[0] + '-tab" aria-controls="week-' + week + '-' + tab[0] + '" aria-selected="false" tabindex="-1" data-panel="' + tab[0] + '"' + (index>1?' aria-describedby="optional-tools-'+week+'"':'') + '>' + escapeHtml(app.t(tab[1])) + '</button>';
+    }).join('') + '</div><p class="optional-tools-note" id="optional-tools-'+week+'">' + escapeHtml(app.t('optionalPractice')) + '</p>';
   }
 
   function activateTab(workspace, targetButton, moveFocus, updateLocation) {

@@ -378,46 +378,20 @@
   }
 
   function weeklyStudyTemplate(item) {
-    var guide = (window.WEEKLY_STUDY_GUIDES || {})[item.week];
-    if (!guide) return "";
-    var lang = app.state.language === "en" ? "en" : "tr";
-    var labels = weeklyStudyI18n[lang];
-    var book = lang === "en" ? (guide.bookEN || item.primary.text) : (guide.bookTR || item.primary.text);
-    var audio = "podcasts/week-" + String(item.week).padStart(2, "0") + "-lecture-audio.opus";
-    var noteFile = lang === "en" ? "notes/Week_" + String(item.week).padStart(2, "0") + "_Lecture_Notes_EN.pdf" : "notes/Hafta_" + String(item.week).padStart(2, "0") + "_Ders_Notu_TR.pdf";
-    var notePage = noteFile.replace(/\.pdf$/, ".html");
-    var fallbackAudio = aiLectureFor(item.week).video;
-    var sources = (guide.texts || []).map(function (source) {
-      return "<li><strong lang=\"en\">" + escapeHtml(source.title) + "</strong><span>" + escapeHtml(source[lang]) + "</span><p class=\"study-guide-source-summary\">" + escapeHtml(source[lang === "en" ? "summaryEN" : "summaryTR"]) + "</p><a href=\"" + escapeHtml(source.url) + "\" target=\"_blank\" rel=\"noopener\" aria-label=\"" + escapeHtml(labels.read + ": " + source.title) + "\">" + escapeHtml(labels.read) + " ↗</a></li>";
-    }).join("");
-    var frame = ((window.GRADUATE_SEMINAR_FRAMES || {})[lang] || {})[item.week];
-    var frameLabels = lang === "en" ? {
-      kicker: "Graduate research seminar", title: "Research frame", question: "Research question",
-      debate: "Historiography and rival account", primary: "Document and source criticism",
-      task: "Evidence brief for seminar"
-    } : {
-      kicker: "Lisansüstü araştırma semineri", title: "Araştırma çerçevesi", question: "Araştırma sorusu",
-      debate: "Tarih yazımı ve rakip açıklama", primary: "Belge ve kaynak eleştirisi",
-      task: "Seminer için kanıt brifingi"
-    };
-    var frameHtml = frame ? [
-      "<article class=\"graduate-frame\" aria-labelledby=\"graduate-frame-" + item.week + "\">",
-      "<div class=\"graduate-frame-heading\"><span class=\"study-guide-index\">" + escapeHtml(frameLabels.kicker) + "</span><h4 id=\"graduate-frame-" + item.week + "\">" + escapeHtml(frameLabels.title) + "</h4></div>",
-      "<div class=\"graduate-frame-question\"><strong>" + escapeHtml(frameLabels.question) + "</strong><p>" + escapeHtml(frame.question) + "</p></div>",
-      "<div class=\"graduate-frame-grid\"><section><h5>" + escapeHtml(frameLabels.debate) + "</h5><p>" + escapeHtml(frame.historiography) + "</p></section><section><h5>" + escapeHtml(frameLabels.primary) + "</h5><p>" + escapeHtml(frame.primaryTask) + "</p></section></div>",
-      "<div class=\"graduate-frame-task\"><h5>" + escapeHtml(frameLabels.task) + "</h5><p>" + escapeHtml(frame.seminarTask) + "</p></div></article>"
-    ].join("") : "";
-    return [
-      "<section class=\"weekly-study-guide\" aria-labelledby=\"weekly-study-" + item.week + "\">",
-      "<header><span>" + escapeHtml(labels.kicker) + "</span><h3 id=\"weekly-study-" + item.week + "\">" + escapeHtml(labels.title) + "</h3><p>" + escapeHtml(labels.intro) + "</p></header>",
-      frameHtml,
-      "<article class=\"weekly-note-card\"><div><span class=\"study-guide-index\">" + escapeHtml(labels.notes) + "</span><h4>" + escapeHtml(labels.notesTitle) + "</h4><p>" + escapeHtml(labels.notesDescription) + "</p></div><div class=\"weekly-note-actions\"><a href=\"" + notePage + "\" target=\"_blank\" rel=\"noopener\" aria-label=\"" + escapeHtml(labels.notesRead + " · " + app.t("week") + " " + item.week) + "\">" + escapeHtml(labels.notesRead) + " ↗</a><a href=\"" + noteFile + "\" target=\"_blank\" rel=\"noopener\">" + escapeHtml(labels.notesOpen) + " ↗</a><a href=\"" + noteFile + "\" download=\"" + noteFile.split("/").pop() + "\">" + escapeHtml(labels.notesDownload) + " ↓</a></div></article>",
-      "<div class=\"weekly-study-grid\">",
-      "<article class=\"study-guide-card study-guide-video\"><span class=\"study-guide-index\">" + escapeHtml(labels.youtube) + "</span><h4 lang=\"" + lang + "\">" + escapeHtml(lang === "tr" ? item.title : item.video.title) + "</h4><p>" + escapeHtml(item.video.note) + "</p><small>" + escapeHtml(item.video.channel + " · " + item.video.duration) + "</small><button class=\"play-video\" type=\"button\" data-video-week=\"" + item.week + "\" data-video-id=\"" + escapeHtml(item.video.id) + "\" data-video-title=\"" + escapeHtml(lang === "tr" ? item.title : item.video.title) + "\" data-video-meta=\"" + escapeHtml(item.video.channel + " · " + item.video.duration) + "\">" + escapeHtml(labels.watch) + " ▶</button></article>",
-      "<article class=\"study-guide-card study-guide-podcast\"><span class=\"study-guide-index\">" + escapeHtml(labels.podcast) + "</span><h4>" + escapeHtml(item.title) + "</h4><p>" + escapeHtml(labels.audioNote) + "</p><small>" + (lang === "en" ? "English" : "İngilizce") + " · " + escapeHtml(formatAiDuration(aiVideoDurations[item.week])) + "</small><audio controls preload=\"none\" data-podcast-week=\"" + item.week + "\" aria-label=\"" + escapeHtml(labels.podcast + " · " + item.title) + "\"><source src=\"" + audio + "\" type=\"audio/ogg; codecs=opus\"><source src=\"" + escapeHtml(fallbackAudio) + "\" type=\"audio/mp4\"></audio><a href=\"" + audio + "\" download>" + escapeHtml(labels.download) + " ↓</a><small>" + escapeHtml(labels.transcript) + "</small></article>",
-      "<article class=\"study-guide-card study-guide-readings\"><span class=\"study-guide-index\">" + escapeHtml(labels.sources) + "</span><div class=\"study-guide-book\"><small>" + escapeHtml(labels.book) + "</small><strong>" + escapeHtml(book) + "</strong><a href=\"" + escapeHtml(item.primary.url) + "\" target=\"_blank\" rel=\"noopener\">" + escapeHtml(labels.read) + " ↗</a></div><div class=\"study-guide-open\"><small>" + escapeHtml(labels.open) + "</small><ul>" + sources + "</ul></div></article>",
-      "</div><p class=\"weekly-study-question\"><strong>" + escapeHtml(labels.task) + ":</strong> " + escapeHtml(guide[lang]) + "</p></section>"
-    ].join("");
+    var lang=app.state.language, guide=(window.WEEKLY_STUDY_GUIDES||{})[item.week];
+    if(!guide)return "";
+    var data=window.CourseSimple.weekData(item.week), labels=weeklyStudyI18n[lang];
+    var book=lang==="en"?(guide.bookEN||item.primary.text):(guide.bookTR||item.primary.text);
+    var sources=(guide.texts||[]).map(function(source){return '<li><strong lang="en">'+escapeHtml(source.title)+'</strong><p>'+escapeHtml(source[lang])+'</p><p>'+escapeHtml(source[lang==='en'?'summaryEN':'summaryTR'])+'</p><a href="'+escapeHtml(source.url)+'" target="_blank" rel="noopener">'+escapeHtml(labels.read)+' ↗</a></li>';}).join('');
+    var frame=((window.GRADUATE_SEMINAR_FRAMES||{})[lang]||{})[item.week];
+    var origin=location.hostname.endsWith('github.io')?'https://kamu-diplomasisi-yumusak-guc.mtoman.chatgpt.site':'';
+    var audio='podcasts/week-'+String(item.week).padStart(2,'0')+'-lecture-audio.opus';
+    return '<section class="weekly-study-guide"><article class="core-reading"><h3>'+escapeHtml(app.t('requiredReading'))+'</h3><p>'+escapeHtml(app.t('requiredReadingHelp'))+'</p><div class="study-guide-book"><small>'+escapeHtml(app.t('mainText'))+'</small><strong>'+escapeHtml(book)+'</strong><a href="'+escapeHtml(item.primary.url)+'" target="_blank" rel="noopener">'+escapeHtml(labels.read)+' ↗</a></div><h4>'+escapeHtml(app.t('originalText'))+'</h4><ol class="source-list">'+sources+'</ol></article>'+
+      '<article class="assignment-card"><h3>'+escapeHtml(app.t('assignmentTitle'))+'</h3><p>'+escapeHtml(app.t('assignmentHelp'))+'</p><p class="assignment-question"><strong>'+escapeHtml(labels.task)+':</strong> '+escapeHtml(guide[lang])+'</p><p class="assignment-deadline">'+escapeHtml(app.t('assignmentDeadline'))+'</p><div class="assignment-actions"><a class="button primary" href="'+origin+'/student?week='+item.week+'">'+escapeHtml(app.t('assignmentLink'))+' →</a><a href="'+origin+'/course/?lang='+lang+'&week='+item.week+'&tab=resources">'+escapeHtml(app.t('trackingLink'))+' →</a></div>'+(origin?'<p class="account-note">'+escapeHtml(app.t('trackingHelp'))+'</p>':'')+'</article>'+
+      '<details class="simple-details"><summary>'+escapeHtml(app.t('preparation'))+'</summary><p>'+escapeHtml(data.prep)+'</p></details><details class="simple-details"><summary>'+escapeHtml(app.t('practice'))+'</summary><p>'+escapeHtml(data.activity)+'</p></details>'+
+      (frame?'<details class="simple-details graduate-frame"><summary>'+escapeHtml(app.t('seminarDetail'))+'</summary><h4>'+escapeHtml(frame.question)+'</h4><p>'+escapeHtml(frame.historiography)+'</p><p>'+escapeHtml(frame.primaryTask)+'</p><p>'+escapeHtml(frame.seminarTask)+'</p></details>':'')+
+      '<details class="simple-details"><summary>'+escapeHtml(app.t('optionalSource'))+'</summary><a href="'+escapeHtml(item.optional.url)+'" target="_blank" rel="noopener">'+escapeHtml(item.optional.text)+' ↗</a></details>'+
+      '<details class="simple-details optional-media"><summary>'+escapeHtml(app.t('optionalMedia'))+'</summary><div class="weekly-study-grid"><article class="study-guide-card study-guide-video"><h4>'+escapeHtml(item.video.title)+'</h4><p>'+escapeHtml(item.video.note)+'</p><small>'+escapeHtml(item.video.channel)+'</small><button class="play-video" type="button" data-video-week="'+item.week+'" data-video-id="'+escapeHtml(item.video.id)+'" data-video-title="'+escapeHtml(item.video.title)+'" data-video-meta="'+escapeHtml(item.video.channel)+'">'+escapeHtml(labels.watch)+' ▶</button></article><article class="study-guide-card study-guide-podcast"><h4>Podcast</h4><p>'+escapeHtml(labels.audioNote)+'</p><audio controls preload="none" data-podcast-week="'+item.week+'" aria-label="Podcast · '+escapeHtml(item.title)+'"><source src="'+audio+'" type="audio/ogg; codecs=opus"><source src="'+aiLectureFor(item.week).video+'" type="audio/mp4"></audio><a href="'+audio+'" download>'+escapeHtml(labels.download)+' ↓</a></article>'+aiWeekCardTemplate(item.week)+'</div></details></section>';
   }
 
   function renderAiVideos() {
@@ -470,16 +444,11 @@
       "<details class=\"week-card\" id=\"" + item.id + "\" data-week=\"" + item.week + "\" data-category=\"" + item.category + "\" data-search=\"" + escapeHtml(localeLower(searchText, app.state.language)) + "\"" + (isOpen ? " open" : "") + ">",
       "<summary>",
       "<span class=\"week-no\">" + padded + "</span>",
-      "<span class=\"week-title-block\"><span class=\"week-kicker\">" + escapeHtml(item.tag) + "</span><span class=\"week-title\">" + escapeHtml(item.title) + "</span><span class=\"week-summary\">" + escapeHtml(item.summary) + "</span><span class=\"week-note-badge\">" + escapeHtml(app.state.language === "en" ? "Step-by-step guide · Diagram · Excel" : "Adım adım rehber · Şema · Excel") + "</span></span>",
+      "<span class=\"week-title-block\"><span class=\"week-kicker\">" + escapeHtml(item.tag) + "</span><span class=\"week-title\">" + escapeHtml(item.title) + "</span><span class=\"week-summary\">" + escapeHtml(item.summary) + "</span><span class=\"week-note-badge\">" + escapeHtml(app.state.language === "en" ? "Lecture note · Sources · Assignment" : "Ders notu · Kaynaklar · Ödev") + "</span></span>",
       "<span class=\"week-summary-actions\"><span class=\"week-complete-indicator\"" + (completed ? "" : " hidden") + " aria-label=\"" + escapeHtml(app.t("markedComplete")) + "\">✓</span><span class=\"week-chevron\" aria-hidden=\"true\">+</span></span>",
       "</summary>",
       "<div class=\"week-body\">",
       weeklyStudyTemplate(item),
-      "<div class=\"week-column\"><p class=\"week-section-label\">" + escapeHtml(app.t("weekPlan")) + "</p><ul>" + item.goals.map(function (goal) { return "<li>" + escapeHtml(goal) + "</li>"; }).join("") + "</ul>",
-      "<div class=\"reading-card optional\"><span>" + escapeHtml(item.optional.label) + "</span><a lang=\"en\" href=\"" + escapeHtml(item.optional.url) + "\" target=\"_blank\" rel=\"noopener\">" + escapeHtml(item.optional.text) + "</a></div>",
-      "<div class=\"activity-card\"><strong>" + escapeHtml(app.t("classActivity")) + "</strong>" + escapeHtml(item.activity) + "</div>",
-      "<div class=\"prep-note\"><strong>" + escapeHtml(app.t("shortPreparation")) + "</strong> " + escapeHtml(item.prep) + "</div></div>",
-      "<div class=\"week-column weekly-video-stack\">" + aiWeekCardTemplate(item.week) + "</div>",
       "<div class=\"week-action-row\"><button class=\"complete-week" + (completed ? " is-complete" : "") + "\" type=\"button\" data-week=\"" + item.week + "\">" + escapeHtml(completed ? app.t("markedComplete") : app.t("markComplete")) + "</button><button class=\"print-week\" type=\"button\" data-week=\"" + item.week + "\">" + escapeHtml(app.t("printWeek")) + "</button></div>",
       "</div></details>"
     ].join("");
@@ -499,7 +468,7 @@
     if (!map) return;
     map.innerHTML = currentWeeks().map(function (item) {
       var complete = app.state.completedWeeks.indexOf(item.week) >= 0;
-      return "<button type=\"button\" class=\"course-map-item" + (complete ? " is-complete" : "") + "\" data-map-week=\"" + item.week + "\"><span>" + String(item.week).padStart(2, "0") + "</span><strong>" + escapeHtml(item.title) + "</strong><small>" + escapeHtml(item.tag) + "</small></button>";
+      return "<button type=\"button\" aria-label=\"" + escapeHtml(app.t("week") + " " + item.week + ": " + item.title) + "\" title=\"" + escapeHtml(item.title) + "\" class=\"course-map-item" + (complete ? " is-complete" : "") + "\" data-map-week=\"" + item.week + "\"><span>" + String(item.week).padStart(2, "0") + "</span><strong>" + escapeHtml(item.title) + "</strong><small>" + escapeHtml(item.tag) + "</small></button>";
     }).join("");
     map.querySelectorAll("[data-map-week]").forEach(function (button) {
       button.addEventListener("click", function () { openWeek(Number(button.dataset.mapWeek), "lesson", true); });
@@ -625,6 +594,7 @@
     document.querySelectorAll(".week-card").forEach(function (card) {
       card.addEventListener("toggle", function () {
         if (card.open) {
+          document.querySelectorAll(".week-card[open]").forEach(function(other) { if(other !== card) other.open = false; });
           var week = Number(card.dataset.week);
           app.setView(week, app.state.activeTabs[String(week)] || "lesson");
         }
@@ -936,7 +906,7 @@
   function expandForPrint(cards) {
     return cards.map(function (card) {
       var panels = Array.from(card.querySelectorAll(".study-panel"));
-      var sections = Array.from(card.querySelectorAll(".lesson-section, .lg-deep, .lg-answer"));
+      var sections = Array.from(card.querySelectorAll(".lesson-section, .lg-deep, .lg-answer, .lesson-fold, .simple-details"));
       var snapshot = { card: card, open: card.open, hidden: card.hidden, panels: panels.map(function (p) { return p.hidden; }), sections: sections.map(function (s) { return s.open; }) };
       card.open = true;
       card.hidden = false;
@@ -951,7 +921,7 @@
       snapshot.card.open = snapshot.open;
       snapshot.card.hidden = snapshot.hidden;
       snapshot.card.querySelectorAll(".study-panel").forEach(function (panel, index) { panel.hidden = snapshot.panels[index]; });
-      snapshot.card.querySelectorAll(".lesson-section, .lg-deep, .lg-answer").forEach(function (section, index) { section.open = snapshot.sections[index]; });
+      snapshot.card.querySelectorAll(".lesson-section, .lg-deep, .lg-answer, .lesson-fold, .simple-details").forEach(function (section, index) { section.open = snapshot.sections[index]; });
     });
     document.body.classList.remove("print-single-week");
     document.querySelectorAll(".week-card.print-excluded").forEach(function (card) { card.classList.remove("print-excluded"); });
@@ -959,9 +929,13 @@
   }
 
   function printAll() {
-    var snapshots = expandForPrint(Array.from(document.querySelectorAll(".week-card")));
+    document.body.classList.add('print-syllabus');
+    var details=Array.from(document.querySelectorAll('#izlence details'));
+    var states=details.map(function(d){return d.open;});
+    details.forEach(function(d){d.open=true;});
     window.print();
-    restoreAfterPrint(snapshots);
+    details.forEach(function(d,i){d.open=states[i];});
+    document.body.classList.remove('print-syllabus');
   }
 
   function printWeek(week) {
@@ -1037,6 +1011,7 @@
     renderAiVideos();
     renderDownloads();
     renderProgressControls();
+    window.CourseSimple.renderSyllabus();
   }
 
   window.CourseSite = {

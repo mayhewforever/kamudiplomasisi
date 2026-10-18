@@ -23,7 +23,7 @@
   function inject() {
     var main=document.querySelector("#main")||document.querySelector("main"); if(!main) return;
     shell=document.createElement("section"); shell.className="student-portal"; shell.id="ogrenci-alani"; shell.setAttribute("aria-labelledby","student-portal-title");
-    var thesis=main.querySelector(".course-thesis"); if(thesis) thesis.insertAdjacentElement("afterend",shell); else main.prepend(shell);
+    var thesis=main.querySelector(".weekly-section"); if(thesis) thesis.insertAdjacentElement("afterend",shell); else main.prepend(shell);
     var nav=document.querySelector("#mainNav"); if(nav && !nav.querySelector("[data-sp-nav]")) { var link=document.createElement("a");link.href=studentPath;link.dataset.spNav="true";link.textContent=words().title;nav.appendChild(link); }
     render();
   }

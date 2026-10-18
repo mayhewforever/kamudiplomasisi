@@ -4,6 +4,8 @@ const fs=require('node:fs'),path=require('node:path'),assert=require('node:asser
 const root=path.resolve(__dirname,'..');
 const dom=new JSDOM(fs.readFileSync(path.join(root,'index.html'),'utf8'),{url:'https://mayhewforever.github.io/kamudiplomasisi/?lang=en&week=1&tab=lesson',runScripts:'outside-only',pretendToBeVisual:true,virtualConsole:new VirtualConsole()});
 const w=dom.window,d=w.document;
+const sourceOnly=process.argv.includes('--source-only');
+const manifest=fs.readFileSync(path.join(root,'site-manifest.sha256'),'utf8');
 w.scrollTo=()=>{};w.HTMLElement.prototype.scrollIntoView=function(){};w.matchMedia=()=>({matches:true});
 w.fetch=async()=>({ok:false,status:401,json:async()=>({})});
 w.HTMLMediaElement.prototype.pause=function(){};w.HTMLMediaElement.prototype.load=function(){};
@@ -23,7 +25,8 @@ function check(lang){
   const stem=lang==='en'?`Week_${String(week).padStart(2,'0')}_Lecture_Notes_EN`:`Hafta_${String(week).padStart(2,'0')}_Ders_Notu_TR`;
   const page=new JSDOM(fs.readFileSync(path.join(root,'notes',stem+'.html'),'utf8')).window.document;
   assert.equal(page.documentElement.lang,lang);
-  assert.ok(fs.statSync(path.join(root,'notes',stem+'.pdf')).size>20000);
+  if(sourceOnly) assert.ok(manifest.includes('  notes/'+stem+'.pdf'), 'PDF missing from deployment manifest');
+  else assert.ok(fs.statSync(path.join(root,'notes',stem+'.pdf')).size>20000);
   const ids=[...page.querySelectorAll('[id]')].map(x=>x.id);assert.equal(new Set(ids).size,ids.length,'Duplicate IDs '+stem);
   for(const a of page.querySelectorAll('a[href^="#"]'))assert.ok(page.getElementById(a.getAttribute('href').slice(1)),'Broken anchor '+stem+': '+a.href);
   for(const a of page.querySelectorAll('.lg-download,.note-pdf'))assert.ok(a.href.includes('_'+suffix+'.'),'Wrong language '+a.href);
@@ -40,4 +43,4 @@ function check(lang){
 check('en');
 d.querySelector('[data-language="tr"]').click();check('tr');
 dom.window.close();
-console.log('PASS: 28 complete notes/PDFs, language-matched downloads, 84 visual structures, 56 worked cases, valid anchors and locale transcripts with Turkish subtitles retained.');
+console.log('PASS: 28 complete reading pages, language-matched downloads, valid anchors, detailed content and bilingual transcripts; '+(sourceOnly?'PDF paths verified in deployment manifest.':'local PDFs checked.'));

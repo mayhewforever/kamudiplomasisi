@@ -142,9 +142,9 @@
         assessmentTitle: "Önerilen değerlendirme",
         assessment: [
           { label: "Haftalık portal çalışması ve zamanında ödevler · 14 × 10 puan", weight: "%30" },
-          { label: "Katılım ve sınıf atölyeleri", weight: "%20" },
+          { label: "Katılım ve sınıf atölyeleri", weight: "%10" },
           { label: "Grup vaka sunumu · 10 dakika", weight: "%20" },
-          { label: "Final vaka notu · 1.200–1.500 kelime", weight: "%30" }
+          { label: "Final vaka notu · 1.200–1.500 kelime", weight: "%40" }
         ],
         preparationTarget: "Her 12 etkin dakika 1 puandır; haftalık puanın geçerli olması için ödev birikimli süre 120:00’a ulaşmadan yüklenmelidir."
       },
@@ -643,9 +643,9 @@
         assessmentTitle: "Suggested assessment",
         assessment: [
           { label: "Weekly portal study and on-time assignments · 14 × 10 points", weight: "30%" },
-          { label: "Participation and in-class workshops", weight: "20%" },
+          { label: "Participation and in-class workshops", weight: "10%" },
           { label: "Group case presentation · 10 minutes", weight: "20%" },
-          { label: "Final case brief · 1,200–1,500 words", weight: "30%" }
+          { label: "Final case brief · 1,200–1,500 words", weight: "40%" }
         ],
         preparationTarget: "Every 12 active minutes earns 1 point; for the weekly score to be valid, the assignment must be uploaded before cumulative time reaches 120:00."
       },

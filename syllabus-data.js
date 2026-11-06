@@ -1,6 +1,6 @@
-/* Course requirements transcribed from the supplied bilingual syllabus, 18 October 2026. */
+/* Supplied bilingual course form; alignment 6 November 2026. */
 window.COURSE_SYLLABUS = {
-  "source": "Kamu_Diplomasisi_Web_Syllabus_TR_EN-2(1).docx",
+  "source": "Kamu_Diplomasisi_Web_Syllabus_TR_EN.docx",
   "date": "2026-10-18",
   "tr": {
     "aim": "Bu ders, kamu diplomasisi ve yumuşak gücü tarihsel vakalar ve kaynak eleştirisi üzerinden incelemeyi amaçlar. Öğrenciler, güç kaynaklarını iletişim araçlarından ve gözlenebilir sonuçlardan ayırır; aktörlerin niyetini, hedef kamuoyunu, yabancı alımlamayı ve karar süreçlerini değerlendirir. Kuramsal iddiaları özgün metinler ve tarihsel belgelerle sınayarak rakip açıklamaları ve kanıtların sınırlarını belirler.",
@@ -23,7 +23,7 @@ window.COURSE_SYLLABUS = {
           1,
           2
         ],
-        "hours": "09:00–12:00",
+        "hours": null,
         "activity": "Güç kartları: Sekiz dış politika örneğini kaynak, mekanizma ve olası sonuç bakımından sınıflandırın.",
         "prep": "Caitlin E. Schindler, ‘Reconnecting the Past and Present’, ss. 1–39’dan seçmeler. Dersten önce gündelik hayattan bir ‘çekicilik’ ve bir ‘zorlama’ örneği getirin. Güç kaynağı, iletişim faaliyeti ve yabancı kamuoyundaki gözlenebilir sonucu üç ayrı sütuna yazın."
       },
@@ -35,7 +35,7 @@ window.COURSE_SYLLABUS = {
           3,
           4
         ],
-        "hours": "09:00–12:00",
+        "hours": null,
         "activity": "Kanıt mı, çıkarım mı? Franklin portresi, mektup ve antlaşma belgesinin hangi iddiayı desteklediğini sınıflandırın.",
         "prep": "Schindler, ‘America’s First Public Diplomat’, ss. 41–60. Bir görsel seçin: Görselin gösterdiği şey ile yalnızca ima ettiği şeyi iki cümlede ayırın. 1776'daki komiser talebini, Saratoga haberinin ve 1778 ittifakının sonraki zamanlamasından ayırın; Franklin'in kişisel itibarını tek başına neden saymayın."
       },
@@ -213,7 +213,7 @@ window.COURSE_SYLLABUS = {
           1,
           2
         ],
-        "hours": "09:00–12:00",
+        "hours": null,
         "activity": "Power cards: classify eight foreign-policy examples by resource, mechanism and possible outcome.",
         "prep": "Caitlin E. Schindler, ‘Reconnecting the Past and Present’, selections from pp. 1–39. Before class, bring one everyday example of ‘attraction’ and one of ‘coercion’. Place a power resource, a communication activity, and an observable foreign-audience outcome in three separate columns."
       },
@@ -225,7 +225,7 @@ window.COURSE_SYLLABUS = {
           3,
           4
         ],
-        "hours": "09:00–12:00",
+        "hours": null,
         "activity": "Evidence or inference? Classify which claims are supported by Franklin’s portrait, a letter and the treaty document.",
         "prep": "Schindler, ‘America’s First Public Diplomat’, pp. 41–60. Choose one image and distinguish in two sentences between what it shows and what it merely implies. Separate the commissioners' 1776 request from the later timing of Saratoga and the 1778 alliance; do not treat Franklin's personal reputation as a sufficient cause."
       },
@@ -381,5 +381,171 @@ window.COURSE_SYLLABUS = {
         "prep": "Schindler, ‘Foreign Public Engagement: An American Tradition in Context’, pp. 296–313. Bring a one-sentence claim, one rival explanation and the missing source for your final case brief. In the final case brief, state evidence that could disconfirm an influence claim and its ethical limit."
       }
     ]
-  }
+  },
+  "alignmentDate": "2026-11-06",
+  "code": "0467519",
+  "ects": 7.5,
+  "contactHours": 3,
+  "credits": 3,
+  "matrix": [
+    [
+      1,
+      0,
+      2,
+      5,
+      4,
+      5,
+      2,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      2
+    ],
+    [
+      2,
+      1,
+      4,
+      5,
+      4,
+      4,
+      2,
+      3,
+      1,
+      2,
+      1,
+      0,
+      1,
+      1,
+      3
+    ],
+    [
+      3,
+      4,
+      4,
+      3,
+      5,
+      5,
+      5,
+      5,
+      2,
+      3,
+      3,
+      0,
+      2,
+      3,
+      4
+    ],
+    [
+      5,
+      5,
+      5,
+      2,
+      3,
+      4,
+      4,
+      4,
+      1,
+      4,
+      5,
+      0,
+      4,
+      5,
+      5
+    ],
+    [
+      5,
+      4,
+      5,
+      2,
+      3,
+      3,
+      2,
+      3,
+      2,
+      4,
+      4,
+      0,
+      3,
+      4,
+      5
+    ]
+  ],
+  "programme": {
+    "tr": [
+      "Bilimsel araştırmaların amaçlarını, ilkelerini, etik kurallarını, yöntemlerini öğrenir ve bilimsel araştırma yapma yeteneği kazanır.",
+      "Genel olarak sosyal bilimler ve özel olarak Uluslararası İlişkiler alanında kullanılan bilimsel araştırma tekniklerini uygulama becerisi edinir.",
+      "Eleştirel düşünme becerisi kazanır ve bunu bilimsel çalışmalarda ve hayatında uygular.",
+      "Uluslararası İlişkiler alanının kapsamına giren Siyaset Bilimi, Tarih, Hukuk, Güvenlik, Kamu Yönetimi, Sosyoloji, Ekonomi gibi alanlarla ilgili temel kavram ve terimleri öğrenir.",
+      "Uluslararası sistemin temel niteliklerini, yapısını, ana aktörlerini ve teamüllerini kavrar.",
+      "Uluslararası İlişkilerin kavram ve kuramlarına hakim olarak bunları kullanarak geçmişi yorumlar, günceli değerlendirir ve geleceğe yönelik savlar geliştirir.",
+      "Uluslararası ilişkilerin tarihi çerçevesini öğrenerek olay ve olguları tarihsel süreklilik içerisinde analiz eder.",
+      "Devletlerle sınırlı olmamak üzere tüm uluslararası aktörlerin ve insan topluluklarının tarihsel gelişimini izler, tarafsız bir gözle aralarındaki tarihsel, kültürel, kurumsal ve menfaate dayalı bağları inceler.",
+      "Hukuk konusunda genel ve çerçeve bilgiler ve uluslararası hukuk özelinde derinlemesine malumat edinerek uluslararası siyaseti hukuki zeminde araştırıp yorumlar.",
+      "Uluslararası ilişkilerdeki sorunları, krizleri ve fırsatları tespit eder, edindiği farklı bakış açıları kapsamında bu durumları değerlendirir ve eleştirel analiz yapar.",
+      "Uluslararası siyasetteki gelişmeleri takip eder, veri toplar, yorumlar ve bunları yazılı-sözlü olarak paylaşır.",
+      "Türkiye’nin çevre bölgelerle ilişkilerini, uluslararası sistemdeki yerini ve dış politika gündemini takip eder ve edindiği kuramsal ve metodolojik çerçeveler ışığında tartışır.",
+      "Bağımsız çalışma yürütebilme ve araştırma yapabilmek için gereken bilgisayar/bilişim bilgisini kullanma becerisi kazanarak özgün ürünler ortaya koyar.",
+      "Uluslararası ilişkiler alanında özgün ve nitelikli araştırmalar gerçekleştirir.",
+      "Uluslararası ilişkiler ile ilgili temel ve güncel literatürü takip eder, gerekli görsel, işitsel ve yazılı kaynaklara ulaşma yöntemlerini öğrenir, bu kaynakların niteliğini değerlendirir."
+    ],
+    "en": [
+      "Learn the purposes, principles, ethics and methods of scientific research and conduct research.",
+      "Apply scientific research techniques used in social sciences and International Relations.",
+      "Develop and apply critical thinking in research and life.",
+      "Learn concepts and terms in Political Science, History, Law, Security, Public Administration, Sociology and Economics.",
+      "Understand the characteristics, structure, actors and practices of the international system.",
+      "Use International Relations concepts and theories to interpret the past, evaluate the present and develop arguments about the future.",
+      "Analyse events in historical continuity through knowledge of the history of international relations.",
+      "Examine the development of international actors and communities and their historical, cultural, institutional and interest-based ties.",
+      "Research and interpret international politics on a legal basis.",
+      "Identify and critically evaluate international problems, crises and opportunities.",
+      "Follow international developments, collect and interpret data and communicate findings orally and in writing.",
+      "Discuss Türkiye’s regional relations, international position and foreign-policy agenda using theoretical and methodological frameworks.",
+      "Conduct independent research using computer and information skills to produce original work.",
+      "Conduct original and qualified International Relations research.",
+      "Find and assess the quality of relevant scholarly, audiovisual and written sources."
+    ]
+  },
+  "workload": [
+    [
+      "Teorik ders",
+      "Theoretical course",
+      14,
+      3
+    ],
+    [
+      "Portal çalışması ve portal içindeki ödev çalışması",
+      "Portal study including assignment work within the portal",
+      14,
+      2
+    ],
+    [
+      "Portal dışı kaynak okuma ve seminer hazırlığı",
+      "Source reading and seminar preparation outside the portal",
+      14,
+      4
+    ],
+    [
+      "Portal dışında kanıt notu hazırlama",
+      "Evidence-brief preparation outside the portal",
+      14,
+      2
+    ],
+    [
+      "Yarıyıl sonu grup sunumu ve hazırlığı",
+      "End-of-semester group presentation and preparation",
+      1,
+      12
+    ],
+    [
+      "Final vaka notuna ders dışı hazırlık ve yazım",
+      "Independent preparation and writing of the final case brief",
+      1,
+      21.5
+    ]
+  ]
 };

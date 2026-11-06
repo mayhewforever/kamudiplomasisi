@@ -9,7 +9,7 @@
       courseMapTitle: 'Haftanı seç', courseMapText: 'Bir numaraya dokunarak o haftanın dersini açın.',
       programmeDescription: 'Haftayı açın. Önce ders notunu, ardından “Kaynaklar ve ödev” bölümünü inceleyin.',
       studySuggestion: '<strong>Haftalık görev:</strong> En az bir kaynağa dayalı 250–400 kelimelik kanıt notu veya 1–2 slayt/tablo hazırlayın. Ödevinizi öğrenci alanında etkin süre 120:00’a ulaşmadan yükleyin.',
-      syllabusTitle: 'Ders planı ve değerlendirme', syllabusIntro: '14 hafta · 5 öğrenme çıktısı · Türkçe ve İngilizce. 18 Ekim 2026 tarihli ders izlencesine göre düzenlenmiştir.',
+      syllabusTitle: 'Ders planı ve değerlendirme', syllabusIntro: '14 hafta · 5 öğrenme çıktısı · Türkçe ve İngilizce. Ders bilgi formuna göre 6 Kasım 2026 tarihinde güncellenmiştir.',
       lessonTab: 'Ders notu', resourcesTab: 'Kaynaklar ve ödev', flashcardsTab: 'Kartlar', quizTab: 'Mini test', gameTab: 'Oyun',
       navSyllabus: 'Ders planı', navDownloads: 'Materyaller', stepRead: 'Ders notunu oku', stepSource: 'Kaynağı incele', stepAssignment: 'Ödevini hazırla',
       courseAim: 'Dersin amacı', courseContent: 'Dersin kapsamı', courseMethods: 'Ders nasıl işlenir?', coursePrinciples: 'Kaynakları nasıl kullanmalısınız?',
@@ -22,11 +22,11 @@
       preparation: 'Dersten önce', practice: 'Sınıf içi uygulama', seminarDetail: 'Araştırma sorusu ve kaynak eleştirisi',
       learningLabel: 'Öğrenme çıktıları', timeLabel: 'Portal hedefi: 120 etkin dakika', contactLabel: 'Ders saati', unspecifiedHours: 'Diğer haftaların ders saatleri izlencede belirtilmemiştir.',
       optionalSource: 'Tamamlayıcı okuma', mediaTitle: 'Video, podcast ve diğer tekrar araçları',
-      mainText: 'Ana kitap seçkisi', originalText: 'Haftalık kaynaklar', syllabusVersion: 'İzlence: 18 Ekim 2026',
+      mainText: 'Ana kitap seçkisi', originalText: 'Haftalık kaynaklar', syllabusVersion: 'İzlence: 6 Kasım 2026',
       flowVideo: 'Tartışma', flowVideoText: 'iddia, kanıt ve eksik bağlantılar',
       portalPolicyStorage: 'Süre ve ödev kaydı öğrenci hesabında tutulur. Portal Hitit Üniversitesi’nin resmî not sistemi değildir; resmî notlar kurumsal doğrulama ve onay gerektirir.',
       optionalLibrary: 'Tamamlayıcı karşılaştırma örnekleri', printPdf: 'İzlenceyi yazdır',
-      scoreBrief: 'Haftalık portal çalışması %30, katılım %20, grup sunumu %20, final vaka notu %30. Bunlar izlencedeki önerilen ağırlıklardır.'
+      scoreBrief: 'Haftalık portal çalışması %30, katılım %10, yarıyıl sonu grup sunumu %20, final vaka notu %40. Bunlar izlencedeki önerilen ağırlıklardır.'
     },
     en: {
       courseLead: 'Study public diplomacy and soft power through historical examples. Read the lecture note, examine the sources and prepare a short evidence brief each week.',
@@ -34,7 +34,7 @@
       courseMapTitle: 'Choose your week', courseMapText: 'Select a number to open that week’s lesson.',
       programmeDescription: 'Open a week. Start with the lecture note, then use “Sources and assignment”.',
       studySuggestion: '<strong>Weekly task:</strong> Prepare a 250–400-word evidence brief or 1–2 slides/a table using at least one weekly source. Upload it in the student workspace before active time reaches 120:00.',
-      syllabusTitle: 'Course plan and assessment', syllabusIntro: '14 weeks · 5 learning outcomes · Turkish and English. Aligned with the course syllabus dated 18 October 2026.',
+      syllabusTitle: 'Course plan and assessment', syllabusIntro: '14 weeks · 5 learning outcomes · Turkish and English. Updated from the course information form on 6 November 2026.',
       lessonTab: 'Lecture note', resourcesTab: 'Sources and assignment', flashcardsTab: 'Flashcards', quizTab: 'Mini quiz', gameTab: 'Game',
       navSyllabus: 'Course plan', navDownloads: 'Materials', stepRead: 'Read the lecture note', stepSource: 'Examine the source', stepAssignment: 'Prepare your assignment',
       courseAim: 'Course aim', courseContent: 'Course scope', courseMethods: 'How the class works', coursePrinciples: 'How to use sources',
@@ -47,11 +47,11 @@
       preparation: 'Before class', practice: 'In-class activity', seminarDetail: 'Research question and source criticism',
       learningLabel: 'Learning outcomes', timeLabel: 'Portal target: 120 active minutes', contactLabel: 'Class time', unspecifiedHours: 'Class times for the other weeks are not specified in the syllabus.',
       optionalSource: 'Supplementary reading', mediaTitle: 'Videos, podcasts and other review tools',
-      mainText: 'Assigned book selection', originalText: 'Weekly sources', syllabusVersion: 'Syllabus: 18 October 2026',
+      mainText: 'Assigned book selection', originalText: 'Weekly sources', syllabusVersion: 'Syllabus: 6 November 2026',
       flowVideo: 'Discussion', flowVideoText: 'claims, evidence and missing links',
       portalPolicyStorage: 'Study time and assignments are recorded in the student account. This portal is not Hitit University’s official gradebook; official grades require institutional verification and approval.',
       optionalLibrary: 'Additional comparative examples', printPdf: 'Print syllabus',
-      scoreBrief: 'Weekly portal work 30%, participation 20%, group presentation 20%, final case brief 30%. These are the suggested weights in the syllabus.'
+      scoreBrief: 'Weekly portal work 30%, participation 10%, end-of-semester group presentation 20%, final case brief 40%. These are the suggested weights in the syllabus.'
     }
   };
   ['tr', 'en'].forEach(function (lang) {
@@ -77,8 +77,12 @@
   }
   function renderSyllabus() {
     var data = window.COURSE_SYLLABUS[app.state.language], target = document.getElementById('syllabusSummary');
-    if (target) target.innerHTML = '<p>' + e(data.aim) + '</p><details class="simple-details"><summary>' + e(app.t('centralQuestion')) + '</summary><p>' + app.t('centralQuestionText') + '</p></details>' + [['courseContent','content'],['courseMethods','methods'],['coursePrinciples','principles']].map(function (pair) { return '<details class="simple-details"><summary>' + e(app.t(pair[0])) + '</summary><p>' + e(data[pair[1]]) + '</p></details>'; }).join('');
+    if (target) target.innerHTML = formSummary() + '<p>' + e(data.aim) + '</p><details class="simple-details"><summary>' + e(app.t('centralQuestion')) + '</summary><p>' + app.t('centralQuestionText') + '</p></details>' + [['courseContent','content'],['courseMethods','methods'],['coursePrinciples','principles']].map(function (pair) { return '<details class="simple-details"><summary>' + e(app.t(pair[0])) + '</summary><p>' + e(data[pair[1]]) + '</p></details>'; }).join('');
     document.querySelectorAll('[data-optional-nav]').forEach(function (node) { node.textContent = app.t('optionalPractice'); });
+  }
+  function formSummary() {
+    var en=app.state.language==='en';
+    return '<p class="week-meta">0467519 · '+(en?'Master’s elective · Autumn · Turkish · 3 contact hours · 3 local credits · 7.5 ECTS':'Yüksek lisans seçmeli · Güz · Türkçe · 3 ders saati · 3 ulusal kredi · 7,5 AKTS')+'</p><p>'+(en?'During-semester work 40%: portal 30%, participation 10%. End-of-semester assessment 60%: group presentation 20%, final case brief 40%.':'Yarıyıl içi %40: portal %30, katılım %10. Yarıyıl sonu %60: grup sunumu %20, final vaka notu %40.')+'</p><p><a href="'+(en?'hitit-syllabus.html':'hitit-syllabus-tr.html')+'">'+(en?'Full course information: workload, outcomes and weekly plan':'Tam ders bilgileri: iş yükü, çıktılar ve haftalık plan')+' →</a></p>';
   }
   window.CourseSimple = {weekData:weekData, notePath:notePath, lessonStart:lessonStart, renderSyllabus:renderSyllabus};
   document.addEventListener('click', function (event) {

@@ -8,6 +8,12 @@ from urllib.request import Request, urlopen
 import time
 
 BASE = "https://kamu-diplomasisi-yumusak-guc.mtoman.chatgpt.site/course/"
+PAGES_FALLBACK = "https://mayhewforever.github.io/kamudiplomasisi/"
+PINNED_PDFS = {
+    f"notes/{filename}"
+    for week in range(1, 15)
+    for filename in (f"Hafta_{week:02d}_Ders_Notu_TR.pdf", f"Week_{week:02d}_Lecture_Notes_EN.pdf")
+}
 MANIFEST = Path("site-manifest.sha256")
 OUTPUT = Path("site")
 entries = []
@@ -23,32 +29,44 @@ def fetch(entry):
     digest, relative = entry
     target = OUTPUT / relative
     target.parent.mkdir(parents=True, exist_ok=True)
-    url = BASE + quote(relative, safe="/")
     if Path(relative).is_file():
         payload = Path(relative).read_bytes()
         if sha256(payload).hexdigest() != digest:
             raise ValueError("Checked-in file differs from the manifest")
         target.write_bytes(payload)
         return relative
-    for attempt in range(4):
-        try:
-            request = Request(url, headers={
-                "User-Agent": "CourseSiteMirror/1.0",
-                "Accept-Encoding": "identity",
-            })
-            with urlopen(request, timeout=120) as response:
-                payload = response.read()
-                final_url = response.url
-                content_type = response.headers.get("Content-Type")
+    errors = []
+    origins = [(BASE, 4)]
+    # The current host serves revised PDFs; deploy the exact November edition.
+    if relative in PINNED_PDFS:
+        origins.append((PAGES_FALLBACK, 2))
+    for origin, attempts in origins:
+        url = origin + quote(relative, safe="/")
+        for attempt in range(attempts):
+            try:
+                request = Request(url, headers={
+                    "User-Agent": "CourseSiteMirror/1.0",
+                    "Accept-Encoding": "identity",
+                })
+                with urlopen(request, timeout=120) as response:
+                    payload = response.read()
+            except OSError as exc:
+                if attempt + 1 < attempts:
+                    time.sleep(2 * (attempt + 1))
+                    continue
+                errors.append(f"{url}: {exc}")
+                break
+
             actual = sha256(payload).hexdigest()
             if actual != digest:
-                raise ValueError(f"Checksum mismatch: {relative}; expected={digest}; actual={actual}; url={final_url}; type={content_type}; size={len(payload)}; prefix={payload[:160]!r}")
+                errors.append(f"{url}: SHA-256 {actual} (expected {digest})")
+                break
             target.write_bytes(payload)
+            if origin == PAGES_FALLBACK:
+                print(f"Recovered pinned public asset from GitHub Pages: {relative}")
             return relative
-        except Exception:
-            if attempt == 3:
-                raise
-            time.sleep(2 * (attempt + 1))
+
+    raise ValueError(f"Could not retrieve verified asset {relative}: {'; '.join(errors)}")
 
 
 with ThreadPoolExecutor(max_workers=8) as pool:
